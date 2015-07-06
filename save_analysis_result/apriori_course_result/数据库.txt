@@ -1,0 +1,281 @@
+mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,数据库系统原理
+Oracle数据库,Db2数据库,Quality Center,C语言
+java,mysql数据库,Oracle数据库,unix操作系统,Db2数据库,软件测试,Shell语言
+java,mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,linux操作系统,unix操作系统,Shell语言,hadoop(分布式系统基础架构),postgresql,HBase
+java,Oracle数据库,linux操作系统,Db2数据库,Shell语言
+mysql数据库,linux操作系统
+COM编程,SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,软件测试,数据库系统原理,ETL(数据仓库技术)
+windows操作系统,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件项目管理,C语言,Recovery Manager
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,数据库系统原理,C语言,数据库建模,Recovery Manager
+windows操作系统,SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,数据库系统原理,C语言
+JavaEE架构,.net,Oracle数据库,数据库系统原理
+linux操作系统,C语言,GreenPlum
+Oracle数据库,linux操作系统,unix操作系统,Db2数据库,Shell语言,数据库系统原理
+mysql数据库,linux操作系统,软件测试,Shell语言,数据库系统原理,分布式,中间件
+mysql数据库,Oracle数据库,Redis数据库,linux操作系统,unix操作系统,redis数据库,软件测试
+Oracle数据库,数据库系统原理,Powerdesigner
+Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件测试,数据库系统原理,C语言,分布式
+SQL Server数据库
+SQL Server数据库,Oracle数据库,分布式
+Oracle数据库
+php,系统设计,mysql数据库,Redis数据库,python编程,MongoDB数据库,redis数据库,Perl语言,数据库系统原理,bash语言,ruby,Cassandra数据库
+mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理,bash语言
+.net,Oracle数据库,Db2数据库,ERP(企业资源计划),软件工程,数据结构,项目实施,编译原理
+C#,.net,多线程,mysql数据库,网络编程,C语言,Arcgis,ArcGIS
+mysql数据库,Oracle数据库,ERP(企业资源计划),软件测试
+ant(一种基于Java的build工具),windows操作系统,SQL Server数据库,Shell语言,C语言,Microsoft SQL Server Integration Services,Ship Security Alert System
+SQL Server数据库,Oracle数据库,ETL(数据仓库技术),postgresql,Arcgis,ArcGIS,vi
+linux操作系统,数据库系统原理,postgresql
+java,JavaEE架构,系统分析,unix操作系统,软件测试
+mysql数据库,SQL Server数据库,Oracle数据库,hadoop(分布式系统基础架构),数据分析,数据挖掘
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,软件测试,Shell语言,软件项目管理,Recovery Manager,Goldengate
+mysql数据库
+Oracle数据库,NoSQL数据库,PL/SQL,linux操作系统,软件测试,Shell语言,hadoop(分布式系统基础架构),软件项目管理,分布式
+PL/SQL
+windows操作系统,Oracle数据库,unix操作系统,软件测试,数据库系统原理,C语言
+数据库系统原理,ETL(数据仓库技术),GreenPlum,Teradata数据仓库
+mysql数据库,SQL Server数据库,linux操作系统,软件测试,数据库系统原理
+SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,数据分析,C语言
+Memcached,mysql数据库,Redis数据库,MongoDB数据库,redis数据库
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,linux操作系统,XML技术,数据库系统原理
+ORM对象关系映射,SQL Server数据库,ETL(数据仓库技术),office,C语言,Cognos
+mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理,bash语言
+mysql数据库,python编程,Shell语言,Perl语言,数据库系统原理,ruby
+mysql数据库,Oracle数据库,Redis数据库,linux操作系统,Red Hat操作系统,MongoDB数据库,redis数据库,软件测试,关系型数据库
+.net,windows操作系统,SQL Server数据库,软件测试,C语言
+java,php,apache,Tomcat,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试
+数据分析,数据挖掘,Mahout,机器学习,算法设计与技术
+JavaEE架构,.net,windows操作系统,SQL Server数据库,linux操作系统,unix操作系统,OOD面向对象设计,Access数据库,Shell语言,office,Microsoft SQL Server Integration Services,Ship Security Alert System
+php,mysql数据库,NoSQL数据库,Redis数据库,python编程,MongoDB数据库,redis数据库,Shell语言,Perl语言
+Oracle数据库,PL/SQL,linux操作系统,软件测试,C语言
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,Shell语言,Perl语言,数据分析,ETL(数据仓库技术),C语言,C++语言,Informatica,kettle
+windows操作系统,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,数据库系统原理
+mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,软件测试,Shell语言,Perl语言,数据库系统原理
+SQL Server数据库
+mysql数据库,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,数据库系统原理
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,软件工程,数据库系统原理,C语言,Goldengate
+SQL Server数据库,软件测试,数据库系统原理
+mysql数据库,SQL Server数据库,Db2数据库,数据库系统原理,软件项目管理
+photoshop,Oracle数据库,PL/SQL
+Oracle数据库,数据库系统原理
+Oracle数据库,Db2数据库
+SQL Server数据库,Oracle数据库,数据库系统原理
+数据挖掘
+mysql数据库,Oracle数据库,Hbase数据库,hadoop(分布式系统基础架构),C语言,C++语言,分布式,HBase,Hive
+mysql数据库,SQL Server数据库,Oracle数据库,数据库系统原理,ETL(数据仓库技术),项目实施,Erwin,Powerdesigner
+mysql数据库,SQL Server数据库,Oracle数据库,数据库系统原理,ETL(数据仓库技术),项目实施,Erwin,Powerdesigner
+Oracle数据库,数据分析,数据挖掘
+mysql数据库,Oracle数据库,Hbase数据库,hadoop(分布式系统基础架构),C语言,C++语言,分布式,HBase,Hive
+java,Tomcat,weblogic服务器,websphere服务器,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,ETL(数据仓库技术),软件项目管理,项目实施,C语言,postgresql
+mysql数据库,NoSQL数据库,python编程,Shell语言,Perl语言,ruby
+java,php,Dreamweaver,C#,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,Db2数据库,软件测试,ETL(数据仓库技术),C语言,Erwin
+java,Html,C#,javaScript,XML技术,jSon技术,C语言
+mysql数据库,linux操作系统,python编程,Shell语言
+office
+Oracle数据库
+Oracle数据库
+SQL Server数据库,Oracle数据库,数据库系统原理,ETL(数据仓库技术),Erwin,Powerdesigner
+SQL Server数据库,Oracle数据库,linux操作系统,C语言
+SQL Server数据库,Oracle数据库,hadoop(分布式系统基础架构),ETL(数据仓库技术),分布式,Hive
+Oracle数据库,PL/SQL,OOD面向对象设计,Shell语言,project,C语言
+linux操作系统,sybase数据库,软件测试
+mysql数据库,SQL Server数据库,Oracle数据库,postgresql
+mysql数据库,Oracle数据库,ETL(数据仓库技术),postgresql,Online Analytical Processing,Microsoft SQL Server Integration Services,Informatica,kettle
+SQL Server数据库,数据库系统原理
+linux操作系统,软件测试
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,软件测试
+Oracle数据库,PL/SQL,数据库系统原理,ETL(数据仓库技术)
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,数据库系统原理,C语言
+TFS(一个分布式文件系统),多线程,软件测试,数据结构,C语言,C++语言,编译原理,算法设计与技术
+java,Tomcat,weblogic服务器,websphere服务器,mysql数据库,Oracle数据库,linux操作系统,Db2数据库,软件测试,数据库系统原理,C语言,中间件
+windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试
+mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,数据分析,C语言,Recovery Manager,Powerdesigner
+java,.net,面向对象分析
+SQL Server数据库,office,Microsoft SQL Server Integration Services
+windows操作系统,mysql数据库,linux操作系统,软件测试
+COM编程,SQL Server数据库,HTTP传输协议,ERP(企业资源计划),C语言
+memcache,mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,redis数据库,cache技术,软件项目管理,分布式
+Oracle数据库,PL/SQL,数据库系统原理
+SQL Server数据库,软件测试,数据库系统原理,数据挖掘
+linux操作系统,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),分布式,Hive
+windows操作系统,linux操作系统,hadoop(分布式系统基础架构),postgresql,Hive
+mysql数据库,SQL Server数据库,Oracle数据库,OOD面向对象设计
+Oracle数据库
+css层叠样式表,Html,php,Smarty(一个模板引擎),javaScript,mysql数据库,linux操作系统,熟悉一种脚本语言
+Oracle数据库,PL/SQL,linux操作系统,unix操作系统,数据库系统原理,C语言
+css层叠样式表,Html,websphere服务器,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,DHTML,C#,.net,visualStudio,SQL Server数据库,面向对象分析,C语言,分布式,数据挖掘,Windows Communication Foundation,中间件
+软件测试
+mysql数据库,Oracle数据库,NoSQL数据库,PL/SQL,数据库系统原理,hadoop(分布式系统基础架构),数据分析,Powerdesigner
+数据库系统原理
+SQL Server数据库,数据库系统原理
+php,windows操作系统,mysql数据库,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,软件项目管理
+Dreamweaver,Oracle数据库,linux操作系统,unix操作系统,Shell语言,ETL(数据仓库技术),项目实施
+java,Oracle数据库
+Oracle数据库,linux操作系统,unix操作系统,Db2数据库,ETL(数据仓库技术),数据库建模,Informatica,Datastage
+Oracle数据库,linux操作系统,unix操作系统,Db2数据库,ETL(数据仓库技术),数据库建模,Informatica,Datastage
+mysql数据库,linux操作系统,软件测试,Shell语言,Perl语言,C语言
+Oracle数据库,计算机网络
+mysql数据库,Oracle数据库,Hbase数据库,PL/SQL,数据库系统原理,数据结构,C语言,HBase,信息安全导论
+mysql数据库,sqlite数据库,C语言,嵌入式操作系统,信息安全导论
+mysql数据库,Oracle数据库,linux操作系统,MongoDB数据库,分布式
+SQL Server数据库,MongoDB数据库,数据分析,数据挖掘,关系型数据库
+Oracle数据库,PL/SQL,数据分析
+Oracle数据库,linux操作系统,软件测试,数据库系统原理
+windows操作系统,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,Db2数据库,软件测试,分布式
+Oracle数据库,linux操作系统,软件测试,Shell语言,C语言,Goldengate
+Oracle数据库,数据库系统原理
+数据分析,软件项目管理,数据挖掘
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,数据库系统原理,C语言,Goldengate
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,数据库系统原理,C语言,Goldengate
+JavaEE架构
+分布式
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,数据库系统原理,数据分析,C语言,分布式,电子商务
+mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言
+Oracle数据库,NoSQL数据库,linux操作系统,sybase数据库,软件测试,Sybase ASE
+Oracle数据库,项目实施,Goldengate
+数据分析,office
+mysql数据库,SQL Server数据库,NoSQL数据库,软件项目管理
+linux操作系统,unix操作系统,软件测试,数据库系统原理,C语言,C++语言,分布式
+Oracle数据库
+Oracle数据库
+java,jQuery框架,JavaEE架构,Extjs框架,jsp(java服务器页面),servlet,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件工程,软件项目管理,C语言,SSH协议
+java,jQuery框架,JavaEE架构,Extjs框架,jsp(java服务器页面),servlet,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件工程,软件项目管理,C语言,SSH协议
+Oracle数据库
+Oracle数据库
+Oracle数据库
+mysql数据库,Oracle数据库
+Oracle数据库
+linux操作系统,unix操作系统
+memcache,mysql数据库,Redis数据库,python编程,MongoDB数据库,redis数据库,cache技术,Shell语言,Perl语言
+mysql数据库,Oracle数据库,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,数据库系统原理,ruby
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试,分布式
+SQL Server数据库,软件测试,数据库系统原理,数据挖掘
+java,mysql数据库,Oracle数据库,PL/SQL,linux操作系统,C语言,电子商务
+java,php,C#,mysql数据库,linux操作系统,python编程,MongoDB数据库,Shell语言,Perl语言,hadoop(分布式系统基础架构),数据分析,C语言
+java,php,apache,ORM对象关系映射,photoshop,ant(一种基于Java的build工具),windows操作系统,Oracle数据库,PL/SQL,TCP/IP编程,linux操作系统,OOD面向对象设计,Shell语言,C语言
+Oracle数据库
+java,JavaEE架构,php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,hadoop(分布式系统基础架构),软件文档写作,分布式
+JavaEE架构,apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,hadoop(分布式系统基础架构),软件文档写作,分布式
+Oracle数据库,linux操作系统
+COM编程,Oracle数据库,C语言
+SQL Server数据库,Oracle数据库
+Oracle数据库,PL/SQL,软件测试,软件项目管理,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,EJB,Tomcat,weblogic服务器,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,XML技术,软件测试,数据库系统原理,C语言,Java Data Base Connectivity,Java Message S
+数据分析
+java,JavaEE架构,Hibernate框架,spring mvc框架,linux操作系统,unix操作系统,Shell语言,软件工程,ETL(数据仓库技术),软件项目管理,C语言,数据库建模,Microsoft Visual C++ 6.0
+JavaEE架构,.net,mysql数据库,Oracle数据库,XML技术,OOD面向对象设计,项目实施
+java
+mysql数据库,SQL Server数据库
+Oracle数据库,软件测试,ETL(数据仓库技术)
+SQL Server数据库,Oracle数据库,ETL(数据仓库技术)
+SQL Server数据库,Oracle数据库,Db2数据库,数据挖掘
+mysql数据库,linux操作系统,数据库系统原理,软件项目管理
+SQL Server数据库,软件项目管理
+windows操作系统,mysql数据库,SQL Server数据库,数据库系统原理,关系型数据库,Powerdesigner
+mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,数据库系统原理
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,ETL(数据仓库技术),Informatica
+mysql数据库,SQL Server数据库,NoSQL数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,数据库系统原理
+Oracle数据库
+Oracle数据库,PL/SQL,数据库系统原理
+weblogic服务器,Oracle数据库,PL/SQL,C语言
+mysql数据库,Oracle数据库,linux操作系统,软件测试,Perl语言,熟悉一种脚本语言,bash语言,分布式,数据挖掘,关系型数据库
+SQL Server数据库,Oracle数据库,sybase数据库,软件测试,项目实施
+sybase数据库
+sybase数据库
+数据分析
+JavaEE架构,.net,mysql数据库,Oracle数据库,XML技术,OOD面向对象设计,项目实施
+mysql数据库,SQL Server数据库,Oracle数据库,XML技术,OOD面向对象设计,hadoop(分布式系统基础架构),数据分析,数据挖掘,Hive
+php,mysql数据库,SQL Server数据库,linux操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,数据库系统原理
+mysql数据库,linux操作系统,python编程,软件测试,Shell语言,数据库系统原理,数据结构,分布式
+java,Online Analytical Processing
+Oracle数据库,linux操作系统,软件测试
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Shell语言,Perl语言,数据分析,ETL(数据仓库技术),Online Analytical Processing,电子商务
+java,数据分析,数据挖掘
+Oracle数据库,Db2数据库,数据库建模
+Oracle数据库,Db2数据库,数据库建模
+mysql数据库,linux操作系统,软件架构设计,Shell语言,软件架构,数据库系统原理,项目实施
+SQL Server数据库,软件测试,数据库系统原理,数据挖掘
+windows操作系统,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件测试,Shell语言,数据库系统原理,C语言,数据库建模,Goldengate
+SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,python编程,ETL(数据仓库技术)
+mysql数据库,Oracle数据库,unix操作系统,python编程,Shell语言,Perl语言,hadoop(分布式系统基础架构),数据分析,数据结构,数据挖掘
+java,ORM对象关系映射,C#,NoSQL数据库,hadoop(分布式系统基础架构),数据分析,C语言,C++语言,分布式,数据挖掘,机器学习,Spark,Storm
+mysql数据库,Oracle数据库,数据结构
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,Shell语言,数据库系统原理
+SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,软件测试
+java,Tomcat,系统分析,mysql数据库,Oracle数据库,C语言,Open Database Connectivity,Java Data Base Connectivity
+系统分析,SQL Server数据库,Powerdesigner
+windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,数据分析
+memcache,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,linux操作系统,unix操作系统,MongoDB数据库,redis数据库,cache技术,Shell语言,熟悉一种脚本语言
+mysql数据库,SQL Server数据库
+Html,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,熟悉一种脚本语言
+css层叠样式表,Html,php,apache,javaScript,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,软件架构设计,软件架构,数据库系统原理,美工基础,C语言
+windows操作系统,SQL Server数据库
+Oracle数据库
+数据分析
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统
+SQL Server数据库,Oracle数据库,ETL(数据仓库技术)
+.net,SQL Server数据库,Oracle数据库,数据库系统原理
+java,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,Perl语言,软件测试,C语言,C++语言
+java,.net,Oracle数据库,Db2数据库,C语言,C++语言
+Oracle数据库,ETL(数据仓库技术),数据库建模
+SQL Server数据库
+Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件测试,Shell语言
+python编程,Shell语言,Perl语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),软件文档写作,分布式,数据挖掘
+mysql数据库,Oracle数据库
+C#,windows操作系统,SQL Server数据库,Oracle数据库,软件测试,数据分析,C语言,数据挖掘
+SQL Server数据库,office
+linux操作系统,unix操作系统,Db2数据库,软件测试,Shell语言
+.net,mysql数据库,SQL Server数据库,C语言,数据挖掘,Microsoft Visual C++ 6.0
+java,JavaEE架构,Oracle数据库,PL/SQL,XML技术,Db2数据库,关系型数据库,WebService
+Html,C#,C语言
+SQL Server数据库,数据库系统原理,数据分析,数据挖掘
+SQL Server数据库,Oracle数据库,软件文档写作
+SQL Server数据库,软件测试,office
+ORM对象关系映射,SQL Server数据库,Oracle数据库,PL/SQL,ios开发,Android开发,数据结构
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统
+.net,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Perl语言,软件工程,bash语言,C语言,Open Database Connectivity,Java Data Base Connectivity,Sybase IQ,GreenPlum
+.net,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Perl语言,软件工程,bash语言,C语言,Open Database Connectivity,Java Data Base Connectivity,Sybase IQ,GreenPlum
+ERP(企业资源计划)
+weblogic服务器,Oracle数据库,linux操作系统,C语言,中间件
+mysql数据库,Oracle数据库,linux操作系统,python编程,软件测试,Shell语言,C语言,分布式,postgresql
+Oracle数据库,PL/SQL,Cognos
+mysql数据库,SQL Server数据库
+Oracle数据库,linux操作系统,软件测试,数据库系统原理,软件项目管理,C语言,Goldengate
+Oracle数据库,数据库系统原理,数据结构,C语言
+SQL Server数据库,Oracle数据库
+mysql数据库,SQL Server数据库,数据分析,分布式,关系型数据库
+java,Oracle数据库,linux操作系统,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),数据分析,ETL(数据仓库技术),C语言,C++语言,分布式,Hive
+TCP/IP编程,linux操作系统,unix操作系统,项目实施,ITSM,ITIL
+java,.net,mysql数据库,SQL Server数据库,ERP(企业资源计划),ETL(数据仓库技术)
+mysql数据库,数据挖掘,电子商务
+mysql数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,Perl语言,C语言
+java,SQL Server数据库,Oracle数据库,数据分析
+.net,visualStudio,SQL Server数据库,UML建模语言,软件架构设计,软件架构
+数据库系统原理,ETL(数据仓库技术),GreenPlum,Teradata数据仓库
+java,SQL Server数据库,Oracle数据库,数据库系统原理,C++语言
+SQL Server数据库,Oracle数据库,PL/SQL,数据库系统原理,数据分析,ETL(数据仓库技术),Powerdesigner
+visualStudio,Oracle数据库,Db2数据库
+SQL Server数据库,Oracle数据库,Db2数据库
+Oracle数据库,linux操作系统,unix操作系统,Db2数据库,sybase数据库,软件测试,数据库系统原理
+Oracle数据库,Db2数据库,数据库建模
+memcache,mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,redis数据库,cache技术,软件项目管理,分布式
+Oracle数据库,C语言
+windows操作系统,Oracle数据库,linux操作系统
+mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,数据分析,软件项目管理,bash语言
+mysql数据库,linux操作系统,Shell语言,熟悉一种脚本语言,中间件
+Oracle数据库,linux操作系统,数据库系统原理
+SQL Server数据库
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,C语言
+java,Oracle数据库,unix操作系统,Db2数据库,软件测试,Shell语言
+.net,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Perl语言,软件工程,bash语言,C语言,Open Database Connectivity,Java Data Base Connectivity,Sybase IQ,GreenPlum
+java,C#,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,C语言,Recovery Manager,Powerdesigner
+java,PL/SQL,Db2数据库,数据分析,数据库建模
+windows操作系统,Oracle数据库,PL/SQL,linux操作系统,数据库系统原理
+windows操作系统,mysql数据库,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,数据库系统原理
+SQL Server数据库,数据库系统原理
+SQL Server数据库,数据分析,ETL(数据仓库技术),软件项目管理,Online Analytical Processing,Microsoft SQL Server Integration Services,Ship Security Alert System
+SQL Server数据库,数据分析,ETL(数据仓库技术),软件项目管理,Online Analytical Processing,Microsoft SQL Server Integration Services,Ship Security Alert System
+SQL Server数据库,数据分析,ETL(数据仓库技术),软件项目管理,Online Analytical Processing,Microsoft SQL Server Integration Services,Ship Security Alert System
+mysql数据库,SQL Server数据库,Oracle数据库,数据库系统原理,hadoop(分布式系统基础架构)

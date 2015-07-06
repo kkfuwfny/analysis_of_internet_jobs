@@ -1,0 +1,1239 @@
+COM编程,linux操作系统,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,C语言
+HTTP传输协议,ios开发,C语言
+java,Html,photoshop,eclipse,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,网络通信,Android开发,C语言,C++语言
+Html,javaScript,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,git,ios开发,软件工程,web后端设计与开发,C语言
+COM编程,XCode开发工具,ios开发,Interface Builder开发工具,数据结构,C语言,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOSSDK,OOD面向对象设计,Cocoa开发框架,网络通信,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+ios开发
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOSSDK,OOD面向对象设计,Cocoa开发框架,网络通信,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,ios开发,Android开发,C语言,C++语言,中间件,Sencha Touch,jQuery Mobile
+系统分析,Objective-c语言,XCode开发工具,svn,ios开发,iOS SDK,面向对象分析,软件测试,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,Swift语言,ios开发,UDP协议,TCP/UDP,软件工程,Restful
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOSSDK,XML技术,Interface Builder开发工具,数据结构,软件项目管理,C语言
+网络编程,Objective-c语言,XCode开发工具,C语言
+HTTP传输协议,Objective-c语言,XCode开发工具,svn,git,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件测试,C语言
+java,多线程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,面向对象分析,软件测试,C语言,C++语言
+Socket编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,软件测试,gcc,C语言,C++语言
+ios开发,C语言
+Objective-c语言,ios开发,iOS SDK,UIKIT框架,面向对象分析,C语言
+java,Html,ios开发,Android开发,C语言
+Objective-c语言,Swift语言,ios开发,iOS SDK,面向对象分析,Cocoa开发框架,网络通信,C语言
+OpenGl图形编程,Objective-c语言,XCode开发工具,UIKIT框架,Cocoa开发框架,Instruments开发工具,C语言,cocos2d
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,软件测试,C语言
+windows操作系统,linux操作系统,ios开发,软件测试,C语言
+ios开发
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,Instruments开发工具,数据结构,C语言
+.net,Objective-c语言,ios开发,Cocoa开发框架,Android开发,C语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,Cocoa开发框架,Interface Builder开发工具,Android开发,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,HTTP传输协议,git,ios开发,XML技术,jSon技术,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+Objective-c语言,Swift语言,XCode开发工具,ios开发,C语言
+Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术
+HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,jSon技术,Instruments开发工具,数据结构,C语言,Restful
+Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术,Cocoa开发框架,C语言,游戏设计
+Socket编程,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+多线程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,软件测试,C语言,C++语言
+java,ios开发,C语言
+ios开发
+Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术,软件测试,数据库系统原理,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,网络通信,数据结构,C语言,C++语言
+ios开发,电子商务
+TCP/IP编程,HTTP传输协议,ios开发,面向对象分析,UDP协议,TCP/UDP,数据结构
+电子商务
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,数据结构,C语言,C++语言
+网络编程,ios开发,软件工程
+XCode开发工具,ios开发,C++语言
+Objective-c语言,C语言
+Objective-c语言,ios开发,Interface Builder开发工具,Instruments开发工具,软件测试,C语言
+java,ios开发,C语言
+ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+Android开发,软件项目管理
+git,ios开发,Cocoa开发框架,软件测试
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,iOS SDK,网络通信,C语言
+photoshop,linux操作系统,unix操作系统,Objective-c语言,XCode开发工具,ios开发,jSon技术,Cocoa开发框架,Interface Builder开发工具,Android开发,C语言,C++语言
+photoshop,linux操作系统,unix操作系统,Objective-c语言,XCode开发工具,ios开发,jSon技术,Cocoa开发框架,Interface Builder开发工具,Android开发,C语言,C++语言
+Socket编程,网络编程,Objective-c语言,ios开发,UIKIT框架,Cocoa开发框架,数据结构,C语言,C++语言
+多线程,GUI编程,HTTP传输协议,ios开发,面向对象分析,C语言
+系统设计,系统分析,Objective-c语言,Swift语言,ios开发,iOS SDK,软件测试,C语言
+php,XCode开发工具,ios开发,Android开发,C语言
+Socket编程,HTTP传输协议,ios开发,C语言
+ios开发
+软件架构设计,软件测试,软件架构,C语言
+XCode开发工具,ios开发,面向对象分析,网络通信
+Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,软件测试,C语言,C++语言
+GUI编程,Objective-c语言,XCode开发工具,ios开发,iOSSDK,面向对象分析,软件工程,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+Html,javaScript,多线程,XCode开发工具,C语言
+TCP/IP编程,HTTP传输协议,ios开发,软件架构设计,Android开发,软件架构,数据结构
+ios开发,软件架构设计,软件架构,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,XCode开发工具,ios开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+Socket编程,网络编程,HTTP传输协议,ios开发
+多线程,GUI编程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,ios开发,面向对象分析,Cocoa开发框架,网络通信,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,jSon技术,数据结构,C语言,数据通信基础
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,C语言
+多线程,TCP/IP编程,HTTP传输协议,ios开发,UDP协议,Android开发,TCP/UDP
+多线程,ios开发,C语言,C++语言
+多线程,ios开发,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,xmpp协议,Swift语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,网络通信,C语言
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+Objective-c语言,ios开发,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Android开发,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,熟悉主流测试工具,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,C语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,数据结构,C语言,Microsoft Visual C++ 6.0
+Objective-c语言,ios开发,Android开发,数据结构,C语言
+ios开发
+网络编程,Objective-c语言,ios开发,XML技术,jSon技术,数据结构,C语言,C++语言
+java,多线程,TCP/IP编程,OpenGl图形编程,RTP传输协议,RTSP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Android SDK,UDP协议,Android开发,C语言,OpenCV,Microsoft Visual C++ 6.0
+多线程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Android开发,软件测试,C语言,C++语言
+photoshop,windows操作系统,Objective-c语言,ios开发,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,数据结构,C语言,C++语言
+ios开发,ios平台架构
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,C语言,Microsoft Visual C++ 6.0
+XCode开发工具,ios开发,C语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,网络通信,C语言,Webservice
+TCP/IP编程,Socket编程,HTTP传输协议,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,网络通信,C语言,Microsoft Visual C++ 6.0
+COM编程,系统设计,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,面向对象分析,Cocoa开发框架,数据库系统原理,软件项目管理,C语言,Microsoft Visual C++ 6.0
+多线程,COM编程,HTTP传输协议,XCode开发工具,ios开发,UIKIT框架,webview(一个显示网页的视图),C语言
+COM编程,HTTP传输协议,Objective-c语言,Swift语言,ios开发,C语言
+COM编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,C语言
+XCode开发工具,svn,UIKIT框架,数据结构,cocos2d-x,cocos2d
+java,mysql数据库,SQL Server数据库,Objective-c语言,XCode开发工具,ios开发,C语言,C++语言
+多线程,GUI编程,网络编程,Objective-c语言,ios开发,软件测试,C语言,C++语言
+ios开发
+多线程,Objective-c语言,Swift语言,ios开发,网络通信,数据结构,C语言,算法设计与技术
+java,Html,网络编程,ios开发,面向对象分析,C语言,C++语言
+linux操作系统,unix操作系统,Objective-c语言,XCode开发工具,软件测试,C语言,C++语言
+Swift语言,XCode开发工具,ios开发,C语言
+java,软件架构设计,Android开发,软件架构
+HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,svn,git,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件测试,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言,人机交互技术
+Photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,git,ios开发,iOS SDK,XML技术,jSon技术,Cocoa开发框架,网络通信,数据结构,C语言
+ios开发,数据结构,C语言,C++语言
+多线程,系统设计,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,网络编程,Objective-c语言,Swift语言,sqlite数据库,ios开发,UDP协议,网络通信,熟悉主流测试工具,软件项目管理,C语言
+Html,TCP/IP编程,Socket编程,WebSocket协议,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,OOA面向对象分析,OOD面向对象设计,网络通信,C语言,C++语言
+TCP/IP编程,unix操作系统,网络编程,Objective-c语言,XCode开发工具,ios开发,UDP协议,C语言,C++语言
+网络编程,HTTP传输协议,Android开发,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,数据结构,C语言
+mysql数据库,SQL Server数据库,ios开发,MongoDB数据库,C语言
+Html,ios开发
+HTTP传输协议,Objective-c语言,XCode开发工具,C语言,C++语言,soap
+多线程,Socket编程,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,软件架构设计,软件架构,数据结构,C语言
+photoshop,多线程,Socket编程,网络编程,HTTP传输协议,ios开发,软件架构设计,软件架构,数据分析,数据结构,C语言
+COM编程,ios开发,Android开发
+多线程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,面向对象分析,网络通信,软件测试,C语言
+XCode开发工具,ios开发,C语言
+Socket编程,HTTP传输协议,ios开发,面向对象分析,Android开发,软件测试
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,Cocoa开发框架,Android开发,C语言,C++语言
+java,系统设计,Oracle数据库,PL/SQL,TCP/IP编程,Socket编程,HTTP传输协议,XCode开发工具,ios开发,网络通信,C语言
+网络编程,ios开发,数据结构,C语言
+java,python编程,git,ios开发,C语言,C++语言,ruby
+java,多线程,Socket编程,sqlite数据库,ios开发,数据结构,C语言,C++语言
+ios开发
+photoshop,多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,ios开发,XML技术,jSon技术,UDP协议,TCP/UDP
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Android开发,软件测试,数据结构,软件文档写作,C语言,C++语言,Microsoft Vis
+网络编程,Objective-c语言,Swift语言,git,ios开发,Cococa SDK,C语言
+Socket编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,软件测试,gcc,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,C语言
+ios开发
+系统设计,TCP/IP编程,网络编程,ios开发,数据结构,软件项目管理
+Objective-c语言,ios开发,C语言
+Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,软件工程,C语言,C++语言
+多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,软件测试,C语言,C++语言
+GUI编程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Cocoa开发框架,Interface Builder开发工具,Android开发,软件项目管理,C语言
+多线程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,C语言,C++语言,网络安全技术
+UML建模语言,Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,面向对象分析,Interface Builder开发工具,软件项目管理,C语言,C++语言,Microsoft Visual C++ 6.0
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,软件文档写作,C语言
+Objective-c语言,ios开发,jSon技术,C语言,rest
+.net,网络编程,XCode开发工具,ios开发,iOS SDK
+Objective-c语言,Swift语言,XCode开发工具,ios开发,C语言
+xmpp协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,Instruments开发工具,C语言,C++语言,openfire
+Html,ios开发,iOS SDK,webview(一个显示网页的视图),Android开发,数据结构
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言
+多线程,网络编程,ios开发,Mac OS/iOS相关调试工具,软件测试,C语言,C++语言
+java,css层叠样式表,Html,javaScript,HTTP传输协议,ios开发,iOSSDK,XML技术,jSon技术,Android SDK,Android开发,数据结构
+Objective-c语言,面向对象分析,软件测试,C语言,C++语言
+ios开发,C语言
+Objective-c语言,Swift语言,ios开发,C语言
+TCP/IP编程,网络编程,HTTP传输协议,ios开发,Cocoa开发框架,网络通信,软件测试,C语言
+Objective-c语言,XCode开发工具,git,ios开发,Cocoa开发框架,Instruments开发工具,Android开发,Flash,C语言,ActionScript,Microsoft Visual C++ 6.0
+Objective-c语言,ios开发,面向对象分析,熟悉主流测试工具,C语言,C++语言
+多线程,GUI编程,网络编程,HTTP传输协议,ios开发,软件架构设计,软件架构,数据结构
+ios开发,C语言,C++语言
+mysql数据库,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,软件测试,C语言
+java,多线程,Socket编程,linux操作系统,ios开发,软件测试,Webservice
+多线程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,软件测试,C语言
+多线程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,svn,git,ios开发,Cocoa开发框架,软件测试,熟悉主流测试工具,C语言,C++语言
+多线程,ios开发,XML技术,jSon技术,网络通信
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,数据结构,C语言
+ios开发,软件工程
+网络编程,Swift语言,ios开发,C语言,C++语言
+ios开发
+Objective-c语言,XCode开发工具,ios开发,iOSSDK,Interface Builder开发工具,C语言
+Objective-c语言,ios开发,iOSSDK,C语言
+Objective-c语言,ios开发,iOSSDK,C语言
+ios开发
+GUI编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,Cocoa开发框架,C语言,C++语言
+COM编程,Objective-c语言,ios开发,网络通信,C语言,C++语言
+java,php,TCP/IP编程,Socket编程,网络编程,python编程,HTTP传输协议,XCode开发工具,ios开发,Cocoa开发框架,网络通信,C语言,ruby
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,C语言,Microsoft Visual C++ 6.0
+Objective-c语言,Swift语言,ios开发,面向对象分析,网络通信,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,软件项目管理,C语言
+javaScript,XCode开发工具,ios开发,jSon技术,C语言
+TCP/IP编程,HTTP传输协议,ios开发,面向对象分析,网络通信,C语言,C++语言
+Objective-c语言,ios开发,C语言
+Objective-c语言,Swift语言,XCode开发工具,ios开发,C语言
+多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,面向对象分析,Interface Builder开发工具,网络通信,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+java,多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,XML技术,jSon技术,面向对象分析,Cocoa开发框架,软件测试,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+Objective-c语言,ios开发,Cocoa开发框架,数据结构,C语言
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,软件项目管理,C语言
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+网络编程,Objective-c语言,XCode开发工具,ios开发,C语言,Microsoft Visual C++ 6.0
+HTTP传输协议,ios开发,Android开发,C语言
+ios开发,Android开发
+软件工程
+ios开发,Android开发
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,面向对象分析,软件测试,C语言,嵌入式操作系统
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,UDP协议,TCP/UDP,软件测试,数据结构,C语言,C++语言
+java,ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,项目实施,C语言
+多线程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,数据结构,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,Cocoa开发框架,软件测试,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,Instruments开发工具,网络通信,数据结构,C语言,C++语言,算法设计与技术
+photoshop,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,软件测试,C语言,C++语言
+TCP/IP编程,Socket编程,Objective-c语言,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件测试,数据结构,C语言
+多线程,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,C语言
+php,.net,HTTP传输协议,ios开发,Android开发,软件项目管理
+多线程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UIKIT框架,XML技术,jSon技术,Cocoa开发框架,数据结构,C语言,电子商务
+网络编程,ios开发,数据结构,C语言
+HTTP传输协议,ios开发,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,数据结构,C语言,算法设计与技术
+GUI编程,ios开发,面向对象分析,Cocoa开发框架,软件工程,软件项目管理
+Objective-c语言,XCode开发工具,sqlite数据库,ios开发,Interface Builder开发工具,熟悉主流测试工具,C语言
+ios开发,数据结构,C语言,C++语言
+ios开发
+ios开发,Android开发
+Objective-c语言,软件测试,C语言
+ios开发,软件架构设计,软件架构
+Socket编程,网络编程,HTTP传输协议,ios开发,jSon技术,面向对象分析,Android开发,熟悉主流测试工具,熟悉一种脚本语言,数据结构,C++语言,Lua,cocos2d-x,cocos2d
+Objective-c语言,XCode开发工具,ios开发,C语言
+java,C#,GUI编程,Socket编程,HTTP传输协议,ios开发,C语言,Webservice
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,网络通信,软件工程,Adobe Illustrator(AI),C语言
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,熟悉主流测试工具,C语言,C++语言
+java,css层叠样式表,Html,.net,javaScript,HTTP传输协议,ios开发,iOS SDK,Android SDK,Android开发,软件测试,C语言,C++语言
+Objective-c语言,ios开发,C语言
+Objective-c语言,软件测试,C语言
+多线程,Objective-c语言,git,ios开发,C语言
+多线程,Objective-c语言,ios开发,网络通信,熟悉主流测试工具,数据结构,C语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,软件测试,C语言
+TCP/IP编程,SIP协议,xmpp协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,软件架构设计,软件架构,软件项目管理,C语言,计算机网络
+java,eclipse,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Cocoa开发框架,Interface Builder开发工具,Android SDK,Android开发,C语言,C++语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,Socket编程,HTTP传输协议,XCode开发工具,ios开发,C语言,Backbone
+Html,Memcached,mysql数据库,Redis数据库,linux操作系统,消息队列,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,redis数据库,Android开发,软件测试,C语言,分布式,ActiveMQ,RabbitMQ
+多线程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,C语言
+HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,XML技术,jSon技术,Cocoa开发框架,数据结构,C语言,Microsoft Visual C++ 6.0
+Html,javaScript,多线程,Objective-c语言,XCode开发工具,ios开发,面向对象分析,网络通信,C语言,C++语言,Microsoft Visual C++ 6.0
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,网络通信,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,网络通信,C语言
+java,css层叠样式表,Html,javaScript,Objective-c语言,ios开发,面向对象分析,Android开发,C语言
+java,C语言
+Socket编程,HTTP传输协议,Objective-c语言,C语言,C++语言
+软件测试,office
+系统设计,Socket编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,面向对象分析,网络通信,软件工程,软件项目管理,C语言,C++语言,Restful
+java,C语言
+多线程,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,软件测试,C语言
+Objective-c语言,XCode开发工具,Android开发,C语言
+软件测试,office
+linux操作系统,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,C语言,C++语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件测试,软件架构,数据结构,美术基础,C语言
+网络编程,HTTP传输协议,Android开发,熟悉主流测试工具,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+XCode开发工具,ios开发,C语言
+XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Interface Builder开发工具,软件测试,C语言,C++语言
+XCode开发工具,软件测试,C语言
+office
+mysql数据库,Objective-c语言,sqlite数据库,ios开发,熟悉一种脚本语言,数据库系统原理,C语言
+java,office,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,软件测试,熟悉主流测试工具,C语言,电子商务
+java,jQuery框架,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Androi
+jQuery框架,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,网络通信,数据结构,C语言
+Objective-c语言,Swift语言,sqlite数据库,ios开发,熟悉主流测试工具,数据结构,C语言,Microsoft Visual C++ 6.0
+网络编程,HTTP传输协议,Objective-c语言,ios开发,Android开发,熟悉主流测试工具,C语言,C++语言
+Objective-c语言,git,ios开发,软件工程,C语言
+java,GUI编程,TCP/IP编程,Socket编程,网络编程,UML建模语言,HTTP传输协议,Objective-c语言,svn,面向对象分析,UDP协议,软件测试,CVS(一种自动测试工具),数据结构,C语言,C++语言,算法设计与技术
+css层叠样式表,Html,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,jSon技术,面向对象分析,数据结构,C语言,Webservice
+Objective-c语言,XCode开发工具,ios开发,C语言
+网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,git,ios开发,jSon技术,C语言
+ios开发
+Cocoa开发框架,C语言
+java,windows操作系统,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,UDP协议,C语言
+网络编程,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOSSDK,Cocoa开发框架,C语言
+Objective-c语言,ios开发,jSon技术,webview(一个显示网页的视图),C语言
+php,MFC,ios开发,C语言,嵌入式操作系统
+网络编程,ios开发,iOSSDK,面向对象分析
+Objective-c语言,ios开发,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,软件测试,C语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,软件测试,C语言,C++语言
+多线程,GUI编程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UDP协议,数据库系统原理,C语言,Restful
+UML建模语言,Objective-c语言,svn,git,ios开发,iOSSDK,C语言,C++语言,Microsoft Visual C++ 6.0
+UML建模语言,Objective-c语言,svn,git,ios开发,iOSSDK,C语言,C++语言,Microsoft Visual C++ 6.0
+git,ios开发,Cocoa开发框架,软件测试
+XCode开发工具,ios开发,C语言
+Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,C语言
+photoshop,TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,网络通信,软件工程,C语言,C++语言
+系统分析,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,软件项目管理,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+java,css层叠样式表,Html,php,Memcached,AJAX(异步的JavaScript与XML技术),FreeBSD操作系统,web2.0,Smarty(一个模板引擎),eclipse,javaScript,windows操作系统,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传
+Html,photoshop,javaScript,多线程,系统设计,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,软件工程
+系统设计,Objective-c语言,XCode开发工具,ios开发,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,javaScript,多线程,COM编程,mysql数据库,Socket编程,HTTP传输协议,sqlite数据库,ios开发,MongoDB数据库,软件架构设计,软件工程,软件架构,数据结构,C语言
+java,css层叠样式表,Html,javaScript,多线程,COM编程,mysql数据库,Socket编程,HTTP传输协议,sqlite数据库,ios开发,MongoDB数据库,软件架构设计,软件架构,数据结构,C语言
+Objective-c语言,ios开发,C语言,C++语言
+COM编程,Objective-c语言,XCode开发工具,ios开发,熟悉主流测试工具,C语言
+Objective-c语言,XCode开发工具,ios开发,软件架构设计,软件测试,软件架构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,ios开发,网络通信,数据结构,C语言,C++语言
+EOS嵌入式开发,HTTP传输协议,Objective-c语言,ios开发,软件测试,C语言,中间件
+Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,Interface Builder开发工具,软件测试,数据结构,C语言
+Android开发,数据结构
+java,ios开发,熟悉主流测试工具,C语言,C++语言
+JavaEE架构,.net,Socket编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,OOD面向对象设计,Android开发,C语言,Microsoft Visual C++ 6.0
+ios开发,软件架构设计,软件测试,软件架构
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,jSon技术,软件项目管理,C语言,C++语言,soap,rest
+java,ios开发
+java,ios开发
+COM编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,jSon技术,C语言,C++语言,电子商务
+Html,多线程,Socket编程,linux操作系统,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,Cocoa开发框架,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语
+多线程,系统设计,Socket编程,Objective-c语言,XCode开发工具,ios开发,网络通信,软件测试,C语言
+Objective-c语言,ios开发,iOS SDK,C语言
+GUI编程,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,软件文档写作,C语言,C++语言
+项目实施
+UML建模语言,XCode开发工具,ios开发,软件测试,C语言,C++语言,嵌入式操作系统
+java,Html,GUI编程,mysql数据库,OpenGl图形编程,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,Android开发,软件测试,Shell语言,C语言,C++语言,soap
+ios开发,软件测试,数据结构,软件项目管理,C语言,C++语言
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,多线程,网络编程,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件架构设计,软件测试,软
+多线程,Socket编程,RTSP传输协议,HTTP传输协议,rtmp协议,ios开发,XML技术,网络通信,C语言,C++语言
+jQuery框架,css层叠样式表,Html,javaScript,面向对象分析,Android开发,Sencha Touch,iWebkit,jQuery Mobile
+java,jQuery框架,css层叠样式表,Html,php,javaScript,多线程,linux操作系统,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Android开发,数据结构,C语言,C++语言,嵌入式操作系统
+java,ios开发,Android SDK,Android开发,C++语言
+photoshop,TCP/IP编程,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Instruments开发工具,网络通信,数据结构
+Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Interface Builder开发工具,C语言,C++语言
+网络编程,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOSSDK,面向对象分析,Cocoa开发框架,C语言
+ios开发,Android开发
+多线程,Objective-c语言,ios开发,C语言,C++语言,cocos2d
+java,多线程,mysql数据库,sqlite数据库,ios开发,Android开发,数据结构,C语言
+Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,C语言
+java,多线程,ios开发,面向对象分析,Android开发,软件测试,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件架构设计,软件架构,C语言
+ant(一种基于Java的build工具),COM编程,系统设计,TCP/IP编程,网络编程,Qt,ios开发,OOD面向对象设计,数据结构,Adobe Illustrator(AI)
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Android开发,C语言
+jQuery框架,css层叠样式表,Html,javaScript,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,Interface Builder开发工具,Instruments开发工具,C语言,Sencha Touch,iWebkit,jQuery Mobile
+XCode开发工具,ios开发,iOS SDK,面向对象分析,软件架构设计,软件测试,软件工程,软件架构,数据结构,C语言,C++语言
+ios开发
+Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Interface Builder开发工具,C语言,C++语言
+Swift语言,svn,git,ios开发,C语言
+ios开发,Android开发
+多线程,Socket编程,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,Android开发,数据结构
+linux操作系统,网络编程,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,Socket编程,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+ios开发,C语言
+ios开发,软件测试,数据结构,C语言
+Objective-c语言,git,ios开发,软件工程,C语言
+Socket编程,Objective-c语言,ios开发,iOSSDK,OOD面向对象设计,Cocoa开发框架,C语言,C++语言
+多线程,Socket编程,网络编程,Objective-c语言,ios开发,OOD面向对象设计,C语言
+java,windows操作系统,TCP/IP编程,HTTP传输协议,ios开发,C语言,C++语言
+XCode开发工具,ios开发,Cocoa开发框架,C语言
+多线程,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Instruments开发工具,项目实施,C语言
+java,TCP/IP编程,HTTP传输协议,ios开发,XML技术,软件测试,C语言,C++语言
+JavaEE架构,.net,Socket编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,OOD面向对象设计,Android开发,C语言
+Swift语言,git,ios开发,C语言
+java,Html,OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,XML技术,jSon技术,面向对象分析,Cocoa开发框架,C语言,C++语言,soap
+jQuery框架,Html,photoshop,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,jQuery Mobile
+COM编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,软件测试,数据结构,软件项目管理,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Instruments开发工具,Android开发,C语言,Microsoft Visual C++ 6.0
+Html,软件工程,数据结构
+java,Html,javaScript,ios开发,数据库系统原理
+ios开发,Android开发
+多线程,GUI编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,软件测试,C语言
+javaScript,TCP/IP编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,数据结构,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,RTP传输协议,SIP协议,RTSP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,Interface Builder开发工具,软件测试,数据结构,C语言,C++语言,Microsof
+Objective-c语言,ios开发,软件测试,C语言,C++语言
+Objective-c语言,ios开发,软件测试,C语言,C++语言
+多线程,Objective-c语言,ios开发,C语言,C++语言,Microsoft Visual C++ 6.0
+java,eclipse,HTTP传输协议,ios开发,XML技术,jSon技术,OOD面向对象设计,Android开发,C语言,WebService,Restful
+java,Socket编程,unix操作系统,网络编程,Objective-c语言,XCode开发工具,面向对象分析,C语言,C++语言,嵌入式操作系统
+eclipse,XCode开发工具,C语言
+UML建模语言,Objective-c语言,svn,git,ios开发,iOSSDK,C语言,C++语言,Microsoft Visual C++ 6.0
+ios开发,XML技术,jSon技术,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+ios开发
+ios开发
+ios开发,cocos2d-x,cocos2d
+XCode开发工具,ios开发,iOS SDK,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,C语言,C++语言,Arcgis,Webservice,ArcGIS
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+java,Html,XCode开发工具,ios开发,iOS SDK,C语言
+GUI编程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UIKIT框架,XML技术,jSon技术,C语言,C++语言
+java,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,网络通信,数据结构,C语言,算法设计与技术
+java,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,网络通信,数据结构,C语言,算法设计与技术
+css层叠样式表,Html,javaScript,Objective-c语言,ios开发,数据结构,C语言,算法设计与技术
+java,linux操作系统,ios开发,软件测试,C语言,C++语言
+java,多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,Android开发,软件架构,数据结构,C语言,C++语言
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UIKIT框架,jSon技术,Cocoa开发框架,C语言,C++语言
+Objective-c语言,git,ios开发,网络通信,数据结构,C语言,C++语言
+css层叠样式表,Html,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,jSon技术,面向对象分析,数据结构,C语言,Webservice
+java,多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,Android开发,软件架构,数据结构,C语言,Webservice,电子商务
+Html,多线程,TCP/IP编程,网络编程,UML建模语言,HTTP传输协议,Objective-c语言,svn,ios开发,iOS SDK,UDP协议,TCP/UDP,软件工程,项目实施,C语言,C++语言,分布式,ITIL
+多线程,GUI编程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,数据结构,C语言,C++语言,算法设计与技术
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+Objective-c语言,ios开发,C语言
+ios开发
+Socket编程,HTTP传输协议,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,Interface Builder开发工具,C语言
+java,php,python编程,ios开发,数据分析,软件文档写作
+photoshop,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,XML技术,jSon技术,软件测试,软件文档写作,C语言
+多线程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,C语言,C++语言,Microsoft Visual C++ 6.0
+ios开发,软件文档写作
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,UDP协议,C语言
+COM编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,Cocoa开发框架,C语言,C++语言
+ios开发
+多线程,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Cocoa开发框架,C语言,C++语言
+TCP/IP编程,网络编程,HTTP传输协议,Swift语言,XCode开发工具,ios开发,iOS SDK,iOSSDK,XML技术,jSon技术,C语言
+Objective-c语言,ios开发,C语言
+ios开发,软件架构设计,软件架构
+多线程,XCode开发工具,ios开发,Instruments开发工具,网络通信,C语言,C++语言
+Socket编程,网络编程,Objective-c语言,svn,git,ios开发,Cocoa开发框架,C语言,C++语言,电子商务
+Objective-c语言,Swift语言,ios开发,软件项目管理,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,软件测试,C语言,C++语言
+photoshop,TCP/IP编程,Socket编程,python编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOSSDK,XML技术,面向对象分析,C语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+多线程,系统设计,网络编程,UML建模语言,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件测试,数据结构,C语言
+Objective-c语言,XCode开发工具,ios开发,C语言
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,jSon技术,UDP协议,软件架构设计,TCP/UDP,软件架构,C语言,Webservice
+TCP/IP编程,HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,sqlite数据库,ios开发,面向对象分析,Cocoa开发框架,软件测试,数据结构,C语言
+java,TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,面向对象分析,Android开发,C语言,C++语言
+XCode开发工具,ios开发,软件测试,C语言,C++语言
+Objective-c语言,ios开发,数据结构,软件文档写作,C语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,iOS SDK,网络通信,C语言
+Objective-c语言,XCode开发工具,svn,sqlite数据库,ios开发,iOS SDK,数据结构,软件项目管理,C语言
+Html,Objective-c语言,XCode开发工具,svn,ios开发,C语言
+Objective-c语言,XCode开发工具,软件测试,C语言,C++语言
+java,多线程,HTTP传输协议,ios开发,UIKIT框架,Android开发,C语言,C++语言,OAuth
+Objective-c语言,XCode开发工具,ios开发,iOSSDK,Interface Builder开发工具,C语言
+java,Html,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,Webservice,rest
+ios开发,数据结构
+ios开发
+ios开发
+java,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试
+多线程,网络编程,Swift语言,ios开发,熟悉主流测试工具,C语言
+java,COM编程,Oracle数据库,ios开发,C语言
+Objective-c语言,ios开发,Cocoa开发框架,Instruments开发工具,C语言
+Socket编程,网络编程,HTTP传输协议,ios开发,Cocoa开发框架,软件测试,自动化测试(使用自动化测试软件、框架等)
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,网络通信,Android开发,C语言,电子商务
+网络编程,Objective-c语言,Swift语言,ios开发,XML技术,jSon技术,面向对象分析,熟悉主流测试工具,软件文档写作,C语言,C++语言
+Objective-c语言,XCode开发工具,svn,ios开发,Cocoa开发框架,Interface Builder开发工具,软件文档写作,C语言
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,网络通信,数据结构,C语言
+css层叠样式表,Html,Objective-c语言,XCode开发工具,ios开发,iOS SDK,熟悉主流测试工具,C语言
+Html,ios开发,面向对象分析,网络通信,软件测试,软件项目管理
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,软件测试,C语言,C++语言
+java,XCode开发工具,ios开发,iOS SDK,C语言
+Objective-c语言,XCode开发工具,git,ios开发,Cocoa开发框架,Instruments开发工具,Android开发,Flash,C语言,ActionScript,Microsoft Visual C++ 6.0
+Objective-c语言,ios开发,C语言,C++语言
+java,多线程,Objective-c语言,ios开发,网络通信,C语言,C++语言
+系统分析,Objective-c语言,ios开发,C语言,C++语言
+多线程,COM编程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,OOD面向对象设计,UDP协议,软件测试,软件工程,C语言,C++语言
+多线程,Socket编程,WebSocket协议,HTTP传输协议,xmpp协议,Objective-c语言,ios开发,UIKIT框架,XML技术,jSon技术,面向对象分析,Cocoa开发框架,C语言,rest
+Objective-c语言,ios开发,C语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+OpenGl图形编程,ios开发,面向对象分析,C++语言,计算机图形学
+多线程,sqlite数据库,ios开发
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+Html,javaScript,多线程,TCP/IP编程,网络编程,HTTP传输协议,XCode开发工具,svn,git,ios开发,UIKIT框架,Instruments开发工具,UDP协议,TCP/UDP,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,网络通信,软件项目管理,项目实施,C语言,C++语言
+XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言,C++语言
+ios开发,面向对象分析
+GUI编程,TCP/IP编程,网络编程,SIP协议,HTTP传输协议,ios开发,网络通信,C语言,C++语言
+JavaEE架构,.net,Socket编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,OOD面向对象设计,Android开发,C语言
+photoshop,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,面向对象分析,软件测试,C语言,C++语言
+ios开发
+java,javaScript,多线程,网络编程,python编程,HTTP传输协议,Objective-c语言,Swift语言,ios开发,数据结构,office,C语言
+Html,多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,数据结构,C语言
+ios开发,熟悉主流测试工具
+网络编程,Objective-c语言,XCode开发工具,ios开发,C语言,Microsoft Visual C++ 6.0
+COM编程,Objective-c语言,ios开发,Android开发,C语言
+网络编程,Objective-c语言,XCode开发工具,ios开发,C语言,Microsoft Visual C++ 6.0
+XCode开发工具,ios开发,Interface Builder开发工具,C语言,C++语言
+网络编程,HTTP传输协议,ios开发,jSon技术,rest
+多线程,windows操作系统,ios开发,网络通信,Android开发
+Objective-c语言,Swift语言,XCode开发工具,ios开发,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+多线程,HTTP传输协议,ios开发,iOS SDK
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,软件测试,C语言
+java,TFS(一个分布式文件系统),svn,git,ios开发,面向对象分析,软件架构设计,Android开发,软件测试,软件架构,C语言
+ios开发
+java,ios开发
+ios开发
+Html,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+ios开发,面向对象分析
+Html,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+网络编程,Objective-c语言,XCode开发工具,svn,git,ios开发,iOS SDK,软件测试,软件工程,C语言
+TCP/IP编程,HTTP传输协议,XML技术,C语言,C++语言
+ios开发,面向对象分析
+多线程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,C语言,C++语言,网络安全技术
+Html,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,C语言,C++语言,soap,rest
+GUI编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+多线程,Socket编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,网络通信,数据结构,C语言,C++语言,算法设计与技术
+php,ThinkPHP框架,多线程,Socket编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,网络通信,数据结构,C语言,C++语言,算法设计与技术
+多线程,GUI编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,jSon技术,面向对象分析,软件测试,C语言
+GUI编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,C语言,C++语言
+多线程,TCP/IP编程,Objective-c语言,ios开发,软件架构设计,软件架构,数据结构,C语言,嵌入式操作系统
+MFC,多线程,windows操作系统,windows编程,STL库,HTTP传输协议,ios开发,XML技术,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+HTTP传输协议,ios开发,XML技术,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+java,TCP/IP编程,ios开发,面向对象分析,Cocoa开发框架,Android SDK,Android开发
+系统设计,ios开发,软件项目管理
+Objective-c语言,XCode开发工具,ios开发,数据结构,C语言,C++语言
+GUI编程,Objective-c语言,XCode开发工具,ios开发,iOSSDK,C语言,C++语言
+ios开发,熟悉主流测试工具,数据结构
+Objective-c语言,XCode开发工具,ios开发,Android开发,数据库系统原理,数据结构,软件项目管理,软件文档写作,C语言,C++语言
+java,Html,javaScript,系统设计,ios开发,Android开发
+TCP/IP编程,OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,C语言,C++语言
+多线程,Objective-c语言,ios开发,C语言
+UML建模语言,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,软件项目管理,C语言,Microsoft Visual C++ 6.0
+COM编程,网络编程,Objective-c语言,ios开发,C语言,C++语言
+多线程,Objective-c语言,ios开发,网络通信,C语言
+Objective-c语言,ios开发,iOSSDK,OOD面向对象设计,Cocoa开发框架,软件测试,C语言,C++语言
+Photoshop,Android开发,Adobe Illustrator(AI),美工基础
+多线程,Objective-c语言,ios开发,网络通信,C语言
+Photoshop,Android开发,Adobe Illustrator(AI),美工基础
+XCode开发工具,软件测试,C语言
+多线程,网络编程,HTTP传输协议,XCode开发工具,ios开发,面向对象分析,Instruments开发工具,软件测试
+多线程,系统分析,Objective-c语言,XCode开发工具,ios开发,C语言
+多线程,系统分析,Objective-c语言,XCode开发工具,ios开发,C语言
+COM编程,网络编程,Objective-c语言,ios开发,C语言,C++语言
+XCode开发工具,ios开发,Interface Builder开发工具,网络通信,软件测试,Quality Center,数据分析,数据结构,C语言,C++语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,mysql数据库,Oracle数据库,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,网络通信,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Jsf框架,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,Socket编程,linux操作系统,unix操作系统,UML建模语言,O
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,rest
+TCP/IP编程,unix操作系统,网络编程,Objective-c语言,ios开发,XML技术,jSon技术,软件测试,C语言,C++语言,嵌入式操作系统
+ios开发,Android开发
+Socket编程,HTTP传输协议,ios开发,C语言,C++语言
+Socket编程,HTTP传输协议,ios开发,C语言,C++语言
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件架构设计,软件架构,数据结构,C语言
+多线程,网络编程,ios开发,XML技术,面向对象分析,软件架构设计,软件架构,数据结构,C语言
+ios开发,C语言
+TCP/IP编程,OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,C语言,C++语言
+C#,ios开发,iOS SDK,Android SDK,Android开发,数据结构,C语言,Unity
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,Android开发,软件测试,软件工程,C语言,Microsoft Visual C++ 6.0
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+java,系统设计,系统分析,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Interface Builder开发工具,C语言,C++语言
+java,系统设计,系统分析,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Interface Builder开发工具,C语言,C++语言
+OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,软件测试,C语言
+OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,C语言
+css层叠样式表,Html,javaScript,COM编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Android开发,C语言,电子商务
+css层叠样式表,Html,javaScript,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,数据结构,C语言,C++语言
+Html,javaScript,多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,软件测试,熟悉主流测试工具,项目实施,C语言,C++语言,计算机网络
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+多线程,HTTP传输协议,ios开发,XML技术,jSon技术,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+Objective-c语言,XCode开发工具,软件架构设计,软件测试,软件架构,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,C语言
+Objective-c语言,XCode开发工具,ios开发,软件架构设计,软件架构,C语言,C++语言
+多线程,ios开发,C语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,Cocoa开发框架,网络通信,软件项目管理,项目实施,C语言,C++语言
+Html,TCP/IP编程,HTTP传输协议,Swift语言,XCode开发工具,ios开发,网络通信,数据结构,项目实施,C语言,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,面向对象分析,网络通信,C语言,Restful
+Objective-c语言,ios开发,C语言
+多线程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,iOSSDK,XML技术,jSon技术,软件架构设计,软件架构,C语言
+Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,OOD面向对象设计,Interface Builder开发工具,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,软件测试,数据结构,C语言,C++语言
+Cocoa开发框架,C语言,Webservice
+XCode开发工具,ios开发,XML技术,jSon技术,网络通信,C语言,C++语言
+XCode开发工具,ios开发,XML技术,jSon技术,网络通信,C语言,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,C语言,C++语言
+css层叠样式表,Html,javaScript,ios开发
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,C语言
+网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件测试,熟悉主流测试工具,C语言
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+系统设计,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,网络通信,C语言
+多线程,系统分析,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,数据结构,C语言
+系统分析,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,网络通信,软件测试,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,面向对象分析,UDP协议,数据结构,C语言,C++语言,关系型数据库,算法设计与技术
+.net,SQL Server数据库,ios开发,Access数据库
+java,php,.net,ios开发,Android开发
+多线程,ios开发,网络通信,C语言,C++语言
+多线程,ios开发,网络通信,C语言,C++语言
+多线程,ios开发,网络通信,C语言,C++语言
+java,php,TCP/IP编程,Socket编程,网络编程,python编程,HTTP传输协议,XCode开发工具,ios开发,Cocoa开发框架,网络通信,C语言,ruby
+多线程,ios开发,网络通信,C语言,C++语言
+多线程,ios开发,网络通信,数据结构
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,面向对象分析,Cocoa开发框架,C语言
+ios开发,面向对象分析,Android开发,熟悉主流测试工具,软件项目管理,C语言
+多线程,ios开发,C语言
+网络编程,Objective-c语言,ios开发,软件项目管理,C语言,C++语言
+photoshop,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,软件测试,C语言,C++语言
+photoshop,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,软件测试,C语言,C++语言
+ios开发,iOS SDK,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+php,TCP/IP编程,HTTP传输协议,xmpp协议,Objective-c语言,ios开发,XML技术,jSon技术,软件架构设计,Android开发,软件架构,C语言,C++语言
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+php,TCP/IP编程,HTTP传输协议,xmpp协议,Objective-c语言,ios开发,XML技术,jSon技术,软件架构设计,Android开发,软件架构,C语言,C++语言
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,git,ios开发,面向对象分析,Interface Builder开发工具,数据结构,project,C语言,C++语言
+Objective-c语言,ios开发,C语言
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,C++语言
+多线程,HTTP传输协议,sqlite数据库,ios开发,面向对象分析,数据结构
+TCP/IP编程,HTTP传输协议,Swift语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+TCP/IP编程,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Android开发,软件测试,C语言,C++语言
+css层叠样式表,Html,php,javaScript,TCP/IP编程,linux操作系统,python编程,ios开发,面向对象分析,熟悉一种脚本语言,数据结构,C语言,C++语言
+系统设计,TCP/IP编程,Objective-c语言,XCode开发工具,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+Objective-c语言,ios开发,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,软件架构设计,软件架构,数据结构,C语言
+Objective-c语言,Swift语言,XCode开发工具,ios开发,软件架构设计,软件架构,数据结构,C语言,C++语言
+多线程,ios开发,网络通信,C语言,C++语言
+多线程,ios开发,网络通信,数据结构
+Objective-c语言,ios开发,网络通信,软件测试,数据结构,C语言,C++语言
+ios开发,Android开发
+TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,ios开发,XML技术,jSon技术,网络通信,C语言
+java,svn,sqlite数据库,ios开发,Android开发,CVS(一种自动测试工具),C++语言
+Socket编程,HTTP传输协议,ios开发,数据结构,C语言
+HTTP传输协议,ios开发,jSon技术
+css层叠样式表,Html,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,软件测试,C语言,C++语言,Unity
+GUI编程,XCode开发工具,ios开发,XML技术,jSon技术,Interface Builder开发工具,Android开发,项目实施,C语言
+ios开发,Android开发,软件测试,软件工程
+Objective-c语言,Swift语言,XCode开发工具,ios开发,软件测试,美工基础,C语言,C++语言
+java,git,ios开发,Android开发,C语言
+系统设计,面向对象分析
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,ios开发,Cocoa开发框架,UDP协议,C语言,Webservice
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+java,eclipse,多线程,Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,网络通信,Android开发,软件测试,熟悉主流测试工具,数据结构,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,C语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,ios开发,Interface Builder开发工具,C语言
+java,Html,XHTML,windows操作系统,linux操作系统,Objective-c语言,XML技术,C语言,C++语言
+photoshop,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,面向对象分析,网络通信,gcc,C语言,C++语言,gdb,GDB
+多线程,Objective-c语言,ios开发,C语言,Microsoft Visual C++ 6.0
+java,Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,Cocoa开发框架,Android开发,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Interface Builder开发工具,C语言,C++语言
+java,ios开发,Android开发,C语言,C++语言
+java,ios开发,Android开发,C语言,C++语言
+Objective-c语言,ios开发,C语言,C++语言
+css层叠样式表,Html,javaScript,XCode开发工具,ios开发,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,Cocoa开发框架,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+Photoshop,HTTP传输协议,Objective-c语言,git,ios开发,jSon技术,C语言,Restful
+Photoshop,HTTP传输协议,Objective-c语言,git,ios开发,jSon技术,C语言,Restful
+Photoshop,HTTP传输协议,Objective-c语言,git,ios开发,jSon技术,C语言,Restful
+多线程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,UIKIT框架,XML技术,jSon技术,软件架构设计,软件架构,C语言
+Objective-c语言,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,美术基础,C语言,C++语言
+ios开发,XML技术,jSon技术,面向对象分析,软件工程
+COM编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,C语言,C++语言
+Socket编程,HTTP传输协议,ios开发,网络通信
+Objective-c语言,Swift语言,ios开发,软件工程,C语言
+java,TCP/IP编程,HTTP传输协议,xmpp协议,Objective-c语言,sqlite数据库,ios开发,Android开发,软件测试,C语言
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,网络通信,C语言
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,网络通信,软件测试,C语言
+java,多线程,系统设计,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,网络通信,C语言,C++语言,动画设计
+Objective-c语言,ios开发,数据结构,C语言,C++语言,算法设计与技术
+SQL Server数据库,TCP/IP编程,Objective-c语言,XCode开发工具,ios开发,C语言
+网络编程,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,Cocoa开发框架,C语言,C++语言
+java,css层叠样式表,Html,javaScript,Objective-c语言,ios开发,面向对象分析,Android开发,数据结构,C语言,C++语言
+多线程,网络编程,Objective-c语言,ios开发,C语言
+多线程,Socket编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,XML技术,jSon技术,面向对象分析,C语言
+网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件测试,熟悉主流测试工具,C语言
+多线程,网络编程,Objective-c语言,Swift语言,ios开发,Cocoa开发框架,C语言
+Objective-c语言,XCode开发工具,软件架构设计,软件测试,软件架构,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XCode开发工具,ios开发,iOS SDK,jSon技术,Db2数据库,Android SDK,Android开发,软件测试,软件工程,数据库系统原理
+多线程,ios开发,网络通信,C语言,C++语言
+TCP/IP编程,网络编程,Objective-c语言,ios开发,面向对象分析,数据结构,C语言,人机交互技术
+GUI编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,软件测试,C语言,C++语言
+C语言,Microsoft Visual C++ 6.0
+多线程,Socket编程,HTTP传输协议,ios开发,Android开发,C语言
+多线程,网络编程,ios开发,熟悉主流测试工具,C语言,C++语言
+java,UML建模语言,ios开发,软件测试,C语言,C++语言,嵌入式操作系统
+GUI编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,OOD面向对象设计,软件测试,C语言,C++语言
+java,css层叠样式表,Html,php,photoshop,Microsoft Office Visio,.net,javaScript,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,CVS(一种自动测
+java,css层叠样式表,Html,php,photoshop,Microsoft Office Visio,.net,javaScript,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,CVS(一种自动测
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+Objective-c语言,ios开发,软件工程,C语言
+java,css层叠样式表,Html,php,photoshop,Microsoft Office Visio,.net,javaScript,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,CVS(一种自动测
+多线程,网络编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言
+ios开发,软件工程,C语言,C++语言
+TCP/IP编程,网络编程,Objective-c语言,ios开发,面向对象分析,数据结构,C语言
+多线程,网络编程,Objective-c语言,ios开发,面向对象分析,C语言
+多线程,网络编程,Objective-c语言,ios开发,面向对象分析,C语言
+Socket编程,unix操作系统,网络编程,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,Cocoa开发框架,C语言,C++语言
+ios开发
+Socket编程,unix操作系统,网络编程,xmpp协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,面向对象分析,Cocoa开发框架,C语言,C++语言
+css层叠样式表,Html,php,javaScript,Objective-c语言,XCode开发工具,ios开发,数据库系统原理,数据结构,软件文档写作,C语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言,C++语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言,C++语言
+COM编程,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,数据分析,数据结构,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,Microsoft Visual C++ 6.0
+TCP/IP编程,HTTP传输协议,ios开发,XML技术,软件测试,C语言,C++语言
+TCP/IP编程,HTTP传输协议,XCode开发工具,ios开发,面向对象分析,熟悉主流测试工具,数据结构,C语言,C++语言
+ios开发,C语言,C++语言
+COM编程,HTTP传输协议,ios开发,Webservice
+XCode开发工具,ios开发,UIKIT框架
+Objective-c语言,XCode开发工具,ios开发,C语言,C++语言
+xmpp协议,ios开发,软件测试,C语言
+xmpp协议,ios开发,软件测试,C语言
+ios开发,软件架构设计,软件测试,软件架构,数据结构,C语言,C++语言
+ios开发,软件架构设计,软件测试,软件架构,数据结构,C语言,C++语言
+ios开发,软件项目管理,C语言
+ios开发,软件架构设计,Android开发,软件架构,软件项目管理,C语言
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,C语言,soap
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,Cocoa开发框架,C语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,OOD面向对象设计,UDP协议,C语言,C++语言
+Objective-c语言,ios开发,面向对象分析,C语言,C++语言
+java,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,UDP协议,Android开发,TCP/UDP,软件测试,C语言,C++语言
+linux操作系统,unix操作系统,Objective-c语言,ios开发,软件测试,C语言
+java,多线程,HTTP传输协议,xmpp协议,XCode开发工具,sqlite数据库,ios开发,iOS SDK,软件架构设计,软件架构,数据结构,C语言,电子商务
+ios开发,面向对象分析,网络通信,软件测试,C语言
+java,eclipse,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Cocoa开发框架,Interface Builder开发工具,Android SDK,Android开发,C语言,C++语言
+COM编程,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,C语言,C++语言,关系型数据库,Unity
+Html,photoshop,COM编程,GUI编程,网络编程,Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,软件测试,C语言,C++语言
+java,多线程,mysql数据库,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,XML技术,软件文档写作,C语言,C++语言,Webservice
+多线程,TCP/IP编程,网络编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,美术基础,C语言
+java,eclipse,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Cocoa开发框架,Interface Builder开发工具,Android SDK,Android开发,美术基础,C语言,C++语言
+多线程,ios开发,网络通信,数据结构
+Socket编程,HTTP传输协议,ios开发,C语言
+多线程,TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,UIKIT框架,面向对象分析,C语言
+Html,javaScript,多线程,XCode开发工具
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,iOSSDK,XML技术,jSon技术,网络通信,数据结构,C语言,C++语言,算法设计与技术
+Socket编程,HTTP传输协议,ios开发,C语言
+Socket编程,HTTP传输协议,ios开发,C语言
+Objective-c语言,ios开发,iOS SDK,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+多线程,网络编程,XCode开发工具,ios开发,面向对象分析,数据结构,C语言
+多线程,网络编程,XCode开发工具,ios开发,面向对象分析,数据结构,C语言,C++语言
+多线程,网络编程,XCode开发工具,ios开发,面向对象分析,数据结构,C语言,C++语言
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,iOSSDK,XML技术,jSon技术,网络通信,数据结构,C语言,C++语言,算法设计与技术
+java,多线程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,XML技术,jSon技术,面向对象分析,软件测试,C语言,C++语言
+java,多线程,COM编程,系统设计,网络编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言,C++语言
+java,多线程,COM编程,系统设计,网络编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言,C++语言
+css层叠样式表,javaScript,多线程,Socket编程,ios开发
+多线程,Swift语言,ios开发,面向对象分析,软件测试,数据结构,C语言,C++语言,编译原理
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,软件测试,C语言
+ios开发
+Objective-c语言,ios开发,面向对象分析,C语言
+photoshop,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,C语言,C++语言
+css层叠样式表,Html,Socket编程,HTTP传输协议,Swift语言,ios开发,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+XML技术,jSon技术
+XML技术,jSon技术
+XML技术,jSon技术
+TCP/IP编程,HTTP传输协议,ios开发,软件架构设计,熟悉主流测试工具,软件架构,数据结构,C语言,C++语言
+ios开发,软件测试
+网络编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,软件测试,C语言
+java,UML建模语言,iOSSDK,软件工程,C语言,C++语言,嵌入式操作系统
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Jsf框架,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,Socket编程,linux操作系统,unix操作系统,UML建模语言,O
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,数据结构,软件项目管理,C语言
+photoshop,COM编程,ios开发,面向对象分析,软件测试,数据结构,美工基础,C语言,C++语言,cocos2d-x,cocos2d,Unity
+EOS嵌入式开发,XCode开发工具,C++语言,HOOK
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,Instruments开发工具,数据结构,C语言
+多线程,GUI编程,Socket编程,ios开发,UIKIT框架,Cocoa开发框架,webview(一个显示网页的视图),软件测试,C语言,Webservice
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,网络通信,C语言,C++语言
+系统设计,系统分析,Objective-c语言,Swift语言,ios开发,iOS SDK,Android开发,软件测试,C语言
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言,rest
+Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,软件测试,C语言,C++语言
+C#,GUI编程,XCode开发工具,ios开发,面向对象分析,C语言,Unity
+Objective-c语言,ios开发,C语言,C++语言
+java,多线程,GUI编程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,Cocoa开发框架,Android SDK,网络通信,Android开发,C语言
+java,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,Cocoa开发框架,网络通信,C语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言,C++语言
+ios开发,office,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,OOD面向对象设计,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,OOD面向对象设计,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,OOD面向对象设计,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,OOD面向对象设计,软件测试,C语言,C++语言
+Objective-c语言,ios开发,软件项目管理,C语言,C++语言
+ios开发,软件架构设计,软件架构
+Objective-c语言,ios开发,面向对象分析,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,面向对象分析,数据结构,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,面向对象分析,数据结构,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,电子商务
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,Android开发,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+Swift语言,ios开发,C语言
+ios开发,C语言,C++语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件测试,软件架构,数据结构,美术基础,C语言
+HTTP传输协议,ios开发,C语言,C++语言
+Objective-c语言,XCode开发工具,C语言
+多线程,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,Interface Builder开发工具,数据结构,C语言,C++语言
+git,ios开发
+XCode开发工具,ios开发,iOS SDK,软件测试,数据结构,C语言
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,Swift语言,ios开发,XML技术,jSon技术,C语言,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,C语言,C++语言,Webservice
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,软件测试,C语言
+ios开发
+多线程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,C语言
+Objective-c语言,git,ios开发,iOS SDK,Instruments开发工具,C语言
+XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,Interface Builder开发工具,Arcgis,Webservice,ArcGIS
+GUI编程,XCode开发工具,ios开发,数据结构,C语言,C++语言,算法设计与技术
+TCP/IP编程,Objective-c语言,XCode开发工具,ios开发,C语言
+HTTP传输协议,Swift语言,XCode开发工具,ios开发,iOS SDK,XML技术,面向对象分析
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言
+ios开发,Android开发
+XCode开发工具,ios开发,iOS SDK
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+photoshop,ant(一种基于Java的build工具),Objective-c语言,git,sqlite数据库,ios开发,iOS SDK,C语言,rest
+TCP/IP编程,Objective-c语言,XCode开发工具,ios开发,C语言
+java,C#,C语言,C++语言
+java,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术,网络通信,软件架构设计,软件架构,C语言
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,UIKIT框架,C语言,C++语言
+多线程,网络编程,RTSP传输协议,XCode开发工具,ios开发,C语言
+OpenGl图形编程,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,数据结构,C语言
+ios开发,Android开发,软件工程
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,软件测试,C语言,C++语言
+GUI编程,Objective-c语言,ios开发,面向对象分析,C语言
+Objective-c语言,XCode开发工具,ios开发,软件项目管理,项目实施,C语言
+TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,ios开发,网络通信,Android开发
+Html,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言
+.net,Swift语言,XCode开发工具,ios开发,OOD面向对象设计,C语言,Microsoft Visual C++ 6.0
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOSSDK,XML技术,面向对象分析,C语言
+多线程,HTTP传输协议,Objective-c语言,ios开发,面向对象分析,C语言,C++语言,网络安全技术
+TCP/IP编程,Socket编程,WebSocket协议,HTTP传输协议,XCode开发工具,ios开发,UDP协议,C语言,C++语言
+windows操作系统,Objective-c语言,XCode开发工具,svn,ios开发,Interface Builder开发工具,Android开发,软件文档写作,C语言
+多线程,TCP/IP编程,HTTP传输协议,ios开发,XML技术,C语言
+HTTP传输协议,Objective-c语言,ios开发,jSon技术,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Interface Builder开发工具,Instruments开发工具,网络通信,C语言,Webservice,rest
+java,bootstrap框架,Bootstrap框架,Html,javaScript,Objective-c语言,XCode开发工具,ios开发,iOS SDK,软件测试,自动化测试(使用自动化测试软件、框架等),Bootstrap(Web前端CSS框架),C语言,bootstrap
+java,eclipse,mysql数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,ios开发,面向对象分析,软件测试,rest
+C#,.net,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,熟悉主流测试工具,软件项目管理,C语言,Microsoft Visual C++ 6.0
+系统设计,ios开发,软件测试,美术基础
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,Instruments开发工具,软件测试,熟悉主流测试工具,数据结构,C语言,C++语言
+多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,C语言
+java,多线程,Socket编程,sqlite数据库,ios开发,XML技术,jSon技术,软件文档写作
+软件架构设计,软件测试,软件架构,分布式
+photoshop,Socket编程,网络编程,HTTP传输协议,ios开发,Android开发,熟悉主流测试工具
+Objective-c语言,ios开发,iOSSDK,OOD面向对象设计,Cocoa开发框架,软件测试,C语言,C++语言
+Html,javaScript,Objective-c语言,sqlite数据库,ios开发,jSon技术,C语言,C++语言
+ios开发,软件测试
+Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,Android开发,C语言
+GUI编程,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,软件测试,C语言,rest
+TCP/IP编程,XCode开发工具,ios开发,网络通信,项目实施,C语言,Webservice,soap
+多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,C语言
+多线程,网络编程,ios开发,面向对象分析
+ios开发,Android开发,QTP(一种自动测试工具),Jira(项目与事务跟踪工具)
+java,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,Android开发
+Swift语言,XCode开发工具,ios开发,Instruments开发工具,C语言,Microsoft Visual C++ 6.0
+ios开发
+系统设计,ios开发,iOSSDK,OOD面向对象设计,Cocoa开发框架,软件测试,C语言
+多线程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,iOS SDK,数据结构,C语言,C++语言
+java,photoshop,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,Android开发,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,Android开发,软件测试,数据结构,算法设计与技术
+多线程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,网络通信,C语言
+Swift语言,XCode开发工具,ios开发,C语言
+网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+java,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,Android开发,C语言,C++语言
+网络编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,熟悉主流测试工具,C语言,C++语言,cocos2d-x,cocos2d
+ios开发
+OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,软件测试,数据结构,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,面向对象分析,网络通信,数据结构,C语言
+XCode开发工具,ios开发,面向对象分析,网络通信
+ios开发
+XCode开发工具,ios开发,软件测试
+Photoshop,HTTP传输协议,Objective-c语言,git,ios开发,jSon技术,C语言,Restful
+Photoshop,HTTP传输协议,Objective-c语言,git,ios开发,jSon技术,C语言,Restful
+Objective-c语言,ios开发,iOS SDK,面向对象分析,C语言
+多线程,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UIKIT框架,XML技术,jSon技术,Cocoa开发框架,数据结构,C语言,C++语言,电子商务
+Objective-c语言,XCode开发工具,ios开发,iOSSDK,软件测试,数据结构,C语言,C++语言
+javaScript,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,熟悉主流测试工具,数据结构,C语言,C++语言
+ORM对象关系映射,photoshop,.net,Objective-c语言,Swift语言,ios开发,OOD面向对象设计,Cocoa开发框架,C语言
+TCP/IP编程,HTTP传输协议,ios开发,软件架构设计,Android开发,软件架构,数据结构
+系统设计,Objective-c语言,XCode开发工具,ios开发,iOSSDK,Interface Builder开发工具,软件测试,C语言
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,软件项目管理,C语言
+Objective-c语言,ios开发,XML技术,jSon技术,C语言,C++语言
+Html,javaScript,Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+HTTP传输协议,ios开发,jSon技术,Android开发,cocos2d
+XCode开发工具,ios开发,熟悉主流测试工具,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,网络通信,C语言,Microsoft Visual C++ 6.0
+多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,C语言
+多线程,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,Cocoa开发框架,软件测试,C语言,C++语言,WebService
+网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+java,TCP/IP编程,python编程,Objective-c语言,ios开发,Cocoa开发框架,C语言,C++语言
+java,TCP/IP编程,python编程,Objective-c语言,ios开发,Cocoa开发框架,C语言,C++语言
+java,ios开发,Android开发,C++语言
+css层叠样式表,Html,Objective-c语言,XCode开发工具,ios开发,Instruments开发工具,C语言,电子商务
+Socket编程,Objective-c语言,XCode开发工具,ios开发,C语言
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,Cocoa开发框架,网络通信,软件项目管理,项目实施,C语言,C++语言
+ios开发,软件测试,C语言
+COM编程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,软件测试,C语言
+多线程,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+Socket编程,linux操作系统,unix操作系统,HTTP传输协议,Objective-c语言,ios开发,OOD面向对象设计,Cocoa开发框架,网络通信,软件测试,C语言,C++语言
+windows操作系统,Objective-c语言,XCode开发工具,svn,ios开发,Interface Builder开发工具,Android开发,软件文档写作,C语言
+java,linux操作系统,ios开发,Android开发,数据结构
+ios开发
+多线程,GUI编程,XCode开发工具,ios开发,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+Html,javaScript,GUI编程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,C语言
+COM编程,linux操作系统,HTTP传输协议,Objective-c语言,XCode开发工具,svn,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,熟悉主流测试工具,C语言,C++语言
+Objective-c语言,ios开发,软件测试,熟悉主流测试工具,office,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,C语言,C++语言
+ios开发,面向对象分析,Android开发,软件测试
+网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件测试,熟悉主流测试工具,C语言
+Html,javaScript,TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,jSon技术,C语言
+ios开发,Android开发
+COM编程,linux操作系统,HTTP传输协议,Objective-c语言,XCode开发工具,svn,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,熟悉主流测试工具,C语言,C++语言
+Objective-c语言,ios开发,自动化测试(使用自动化测试软件、框架等),C语言
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,软件测试,C语言
+ios开发,软件测试,C语言
+java,windows操作系统,Objective-c语言,Android开发,软件测试,C语言,C++语言
+ios开发,面向对象分析,软件工程
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,Instruments开发工具,数据结构,C语言,C++语言
+多线程,GUI编程,HTTP传输协议,ios开发,面向对象分析,Android开发,C语言
+Objective-c语言,ios开发,软件工程,C语言
+Objective-c语言,ios开发,iOS SDK,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+XCode开发工具,ios开发,美术基础
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,OOD面向对象设计,Cocoa开发框架,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,软件测试,C语言,C++语言
+Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,网络通信,软件测试,自动化测试(使用自动化测试软件、框架等),C语言,电子商务
+java,网络编程,ios开发,面向对象分析,C语言,C++语言
+ios开发,Cocoa开发框架,软件测试,C语言
+java,Html,XCode开发工具,ios开发,软件测试,C语言
+Objective-c语言,XCode开发工具,C语言,C++语言
+Objective-c语言,XCode开发工具,C语言,C++语言
+多线程,ios开发,数据结构,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,网络通信,软件项目管理,项目实施,C语言,C++语言
+多线程,TCP/IP编程,网络编程,ios开发,软件工程,C语言,计算机网络
+TCP/IP编程,Socket编程,Swift语言,ios开发,软件测试,C语言,Microsoft Visual C++ 6.0
+windows操作系统,linux操作系统,usb编程,ios开发,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,网络通信,C语言,C++语言,cocos2d-x,cocos2d
+css层叠样式表,Html,Swift语言,XCode开发工具,ios开发,C语言,电子商务
+ios开发,软件测试,C语言,C++语言
+网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+多线程,git,sqlite数据库,ios开发,软件测试
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,网络通信,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,软件项目管理,项目实施,C语言,C++语言,OpenCV
+ios开发
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件架构,数据结构,C语言
+Socket编程,HTTP传输协议,sqlite数据库,ios开发,XML技术,jSon技术,Cocoa开发框架,数据结构
+Objective-c语言,XCode开发工具,ios开发,C语言
+java,Objective-c语言,ios开发,iOS SDK,面向对象分析,Android SDK,Android开发,C语言,Microsoft Visual C++ 6.0
+java,Html,eclipse,Objective-c语言,Swift语言,XCode开发工具,ios开发,Android开发,C语言
+usb编程,ios开发,C语言
+多线程,系统设计,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UIKIT框架,XML技术,jSon技术,Cocoa开发框架,数据结构,C语言,电子商务
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,Interface Builder开发工具,网络通信,Android开发,数据结构,C语言,C++语言,算法设计与技术
+Objective-c语言,C语言
+Objective-c语言,ios开发,软件项目管理,C语言,信息安全导论,汇编语言
+usb编程,ios开发,C语言
+ios开发,熟悉主流测试工具,数据结构,软件项目管理,C语言,C++语言
+java,多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,XML技术,jSon技术,面向对象分析,Cocoa开发框架,软件测试,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+photoshop,多线程,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,UIKIT框架,Cocoa开发框架,网络通信,数据结构,C语言
+Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,Cocoa开发框架,C语言,C++语言
+Html,javaScript,TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,jSon技术,C语言
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,GUI编程,mysql数据库,Oracle数据库,linux操作系统,ios开发,XML技术,Android开发,C语言
+java,COM编程,网络编程,ios开发,面向对象分析,C语言,C++语言
+java,COM编程,网络编程,ios开发,面向对象分析,C语言,C++语言
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,网络通信,数据结构,C语言
+Objective-c语言,ios开发,C语言,C++语言
+COM编程,mysql数据库,Objective-c语言,XCode开发工具,ios开发,jSon技术,Android开发,C语言
+Objective-c语言,XCode开发工具,ios开发,数据结构,C语言,C++语言
+java,COM编程,网络编程,ios开发,面向对象分析,C语言,C++语言
+Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,C语言
+Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,C语言
+JavaEE架构,.net,Socket编程,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,OOD面向对象设计,Android开发,C语言
+Objective-c语言,ios开发,Interface Builder开发工具,Instruments开发工具,C语言
+usb编程,ios开发,office,C语言
+ios开发,软件测试,数据结构,OAuth
+ios开发,软件测试,数据结构,C语言
+XCode开发工具,ios开发,iOS SDK,软件测试,数据结构,C语言
+多线程,Socket编程,网络编程,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Cocoa开发框架,Interface Builder开发工具,网络通信,数据结构,C语言,C++语言,算法设计与技术
+ios开发,C语言
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,ios开发,iOS SDK,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,bash语言,C语言
+Socket编程,HTTP传输协议,ios开发
+css层叠样式表,Html,javaScript,Socket编程,HTTP传输协议,ios开发,网络通信,C语言
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,网络通信,软件测试,C语言,C++语言
+Objective-c语言,XCode开发工具,iOSSDK,面向对象分析,Android开发,C语言
+COM编程,linux操作系统,HTTP传输协议,Objective-c语言,XCode开发工具,svn,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,熟悉主流测试工具,C语言,C++语言
+Objective-c语言,面向对象分析,C语言,C++语言
+多线程,Objective-c语言,ios开发,网络通信,C语言,C++语言
+多线程,Objective-c语言,ios开发,面向对象分析,网络通信,软件项目管理,C语言,C++语言
+XCode开发工具,ios开发,软件测试,C语言,C++语言
+Socket编程,xmpp协议,Objective-c语言,ios开发,jSon技术,网络通信,C语言
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,数据结构,软件文档写作,C语言,C++语言
+COM编程,linux操作系统,Objective-c语言,XCode开发工具,svn,sqlite数据库,ios开发,iOS SDK,C语言,C++语言
+OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,UDP协议,TCP/UDP,C语言,Webservice
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+mysql数据库,SQL Server数据库,Socket编程,网络编程,HTTP传输协议,ios开发
+linux操作系统,unix操作系统,ios开发,软件测试,数据结构,软件文档写作,C++语言,VxWorks,cocos2d-x,cocos2d,嵌入式操作系统
+GUI编程,HTTP传输协议,ios开发,面向对象分析,Cocoa开发框架
+java,C#,Objective-c语言,XCode开发工具,面向对象分析,Cocoa开发框架,C语言,C++语言
+photoshop,系统设计,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,网络通信,软件文档写作,C语言
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,软件测试,C语言,C++语言
+ios开发,熟悉主流测试工具,软件项目管理,C语言,C++语言
+多线程,HTTP传输协议,XCode开发工具,ios开发,UIKIT框架,XML技术,jSon技术,数据结构
+Objective-c语言,ios开发,Cocoa开发框架,熟悉主流测试工具,C语言,C++语言,Microsoft Visual C++ 6.0
+java,GUI编程,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,数据结构,C语言,C++语言,算法设计与技术
+多线程,XCode开发工具,ios开发,Cocoa开发框架,网络通信,project
+网络编程,Objective-c语言,ios开发,XML技术,jSon技术,数据结构,C语言
+多线程,mysql数据库,SQL Server数据库,Socket编程,网络编程,SIP协议,HTTP传输协议,xmpp协议,sqlite数据库,ios开发,数据结构,C语言
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件测试,软件架构,数据结构,C语言
+php,linux操作系统,python编程,ios开发,Ruby On Rails web开发,软件测试,C语言,ruby
+GUI编程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,C语言
+ios开发,网络通信,Android开发,数据结构,C语言,C++语言
+eclipse,XCode开发工具,svn,ios开发,Android开发,电子商务
+usb编程,ios开发,C语言
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言,cocos2d
+Objective-c语言,XCode开发工具,ios开发,C语言
+Objective-c语言,XCode开发工具,Android开发,C语言
+ios开发,Android开发
+Html,javaScript,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,svn,sqlite数据库,ios开发,Android开发,数据结构,C语言
+JavaEE架构,mysql数据库,OpenGl图形编程,Objective-c语言,XCode开发工具,ios开发,iOSSDK,面向对象分析,Android开发,C语言,postgresql,Microsoft Visual C++ 6.0
+Objective-c语言,Swift语言,git,ios开发,Cocoa开发框架,Android开发,数据结构,C语言,C++语言
+TCP/IP编程,unix操作系统,网络编程,Objective-c语言,ios开发,C语言,C++语言
+ios开发,软件测试,C语言
+Html,photoshop,GUI编程,网络编程,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,C语言,C++语言
+OpenGl图形编程,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,Objective-c语言,XCode开发工具,ios开发,面向对象分析,MongoDB数据库,Interface Builder开发工具,数据结构,C语言,C++语言
+XCode开发工具,ios开发,Interface Builder开发工具,软件测试,C语言,C++语言
+ios开发,Android开发
+TCP/IP编程,Socket编程,网络编程,Swift语言,ios开发,Android开发,C语言
+java,eclipse,Objective-c语言,XCode开发工具,ios开发,Android开发,软件测试,C语言,C++语言
+css层叠样式表,Html,javaScript,网络编程,Objective-c语言,XCode开发工具,面向对象分析,Cocoa开发框架,C语言
+css层叠样式表,Html,javaScript,网络编程,Objective-c语言,XCode开发工具,面向对象分析,Cocoa开发框架,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发
+GUI编程,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,数据结构,C语言,算法设计与技术
+Objective-c语言,git,ios开发,iOS SDK,C语言
+GUI编程,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,数据结构,C语言,算法设计与技术
+Objective-c语言,git,ios开发,iOS SDK,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发
+mysql数据库,Objective-c语言,sqlite数据库,ios开发,C语言
+Html,多线程,HTTP传输协议,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,面向对象分析,Android开发,软件测试
+css层叠样式表,Html,ios开发,C语言,电子商务
+多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,网络通信,C语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,软件测试,软件架构,数据结构,C语言
+网络编程,ios开发,软件工程,C语言
+多线程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,C语言,C++语言
+多线程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+多线程,Objective-c语言,ios开发,C语言
+ios开发,C语言,C++语言
+ios开发,C语言,C++语言
+ios开发,C语言,C++语言
+windows操作系统,linux操作系统,ios开发,软件测试,C语言
+ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,Android开发,软件测试,软件工程,C语言,Microsoft Visual C++ 6.0
+XCode开发工具,ios开发,美术基础
+XCode开发工具,ios开发,美术基础
+XCode开发工具,ios开发,美术基础
+XCode开发工具,ios开发,C语言
+java,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Android SDK,网络通信,软件架构设计,Android开发,软件架构,数据库系统原理,数据结构,软
+eclipse,TCP/IP编程,Socket编程,HTTP传输协议,svn,git,ios开发,面向对象分析,Android SDK,网络通信,Android开发,软件测试,软件项目管理,C语言,嵌入式操作系统
+多线程,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,ios开发,XML技术,jSon技术,网络通信,软件架构设计,软件测试,软件架构,数据结构,office,C语言,电子商务
+Objective-c语言,ios开发,iOS SDK,面向对象分析,C语言,C++语言,Webservice,Microsoft Visual C++ 6.0
+Socket编程,HTTP传输协议,ios开发,iOS SDK,XML技术,jSon技术,网络通信,数据结构
+TCP/IP编程,unix操作系统,网络编程,Objective-c语言,XCode开发工具,ios开发,Android开发,C语言,C++语言
+Html,Tomcat,GUI编程,HTTP传输协议,ios开发,ERP(企业资源计划),Android开发,软件测试,数据结构,C语言,C++语言,Jboss
+ios开发,Android开发,电子商务
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,数据结构,office,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,C语言
+photoshop,HTTP传输协议,Objective-c语言,ios开发,网络通信,软件测试,数据结构,C语言
+GUI编程,Socket编程,HTTP传输协议,Objective-c语言,Swift语言,ios开发,C语言
+ios开发,软件项目管理,C语言
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+Objective-c语言,XCode开发工具,git,ios开发,iOS SDK,C语言
+photoshop,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Instruments开发工具,软件工程,C语言,C++语言
+SIP协议,xmpp协议,sqlite数据库,ios开发,面向对象分析,数据结构,项目实施,C语言,C++语言
+java,TFS(一个分布式文件系统),svn,git,面向对象分析,软件架构设计,Android开发,软件测试,软件架构,C语言
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,面向对象分析,Cocoa开发框架,网络通信,Android开发,软件项目管理,项目实施,C语言,C++语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Html,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,Android开发,C语言,jQuery Mobile
+TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,数据结构,C语言
+Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,svn,git,ios开发,软件测试,C语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,C语言
+Objective-c语言,Swift语言,ios开发,C语言
+GUI编程,Swift语言,XCode开发工具,ios开发,Interface Builder开发工具,数据结构,C语言
+多线程,网络编程,Objective-c语言,ios开发,面向对象分析,C语言
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,数据结构,C语言,C++语言,soap,rest
+eclipse,系统分析,XCode开发工具,ios开发,Android开发,软件测试,软件项目管理
+java,多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,软件架构设计,软件架构,数据结构,C语言,C++语言
+多线程,网络编程,XCode开发工具,ios开发,iOS SDK,C语言
+java,Html,eclipse,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,Objective-c语言,XCode开发工具,ios开发,软件架构设计,软件架构,软件文档写作,C语言,C++语言,cocos2d
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,C语言,Microsoft Visual C++ 6.0
+系统设计,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+多线程,HTTP传输协议,xmpp协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,软件架构设计,软件架构,数据结构,C语言,C++语言
+java,ios开发,Android开发
+多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,数据结构,C语言,C++语言
+java,python编程,git,ios开发,C语言,C++语言,ruby
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UDP协议,Android开发,C语言,C++语言
+ios开发
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOSSDK,Android开发,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,软件测试,C语言,C++语言
+Html,多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,面向对象分析,UDP协议,TCP/UDP,软件测试,C语言,C++语言
+java,C#,Objective-c语言,Android开发,C语言,C++语言
+ios开发,iOS SDK,XML技术,jSon技术,数据结构
+TCP/IP编程,xmpp协议,Objective-c语言,XML技术,C语言,C++语言,Microsoft Visual C++ 6.0
+Objective-c语言,面向对象分析,Cocoa开发框架,webview(一个显示网页的视图),C语言,C++语言
+photoshop,TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,iOSSDK,面向对象分析,网络通信,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,项目实施,C语言
+ios开发,软件测试,数据结构,C语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,windows操作系统,Qt,HTTP传输协议,C++语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,windows操作系统,Qt,HTTP传输协议,C++语言
+JavaEE架构,Socket编程,HTTP传输协议,ios开发,Android开发
+Objective-c语言,ios开发,软件测试,C语言
+ios开发,数据结构
+Objective-c语言,XCode开发工具,XML技术,jSon技术,网络通信,软件工程,C语言
+HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,jSon技术,C语言,C++语言
+Socket编程,ios开发,软件测试,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,iOS SDK,XML技术,jSon技术,Android开发,软件测试,熟悉主流测试工具,数据结构,C语言,C++语言
+多线程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,XML技术,jSon技术,面向对象分析,软件测试,C语言,C++语言
+Html,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,C语言,嵌入式操作系统
+ios开发
+多线程,GUI编程,TCP/IP编程,HTTP传输协议,xmpp协议,Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,网络通信,Android开发,C语言,Microsoft Visual C++ 6.0
+多线程,HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,ios开发,iOS SDK,C语言
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOSSDK,XML技术,面向对象分析,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,C语言
+java,windows操作系统,Objective-c语言,ios开发,Android开发,数据结构,C语言,C++语言
+ios开发,软件项目管理,C语言
+mysql数据库,ios开发,Android开发
+photoshop,.net,COM编程,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,Interface Builder开发工具,Instruments开发工具,Android开发,C语言,C++语言,cocos2d
+photoshop,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,Interface Builder开发工具,Instruments开发工具,C语言,C++语言,cocos2d
+多线程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+HTTP传输协议,Objective-c语言,XCode开发工具,面向对象分析,Cocoa开发框架,C语言,C++语言
+java,多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,软件架构设计,软件测试,软件架构,数据结构,C语言
+photoshop,HTTP传输协议,ios开发,面向对象分析
+Objective-c语言,XCode开发工具,ios开发,面向对象分析,Interface Builder开发工具,C语言,C++语言,Microsoft Visual C++ 6.0
+java,UML建模语言,iOSSDK,软件工程,C语言,C++语言,嵌入式操作系统
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,OOD面向对象设计,UDP协议,C语言,C++语言
+ios开发
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UDP协议,Android开发,C语言,C++语言
+Objective-c语言,ios开发,iOS SDK,C语言
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言,soap,rest
+Objective-c语言,ios开发,面向对象分析,C语言
+多线程,网络编程,HTTP传输协议,Objective-c语言,ios开发,软件测试,数据结构,C语言
+多线程,ios开发,Android开发
+ios开发,Android开发,软件测试,C语言
+Socket编程,Objective-c语言,XCode开发工具,ios开发,软件测试,C语言
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,熟悉主流测试工具,C语言,C++语言
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,C语言
+GUI编程,TCP/IP编程,网络编程,SIP协议,HTTP传输协议,ios开发,网络通信,C语言,C++语言
+HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,C语言,C++语言,soap,rest
+GUI编程,TCP/IP编程,网络编程,SIP协议,HTTP传输协议,ios开发,网络通信,C语言,C++语言
+GUI编程,TCP/IP编程,网络编程,SIP协议,HTTP传输协议,ios开发,网络通信,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,软件测试,软件工程,C语言,C++语言
+svn,git,ios开发,面向对象分析,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,Interface Builder开发工具,美工基础,C语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+TCP/IP编程,linux操作系统,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,软件工程,C语言,C++语言
+.net,多线程,GUI编程,TCP/IP编程,Socket编程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Android开发,软件测试,C语言
+ios开发,数据结构
+TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,C语言
+TCP/IP编程,Socket编程,ios开发,iOS SDK,面向对象分析
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,C语言
+多线程,COM编程,HTTP传输协议,git,ios开发,Android开发,C语言,电子商务
+GUI编程,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,Cocoa开发框架,C语言
+Socket编程,ios开发,C语言,C++语言
+多线程,GUI编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,网络通信,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,webview(一个显示网页的视图),Fragment,Android开发,TCP/UDP,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+Objective-c语言,ios开发,XML技术,jSon技术,Android开发,C语言,C++语言
+mysql数据库,SQL Server数据库,Oracle数据库,Objective-c语言,面向对象分析,数据结构,C语言,C++语言
+java,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据结构,C语言,C++语言
+Objective-c语言,ios开发,软件测试,C语言
+Objective-c语言,ios开发,C语言,C++语言
+mysql数据库,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,面向对象分析,网络通信,C语言,C++语言
+多线程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Cocoa开发框架,Interface Builder开发工具,网络通信,C语言
+多线程,Objective-c语言,ios开发,网络通信,Android开发,软件测试,C语言
+TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,C语言,C++语言
+java,系统设计,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,软件架构设计,Android开发,软件架构,数据库系统原理,数据结构,软件项目管理,C语言
+系统分析,Socket编程,unix操作系统,HTTP传输协议,Objective-c语言,ios开发,C语言,C++语言
+多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,网络通信,数据结构,C语言,电子商务
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,photoshop,javaScript,COM编程,mysql数据库,Objective-c语言,ios开发,jSon技术,软件测试,C语言,Restful
+php,HTTP传输协议,Objective-c语言,XCode开发工具,git,ios开发,UIKIT框架,面向对象分析,熟悉主流测试工具,软件文档写作,C语言
+ios开发,面向对象分析
+ios开发,面向对象分析
+Objective-c语言,XCode开发工具,ios开发,软件测试,C语言,C++语言
+UML建模语言,Objective-c语言,svn,git,ios开发,iOSSDK,C语言,C++语言,Microsoft Visual C++ 6.0
+java,C#,Objective-c语言,ios开发,Android开发,C语言
+XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,数据结构,C语言
+Objective-c语言,ios开发,网络通信,软件测试,C语言,C++语言
+网络编程,Objective-c语言,ios开发,jSon技术,C语言,C++语言
+jQuery框架,Html,photoshop,ios开发,jQuery Mobile
+系统设计,TCP/IP编程,网络编程,ios开发,数据结构,软件项目管理
+Objective-c语言,XCode开发工具,sqlite数据库,ios开发,XML技术,jSon技术,OOD面向对象设计,C语言,C++语言
+网络编程,ios开发
+系统设计,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOSSDK,面向对象分析,网络通信,软件测试,软件工程,C语言,C++语言,算法设计与技术
+java,.net,ios开发
+TCP/IP编程,Socket编程,网络编程,Objective-c语言,Swift语言,XCode开发工具,ios开发,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,HTTP传输协议,Objective-c语言,ios开发,Cocoa开发框架,软件文档写作,C语言
+网络编程,HTTP传输协议,Objective-c语言,svn,git,jSon技术,C语言,rest
+Android开发
+多线程,Socket编程,网络编程,HTTP传输协议,ios开发,iOS SDK,XML技术,jSon技术,Webservice
+java,多线程,GUI编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,Android开发,软件测试,软件架构,数据结构,C语言,C++语言
+java,ios开发,Android开发
+TCP/IP编程,HTTP传输协议,Objective-c语言,Swift语言,XCode开发工具,ios开发,软件测试,C语言
+Objective-c语言,ios开发,数据结构,C语言,C++语言
+java,css层叠样式表,Html,javaScript,Objective-c语言,ios开发,面向对象分析,软件工程,数据结构,C语言,C++语言
+GUI编程,HTTP传输协议,ios开发,面向对象分析,Cocoa开发框架
+Socket编程,Objective-c语言,XCode开发工具,ios开发,iOSSDK,网络通信,软件测试,数据结构,C语言,C++语言,Webservice
+XCode开发工具,ios开发,软件测试,软件项目管理,C语言
+php,Objective-c语言,ios开发,iOS SDK,软件测试,C语言
+GUI编程,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,ios开发,C语言,C++语言
+多线程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,Cocoa开发框架,数据结构,C语言,C++语言
+unix操作系统,Objective-c语言,XCode开发工具,ios开发,C语言
+Html,多线程,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,UDP协议,TCP/UDP,C语言
+Objective-c语言,Swift语言,XCode开发工具,ios开发,Cocoa开发框架,数据结构,C语言,C++语言
+ios开发
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,iOSSDK,jSon技术,面向对象分析,C语言
+ios开发
+系统分析,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOSSDK,XML技术,软件项目管理,C语言
+多线程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UIKIT框架,XML技术,jSon技术,面向对象分析,Cocoa开发框架,软件测试,自动化测试(使用自动化测试软件、框架等),C语言
+ios开发
+ios开发,面向对象分析
+Socket编程,HTTP传输协议,Objective-c语言,ios开发,Cocoa开发框架,Android开发,C语言,C++语言
+COM编程,TCP/IP编程,unix操作系统,网络编程,Objective-c语言,XCode开发工具,ios开发,C语言,C++语言
+ios开发
+ios开发
+java,多线程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOSSDK,Android开发,C语言,C++语言
+多线程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,面向对象分析,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+XCode开发工具,ios开发,Interface Builder开发工具,软件架构设计,熟悉主流测试工具,软件架构,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+Html,XHTML,TCP/IP编程,Objective-c语言,Swift语言,ios开发,XML技术,jSon技术,C语言
+Objective-c语言,ios开发,C语言
+photoshop,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,网络通信,数据结构,C语言
+Html,javaScript,GUI编程,mysql数据库,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,C语言,C++语言
+ios开发,C语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,UDP协议,C语言
+软件架构设计,软件架构
+系统设计,Objective-c语言,ios开发,面向对象分析,软件工程,软件项目管理,C语言,C++语言
+java,css层叠样式表,Html,php,javaScript,python编程,ios开发,Android开发,C语言,ruby
+TCP/IP编程,网络编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Cocoa开发框架,数据结构,C语言,C++语言
+java,系统设计,ios开发,面向对象分析,软件测试,C++语言
+Objective-c语言,ios开发,C语言
+网络编程,HTTP传输协议,ios开发

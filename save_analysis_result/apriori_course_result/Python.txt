@@ -1,0 +1,79 @@
+多线程,python编程,C语言,C++语言,django框架,flask
+mysql数据库,linux操作系统,unix操作系统,python编程,C语言,C++语言,分布式,postgresql,Lua
+css层叠样式表,Html,php,javaScript,mysql数据库,linux操作系统,python编程,git,Perl语言,数据库系统原理,C语言,ruby,VIM,电子商务
+php,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,python编程,面向对象分析,C语言,C++语言
+jQuery框架,Html,javaScript,NoSQL数据库,Redis数据库,linux操作系统,python编程,XML技术,jSon技术,MongoDB数据库,redis数据库,软件测试,Restful
+java,php,C#,mysql数据库,SQL Server数据库,linux操作系统,python编程,面向对象分析,Shell语言,C语言,C++语言,关系型数据库
+java,Memcached,mysql数据库,Redis数据库,python编程,redis数据库,C++语言,分布式,django框架,tornado
+Redis数据库,linux操作系统,python编程,redis数据库,数据分析,postgresql
+apache,mysql数据库,Socket编程,linux操作系统,python编程,MongoDB数据库,软件测试,项目实施,CloudStack,计算机网络,嵌入式操作系统
+python编程,软件测试,分布式
+多线程,python编程,软件测试,数据结构
+java,css层叠样式表,Html,javaScript,linux操作系统,python编程,django框架,tornado,Greenlet
+css层叠样式表,Html,javaScript,linux操作系统,python编程,ERP(企业资源计划),软件架构设计,软件架构,postgresql
+bootstrap框架,Bootstrap框架,css层叠样式表,Html,php,apache,Nginx,memcache,Nginx(一个HTTP和反向代理服务器),photoshop,javaScript,mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,网络编程,python编程,HTTP传输协议,redis
+mysql数据库,linux操作系统,unix操作系统,python编程,git,分布式,django框架,postgresql
+mysql数据库,linux操作系统,unix操作系统,python编程,git,postgresql
+javaScript,mysql数据库,python编程,django框架,Keyboard Video Mouse
+php,python编程,web后端设计与开发
+linux操作系统,python编程,软件测试,Shell语言,Twisted,Keyboard Video Mouse
+jQuery框架,css层叠样式表,Html,Nginx,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,Redis数据库,linux操作系统,python编程,git,MongoDB数据库,redis数据库,Shell语言,C语言,分布式,django框
+FreeBSD操作系统,ORM对象关系映射,ant(一种基于Java的build工具),linux操作系统,unix操作系统,python编程,OOD面向对象设计,C语言
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,HTTP传输协议,软件测试,django框架
+python编程,django框架,Keyboard Video Mouse
+Html,linux操作系统,python编程,django框架
+mysql数据库,python编程,自动化测试(使用自动化测试软件、框架等),postgresql
+Html,php,javaScript,mysql数据库,NoSQL数据库,Redis数据库,Socket编程,linux操作系统,python编程,HTTP传输协议,git,MongoDB数据库,redis数据库,django框架,postgresql,flask,Restful
+java,jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,php,C#,javaScript,mysql数据库,linux操作系统,python编程,git,MongoDB数据库,Bootstrap(Web前端CSS框架),C语言,C++语言,django框架,bootstrap,rest
+Memcached,mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,python编程,svn,git,MongoDB数据库,redis数据库,Shell语言,软件文档写作,Vmware
+Html,ORM对象关系映射,COM编程,linux操作系统,python编程,ERP(企业资源计划),Shell语言,Adobe Illustrator(AI),office,project,C语言,django框架,postgresql,Microsoft Visual C++ 6.0
+php,TCP/IP编程,linux操作系统,python编程,git,django框架
+css层叠样式表,Html,javaScript,python编程,django框架,Twisted
+java,css层叠样式表,Html,多线程,NoSQL数据库,linux操作系统,python编程,XML技术,MongoDB数据库,软件测试,Shell语言,数据库系统原理,C语言,django框架,tornado,Microsoft Visual C++ 6.0
+mysql数据库,SQL Server数据库,linux操作系统,python编程,django框架,sqlalchemy
+java,python编程,C语言,django框架,Microsoft Visual C++ 6.0
+mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,python编程,HTTP传输协议
+Nginx,Nginx(一个HTTP和反向代理服务器),多线程,mysql数据库,Redis数据库,linux操作系统,python编程,HTTP传输协议,MongoDB数据库,redis数据库,Shell语言,C语言,django框架,tornado
+php,Socket编程,python编程,git,django框架,tornado,Restful,OAuth
+python编程,django框架,gevent,Twisted
+mysql数据库,Oracle数据库,python编程,关系型数据库
+css层叠样式表,Html,php,apache,AJAX(异步的JavaScript与XML技术),mysql数据库,linux操作系统,python编程,软件测试,Shell语言
+css层叠样式表,Html,php,apache,AJAX(异步的JavaScript与XML技术),mysql数据库,linux操作系统,python编程,软件测试,Shell语言
+python编程,git,面向对象分析,数据结构,VIM,emacs
+Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,Redis数据库,Socket编程,linux操作系统,python编程,HTTP传输协议,git,面向对象分析,redis数据库,数据结构,bash语言,django框架,tornado,VIM,emacs
+php,python编程
+css层叠样式表,Html,php,Nginx,Nginx(一个HTTP和反向代理服务器),javaScript,NoSQL数据库,Redis数据库,linux操作系统,python编程,git,MongoDB数据库,redis数据库,数据库系统原理,tornado
+java,ant(一种基于Java的build工具),Ubuntu操作系统,CentOS操作系统,python编程,OOD面向对象设计,C语言,rest,Keyboard Video Mouse
+mysql数据库,linux操作系统,python编程,git,C语言
+COM编程,mysql数据库,Redis数据库,linux操作系统,python编程,redis数据库,django框架
+jQuery框架,css层叠样式表,Html,Memcached,javaScript,mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,Ubuntu操作系统,python编程,git,MongoDB数据库,redis数据库,django框架,flask,tornado
+linux操作系统,python编程,git,sqlalchemy
+css层叠样式表,Html,javaScript,mysql数据库,linux操作系统,python编程,MongoDB数据库,CXF,django框架,ActiveMQ,Java Message Service
+css层叠样式表,Html,javaScript,python编程,git,web后端设计与开发,C语言
+java,php,mysql数据库,python编程
+jQuery框架,css层叠样式表,Nginx,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,分布式,django框架,postgresql
+jQuery框架,css层叠样式表,Nginx,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,分布式,django框架,postgresql
+java,php,.net,javaScript,python编程,Android开发,Perl语言,软件工程,C语言,C++语言,ruby,Lua,Microsoft Visual C++ 6.0
+java,Html,javaScript,linux操作系统,python编程,面向对象分析,ERP(企业资源计划),软件测试,Shell语言,熟悉一种脚本语言,postgresql
+bootstrap框架,Bootstrap框架,.net,javaScript,mysql数据库,Oracle数据库,linux操作系统,python编程,Shell语言,Bootstrap(Web前端CSS框架),postgresql,tornado,bootstrap
+Redis数据库,TCP/IP编程,linux操作系统,python编程,HTTP传输协议,redis数据库,软件架构设计,软件架构,数据结构,分布式,django框架,postgresql,flask,tornado,SOA
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,python编程,HTTP传输协议,面向对象分析,数据结构,项目实施,C语言,关系型数据库,Webservice,Mic
+css层叠样式表,Html,javaScript,mysql数据库,linux操作系统,python编程,django框架,postgresql,电子商务
+css层叠样式表,Html,多线程,NoSQL数据库,linux操作系统,python编程,XML技术,MongoDB数据库,软件测试,Shell语言,数据库系统原理,C语言,C++语言,django框架,gevent,tornado,Twisted,Microsoft Visual C++ 6.0
+Html,mysql数据库,python编程,面向对象分析,软件工程,django框架,VIM,emacs
+java,css层叠样式表,Html,javaScript,mysql数据库,linux操作系统,python编程,Android开发,Shell语言,软件工程,C语言,django框架,Pylons,防火墙技术,访问控制技术,rest,Keyboard Video Mouse,网络安全技术
+java,css层叠样式表,Html,javaScript,mysql数据库,linux操作系统,python编程,Android开发,Shell语言,软件工程,C语言,django框架,Pylons,防火墙技术,访问控制技术,rest,Keyboard Video Mouse,网络安全技术
+mysql数据库,Redis数据库,linux操作系统,python编程,git,MongoDB数据库,redis数据库,django框架,数据库建模,tornado
+python编程,数据分析,tornado
+python编程,面向对象分析,数据结构,数据挖掘
+mysql数据库,python编程,面向对象分析,软件测试,django框架,关系型数据库
+css层叠样式表,Html,javaScript,TCP/IP编程,linux操作系统,python编程,git,数据分析
+css层叠样式表,Html,javaScript,TCP/IP编程,linux操作系统,python编程,git,数据分析
+photoshop,python编程,HTTP传输协议
+java,css层叠样式表,Html,Memcached,AJAX(异步的JavaScript与XML技术),javaScript,NoSQL数据库,Redis数据库,linux操作系统,python编程,redis数据库,软件测试,数据库系统原理,django框架,postgresql,tornado,Pyramid,Solr
+Html,memcache,javaScript,多线程,mysql数据库,NoSQL数据库,Redis数据库,python编程,消息队列,Qt,HTTP传输协议,MongoDB数据库,redis数据库,cache技术,数据结构,C语言,分布式,django框架,gevent,tornado,pyqt
+python编程,C语言,django框架,Microsoft Visual C++ 6.0
+NoSQL数据库,python编程,git,MongoDB数据库,软件测试,django框架,flask,orange,pandas
+php,memcache,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,网络编程,python编程,HTTP传输协议,redis数据库,cache技术,数据结构,C++语言
+css层叠样式表,javaScript,mysql数据库,linux操作系统,python编程,svn,git,django框架,gevent
+apache,Memcached,mysql数据库,Oracle数据库,Redis数据库,python编程,redis数据库,C语言,django框架,flask,tornado,中间件

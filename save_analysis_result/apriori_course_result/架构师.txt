@@ -1,0 +1,371 @@
+C#,C语言
+mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,数据库系统原理
+java,JavaEE架构,rose(UML画图工具),系统设计,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,软件工程,软件项目管理,Powerdesigner
+java,系统分析,python编程,Android开发,软件测试,C语言,C++语言
+java,php,Symfony框架,FastDFS(一个分布式文件系统),FreeBSD操作系统,PHPUnit单元测试,ORM对象关系映射,zend framework2框架,zend framework框架,AOP面向切面编程,IOC控制反转,ant(一种基于Java的build工具),javaScript,mysql
+java,jQuery框架,javaScript,面向对象分析
+COM编程,HTTP传输协议
+TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,ios开发,Android开发,C语言,C++语言
+java,系统分析,面向对象分析,软件工程,分布式,中间件,SOA
+jQuery框架,Spring框架,spring mvc框架,mysql数据库,Oracle数据库,Hbase数据库,数据库系统原理,hadoop(分布式系统基础架构),C语言,HBase,Microsoft Visual C++ 6.0,电子商务
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,un
+java,Struts框架,Hibernate框架,Spring框架,Jsf框架,apache,weblogic服务器,ant(一种基于Java的build工具),Oracle数据库,linux操作系统,unix操作系统,UML建模语言,ios开发,面向对象分析,Db2数据库,Android开发,Maven(一个
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),ecshop,javaScript,mysql数据库,Oracle数据库,linux操作系统,HTTP传输协议,XML技术,关系型数据库
+java,系统分析,软件架构设计,软件工程,软件架构,C语言
+java,Spring框架,spring mvc框架,Html,weblogic服务器,ant(一种基于Java的build工具),Oracle数据库,linux操作系统,unix操作系统,UML建模语言,面向对象分析,Db2数据库,Maven(一个项目管理工具),C语言,中间件,Java Message
+.net,软件项目管理
+php,Memcached,Smarty(一个模板引擎),SEO(搜索引擎优化),SEO数据挖掘及分析
+jQuery框架,Spring框架,spring mvc框架,mysql数据库,Oracle数据库,Hbase数据库,数据库系统原理,hadoop(分布式系统基础架构),C语言,HBase,Microsoft Visual C++ 6.0,电子商务
+JavaEE架构,软件架构设计,软件架构
+.net,多线程,TCP/IP编程,HTTP传输协议,ios开发,XML技术,jSon技术,Android SDK,Android开发,数据结构,中间件
+linux操作系统,面向对象分析,软件测试,软件工程,C语言,C++语言,分布式,中间件,Enterprise Service Bus,VxWorks,CORBA,嵌入式操作系统
+java,Hibernate框架,Spring框架,php,Nginx,Tomcat,jetty服务器,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,ios开发,redis数据库,Android开发,hadoop(分布式系统基础架构),HB
+java,JavaEE架构,rose(UML画图工具),OOA面向对象分析,OOD面向对象设计,面向对象分析,Db2数据库,软件项目管理,Powerdesigner
+java,mysql数据库,消息队列,面向对象分析,并发控制,数据库系统原理,分布式,SOA
+java,ORM对象关系映射,mysql数据库,Oracle数据库,Hbase数据库,Redis数据库,linux操作系统,python编程,redis数据库,hadoop(分布式系统基础架构),数据分析,C++语言,postgresql,数据挖掘,HBase,Hive,关系型数据库,Storm
+java,JavaEE架构,Html,php,linux操作系统,UML建模语言,Perl语言,C语言
+css层叠样式表,Html,php,Nginx,Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,linux操作系统
+C#,.net,多线程,mysql数据库,SQL Server数据库,Oracle数据库,C语言,分布式,Windows Communication Foundation,Microsoft Visual C++ 6.0
+.net,多线程,系统分析,NoSQL数据库,软件架构设计,软件架构,分布式
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EJB,weblogic服务器,websphere服务器,Oracle数据库,unix操作系统,UML建模语言,面向对象分析,Db2数据库,软件架构设计,软件测试,软件架构,C语言,中间件,SOA,Open S
+java,Spring框架,Ibatis框架,多线程,mysql数据库,Oracle数据库,linux操作系统,OOD面向对象设计,分布式,中间件
+java,css层叠样式表,Html,php,javaScript,软件测试,自动化测试(使用自动化测试软件、框架等),软件工程,软件项目管理,C语言,C++语言,ActionScript,Microsoft Visual C++ 6.0
+ios开发,面向对象分析,软件架构设计,Android开发,软件架构,软件项目管理,软件文档写作,数据挖掘
+Spring框架,多线程,NoSQL数据库,Hbase数据库,消息队列,hadoop(分布式系统基础架构),Maven(一个项目管理工具),分布式,HBase,Gradle
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),css层叠样式表,Html,Tomcat,weblogic服务器,Memcached,AJAX(异步的JavaScript与XML技术),javaScript,Redis数据库,redis数据库,C语言,Jedis,Microso
+jQuery框架,css层叠样式表,Html,php,memcache,javaScript,系统设计,windows操作系统,mysql数据库,Redis数据库,linux操作系统,redis数据库,cache技术,软件测试,软件项目管理,分布式,网络安全技术
+COM编程,系统设计,TCP/IP编程,网络编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,面向对象分析,Cocoa开发框架,数据库系统原理,软件项目管理,C语言,Microsoft Visual C++ 6.0
+Html,多线程,COM编程,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,面向对象分析,软件架构设计,软件架构,数据结构,C语言,C++语言
+css层叠样式表,Html,.net,javaScript,多线程,COM编程,TCP/IP编程,HTTP传输协议,分布式,SOA,SSH协议,电子商务
+多线程,COM编程,HTTP传输协议,XCode开发工具,ios开发,UIKIT框架,webview(一个显示网页的视图),C语言
+java,apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),AOP面向切面编程,IOC控制反转,多线程,系统分析,mysql数据库,Oracle数据库,NoSQL数据库,linux操作系统,MongoDB数据库,软件
+linux操作系统,ios开发,软件工程,C语言,C++语言,嵌入式操作系统,网络安全技术
+java,linux操作系统,Objective-c语言,ios开发,Android开发,Shell语言,gcc,C语言,C++语言,gdb,GDB
+java,软件项目管理
+C#,.net,数据分析,软件项目管理,C语言,数据挖掘,机器学习
+系统分析,软件项目管理
+java,ORM对象关系映射,AOP面向切面编程,IOC控制反转,rose(UML画图工具),系统分析,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,OOD面向对象设计,Db2数据
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,apache,Tomcat,eclipse,ant(一种基于Java的build工具),mysql数据库,linux操作系统,unix操作系统,UML建模语言,svn,XML技术,jSon技术,软件测试,CVS(一种自动测试工具),CXF
+java,jQuery框架,JavaEE架构,Html,apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Hbase数据库,TCP/IP编程,linux操作系统,HTTP传输协议,XML技术,数据库系统原
+java,数据结构,C++语言,分布式,数据挖掘,机器学习
+java,ios开发,Android开发
+java,多线程,系统设计,UML建模语言,面向对象分析
+python编程,Vmware
+java,Struts框架,Spring框架,myBatis框架,MyBatis框架,软件架构设计,软件工程,软件架构
+java,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,系统设计,mysql数据库,软件测试,分布式,Webservice,soap,中间件,信息安全导论
+JavaEE架构,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,ios开发,Db2数据库,Android开发,数据库系统原理,C语言
+java,系统设计,windows操作系统,linux操作系统,网络通信,C++语言,分布式,算法设计与技术
+java,jQuery框架,Struts框架,Hibernate框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,apache,weblogic服务器,Memcached,AJAX(异步的JavaScript与XML技术),eclipse,系统分析,mysql数据
+java,linux操作系统,软件测试,C语言,单片机原理与引用,嵌入式操作系统,汇编语言
+Html,C#,.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,软件工程,C语言,C++语言,嵌入式操作系统
+java,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,软件架构设计,软件架构,C语言,C++语言
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,Microsoft Visua
+java,JavaEE架构,ORM对象关系映射,IOC控制反转,C语言,Enterprise Service Bus,SOA,Microsoft Visual C++ 6.0
+Photoshop,CorelDRAW平面设计软件,Adobe Illustrator(AI),美术基础,Axure RP(快速原型设计工具),CorelDRAW
+java,C#,.net,SQL Server数据库,Oracle数据库,软件项目管理,C语言,C++语言
+java,JavaEE架构,Jsf框架,jsp(java服务器页面),javabean,EJB,Tomcat,mysql数据库,UML建模语言,软件项目管理,数据库建模,Jboss
+java,jQuery框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),多线程,系统设计,Oracle数据库,TCP/IP编程,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件
+php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,ios开发,软件项目管理,分布式
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,XML技术,搜索引擎算法,分布式,SSH协议
+java,多线程,网络编程,sqlite数据库,ios开发,面向对象分析,Android开发,数据库系统原理,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,系统分析,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件架构设计,软件测试,软件架构,分布式,SSH协议
+SQL Server数据库,Oracle数据库,Arcgis,ArcGIS,Mapinfo,GoogleMap
+.net,多线程,系统设计,系统分析,XML技术,jSon技术,C语言,分布式,Microsoft Visual C++ 6.0,电子商务
+java,jQuery框架,Extjs框架,css层叠样式表,Html,php,Memcached,AJAX(异步的JavaScript与XML技术),ThinkPHP框架,XHTML,javaScript,mysql数据库,Oracle数据库,Redis数据库,python编程,XML技术,jSon技术,MongoDB数据库,redis数据库,Shell
+java,C#,.net,系统分析,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,面向对象分析,软件架构设计,软件测试,软件工程,软件架构,软件项目管理,软件文档写作,C语言,C
+项目实施,信息安全导论
+C#,.net,数据分析,软件项目管理,C语言,数据挖掘,机器学习
+系统设计,C语言,信息安全导论
+php,ThinkPHP框架,mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,unix操作系统,面向对象分析,MongoDB数据库,redis数据库,软件测试,C语言,分布式,Microsoft Visual C++ 6.0
+java,jQuery框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,javaScript,多线程,系统设计,mysql数据库,linux操作系统,UML建模语言,jSon技术,面向对象分析,软件测试,软件工程,数据
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,软件项目管理,C++语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,apache,Tomcat,eclipse,ant(一种基于Java的build工具),mysql数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,svn,XML技术,jSon技术,软件测试,CVS(一种自动
+java,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,系统设计,mysql数据库,软件测试,分布式,Webservice,soap,中间件,信息安全导论
+java,多线程,Android SDK,Android开发
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,NoSQL数据库,cache技术,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,数据库系统原理,关系型数据库,Webservice
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,apache,Tomcat,eclipse,ant(一种基于Java的build工具),mysql数据库,linux操作系统,unix操作系统,UML建模语言,svn,XML技术,jSon技术,软件测试,CVS(一种自动测试工具),CXF
+jQuery框架,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,IOC控制反转,.net,javaScript,系统设计,系统分析,windows操作系统,SQL Server数据库,UML建模语言,面向对象分析,C语言,分布式,Windows Communication Foundatio
+C#,.net,系统分析,SQL Server数据库,Oracle数据库,软件项目管理,C语言,Arcgis,Webservice,ArcGIS,Microsoft Visual C++ 6.0
+java,jQuery框架,Hibernate框架,Spring框架,spring mvc框架,Tomcat,weblogic服务器,ORM对象关系映射,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Hbase数据库,hadoop(分布式系统基础架构),mapreduce(一种编程模型),
+系统设计,软件项目管理
+Tomcat,weblogic服务器,websphere服务器,mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,linux操作系统,redis数据库,ETL(数据仓库技术),C语言,关系型数据库,Jboss
+Struts框架,Hibernate框架,Spring框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,面向对象分析,网络通信,软件测试,数据结构
+软件项目管理
+java,Memcached,ORM对象关系映射,AOP面向切面编程,IOC控制反转,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,面向对象分析,redis数据库,cache技术,Perl语言,熟悉一种脚本语言,C
+JavaEE架构,系统设计,软件架构设计,软件架构,网络安全技术
+weblogic服务器,系统设计,Oracle数据库,面向对象分析,C语言
+weblogic服务器,系统设计,Oracle数据库,面向对象分析,C语言
+weblogic服务器,系统设计,Oracle数据库,面向对象分析,C语言
+java,JavaEE开发,Html,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,javaScript,多线程,mysql数据库,Oracle数据库,UML建模语言,XML技术,jSon技术,C语言,分布式,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,数据挖掘,Webservice
+java,JavaEE架构,Spring框架,SQL Server数据库,Oracle数据库,Redis数据库,redis数据库,hadoop(分布式系统基础架构),软件项目管理,项目实施,C语言,JBPM
+java,JavaEE架构,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),数据库系统原理,C语言,C++语言,关系型数据库,Webservice
+java,JavaEE架构,Hibernate框架,Jsf框架,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,数据库系统原理,电子商务
+软件架构设计,软件架构,C语言
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,XML技术,数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,Jsf框架,jsp(java服务器页面),javabean,EJB,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,Jsf框架,jsp(java服务器页面),javabean,EJB,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据
+java,css层叠样式表,Html,.net,javaScript,系统设计,NoSQL数据库,python编程,分布式
+java,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Memcached,AOP面向切面编程,Redis数据库,消息队列,面向对象分析,MongoDB数据库,redis数据库,软件工程,hadoop(分布式系统基础架构),软件项目管理,软
+java,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,visualStudio,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,软件工程,软件文档写作,C语言,Webservice,Microsoft Visual C++ 6.0
+java,Memcached,系统设计,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,unix操作系统,ios开发,MongoDB数据库,redis数据库,Android开发,软件测试,数据库系统原理,C++语言,分布式,Cassandra数据库,SSH协议,信息
+java,weblogic服务器,ORM对象关系映射,photoshop,SQL Server数据库,Oracle数据库,sybase数据库,project,C语言,Jboss
+JavaEE架构,SEO(搜索引擎优化),系统分析,面向对象分析,软件项目管理,SEO数据挖掘及分析,数据挖掘
+java,jQuery框架,Spring框架,myBatis框架,Extjs框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,软件项目管理,C语言,Mic
+css层叠样式表,Html,.net,javaScript,NoSQL数据库,HTTP传输协议,C语言,soap,SOA,Restful,OAuth,Single Sign On,Open Web Interface for .NET,Microsoft Visual C++ 6.0
+COM编程,HTTP传输协议
+java,JavaEE架构,Struts框架,Spring框架,myBatis框架,MyBatis框架,apache,Nginx,Tomcat,weblogic服务器,Nginx(一个HTTP和反向代理服务器),rose(UML画图工具),Microsoft Office Visio,系统设计,mysql数据库,Oracle数据库,linux操作系
+java,COM编程,HTTP传输协议,Android开发
+java,系统设计,软件架构设计,软件架构
+JavaEE架构,Html,ios开发,面向对象分析,Android开发,SOA
+java,JavaEE架构,css层叠样式表,php,Tomcat,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),javaScript,mysql数据库,linux操作系统,UML建模语言,面向对象分析,软件测试,分布式
+Struts框架,Spring框架,myBatis框架,MyBatis框架,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,XML技术,jSon技术,Db2数据库,数据库系统原理,C语言,分布式,Webservice,soap,Microsoft Visual C++ 6.0
+Html,php,apache,Nginx,memcache,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Redis数据库,linux操作系统,python编程,HTTP传输协议,jSon技术,MongoDB数据库,redis数据库,cache技术,
+java,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,apache,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML
+linux操作系统,unix操作系统,python编程,软件测试,Shell语言,C语言,C++语言,信息安全导论
+java,JavaEE架构,weblogic服务器,Oracle数据库,linux操作系统,unix操作系统,C语言
+java,linux操作系统,软件架构设计,软件测试,Shell语言,软件架构,分布式
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,EJB,系统设计,UML建模语言,面向对象分析,软件架构设计,软件架构,数据结构,分布式,中间件,SOA,Open Service Gateway Initiative
+java,JavaEE架构,Spring框架,myBatis框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),linux操作系统,UML建模语言,面向对象分析,软件测试,软件工程,Maven(一个项目管理工具),C语言,Webservice,Junit,Microsoft Visual C++ 6
+java,Hibernate框架,Spring框架,Ibatis框架,php,面向对象分析,软件测试,Jira(项目与事务跟踪工具),Maven(一个项目管理工具),hudson,SOA
+Html,php,apache,Nginx,memcache,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Redis数据库,linux操作系统,python编程,HTTP传输协议,jSon技术,MongoDB数据库,redis数据库,cache技术,
+.net,面向对象分析,数据库系统原理
+C#,.net,mysql数据库,SQL Server数据库,UML建模语言,MongoDB数据库,C语言,分布式,中间件,SOA
+java,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,linux操作系统,面向对象分析,软件测试
+java,Objective-c语言,ios开发,Android开发,数据结构,软件项目管理,C语言
+软件工程,软件文档写作
+java,php,系统设计,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,软件架构设计,软件架构,软件项目管理,分布式,Webservice,soap
+java,Html,C#,COM编程,mysql数据库,TCP/IP编程,OpenGl图形编程,Android开发,数据库系统原理,软件项目管理,C语言,C++语言
+weblogic服务器,SQL Server数据库,Oracle数据库,sybase数据库,C语言,Jboss
+ORM对象关系映射,Hbase数据库,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,数据挖掘,Hadoop分布式文件系统,HBase,Hive,Spark,zookeeper,Storm
+java,Spring框架,Ibatis框架,Tomcat,Memcached,多线程,系统设计,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,软件测试,netty框架,分布式,HBase,zookeeper,Netty,Jboss
+JavaEE架构,Struts框架,Spring框架,UML建模语言,MongoDB数据库,Enterprise Service Bus,SOA
+linux操作系统,软件测试,Perl语言
+java,JavaEE架构,软件工程
+java,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Memcached,AOP面向切面编程,系统设计,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,消息队列,面向对象分析,redis数据库,软件测试,软件工程,
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,IOC控制反转,多线程,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,UML建模语言,HTTP传输协
+jQuery框架,css层叠样式表,Html,php,memcache,javaScript,系统设计,windows操作系统,mysql数据库,Redis数据库,linux操作系统,redis数据库,cache技术,软件测试,软件项目管理,分布式,网络安全技术
+MFC,系统分析,windows操作系统,linux操作系统,网络编程,STL库,UML建模语言,面向对象分析,软件架构设计,软件测试,软件架构,软件文档写作,C语言,C++语言,Standard Template Library
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,EJB,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,javaScript,SQL Server数据库,linux操作系统,unix操作系统,ios开发,sybase数据库,Android开发
+JavaEE架构,Oracle数据库,软件测试,数据库系统原理,Adobe Illustrator(AI),电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,javaScript,数据库系统原理
+Android开发
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),javaScript,系统分析,Oracle数据库,linux操作系统,unix操作系统,XML技术,面向对象分析,Db2数
+java,php,多线程,系统分析,linux操作系统,unix操作系统,网络编程,数据结构,软件项目管理,C语言,C++语言,分布式,Vmware,Keyboard Video Mouse
+java,php,Nginx,Nginx(一个HTTP和反向代理服务器),javaScript,多线程,系统设计,mysql数据库,Redis数据库,TCP/IP编程,RTP传输协议,HTTP传输协议,MongoDB数据库,redis数据库,UDP协议,Shell语言,hadoop(分布式系统基础架构
+Tomcat,weblogic服务器,系统分析,Oracle数据库,ios开发,Android开发,C语言,分布式,GreenPlum,Webservice,SOA,Jboss,Java Message Service
+java,css层叠样式表,Html,Oracle数据库,UML建模语言,面向对象分析,软件项目管理,SOA
+JavaEE架构,系统设计,数据库系统原理
+系统设计,数据库系统原理,ETL(数据仓库技术),项目实施,Cognos,Datastage
+JavaEE架构,系统设计,数据库系统原理
+java,Oracle数据库,Hbase数据库,UML建模语言,面向对象分析,hadoop(分布式系统基础架构),HBase,Spark,中间件,SOA
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,javaScript,mysql数据库,Redis数据库,MongoDB数据库,redis数据库,软件工程,Maven(一个项目管理工具),C语言,分布式,关系
+java,jQuery框架,JavaEE架构,EASYUI框架(UI架构),Tomcat,javaScript,COM编程,mysql数据库,linux操作系统,HTTP传输协议,软件项目管理,分布式,SSH协议
+java,jQuery框架,JavaEE架构,EASYUI框架(UI架构),Tomcat,javaScript,COM编程,mysql数据库,linux操作系统,HTTP传输协议,软件项目管理,分布式,SSH协议
+Photoshop,Dreamweaver,.net,javaScript,Flash,美术基础,fireworks,动画设计
+C#,.net,svn,vss,软件测试,C语言
+java,jQuery框架,JavaEE架构,Tomcat,多线程,CXF,C语言,分布式,Enterprise Service Bus,Jboss,SSH协议,Microsoft Visual C++ 6.0
+php,apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,linux操作系统,Db2数据库,redis数据库,cache技术,数据库系统原理
+Html,DHTML,rose(UML画图工具),Microsoft Office Visio,C#,.net,系统设计,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,软件架构设计,软件架构,C语言,Powerdesigner,Windows Communication Foundation,SOA
+JavaEE架构,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,redis数据库,数据库系统原理,hadoop(分布式系统基础架构),软件项目管理,HBase,gdb,GDB
+JavaEE架构,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,redis数据库,数据库系统原理,hadoop(分布式系统基础架构),软件项目管理,HBase,gdb,GDB
+JavaEE架构,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,redis数据库,数据库系统原理,hadoop(分布式系统基础架构),软件项目管理,HBase,gdb,GDB
+JavaEE架构,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,redis数据库,数据库系统原理,hadoop(分布式系统基础架构),软件项目管理,HBase,gdb,GDB
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,数据库系统原理,hadoop(分布式系统基础架构),数据分析,ETL(数据仓库技术),bash语言,Teradata数据仓
+java,JavaEE开发,Hibernate框架,Spring框架,SOA,Open Service Gateway Initiative
+java,JavaEE架构,Html,apache,Tomcat,jetty服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,UML建模语言,HTTP传输协议,XML技术,面向对象分
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,Oracle数据库,linux操作系统,面向对象分析,软件测试
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),Oracle数据库,UML建模语言,XML技术,面向对象分析
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,OOA面向对象分析,OOD面向对象设计,Webservice
+java,jQuery框架,css层叠样式表,Html,php,memcache,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,Redis数据库,git,redis数据库,cache技术,软件文档写作
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,数据库系统原理,数据分析,C语言,分布式,电子商务
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),ThinkPHP框架,photoshop,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,ios开发,Db2数据库,Android开发,软件项目管理,分布式
+多线程,系统分析,网络编程,中间件
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),ThinkPHP框架,COM编程,mysql数据库,linux操作系统,软件项目管理
+memcache,ORM对象关系映射,.net,visualStudio,多线程,windows操作系统,Redis数据库,redis数据库,cache技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+memcache,ORM对象关系映射,.net,visualStudio,多线程,windows操作系统,Redis数据库,redis数据库,cache技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+java,php,C#,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,面向对象分析,软件测试,Shell语言,数据库系统原理,C语言,C++语言,关系型数据库
+java,jQuery框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,软件架构设计,软件工程,软件架构,C语言,Jboss
+java,Struts框架,Hibernate框架,Spring框架,Html,apache,Tomcat,eclipse,javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,OOD面向对象设计,面向对象分析,软件测试,Shell语言,netty框架,Maven(一个项目管理
+java,css层叠样式表,Html,C#,Objective-c语言,ios开发,Android开发,C语言,C++语言
+memcache,ORM对象关系映射,.net,visualStudio,多线程,windows操作系统,Redis数据库,redis数据库,cache技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+java,JavaEE开发,Spring框架,ORM对象关系映射,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,数据库系统原理,数据分析,软件项目管理,分布式,SOA,Open Service Gateway Initiative,Storm
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,php,Nginx,jetty服务器,Nginx(一个HTTP和反向代理服务器),多线程,系统分析,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,网络编
+jQuery框架,JavaEE架构,Struts框架,Spring框架,Ibatis框架,Html,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Oracle数据库,linux操作系统,面向对象分析,软件工程,Maven(一个项目管理工具)
+java,JavaEE架构,rose(UML画图工具),SQL Server数据库,Oracle数据库,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件工程,C语言,Powerdesigner,Webservice
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myEclipse,EJB,apache,Tomcat,Memcached,eclipse,多线程,linux操作系统,软件测试,机器学习,Solr,Jboss
+java,php,Nginx,memcache,Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Redis数据库,linux操作系统,python编程,消息队列,HTTP传输协议,MongoDB数据库,redis数据库,cache技术,hadoop(分布式系统基础架构),C语言
+hadoop(分布式系统基础架构),C语言,Hive
+系统分析
+java,JavaEE架构,EJB,Tomcat,weblogic服务器,websphere服务器,rose(UML画图工具),Oracle数据库,UML建模语言,OOD面向对象设计,并发控制,软件架构设计,软件架构,C语言,分布式,Powerdesigner,SOA,Jboss
+java,linux操作系统,xmpp协议,软件架构设计,Android开发,软件架构,C语言,C++语言,OpenCV
+java,mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,python编程,MongoDB数据库,Shell语言,Perl语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),数据分析,ETL(数据仓库技术),分布式,HBase,Hive,Cassandra数据
+jQuery框架,css层叠样式表,Html,photoshop,Dreamweaver,javaScript,Flash,网络安全技术
+java,Hibernate框架,Spring框架,系统分析,mina框架,分布式
+java,系统设计,C语言,C++语言,分布式,中间件,SOA,信息安全导论
+php,mysql数据库,linux操作系统,HTTP传输协议
+java,JavaEE架构,rose(UML画图工具),mysql数据库,Oracle数据库,Socket编程,UML建模语言,HTTP传输协议,jSon技术,软件测试,软件文档写作,分布式,Powerdesigner,soap
+java,多线程,系统分析,linux操作系统,Shell语言,分布式,中间件,电子商务
+网络安全技术,信息安全导论
+网络安全技术,信息安全导论
+java,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,JAVA主流框架,css层叠样式表,Html,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),photoshop,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,N
+java,jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,photoshop,C#,javaScript,TCP/IP编程,HTTP传输协议,ios开发,XML技术,jSon技术,网络通信,Android开发,Bootstrap(Web前端CSS框架),C语言,bootstrap
+java,软件项目管理,软件文档写作
+java,python编程,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+java,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,多线程,系统设计,系统分析,mysql数据库,Oracle数据库,Socket编程,linux操作系统,面向对象分析,软件架构设计,软件测试,软件架构,mina框架,项目实
+多线程,COM编程,OpenGl图形编程,面向对象分析,数据结构,软件项目管理,C++语言
+java,JavaEE架构,Struts框架,Spring框架,eclipse,Oracle数据库
+visualStudio,数据结构,SOA
+java,mysql数据库,电子商务
+java,php,系统分析,Hbase数据库,python编程,Shell语言,Perl语言,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,C语言,C++语言,分布式,数据挖掘,机器学习,Hadoop分布式文件系统,HBase,Hive
+java,系统设计,mysql数据库,linux操作系统,unix操作系统,软件工程,分布式
+java,JavaEE架构,Jsf框架,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),ant(一种基于Java的build工具),Microsoft Office Visio,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,
+.net,mysql数据库,SQL Server数据库,Oracle数据库,C语言,分布式,Microsoft Visual C++ 6.0
+java,JavaEE架构,UML建模语言,C语言,C++语言,Powerdesigner,中间件,SSH协议
+java,Struts框架,Hibernate框架,Spring框架,Hbase数据库,面向对象分析,软件工程,hadoop(分布式系统基础架构),mapreduce(一种编程模型),C语言,分布式,Java Data Base Connectivity,HBase,zookeeper
+java,bootstrap框架,Bootstrap框架,css层叠样式表,Html,.net,javaScript,ios开发,Android开发,Bootstrap(Web前端CSS框架),bootstrap
+apache,Nginx,memcache,FastDFS(一个分布式文件系统),ORM对象关系映射,Nginx(一个HTTP和反向代理服务器),mysql数据库,MongoDB数据库,cache技术,hadoop(分布式系统基础架构),分布式,Spark,zookeeper,Cassandra数据库,Storm,
+java,php,mysql数据库,python编程
+java,JavaEE架构,rose(UML画图工具),mysql数据库,Oracle数据库,UML建模语言,软件测试,软件文档写作,分布式,Powerdesigner
+java,多线程,TCP/IP编程,linux操作系统,UDP协议,网络通信,软件架构设计,软件架构
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,SQL Server数据库,Oracle数据库,面向对象分析,ERP(企业资源计划),软件项目管理,C语言,Webs
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Tomcat,weblogic服务器,系统分析,mysql数据库,Oracle数据库,软件项目管理,C语言,Webservice,中间件,SOA,activiti
+java,Memcached,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,redis数据库,数据结构,软件项目管理,C语言,C++语言,分布式,关系型数据库
+java,JavaEE开发,Html,Memcached,ORM对象关系映射,javaScript,多线程,mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,Redis数据库,UML建模语言,面向对象分析,MongoDB数据库,redis数据库,软件架构设计,软件架构,数
+mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,数据库系统原理
+java,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),.net,linux操作系统,python编程,svn,git,Shell语言
+mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,数据库系统原理
+java,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,软件工程,软件项目管理
+java,.net,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,linux操作系统,C语言,分布式,SOA
+java,JavaEE架构,Memcached,多线程,mysql数据库,Hbase数据库,linux操作系统,unix操作系统,MongoDB数据库,Shell语言,hadoop(分布式系统基础架构),mapreduce(一种编程模型),JavaSe,分布式,Hadoop分布式文件系统,HBase,Hive,z
+java,php,分布式
+java,JavaEE架构,rose(UML画图工具),.net,SQL Server数据库,Oracle数据库,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件工程,软件项目管理,Powerdesigner,Webservice
+java,JavaEE开发,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,Memcached,AOP面向切面编程,mysql数据库,Redis数据库,消息队列,面向对象分析,redis数据库,软件项目管理,C语言,分布式,Enterprise Service Bus,SOA,Restf
+java,php,mysql数据库,python编程,软件测试
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,jsp(java服务器页面),css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,数据库系统原理,C语言,Microsoft Visual
+java,JavaEE开发,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,Memcached,AOP面向切面编程,mysql数据库,Redis数据库,消息队列,面向对象分析,redis数据库,软件项目管理,C语言,分布式,Enterprise Service Bus,SOA,Restf
+php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,ios开发,软件项目管理,分布式
+Photoshop,CorelDRAW平面设计软件,Adobe Illustrator(AI),美工基础,美术基础,CorelDRAW
+系统设计,NoSQL数据库,Redis数据库,TCP/IP编程,redis数据库,ERP(企业资源计划),软件项目管理,软件文档写作,分布式,Cassandra数据库,网络安全技术
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,IOC控制反转,多线程,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,UML建模语言,HTTP传输协
+java,Socket编程,linux操作系统,unix操作系统,HTTP传输协议,面向对象分析,软件测试,Shell语言,C语言,C++语言,CloudStack,Keyboard Video Mouse,信息安全导论
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,linux操作系统,C语言
+java,apache,多线程,面向对象分析,网络通信,netty框架,mina框架,分布式,zookeeper,Netty,SOA,Restful
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Jsf框架,Tomcat,weblogic服务器,websphere服务器,AOP面向切面编程,IOC控制反转,多线程,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,XML技术,面
+多线程,UML建模语言,面向对象分析,数据结构,分布式
+java,jQuery框架,Hibernate框架,Spring框架,Extjs框架,spring mvc框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,svn,软件项目管理,C语
+java,JavaEE开发,Struts框架,Spring框架,Ibatis框架,Memcached,多线程,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,分布式
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,javaScript,多线程,系统分析,windows操作系统,SQL Server数据库,Oracle数据库,Hbase数据库,linux操作系统,git,面向对象分析,软件测试,单元测试工
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,UML建模语言,面向对象分析
+mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,数据库系统原理
+linux操作系统,gcc,C语言,cuda,嵌入式操作系统,算法设计与技术
+linux操作系统,gcc,C语言,cuda,嵌入式操作系统,算法设计与技术
+linux操作系统,gcc,C语言,cuda,嵌入式操作系统,算法设计与技术
+linux操作系统,gcc,C语言,cuda,嵌入式操作系统,算法设计与技术
+linux操作系统,gcc,C语言,cuda,嵌入式操作系统,算法设计与技术
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,AOP面向切面编程,IOC控制反转,javaScript,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,git,UDP协议,TCP/UDP,软件项目管理,项目实施,C语言,Microsoft Visual C++ 6
+jQuery框架,rose(UML画图工具),C#,.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,软件工程,C语言,Powerdesigner,open data protocol,中间件,Microsoft Visual C++ 6.0
+java,ORM对象关系映射,python编程,hadoop(分布式系统基础架构),C++语言,Spark,Storm
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,apache,Tomcat,Memcached,mysql数据库,Oracle数据库,Redis数据库,redis数据库,数据库系统原理,hadoop(分布式系统基础架构),搜索引擎算法,C
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,apache,Tomcat,Memcached,mysql数据库,Oracle数据库,Redis数据库,redis数据库,数据库系统原理,hadoop(分布式系统基础架构),搜索引擎算法,C
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,XML技术,面向对象分析,数据库建模
+ORM对象关系映射,ant(一种基于Java的build工具),C#,.net,mysql数据库,SQL Server数据库,OOD面向对象设计,project,C语言
+系统设计,TCP/IP编程,软件项目管理,Citrix,路由协议,网络安全技术
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,php,javaScript,软件架构设计,软件架构,数据分析,JavaSe,分布式,数据挖掘
+java,JavaEE架构,Spring框架,spring mvc框架,JAVA主流框架,linux操作系统,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,JAVA主流框架,Memcached,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,TCP/IP编程,linux操作系统,HTTP传输协议,MongoDB数据库,redis数据库,数据库系统原理,net
+mysql数据库,SQL Server数据库,Oracle数据库,C++语言,关系型数据库
+Dreamweaver,Hbase数据库,hadoop(分布式系统基础架构),数据分析,ETL(数据仓库技术),搜索引擎算法,项目实施,C语言,分布式,Online Analytical Processing,数据挖掘,HBase,Hive,WebService,中间件
+java,ORM对象关系映射,python编程,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,数据结构,C语言,C++语言,分布式,数据挖掘,Hive,Spark,Storm
+java,.net,系统分析,SQL Server数据库,Oracle数据库,软件架构设计,软件工程,软件架构,软件文档写作,嵌入式操作系统
+java,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,系统设计,mysql数据库,软件测试,分布式,Webservice,soap,中间件,信息安全导论
+COM编程,HTTP传输协议
+java,系统设计,电子商务
+java,jQuery框架,DWR框架,Extjs框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,COM编程,HTTP传输协议,git,jSon技术,软件工程,软件项目管理,C语言
+CloudStack,Vmware,Keyboard Video Mouse
+Tomcat,weblogic服务器,websphere服务器,windows操作系统,SQL Server数据库,linux操作系统,unix操作系统,软件测试,项目实施,C语言
+jQuery框架,css层叠样式表,Html,Memcached,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,ERP(企业资源计划),C语言,分布式,Windows Communication Foundation,Webservice
+java,rose(UML画图工具),软件测试,Powerdesigner,中间件
+java,Tomcat,weblogic服务器,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,hadoop(分布式系统基础架构),软件项目管理,软件文档写作,C语言,分布式,中间件,Jboss,信息安全导论
+java,Hibernate框架,Spring框架,系统分析,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,分布式,电子商务
+java,apache,Tomcat,web2.0,eclipse,.net,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件项目管理,Jboss,网络安全技术
+java,mysql数据库,Redis数据库,linux操作系统,redis数据库,C语言,关系型数据库
+AOP面向切面编程,IOC控制反转,.net,系统分析,NoSQL数据库,软件测试,C语言,分布式,Windows Communication Foundation,中间件,SOA,Microsoft Visual C++ 6.0
+数据分析
+java,AJAX(异步的JavaScript与XML技术),系统分析,UML建模语言,面向对象分析,C++语言
+java,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,多线程,系统设计,系统分析,mysql数据库,Oracle数据库,linux操作系统,面向对象分析,软件架构设计,软件测试,软件架构,Maven(一个项目管理工具),
+系统分析,UML建模语言,面向对象分析,软件架构设计,软件工程,软件架构,数据库系统原理,数据分析,数据结构,项目实施,C语言,C++语言,计算机网络,算法设计与技术,网络安全技术
+java,JavaEE开发,多线程,系统分析,mysql数据库,Oracle数据库,linux操作系统,分布式
+java,JavaEE架构,系统设计,Oracle数据库,Db2数据库,Webservice
+JavaEE架构,.net,mysql数据库,SQL Server数据库,Oracle数据库
+JavaEE架构,软件架构设计,软件架构,中间件,SOA
+javaScript,linux操作系统,python编程,数据分析
+java,php,数据库系统原理
+java,JavaEE架构,Struts框架,Spring框架,Ibatis框架,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,linux操作系统,UML建模语言,OOD面向对象设计,ERP(企业资源计划),软件测试,netty框架,m
+java,jQuery框架,JavaEE开发,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,熟悉一种脚本语言,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,面向对象分析,软件架构设计,软件架构,软件项目管理,SSH协议
+C#,C语言,Arcgis,ArcGIS
+java,Tomcat,weblogic服务器,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,hadoop(分布式系统基础架构),软件项目管理,软件文档写作,C语言,分布式,中间件,Jboss
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Jsf框架,Tomcat,weblogic服务器,websphere服务器,多线程,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,XML技术,面向对象分析,Db2数据库,软件测
+python编程,MongoDB数据库,软件项目管理,项目实施,分布式
+java,.net,windows操作系统,linux操作系统,软件工程,分布式,电子商务
+java,软件工程,分布式
+java,系统设计,系统分析,软件工程,分布式
+java,php,系统设计,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,面向对象分析,数据库系统原理,分布式,电子商务
+java,php,系统设计,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,面向对象分析,数据库系统原理,分布式,电子商务
+java,JavaEE架构,Struts框架,Spring框架,myBatis框架,MyBatis框架,mysql数据库,Oracle数据库,unix操作系统,软件测试,软件工程
+java,jQuery框架,bootstrap框架,Extjs框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Tomcat,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,数据库系统原理,软件项目管理,Bootstrap(Web前端CSS框架),
+java,jQuery框架,bootstrap框架,Extjs框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Tomcat,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,数据库系统原理,软件项目管理,Bootstrap(Web前端CSS框架),
+系统分析,电子商务
+java,Struts框架,Spring框架,Ibatis框架,myEclipse,php,Tomcat,websphere服务器,jetty服务器,eclipse,javaScript,系统设计,mysql数据库,Redis数据库,redis数据库,数据结构,软件文档写作,分布式,postgresql,ActiveMQ,中间件,Jboss,
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,php,linux操作系统,python编程,UML建模语言,面向对象分析,软件工程
+java,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),C#,.net,C语言
+java,JavaEE架构,css层叠样式表,Tomcat,AJAX(异步的JavaScript与XML技术),系统设计,mysql数据库,Oracle数据库,linux操作系统,CentOS操作系统,XML技术,数据库系统原理,分布式,WebService,soap,Jboss,Java Message Service
+NoSQL数据库,hadoop(分布式系统基础架构),数据分析,ETL(数据仓库技术),分布式,数据挖掘
+电子商务
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,HTTP传输协议,面向对象分析
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,jetty服务器,mysql数据库,MongoDB数据库,数据库系统原理,C语言,rest,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,SQL Server数据库,Oracle数据库,UML建模语言,软件项目管理,Webservice,Jboss
+java,JavaEE架构,Oracle数据库,Db2数据库,数据库系统原理,电子商务
+java,系统分析,软件测试,软件项目管理,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,Db2数据库,ERP(企业资源计划),软件测试,软件文档写作,C语言,Microsoft Visual C++ 6.0,电子商务
+java,ORM对象关系映射,多线程,mysql数据库,Oracle数据库,Hbase数据库,Redis数据库,linux操作系统,unix操作系统,消息队列,redis数据库,Shell语言,hadoop(分布式系统基础架构),分布式,HBase,Spark,Storm
+java,eclipse,多线程,系统设计,TCP/IP编程,网络编程,OpenGl图形编程,sqlite数据库,ios开发,面向对象分析,Android SDK,Android开发,软件测试,数据库系统原理,软件项目管理,C语言,C++语言
+java,css层叠样式表,Html,php,apache,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,unix操作系统,XML技术,jSon技术,面向对象分析,UDP协议,熟悉主流测试工具,
+java,JavaEE开发,Spring框架,spring mvc框架,servlet,apache,Nginx,Tomcat,jetty服务器,memcache,Nginx(一个HTTP和反向代理服务器),多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,面向对
+多线程,TCP/IP编程,linux操作系统,UDP协议,软件测试,gdb,GDB
+mysql数据库,SQL Server数据库,Oracle数据库,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,ETL(数据仓库技术),分布式,数据挖掘,Hive,关系型数据库
+java,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,git,Maven(一个项目管理工
+JavaEE架构,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,ios开发,Db2数据库,Android开发,数据库系统原理,C语言
+java,JavaEE架构,Spring框架,Ibatis框架,jetty服务器,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件工程,Enterprise Service Bus,SOA,电子商务
+java
+python编程,数据结构,搜索引擎算法,C语言,分布式,爬虫技术
+Spring框架,spring mvc框架,ORM对象关系映射,mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,Redis数据库,MongoDB数据库,redis数据库,hadoop(分布式系统基础架构),C语言,分布式,HBase,Hive,Spark,Webservice,Storm,Microso
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,UML建模语言,XML技术,OOA面向对象分析,OOD面向对象设计,面向对象分析,Webserv
+java,rose(UML画图工具),C#,系统设计,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件工程,C语言,C++语言,Powerdesigner,密码学
+java,JavaEE架构,Spring框架,php,apache,eclipse,javaScript,mysql数据库,Oracle数据库,Hbase数据库,linux操作系统,ios开发,Android开发,软件测试,hadoop(分布式系统基础架构),软件项目管理,cms(Content Management System内容管
+java,jQuery框架,Html,AJAX(异步的JavaScript与XML技术),多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,ios开发,面向对象分析,cache技术,UDP协议,Android开发,netty框架,mina框架,
+java,项目实施,CloudStack,Vmware,Citrix,Keyboard Video Mouse
+java,jQuery框架,bootstrap框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,php,apache,Nginx,Tomcat,jetty服务器,Memcached,Nginx(一个HTTP和反向代理服务器),.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,多线程,SQL Server数据库,Oracle数据库,XML技术,jSon技术,数据库系统原理,C语言,Windows Communication Foundation,soap,rest,Microsoft
+java,JavaEE架构,面向对象分析,分布式
+java,jQuery框架,JavaEE架构,Hibernate框架,myBatis框架,Extjs框架,spring mvc框架,MyBatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统分析,mysql数据库,Oracle数据库,svn,软件工程,数据库系统原理,C语言,Webser
+java,jQuery框架,JavaEE架构,Hibernate框架,myBatis框架,Extjs框架,spring mvc框架,MyBatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统分析,mysql数据库,Oracle数据库,svn,软件工程,数据库系统原理,C语言,Webser
+java,JavaEE架构,Tomcat,系统设计,mysql数据库,SQL Server数据库,UML建模语言,OOA面向对象分析,OOD面向对象设计,软件工程,软件项目管理
+java,JavaEE架构,Tomcat,系统设计,mysql数据库,SQL Server数据库,UML建模语言,OOA面向对象分析,OOD面向对象设计,软件工程,软件项目管理
+Struts框架,Hibernate框架,Spring框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,面向对象分析,网络通信,软件测试,数据结构
+java,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,软件文档写作,分布式,中间件
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Memcached,Redis数据库,TCP/IP编程,网络编程,HTTP传输协议,redis数据库,cache技术,软件项目管理,Ehcache
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,HTTP传输协议,CXF,C语言,Webservice,Microsoft Visual C++ 6.0
+C#,.net,多线程,SQL Server数据库,UML建模语言,office,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,EJB,css层叠样式表,Html,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),javaScript,COM编程,mysql数据库,Oracle数据库,NoSQL数据库,linux操作系统,unix操作系统,python编程,UML建模语言,ios开发,Db2数据库,Android开发,Shell语言,Perl语言,熟悉一种脚本语言,Adobe Illustrator(AI),Jboss
+java,css层叠样式表,Html,photoshop,javaScript,多线程,COM编程,系统分析,Socket编程,linux操作系统,unix操作系统,python编程,HTTP传输协议,ios开发,网络通信,Android开发,Shell语言,Perl语言,熟悉一种脚本语言,数据结构,Adobe Illustrator(AI),C语言,C++语言
+java,.net,mysql数据库,SQL Server数据库,linux操作系统,面向对象分析,软件项目管理
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Tomcat,windows操作系统,mysql数据库,linux操作系统,UML建模语言,面向对象分析,Db2数据库,软件测试,SOA,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,eclipse,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,软件工程,数据库系统原理,C语言,Java Data Base Connectivity,电子商务
+java,JavaEE架构,rose(UML画图工具),.net,SQL Server数据库,Oracle数据库,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件工程,软件项目管理,C语言,Powerdesigner,Webservice,电子商务
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,mysql数据库,XML技术,熟悉一种脚本语言,数据结构,Bootstrap(Web前端CSS框架),C语言,cms(Content Management System内容管理系统(网页有关)),数据库建模,bootstrap,Microsoft Visual C++ 6.0
+java,JavaEE架构,apache,Nginx,weblogic服务器,websphere服务器,Nginx(一个HTTP和反向代理服务器),Oracle数据库,linux操作系统,UML建模语言,软件架构设计,软件测试,软件工程,软件架构,软件项目管理,Adobe Illustrator(AI),C语言,postgresql,中间件,Enterprise Service Bus,Jboss,电子商务,信息安全导论
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,mysql数据库,XML技术,熟悉一种脚本语言,数据结构,Bootstrap(Web前端CSS框架),C语言,cms(Content Management System内容管理系统(网页有关)),数据库建模,bootstrap,Microsoft Visual C++ 6.0
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,mysql数据库,XML技术,熟悉一种脚本语言,数据结构,Bootstrap(Web前端CSS框架),C语言,cms(Content Management System内容管理系统(网页有关)),数据库建模,bootstrap,Microsoft Visual C++ 6.0

@@ -1,0 +1,22 @@
+import time
+from bloomFilter import bloomfilter
+
+if __name__ == '__main__':
+    bf = bloomfilter.BloomFilter()
+    count = 1
+    fsh = open('ran.txt','r+')
+    url = fsh.readline().strip('\n')
+    #for i in range(1000000):
+    while url != '':
+        if bf.isContaions(url) == False:
+            print "count = ",count
+            count += 1
+            bf.insert(url)
+        else:
+            print "rul = ",url
+            print "has exists-->"
+        url = fsh.readline().strip('\n')
+    
+    #if bf.isContaions(str(9999)) == True:
+    #    print "has exists-->"
+

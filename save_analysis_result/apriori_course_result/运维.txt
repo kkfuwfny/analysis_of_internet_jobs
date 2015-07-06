@@ -1,0 +1,700 @@
+.net,COM编程,Access数据库,软件测试,office,C语言
+linux操作系统,C语言
+Oracle数据库,linux操作系统,Shell语言,Perl语言
+Oracle数据库,Red Hat操作系统,软件测试,C语言
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,ios开发,redis数据库,Shell语言,Perl语言,Vmware,Keyboard Video Mouse,Keepalived,Linux Virtual Server
+windows操作系统,linux操作系统,C语言,网络安全技术
+mysql数据库,Oracle数据库,linux操作系统,C语言,Recovery Manager,Goldengate
+weblogic服务器,Oracle数据库,PL/SQL,C语言
+apache,Tomcat,weblogic服务器,windows操作系统,mysql数据库,linux操作系统,软件测试,C语言,Jboss,网络安全技术
+apache,Tomcat,mysql数据库,linux操作系统,unix操作系统,svn,软件测试,Shell语言,Linux Virtual Server,网络安全技术
+windows操作系统,TCP/IP编程,linux操作系统,C语言,网络安全技术
+mysql数据库,Oracle数据库,linux操作系统,Shell语言,Vmware,Keyboard Video Mouse,XenServer,网络安全技术
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,C语言
+windows操作系统,mysql数据库,Oracle数据库,unix操作系统,Db2数据库,软件测试,Shell语言,C语言
+windows操作系统,linux操作系统,软件测试
+软件测试
+Oracle数据库,linux操作系统,软件测试,软件项目管理,项目实施,C语言,Vmware
+java,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统
+mysql数据库,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,软件文档写作,office,C语言
+windows操作系统,linux操作系统,中间件
+软件项目管理,项目实施,C语言,Vmware
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,ITIL
+windows操作系统,TCP/IP编程,HTTP传输协议,C语言,路由协议,网络安全技术
+java,apache,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,中间件,Jboss
+windows操作系统,linux操作系统,C语言
+软件工程,软件项目管理
+软件文档写作,office,项目实施
+软件工程,软件项目管理
+java,apache,Tomcat,C#,windows操作系统,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言,C++语言
+java,apache,Tomcat,C#,windows操作系统,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言,C++语言
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+软件文档写作,office,项目实施
+.net,COM编程,windows操作系统,TCP/IP编程,HTTP传输协议,C语言,路由协议,网络安全技术
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+软件项目管理,office,project,项目实施,C语言
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,svn,git,ios开发,Shell语言,Perl语言,hadoop(分布式系统基础架构),分布式,Linux Virtual Server
+php,NoSQL数据库,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,Shell语言,分布式,django框架
+java,Oracle数据库,unix操作系统
+php,FastDFS(一个分布式文件系统),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,ios开发,MongoDB数据库,redis数据库,Shell语言,Perl语言,hadoop(分布式系统基础架构),分布式,postgresql,Keyboard Video 
+php,apache,.net,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试,Vmware,网络安全技术
+php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,CentOS操作系统,python编程,svn,Shell语言,熟悉一种脚本语言
+Jira(项目与事务跟踪工具),office
+Html,COM编程,windows操作系统,mysql数据库,linux操作系统,HTTP传输协议,Shell语言,网络安全技术
+unix操作系统,C语言
+SQL Server数据库,Oracle数据库
+Nginx,Nginx(一个HTTP和反向代理服务器),linux操作系统,软件测试,计算机网络
+.net,软件工程
+windows操作系统,linux操作系统,软件测试
+.net,windows操作系统,linux操作系统,C语言,计算机网络
+系统设计,linux操作系统,unix操作系统,ITIL
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),linux操作系统,ios开发,Shell语言,网络安全技术
+TCP/IP编程,linux操作系统,HTTP传输协议,svn,UDP协议,软件测试,Shell语言,Perl语言,Jira(项目与事务跟踪工具),Maven(一个项目管理工具),路由协议
+TCP/IP编程,linux操作系统,HTTP传输协议,svn,UDP协议,软件测试,Shell语言,Perl语言,Jira(项目与事务跟踪工具),Maven(一个项目管理工具),路由协议
+apache,Tomcat,Memcached,windows操作系统,mysql数据库,linux操作系统,Shell语言,软件文档写作,Keepalived,Linux Virtual Server,网络安全技术
+windows操作系统,linux操作系统
+java,linux操作系统,unix操作系统,C++语言
+windows操作系统,软件测试,office,C语言
+windows操作系统,linux操作系统,unix操作系统,软件测试,C语言,Vmware
+linux操作系统,C语言
+COM编程
+SQL Server数据库,Oracle数据库,ERP(企业资源计划),项目实施
+分布式
+Nginx,Tomcat,memcache,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,python编程,cache技术,Perl语言,bash语言,Keyboard Video Mouse,Linux Virtual Server
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+java,css层叠样式表,Html,Tomcat,memcache,SEO(搜索引擎优化),javaScript,COM编程,mysql数据库,linux操作系统,python编程,HTTP传输协议,cache技术,Shell语言,SEO数据挖掘及分析,电子商务
+数据分析
+windows操作系统,linux操作系统,软件测试,电子商务
+windows操作系统,网络安全技术
+TCP/IP编程,linux操作系统,UDP协议,TCP/UDP,C语言
+分布式
+Tomcat,weblogic服务器,SQL Server数据库,Oracle数据库,美工基础,C语言,中间件
+windows操作系统,office,C语言
+php,COM编程,linux操作系统,python编程,HTTP传输协议,Shell语言,Perl语言,C语言
+Photoshop,office
+SQL Server数据库,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+windows操作系统,linux操作系统,软件测试
+php,windows操作系统,mysql数据库,linux操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言
+HTTP传输协议,office,电子商务
+java,Tomcat,weblogic服务器,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,C语言,分布式,Jboss,网络安全技术
+apache,Nginx,jetty服务器,Memcached,Nginx(一个HTTP和反向代理服务器),Redis数据库,linux操作系统,ios开发,MongoDB数据库,redis数据库,软件测试
+php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+apache,windows操作系统,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言
+java,php,.net,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,python编程,MongoDB数据库,ERP(企业资源计划),bash语言
+photoshop,office
+Oracle数据库
+软件测试,office
+ITIL,中间件
+php,mysql数据库,TCP/IP编程,linux操作系统
+ETL(数据仓库技术),Teradata数据仓库
+SQL Server数据库,linux操作系统,网络安全技术
+linux操作系统,sybase数据库
+软件测试,C语言
+apache,.net,mysql数据库,linux操作系统,Shell语言,bash语言,C语言,postgresql,Keyboard Video Mouse
+apache,.net,mysql数据库,linux操作系统,Shell语言,bash语言,C语言,postgresql,Keyboard Video Mouse
+php,apache,Nginx,Tomcat,memcache,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,cache技术,Shell语言,Perl语言,熟悉一种脚本语言,搜索引擎算法,项目实施,Linux Vi
+php,apache,mysql数据库,linux操作系统,软件测试,Perl语言,bash语言,fix协议
+Photoshop,office
+C语言
+memcache,mysql数据库,SQL Server数据库,CentOS操作系统,cache技术
+windows操作系统,软件测试,office
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,TCP/IP编程,CentOS操作系统,python编程,HTTP传输协议,cache技术,软件测试,web后端设计与开发,关系型数据库,ruby
+软件测试
+apache,mysql数据库,Oracle数据库,linux操作系统,ios开发,软件测试
+windows操作系统,mysql数据库,linux操作系统,ios开发,软件测试,Shell语言,项目实施,Vmware,网络安全技术
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,C语言
+软件测试
+数据分析,网络安全技术
+ERP(企业资源计划)
+Nginx,Nginx(一个HTTP和反向代理服务器),linux操作系统,Linux Virtual Server
+COM编程,HTTP传输协议,软件项目管理,项目实施,C语言
+windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,C语言
+系统设计,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理,C语言,ITIL
+php,apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Redis数据库,linux操作系统,python编程,redis数据库,Shell语言,Perl语言,熟悉一种脚本语言,ruby,Linux Virtual Ser
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,Red Hat操作系统,软件测试,Shell语言,项目实施,C语言
+windows操作系统,Shell语言
+Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,CentOS操作系统,Red Hat操作系统,python编程,HTTP传输协议,cache技术,C语言,Linux Virtual Server
+php,.net,mysql数据库,软件测试,C语言
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,Db2数据库,软件测试,Shell语言,Perl语言,bash语言,C语言,C++语言
+linux操作系统
+linux操作系统
+java,php,.net,linux操作系统,unix操作系统,Shell语言
+linux操作系统,软件测试,网络安全技术
+apache,Tomcat,weblogic服务器,C#,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,数据库系统原理,软件文档写作,C语言,中间件
+Nginx,Tomcat,weblogic服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Shell语言,Perl语言,C语言,ITIL
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,HTTP传输协议,svn,git,MongoDB数据库,redis数据库,软件测试,Shell语言,Linux Virtual Server
+php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,fix协议,计算机病毒与防范
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,mysql数据库,SQL Server数据库,数据库系统原理,C语言
+windows操作系统,软件测试,C语言,信息安全导论
+linux操作系统,unix操作系统,软件测试,软件项目管理,中间件
+apache,.net,mysql数据库,linux操作系统,Shell语言,bash语言,C语言,postgresql,Keyboard Video Mouse
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),javaScript,Redis数据库,TCP/IP编程,linux操作系统,python编程,MongoDB数据库,redis数据库,Shell语言,C语言,ruby
+java,软件测试,软件项目管理,项目实施
+windows操作系统,linux操作系统,软件测试,office,信息安全导论
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,SQL Server数据库,linux操作系统,MongoDB数据库,Vmware,Keyboard Video Mouse
+windows操作系统,软件测试
+java,php,apache,Tomcat,FreeBSD操作系统,windows操作系统,mysql数据库,linux操作系统,python编程,软件测试,Shell语言,搜索引擎算法,C++语言
+windows操作系统,office
+windows操作系统,软件测试
+windows操作系统,linux操作系统,office,C语言
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,python编程,Shell语言,C语言
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,ios开发,软件测试,Shell语言,熟悉一种脚本语言,电子商务
+php,memcache,mysql数据库,Redis数据库,linux操作系统,CentOS操作系统,python编程,MongoDB数据库,redis数据库,cache技术,Shell语言,Perl语言,熟悉一种脚本语言
+php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,python编程,ios开发,MongoDB数据库,redis数据库,Shell语言,Keyboard Video Mouse
+weblogic服务器,websphere服务器,系统分析,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,C语言,中间件
+软件测试,数据分析
+Tomcat,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,ios开发,软件测试,Shell语言
+TCP/IP编程,网络安全技术
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+mysql数据库,TCP/IP编程,linux操作系统,unix操作系统,CentOS操作系统,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,C语言,网络安全技术
+JavaEE架构,photoshop,ant(一种基于Java的build工具),COM编程,linux操作系统,OOD面向对象设计,Perl语言,Adobe Illustrator(AI),C语言,ruby
+ERP(企业资源计划),office
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),.net,mysql数据库,linux操作系统,unix操作系统,软件测试
+photoshop,office
+photoshop,office
+Tomcat,windows操作系统,linux操作系统,python编程,软件测试,Shell语言,Perl语言,C语言,visual basic script,Jboss
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,Shell语言
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+linux操作系统,Db2数据库
+TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,计算机网络
+office,Axure RP(快速原型设计工具)
+java,php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,Red Hat操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,数据分析,Jboss,网络安全技术
+php,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言,Keyboard Video Mouse
+java,php,windows操作系统,mysql数据库,linux操作系统,python编程,软件测试,中间件
+Photoshop,office
+计算机网络,网络安全技术
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,C语言,C++语言,电子商务
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,C语言,C++语言,电子商务
+java,C#,windows操作系统,linux操作系统,软件测试,C语言,C++语言,计算机网络
+SQL Server数据库,Oracle数据库,项目实施
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,C语言
+TCP/IP编程,计算机网络
+java,linux操作系统,软件项目管理,软件文档写作
+软件测试
+java,ORM对象关系映射,系统分析,Hbase数据库,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),mapreduce(一种编程模型),分布式,数据挖掘,HBase,Hive,Storm
+Html,linux操作系统,python编程,django框架
+apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,unix操作系统,python编程,svn,redis数据库,软件测试,Shell语言,Perl语言,分布式,网络安
+windows操作系统,linux操作系统,软件测试,Adobe Illustrator(AI)
+apache,mysql数据库,linux操作系统,python编程,ios开发,Shell语言,Perl语言,熟悉一种脚本语言,Vmware,Keyboard Video Mouse,Linux Virtual Server
+windows操作系统,网络通信,软件测试,office
+windows操作系统,网络通信,软件测试,office
+windows操作系统
+软件测试,数据分析
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,SQL Server数据库,linux操作系统,ios开发,软件测试,RabbitMQ,Linux Virtual Server,fix协议
+java,ORM对象关系映射,系统分析,Hbase数据库,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,C++语言,分布式,数据挖掘,机器学习,HBase,M
+.net,windows操作系统,软件测试,网络安全技术
+php,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,python编程,ios开发,软件测试,Shell语言,熟悉一种脚本语言
+apache,Tomcat,linux操作系统,数据分析,软件项目管理
+java,mysql数据库,linux操作系统,软件测试
+java,php,apache,Nginx,jetty服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,CentOS操作系统,Red Hat操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言
+java,JavaEE架构,eclipse,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,面向对象分析,网络通信,软件测试,软件工程,数据结构,C语言
+java,php,apache,Nginx,jetty服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,CentOS操作系统,Red Hat操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言
+.net,windows操作系统,网络安全技术
+TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,bash语言,路由协议,网络安全技术
+jQuery框架,JavaEE架构,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,XML技术,面向对象分析
+windows操作系统,SQL Server数据库,TCP/IP编程,python编程,ios开发,Shell语言,Perl语言,防火墙技术,网络安全技术
+mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库
+windows操作系统,软件测试,C语言
+mysql数据库
+windows操作系统,TCP/IP编程,linux操作系统,软件测试
+软件测试,计算机网络
+php,mysql数据库,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+Memcached,mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,python编程,svn,git,MongoDB数据库,redis数据库,Shell语言,软件文档写作,Vmware
+photoshop,TCP/IP编程,数据分析,软件项目管理,C语言,网络安全技术,信息安全导论
+java,php,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),C#,Redis数据库,linux操作系统,python编程,redis数据库,Shell语言,Perl语言,熟悉一种脚本语言,C语言,Keyboard Video Mouse,Linux Virtual Server,Jboss,gdb,GDB,网络安全
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,unix操作系统,svn,ios开发,MongoDB数据库,Shell语言,hadoop(分布式系统基础架构),数据分析,C语言,C++语言,Vmware,Citrix,XenServer,Keepalive
+Microsoft Office Visio,windows操作系统,linux操作系统,unix操作系统,软件项目管理,office,C语言,网络安全技术
+windows操作系统,linux操作系统,软件测试,信息安全导论
+java,软件测试,SSH协议
+apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),linux操作系统,ios开发,Keyboard Video Mouse,Linux Virtual Server,网络安全技术
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,C语言,C++语言,电子商务
+Tomcat,weblogic服务器,windows操作系统,Oracle数据库,linux操作系统,C语言
+windows操作系统,linux操作系统,svn,Vmware,Citrix,XenServer,计算机网络,网络安全技术
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,软件项目管理,项目实施,C语言,Vmware,Citrix
+office,C语言
+php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,python编程,ios开发,MongoDB数据库,redis数据库,Shell语言,C语言
+TCP/IP编程,linux操作系统,HTTP传输协议,数据挖掘
+windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,软件测试,Vmware
+软件测试
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,redis数据库,Linux Virtual Server,网络安全技术,计算机病毒与防范
+Oracle数据库
+软件测试,office,C语言
+apache,mysql数据库,linux操作系统,Shell语言,ITIL
+photoshop,python编程,Shell语言,熟悉一种脚本语言
+photoshop,python编程,Shell语言,熟悉一种脚本语言
+photoshop,软件测试,软件项目管理,中间件,网络安全技术,信息安全导论
+java,Oracle数据库,linux操作系统,软件测试
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,unix操作系统
+java,php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言
+php,apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),Redis数据库,linux操作系统,python编程,ios开发,redis数据库,软件测试,Perl语言,熟悉一种脚本语言,bash语言,Keyboard Video Mouse,Linux Virtual Server
+apache,windows操作系统,mysql数据库,Redis数据库,linux操作系统,svn,redis数据库,熟悉一种脚本语言
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,linux操作系统,unix操作系统,Red Hat操作系统,MongoDB数据库,redis数据库,软件测试,Shell语言,Perl语言,关系型
+apache,COM编程,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,软件测试,软件项目管理,C语言,C++语言,中间件,网络安全技术
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,Db2数据库,软件测试,Shell语言,Perl语言,bash语言,C语言,C++语言
+jQuery框架,bootstrap框架,Bootstrap框架,php,python编程,Bootstrap(Web前端CSS框架),bootstrap
+java,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,软件项目管理
+数据分析
+linux操作系统,python编程,Shell语言,Perl语言,C语言,Keyboard Video Mouse
+windows操作系统,linux操作系统,软件测试,项目实施,C语言,Vmware
+linux操作系统,unix操作系统,软件测试,Shell语言
+mysql数据库,linux操作系统,Shell语言
+C语言
+软件测试
+php,apache,Nginx,Tomcat,weblogic服务器,memcache,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,ios开发,cache技术,软件测试,Shell语言,熟悉一种
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,bash语言,C语言,分布式,关系型数据库,网络安全技术
+php,系统设计,mysql数据库,NoSQL数据库,TCP/IP编程,linux操作系统,网络编程,python编程,Perl语言,bash语言,C语言,postgresql,ruby
+软件测试,office,C语言
+php,apache,Tomcat,FreeBSD操作系统,mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,C语言,Vmware,SSH协议,计算机网络
+php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,svn,git,ios开发,redis数据库,网络通信,软件测试,Shell语言,熟悉一种脚本语言,数据分析,软件项目管理,网络安全
+linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言
+软件项目管理,office,ITIL
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,MongoDB数据库,Shell语言,数据分析
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+软件工程,项目实施
+java,eclipse,Oracle数据库
+php,apache,Nginx,memcache,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,python编程,HTTP传输协议,redis数据库,cache技术,Shell语言,Perl语言,熟悉一种脚本语言,ruby,Keepalived,Linux
+windows操作系统,TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,路由协议,网络安全技术,信息安全导论
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),TCP/IP编程,linux操作系统,python编程,ios开发,软件测试,Shell语言,Perl语言,数据分析,Jboss
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,unix操作系统,CentOS操作系统,Red Hat操作系统,python编程,MongoDB数据库,软件测试,Shell语言,软件项目管理,ActiveMQ
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,CentOS操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,Linux Virtual Server
+office
+windows操作系统,linux操作系统,Shell语言
+SQL Server数据库,office,C语言
+COM编程,系统设计,windows操作系统,Oracle数据库,软件测试,office,C语言,Vmware,网络安全技术
+windows操作系统,网络安全技术,信息安全导论
+php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,python编程,ios开发,MongoDB数据库,redis数据库,Shell语言,Keyboard Video Mouse
+Oracle数据库,项目实施
+apache,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,Perl语言,数据分析
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,网络安全技术
+Oracle数据库,PL/SQL,linux操作系统,Shell语言
+java,Tomcat,mysql数据库,linux操作系统,python编程,分布式,django框架,ruby
+windows操作系统,linux操作系统,python编程,Perl语言,bash语言,C语言
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),TCP/IP编程,linux操作系统,CentOS操作系统,ios开发,Shell语言
+Tomcat,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,网络安全技术
+java,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,Shell语言,软件项目管理
+php,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,CentOS操作系统,Shell语言,熟悉一种脚本语言,软件文档写作,C语言,visual basic script,Vmware,Linux Virtual Server
+php,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,CentOS操作系统,Shell语言,熟悉一种脚本语言,C语言,visual basic script,Vmware,Linux Virtual Server
+apache,mysql数据库,linux操作系统,python编程,软件测试,Shell语言
+TCP/IP编程,linux操作系统,熟悉一种脚本语言
+linux操作系统,python编程,ios开发,MongoDB数据库,Perl语言,熟悉一种脚本语言,bash语言
+Nginx,Nginx(一个HTTP和反向代理服务器),linux操作系统,python编程,ios开发,Shell语言,Perl语言,熟悉一种脚本语言
+css层叠样式表,Html,apache,javaScript,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,XML技术,cache技术,软件测试,Shell语言
+css层叠样式表,Html,apache,javaScript,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,XML技术,cache技术,软件测试,Shell语言
+linux操作系统,电子商务
+mysql数据库,linux操作系统,python编程,Shell语言,bash语言
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,ios开发,软件测试,Shell语言,网络安全技术
+mysql数据库,TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,Perl语言,数据分析,django框架,Linux Virtual Server,信息安全导论
+系统设计,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理,C语言,ITIL
+apache,Nginx,Tomcat,jetty服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,python编程,svn,git,ios开发,MongoDB数据库,Shell语言,Perl语言,Jira(项目与事务跟踪工具),Maven(一个项目管理
+COM编程,Oracle数据库,软件测试,项目实施,关系型数据库
+weblogic服务器,Oracle数据库,C语言,中间件
+office
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,ios开发,软件测试,Shell语言,Linux Virtual Server,网络安全技术
+linux操作系统,ERP(企业资源计划),软件测试,C语言
+apache,Tomcat,weblogic服务器,windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,UDP协议,软件测试,Shell语言,C语言,soap,中间件,vi
+apache,Tomcat,weblogic服务器,windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,UDP协议,软件测试,Shell语言,C语言,soap,中间件,vi
+apache,Tomcat,weblogic服务器,windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,UDP协议,软件测试,Shell语言,C语言,soap,中间件,vi
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,CentOS操作系统,软件测试,Shell语言,熟悉一种脚本语言,信息安全导论
+office
+ERP(企业资源计划)
+Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,Shell语言,熟悉一种脚本语言,数据分析,C语言
+apache,Nginx,Tomcat,memcache,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,ios开发,redis数据库,cache技术,软件测试,Shell语言
+Tomcat,mysql数据库,linux操作系统,python编程,svn,ios开发,Shell语言,Perl语言,熟悉一种脚本语言,Jboss
+Struts框架,Ibatis框架,jsp(java服务器页面),Oracle数据库,软件测试
+系统设计,系统分析
+Oracle数据库,linux操作系统,软件项目管理
+java,Tomcat,weblogic服务器,windows操作系统,linux操作系统,unix操作系统,软件测试,C语言
+photoshop
+photoshop
+windows操作系统,office,C语言,Keyboard Video Mouse
+linux操作系统,软件测试
+C语言
+linux操作系统
+php,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,TCP/IP编程,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,计算机网络
+JavaEE架构,apache,Nginx,Tomcat,weblogic服务器,websphere服务器,Nginx(一个HTTP和反向代理服务器),SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,python编程,软件测试,Shell语言,Perl语言,JavaSe,C语言,ITIL
+php,apache,mysql数据库,linux操作系统
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,Shell语言,故障定位工具,熟悉一种脚本语言,Vmware,信息安全导论
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,redis数据库,软件测试,熟悉一种脚本语言,数据分析,C语言,postgresql,Lua
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,redis数据库,软件测试,Shell语言,熟悉一种脚本语言,数据分析,postgresql,Lua
+php,apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,ios开发,MongoDB数据库,redis数据库,Shell语言,Perl语言,hadoop(分布式系统基础架构),C语言,ActiveMQ
+java,windows操作系统,SQL Server数据库,Oracle数据库,unix操作系统,软件测试
+php,windows操作系统,linux操作系统,python编程,ios开发,软件测试,Shell语言,软件项目管理,bash语言,C语言,ITIL,防火墙技术
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,软件测试
+windows操作系统,mysql数据库,SQL Server数据库,Ubuntu操作系统,CentOS操作系统,软件测试,熟悉一种脚本语言
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,软件测试,Shell语言,网络安全技术
+ERP(企业资源计划)
+apache,Tomcat,Memcached,.net,windows操作系统,HTTP传输协议,Shell语言,C语言,C++语言,网络安全技术
+apache,FreeBSD操作系统,windows操作系统,mysql数据库,linux操作系统,软件测试,Shell语言,电子商务
+java,myEclipse,eclipse,mysql数据库,Oracle数据库,关系型数据库
+java,Tomcat,weblogic服务器,websphere服务器,eclipse,C语言,Jboss
+linux操作系统,python编程,ios开发,Shell语言,软件工程,hadoop(分布式系统基础架构),C语言,分布式
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,TCP/IP编程,HTTP传输协议,MongoDB数据库,分布式,Linux Virtual Server
+ITIL
+ITIL
+软件项目管理,office,ITIL
+FreeBSD操作系统,mysql数据库,linux操作系统,unix操作系统,软件测试,项目实施
+php,apache,mysql数据库,linux操作系统
+windows操作系统,软件测试,C语言
+软件测试,软件文档写作
+分布式
+weblogic服务器,windows操作系统,mysql数据库,linux操作系统,unix操作系统,软件测试,Shell语言,C语言,中间件
+weblogic服务器,Oracle数据库,linux操作系统,ios开发,软件测试,熟悉一种脚本语言,数据分析,C语言
+软件项目管理,ITSM
+Oracle数据库,linux操作系统,软件测试
+java,JavaEE架构,Struts框架,Spring框架,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,python编程,ios开发,bash语言,CloudStack,计算机网络
+软件项目管理,项目实施
+软件项目管理,项目实施
+java,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,Shell语言,Perl语言,Keepalived
+php,Nginx,memcache,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,ios开发,redis数据库,cache技术,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,数据分析,分布式,Vmware,Linux
+TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,Perl语言,C语言,ruby
+mysql数据库,linux操作系统
+java,.net,SQL Server数据库,Oracle数据库,Db2数据库,ERP(企业资源计划),软件工程,软件项目管理,项目实施,C语言,C++语言,Microsoft Visual C++ 6.0,管理信息系统
+photoshop,.net,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,项目实施
+linux操作系统,CentOS操作系统,Shell语言,bash语言
+Oracle数据库,unix操作系统,软件测试,软件项目管理,软件文档写作,C语言
+TCP/IP编程,linux操作系统,python编程,Shell语言,熟悉一种脚本语言
+java,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),Redis数据库,linux操作系统,python编程,redis数据库,软件测试,Shell语言,Perl语言,Vmware,Keyboard Video Mouse,中间件,Linux Virtual Server,Jboss
+Tomcat,memcache,linux操作系统,cache技术,中间件,Jboss
+linux操作系统,Shell语言,软件项目管理,C语言
+java,Html,php,apache,javaScript,linux操作系统,unix操作系统,python编程,HTTP传输协议,XML技术,软件测试,Perl语言,熟悉一种脚本语言,关系型数据库,Jboss
+photoshop,Adobe Illustrator(AI),office
+php,Memcached,mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,Shell语言
+java,php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,软件测试
+windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+软件测试,office,C语言
+Oracle数据库,linux操作系统,ERP(企业资源计划),软件测试
+软件测试,熟悉主流测试工具
+linux操作系统,ios开发,Shell语言
+windows操作系统,Oracle数据库,软件测试,office,C语言
+windows操作系统,Oracle数据库,软件测试,office,C语言
+COM编程
+java,JavaEE架构,COM编程,Oracle数据库,Webservice,ActiveMQ
+COM编程
+COM编程
+COM编程
+java,JavaEE架构,COM编程,Oracle数据库,Webservice,ActiveMQ
+ORM对象关系映射,ant(一种基于Java的build工具),TCP/IP编程,linux操作系统,HTTP传输协议,OOD面向对象设计,C语言,rest,Unity,SSH协议
+ORM对象关系映射,ant(一种基于Java的build工具),COM编程,office,project,C语言
+java,php,apache,Nginx,ORM对象关系映射,Nginx(一个HTTP和反向代理服务器),photoshop,ant(一种基于Java的build工具),.net,mysql数据库,linux操作系统,python编程,git,ios开发,OOD面向对象设计,MongoDB数据库,Shell语言,Perl语
+TCP/IP编程
+windows操作系统,linux操作系统
+java,php,apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,ios开发,Shell语言,Perl语言,熟悉一种脚本语言
+windows操作系统,linux操作系统,Shell语言,分布式,电子商务,网络安全技术
+php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,bash语言,C++语言,Keyboard Video Mouse,计算机网络
+php,javaScript,COM编程,linux操作系统,python编程,熟悉一种脚本语言
+计算机网络
+mysql数据库,Redis数据库,linux操作系统,redis数据库,hadoop(分布式系统基础架构)
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,python编程,Perl语言,bash语言,分布式,Jboss
+TCP/IP编程,C语言
+java,C#,mysql数据库,Oracle数据库,linux操作系统,C语言,C++语言
+photoshop,.net,C语言,Vmware
+linux操作系统,python编程,软件测试,Shell语言,ruby,Vmware
+linux操作系统,python编程,Shell语言,Perl语言
+photoshop,TCP/IP编程,数据分析,软件项目管理,C语言,网络安全技术,信息安全导论
+weblogic服务器,Oracle数据库,C语言,中间件
+Nginx,Nginx(一个HTTP和反向代理服务器),linux操作系统,Ubuntu操作系统,python编程,ios开发,软件测试,bash语言,分布式,Keyboard Video Mouse,Linux Virtual Server
+Html,Photoshop,Dreamweaver,SEO(搜索引擎优化),COM编程,office,SEO数据挖掘及分析
+COM编程,Hbase数据库,linux操作系统,hadoop(分布式系统基础架构),C++语言,HBase,Hive
+Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),COM编程,mysql数据库,linux操作系统,python编程,Shell语言,Perl语言,数据分析,软件项目管理
+photoshop,Dreamweaver
+jsp(java服务器页面),servlet,linux操作系统,unix操作系统,软件测试,数据结构,ITIL,中间件
+C语言
+.net,数据分析,office
+Microsoft Office Visio,ERP(企业资源计划),软件文档写作,Axure RP(快速原型设计工具),C语言,电子商务
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据分析
+php,apache,Nginx,ecshop,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,CentOS操作系统,软件测试,Shell语言,网络安全技术
+mysql数据库,linux操作系统,unix操作系统,软件测试,Shell语言
+Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言
+java
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),linux操作系统,面向对象分析,熟悉一种脚本语言,关系型数据库,Vmware,中间件
+Oracle数据库,PL/SQL,linux操作系统,unix操作系统
+linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言,Vmware
+Oracle数据库,PL/SQL,linux操作系统,unix操作系统,Shell语言
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,C语言
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),Oracle数据库,linux操作系统,CentOS操作系统,软件测试,Linux Virtual Server
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),linux操作系统,面向对象分析,熟悉一种脚本语言,关系型数据库,Vmware,中间件
+mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,python编程,ios开发,Shell语言,Perl语言,熟悉一种脚本语言,C语言
+TCP/IP编程,linux操作系统,unix操作系统,软件测试
+Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言
+java,Struts框架,Hibernate框架,Spring框架,mysql数据库,Oracle数据库
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),linux操作系统,Red Hat操作系统,python编程,Shell语言,Perl语言,C语言,Keepalived
+photoshop,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,unix操作系统
+软件工程
+.net
+java,Oracle数据库,Db2数据库
+java,weblogic服务器,Db2数据库,软件测试,软件文档写作,C语言
+java,php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,分布式,Keepalived
+Html,php,apache,Nginx,memcache,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,系统分析,mysql数据库,Redis数据库,HTTP传输协议,jSon技术,MongoDB数据库,redis数据库,cache技术,数据分析
+Nginx,Tomcat,weblogic服务器,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试,Shell语言,C语言,中间件,网络安全技术
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,Red Hat操作系统,软件测试
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,CentOS操作系统,HTTP传输协议,svn,软件测试
+windows操作系统,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+office
+photoshop
+windows操作系统,TCP/IP编程,HTTP传输协议,C语言
+Nginx,Nginx(一个HTTP和反向代理服务器),linux操作系统,python编程,软件测试,Shell语言,C语言
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,CentOS操作系统,Red Hat操作系统,python编程,ios开发,redis数据库,软件测试,Shell语言,Perl语言,django框架,Linux Virtual Server
+php,apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,ios开发,软件测试,Perl语言,熟悉一种脚本语言,bash语言,Linux Virtual Server,计算机网络
+windows操作系统,Oracle数据库,linux操作系统
+linux操作系统,C语言
+php,apache,mysql数据库,linux操作系统,CentOS操作系统,python编程,Shell语言,Perl语言,fix协议
+mysql数据库,网络安全技术
+windows操作系统,mysql数据库,C语言,信息安全导论
+mysql数据库,网络安全技术
+php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,HTTP传输协议,ios开发,MongoDB数据库,redis数据库,软件测试,Shell语言,Keepalived,Linux Virtual Server
+java,css层叠样式表,Html,多线程,GUI编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,sqlite数据库,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,Android开发,软件架构,数据结构,C语言
+C#,Shell语言,数据分析,C语言
+windows操作系统,TCP/IP编程,linux操作系统,python编程,HTTP传输协议,ios开发,Shell语言,Perl语言,熟悉一种脚本语言
+mysql数据库,网络安全技术
+COM编程,windows操作系统,linux操作系统,unix操作系统,软件测试,office,中间件,计算机网络
+java,php,mysql数据库,linux操作系统,python编程,MongoDB数据库,Shell语言,熟悉一种脚本语言,C语言
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,ios开发,Shell语言,Perl语言,bash语言,网络安全技术
+apache,mysql数据库,SQL Server数据库,TCP/IP编程,linux操作系统,C语言
+java,php,apache,Nginx,Tomcat,memcache,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,unix操作系统,Ubuntu操作系统,CentOS操作系统,Red Hat操作系统,HTTP传输协议,redis数据库,cache
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,TCP/IP编程,linux操作系统,HTTP传输协议,ios开发,软件测试,Shell语言,熟悉一种脚本语言
+windows操作系统,SQL Server数据库,TCP/IP编程,软件测试
+python编程,Shell语言
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,Red Hat操作系统,python编程,ios开发,软件测试,Shell语言
+windows操作系统,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言
+linux操作系统
+java,php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,Red Hat操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,数据分析
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,CentOS操作系统,python编程,MongoDB数据库,redis数据库,软件测试,Shell语言,Perl语言
+java,jsp(java服务器页面),Html,php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),XHTML,.net,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,CentOS操作系统,Red Hat操作系统,io
+java,php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),.net,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,电子商务,网络
+apache,Nginx,Tomcat,weblogic服务器,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,Red Hat操作系统,软件测试,C语言,Vmware,XenServer,计算机网络,信息安全导论
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,ruby
+windows操作系统,软件测试,office,C语言
+软件测试
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,Shell语言,Perl语言
+java,php,apache,Nginx,Tomcat,memcache,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,redis数据库,cache技术,软件测试,Shell语言,Perl语言,Jboss,网络安全技术
+apache,Tomcat,mysql数据库,Oracle数据库,linux操作系统,软件测试,Shell语言
+php,Nginx,Nginx(一个HTTP和反向代理服务器),photoshop,linux操作系统,ios开发,软件测试,Shell语言,Perl语言,Keyboard Video Mouse
+jQuery框架,css层叠样式表,Html,javaScript,windows操作系统,linux操作系统,Shell语言,计算机网络,电子商务
+jQuery框架,css层叠样式表,Html,javaScript,windows操作系统,linux操作系统,Shell语言,计算机网络,电子商务
+windows操作系统,linux操作系统,软件测试,计算机网络
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,Perl语言,C语言,Vmware,Keyboard Video Mouse
+java,php,python编程,git
+C语言
+java,Nginx,Nginx(一个HTTP和反向代理服务器),Hbase数据库,linux操作系统,hadoop(分布式系统基础架构),HBase,Hive,Spark
+java,php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,svn,git,ios开发,Shell语言,Perl语言
+php,python编程,Shell语言,Perl语言,C语言,分布式
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+sybase数据库
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,python编程,Shell语言,C语言
+ITIL
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+java,Oracle数据库
+java,mysql数据库,Hbase数据库,Redis数据库,linux操作系统,Ubuntu操作系统,CentOS操作系统,python编程,redis数据库,软件测试,Shell语言,hadoop(分布式系统基础架构),HBase,Hive,Spark,zookeeper
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,网络安全技术,信息安全导论
+.net,COM编程,windows操作系统,SQL Server数据库,HTTP传输协议,office
+windows操作系统,Oracle数据库,unix操作系统,软件测试,C语言,Vmware
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,python编程,ios开发,redis数据库,Shell语言,Perl语言,Linux Virtual Server
+系统设计,linux操作系统,Keyboard Video Mouse
+windows操作系统,mysql数据库,linux操作系统,数据分析,网络安全技术
+mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,python编程,redis数据库,Shell语言,Perl语言,Keyboard Video Mouse,计算机网络
+SQL Server数据库,Oracle数据库,软件测试,计算机网络
+mysql数据库,TCP/IP编程,linux操作系统,美术基础,C语言,网络安全技术
+java,系统设计,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,软件测试,分布式
+网络安全技术
+网络安全技术
+FreeBSD操作系统,linux操作系统,软件测试,Shell语言,Perl语言,bash语言
+java,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,Ubuntu操作系统,HTTP传输协议,svn,git,MongoDB数据库,redis数据库,Shell语言,分布式,ruby,Linux Virtual Server
+windows操作系统,mysql数据库,linux操作系统,软件测试,C语言
+office,C语言
+Oracle数据库,linux操作系统,unix操作系统,软件测试,软件项目管理,网络安全技术
+windows操作系统,软件测试,office
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,数据分析,C语言,网络安全技术
+Photoshop,CorelDRAW平面设计软件,Adobe Illustrator(AI),office,CorelDRAW
+apache,windows操作系统,linux操作系统,svn,vss,软件测试
+TCP/IP编程,C语言,分布式,ITIL,中间件
+javaScript,COM编程,mysql数据库,HTTP传输协议,软件工程,数据结构
+TCP/IP编程,linux操作系统,python编程,Shell语言
+photoshop,软件测试,C语言,网络安全技术
+TCP/IP编程,linux操作系统,UDP协议,网络通信,软件测试,软件项目管理
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,Shell语言,故障定位工具,熟悉一种脚本语言,Vmware,信息安全导论
+java,php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),Redis数据库,linux操作系统,python编程,消息队列,redis数据库,cache技术,Shell语言,Perl语言,hadoop(分布式系统基础架构),数据分析,C语言,分布式,Keepaliv
+windows操作系统,Oracle数据库,TCP/IP编程,linux操作系统,软件测试,C语言
+windows操作系统,mysql数据库,linux操作系统,软件测试,软件项目管理,C语言,路由协议
+mysql数据库,TCP/IP编程,linux操作系统,python编程,svn,git,Perl语言,熟悉一种脚本语言,bash语言,分布式,ruby
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,ios开发,redis数据库,Vmware
+TCP/IP编程,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,C++语言,Linux Virtual Server
+windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,unix操作系统,python编程,软件测试,Perl语言,bash语言,C语言
+photoshop,linux操作系统,python编程,ios开发,Shell语言,熟悉一种脚本语言,Keyboard Video Mouse
+java,php,多线程,网络编程,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言,C++语言,Lua
+php,apache,mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,数据分析
+apache,Nginx,FreeBSD操作系统,Nginx(一个HTTP和反向代理服务器),.net,windows操作系统,mysql数据库,linux操作系统,unix操作系统,ios开发,软件测试,Shell语言,office,C语言,网络安全技术
+linux操作系统,unix操作系统,软件测试,C语言
+java,apache,Tomcat,TFS(一个分布式文件系统),Microsoft Office Visio,.net,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,vss,软件测试,office,project
+COM编程,HTTP传输协议,C语言
+Tomcat,memcache,mysql数据库,Redis数据库,linux操作系统,python编程,ios开发,MongoDB数据库,redis数据库,cache技术,软件测试,Shell语言,Loadrunner(一个测试软件的工具),熟悉主流测试工具,Linux Virtual Server,Jboss
+linux操作系统,python编程,Shell语言,Perl语言,ruby
+windows操作系统,linux操作系统,ERP(企业资源计划),软件测试,分布式,电子商务
+Microsoft Office Visio,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,软件项目管理,project
+Oracle数据库,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言,网络安全技术
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),TCP/IP编程,linux操作系统,软件测试,Shell语言
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,unix操作系统,redis数据库,软件测试,Shell语言,C语言,Linux Virtual Server
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,Red Hat操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,数据分析,C语言
+photoshop,C语言,路由协议,网络安全技术
+apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),linux操作系统,ios开发,Vmware,网络安全技术
+熟悉一种脚本语言
+数据分析
+windows操作系统,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言
+windows操作系统,linux操作系统,软件测试,C语言
+php,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,C语言,ruby
+windows操作系统,SQL Server数据库,TCP/IP编程,Db2数据库,软件测试,计算机网络,网络安全技术
+Nginx,Nginx(一个HTTP和反向代理服务器)
+软件测试,office
+Tomcat,weblogic服务器,websphere服务器,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,C语言,中间件,Jboss
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,ios开发,Shell语言,ITIL
+windows操作系统,linux操作系统,python编程,ios开发,软件测试,bash语言
+windows操作系统,软件测试,office,C语言
+JavaEE架构,ant(一种基于Java的build工具),.net,SQL Server数据库,Access数据库,office
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,MongoDB数据库,软件测试,Shell语言,熟悉一种脚本语言
+office
+软件测试
+计算机网络
+java,php,mysql数据库,Oracle数据库,python编程,Shell语言,Perl语言,C语言,C++语言
+php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,ruby
+软件测试
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,python编程,ios开发,软件测试,Shell语言,Perl语言,hadoop(分布式系统基础架构),搜索引擎算法,C语言,分布式,CloudStack,Keyboard Video Mouse,电
+windows操作系统,linux操作系统,unix操作系统,软件测试,数据分析,软件文档写作,C语言
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,CentOS操作系统,python编程,HTTP传输协议,OOD面向对象设计,MongoDB数据库,Shell语言,Perl语言,C语言,Vmware
+软件测试,C语言
+linux操作系统,软件测试,Shell语言,C语言
+windows操作系统,linux操作系统,软件测试,软件项目管理,C语言
+计算机网络,网络安全技术
+系统设计,Oracle数据库,软件工程,管理信息系统
+mysql数据库,linux操作系统,MongoDB数据库,软件测试,Shell语言,熟悉一种脚本语言
+java,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,SSH协议
+linux操作系统,unix操作系统,软件测试
+java,.net,软件工程,数据分析,office
+hadoop(分布式系统基础架构),分布式
+windows操作系统,linux操作系统,软件测试
+ORM对象关系映射,SQL Server数据库,OOD面向对象设计,Access数据库,office
+系统分析,软件测试,office
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,计算机网络
+linux操作系统,软件项目管理
+linux操作系统,svn,网络安全技术
+java,weblogic服务器,Oracle数据库,unix操作系统,软件测试,Shell语言,C语言,中间件
+php,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,Perl语言,网络安全技术
+windows操作系统,linux操作系统,ios开发,软件测试,Shell语言
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件文档写作,Linux Virtual Server,网络安全技术
+linux操作系统,python编程,bash语言,C语言
+linux操作系统,python编程,bash语言,C语言
+ERP(企业资源计划)
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,python编程,软件测试,Shell语言,Perl语言
+TCP/IP编程,linux操作系统,unix操作系统,python编程,Shell语言
+TCP/IP编程,linux操作系统,unix操作系统,python编程,Shell语言
+SQL Server数据库,Oracle数据库
+windows操作系统,NoSQL数据库,linux操作系统,python编程,ios开发,软件测试,Shell语言
+windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,linux操作系统,unix操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理
+windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,linux操作系统,unix操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理
+Tomcat,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,ios开发,软件测试,Shell语言
+JavaEE架构,jsp(java服务器页面),Tomcat,.net,windows操作系统,SQL Server数据库,linux操作系统,面向对象分析,软件测试
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,CentOS操作系统,Red Hat操作系统,python编程,Shell语言,电子商务,网络安全技术
+apache,Nginx,Tomcat,Memcached,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,ios开发,Db2数据库,Shell语言,Linux Virtual Server,Jboss
+系统设计,系统分析,软件项目管理,C语言,信息安全导论
+系统设计,系统分析,软件项目管理,C语言,信息安全导论
+windows操作系统,mysql数据库,SQL Server数据库,Redis数据库,linux操作系统,python编程,ios开发,redis数据库,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,RabbitMQ,Keepalived,Linux Virtual Server
+TCP/IP编程,linux操作系统,unix操作系统,项目实施,ITSM,ITIL
+软件工程,项目实施,ITSM,ITIL
+路由协议
+windows操作系统,linux操作系统,熟悉一种脚本语言
+windows操作系统,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+weblogic服务器,photoshop,.net,windows操作系统,Oracle数据库,TCP/IP编程,软件测试,C语言,分布式
+系统分析,SQL Server数据库,Oracle数据库,软件测试,软件工程,计算机网络
+apache,Tomcat,Oracle数据库,软件工程,中间件
+项目实施
+windows操作系统,linux操作系统,Red Hat操作系统,office,C语言,SSH协议
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言
+Oracle数据库,linux操作系统
+软件测试
+TCP/IP编程,linux操作系统,unix操作系统,C语言
+Microsoft Office Visio,数据分析,软件项目管理,office,Axure RP(快速原型设计工具)
+php,apache,Tomcat,mysql数据库,linux操作系统,python编程,Shell语言
+office
+windows操作系统,软件测试,office
+windows操作系统,软件测试,office,C语言
+COM编程,office,C语言
+java,windows操作系统,Oracle数据库,linux操作系统,C语言
+mysql数据库,Oracle数据库
+photoshop,office
+windows操作系统,TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,网络安全技术
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,python编程,Shell语言,C语言
+数据分析,软件项目管理,C语言,路由协议
+java,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,CentOS操作系统,软件测试,Shell语言,网络安全技术
+Photoshop,office
+ERP(企业资源计划),项目实施
+软件工程,软件项目管理,项目实施
+windows操作系统,软件测试
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,javaScript
+php,AJAX(异步的JavaScript与XML技术),ThinkPHP框架,windows操作系统,mysql数据库,linux操作系统
+java,linux操作系统,软件测试,Shell语言,中间件
+windows操作系统,软件测试,office,C语言
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统
+TCP/IP编程,软件测试,熟悉主流测试工具,office
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,svn,Shell语言
+软件项目管理,ITIL
+windows操作系统,linux操作系统,软件测试,软件文档写作,计算机网络
+Oracle数据库,C语言
+photoshop,软件文档写作,C语言
+Oracle数据库,linux操作系统,ITIL,Vmware
+linux操作系统,软件测试,项目实施
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,redis数据库
+windows操作系统,软件测试,软件项目管理,网络安全技术
+java,weblogic服务器,.net,C语言
+java,windows操作系统,SQL Server数据库,linux操作系统,软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等)
+SQL Server数据库,Oracle数据库,软件项目管理
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),.net,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,C语言,VIM,中间件,Linux Virtual Server,vi,SSH协议
+php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,网络安全技术
+linux操作系统,unix操作系统,python编程,Shell语言,Perl语言,C语言,ruby
+Oracle数据库,linux操作系统,数据库系统原理
+apache,Tomcat,mysql数据库,linux操作系统,unix操作系统,软件测试,Jboss
+windows操作系统,项目实施,C语言
+office,C语言,路由协议
+windows操作系统,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,Db2数据库
+php,apache,mysql数据库,linux操作系统,Ubuntu操作系统,软件测试
+photoshop,TCP/IP编程,linux操作系统,软件测试,数据结构,C语言,算法设计与技术,网络安全技术
+jsp(java服务器页面),php,apache,.net,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,python编程,Shell语言,Perl语言
+windows操作系统,linux操作系统,熟悉一种脚本语言,数据分析,C语言,网络安全技术
+windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,软件测试,C语言,路由协议
+windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试,Shell语言,Perl语言,熟悉一种脚本语言
+TCP/IP编程,项目实施,计算机网络,网络安全技术
+weblogic服务器,websphere服务器,linux操作系统,软件测试,Shell语言,C语言,ITIL,中间件,Jboss
+linux操作系统,unix操作系统,软件测试
+css层叠样式表,php,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,TCP/IP编程,linux操作系统,网络编程,python编程,jSon技术,软件测试
+java,多线程,COM编程,HTTP传输协议,项目实施
+linux操作系统,Shell语言
+php,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),系统设计,mysql数据库,TCP/IP编程,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,计算机网络
+软件测试
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,Red Hat操作系统,Shell语言,Jboss,网络安全技术
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,python编程,ios开发,MongoDB数据库,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),Keyboard Video Mouse,网络安全
+weblogic服务器,Oracle数据库,linux操作系统,C语言
+数据分析,C语言,电子商务
+php,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),windows操作系统,SQL Server数据库,Redis数据库,redis数据库,Shell语言,Perl语言,hadoop(分布式系统基础架构)
+windows操作系统,TCP/IP编程,软件测试
+ant(一种基于Java的build工具),windows操作系统,linux操作系统,python编程,git,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,ruby
+C语言
+java,软件项目管理,项目实施
+SQL Server数据库,ETL(数据仓库技术),Microsoft SQL Server Integration Services,Informatica
+photoshop,.net,windows操作系统,Oracle数据库,linux操作系统,CentOS操作系统,网络通信,软件测试,C语言,Vmware
+php,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,linux操作系统,python编程,ios开发,软件测试,Shell语言
+.net,office
+java,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件测试
+apache,Nginx,Tomcat,jetty服务器,Nginx(一个HTTP和反向代理服务器),windows操作系统,Redis数据库,TCP/IP编程,linux操作系统,redis数据库
+TCP/IP编程,熟悉主流测试工具,C语言,网络安全技术,信息安全导论
+php,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,UML建模语言,svn,vss,git,ios开发,软件测试,Shell语言,Perl语言,数据结构,分布式,ruby

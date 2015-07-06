@@ -1,0 +1,16 @@
+css层叠样式表,Html,php,javaScript,mysql数据库,linux操作系统,python编程,git,Perl语言,数据库系统原理,C语言,ruby,VIM,电子商务
+linux操作系统,Ruby On Rails web开发,数据库系统原理,ruby
+css层叠样式表,Html,javaScript,mysql数据库,Ruby On Rails web开发,数据库系统原理,数据分析,ruby
+jQuery框架,css层叠样式表,Html,javaScript,mysql数据库,HTTP传输协议,Prototype,数据结构
+jQuery框架,css层叠样式表,Html,apache,Nginx,Nginx(一个HTTP和反向代理服务器),.net,javaScript,COM编程,mysql数据库,linux操作系统,HTTP传输协议,git,Ruby On Rails web开发,软件测试,ruby
+jQuery框架,Html,mysql数据库,Redis数据库,redis数据库,Rspec(ruby语言的测试插件),C语言,ruby
+java,css层叠样式表,Html,C#,javaScript,python编程,软件测试,Perl语言,C语言,C++语言,ruby
+linux操作系统,Ruby On Rails web开发,软件测试,自动化测试(使用自动化测试软件、框架等),ruby
+ant(一种基于Java的build工具),git,Ruby On Rails web开发,Rspec(ruby语言的测试插件),软件工程,project,C语言,ruby,Backbone
+linux操作系统,svn,git,ruby
+java,css层叠样式表,Html,javaScript,Ruby On Rails web开发,Rspec(ruby语言的测试插件),软件测试,C语言,ruby
+jQuery框架,javaScript,linux操作系统,HTTP传输协议,Ruby On Rails web开发,ruby,rest,Backbone
+jQuery框架,javaScript,linux操作系统,HTTP传输协议,Ruby On Rails web开发,ruby,rest,Backbone
+jQuery框架,css层叠样式表,Html,javaScript,mysql数据库,NoSQL数据库,linux操作系统,git,Ruby On Rails web开发,ruby
+java,php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,git,MongoDB数据库,redis数据库,ruby
+java,php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,git,MongoDB数据库,redis数据库,ruby

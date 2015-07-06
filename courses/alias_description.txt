@@ -1,0 +1,3 @@
+ps:photoshaop;    #一个处理图像的工具
+pt                #
+j2ee:java ee;     

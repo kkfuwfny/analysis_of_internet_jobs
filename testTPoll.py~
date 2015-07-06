@@ -1,0 +1,58 @@
+# !/usr/bin/env python
+# -*- coding:utf-8 -*-
+import spider
+import workManager
+
+if __name__ == '__main__':
+    jobhref_spider = spider.jobSpider('url')
+    countThread = 1   # count the number Thread
+    countPage = 1     #cout the number of page
+    myHref = 0   # judge 'myHref' is none or not
+    countJob= 1
+    countAddJob = 2
+    myThreadPool = workManager.WorkManager(200,5)
+    '''
+    while myHref == 0:
+        myHref = jobhref_spider.get_first_jobhref(countPage)
+    countPage += 1
+
+    
+    for href in myHref:
+        myThreadPool.my__init_work_queue(href,countJob)
+	countJob += 1
+	countThread += 1
+    
+    myHref = 0   #reset the myHref
+    '''
+    while myHref == 0:
+        myHref = jobhref_spider.get_first_jobhref(countPage)
+    countPage += 1
+    for href in myHref:
+        myThreadPool.my__init_work_queue(href,countJob)
+	countThread += 1
+	countJob += 1
+
+    print 'start'
+    myThreadPool.my__init_thread_pool()
+    while True:
+	#print type(myThreadPool.check_queue())
+        while myThreadPool.check_queue() >=0 and myThreadPool.check_queue() <= 100:
+            print 'myThreadPool.check_queue() ' , myThreadPool.check_queue() 
+            print '\n\n\n\n'
+	    countAddJob += 1
+	    print 'countJob = ' , countJob
+            myHref = 0
+	    while myHref == 0: 
+	        myHref = jobhref_spider.get_first_jobhref(countPage)
+            for href in myHref:
+                myThreadPool.my__init_work_queue(href,countJob)
+	        countJob += 1
+	    countPage += 1
+            countThread += 1
+            """
+            while myThreadPool.check_queue() != 50:
+                myThreadPool.my__init_work_queue(str(countThread))
+		countThread += 1
+            """
+
+

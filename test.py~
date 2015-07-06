@@ -1,0 +1,22 @@
+"""
+fsh = open('./bloomFilter/savedHash.txt','r')
+print fsh.readline().strip('\n')
+fsh = open('./bloomFilter/savedHash.txt','a')
+fsh.write("start"+'\n')
+#fsh.close()
+
+
+#fsh = file('./bloomFilter/savedHash.txt','r+')
+
+fsh.write("ee"+'\n')
+#fsh.write("234")
+
+fsh.close()
+"""
+fsh = open('ran.txt','a')
+for i in range(100000):
+    fsh.write(str(i))
+    fsh.write('\n')
+fsh.close()
+
+

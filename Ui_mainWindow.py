@@ -1,0 +1,201 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file '/home/lvchuan/python/mainWindow.ui'
+#
+# Created: Sun May 31 05:25:54 2015
+#      by: PyQt4 UI code generator 4.11.2
+#
+# WARNING! All changes made in this file will be lost!
+
+from PyQt4 import QtCore, QtGui
+
+try:
+    _fromUtf8 = QtCore.QString.fromUtf8
+except AttributeError:
+    def _fromUtf8(s):
+        return s
+
+try:
+    _encoding = QtGui.QApplication.UnicodeUTF8
+    def _translate(context, text, disambig):
+        return QtGui.QApplication.translate(context, text, disambig, _encoding)
+except AttributeError:
+    def _translate(context, text, disambig):
+        return QtGui.QApplication.translate(context, text, disambig)
+
+class Ui_MainWindow(object):
+    def setupUi(self, MainWindow):
+        MainWindow.setObjectName(_fromUtf8("MainWindow"))
+        MainWindow.resize(1018, 600)
+        self.centralWidget = QtGui.QWidget(MainWindow)
+        self.centralWidget.setObjectName(_fromUtf8("centralWidget"))
+        self.stackedWidget = QtGui.QStackedWidget(self.centralWidget)
+        self.stackedWidget.setEnabled(True)
+        self.stackedWidget.setGeometry(QtCore.QRect(10, 20, 921, 601))
+        self.stackedWidget.setAutoFillBackground(False)
+        self.stackedWidget.setObjectName(_fromUtf8("stackedWidget"))
+        self.stackedWidgetPage1 = QtGui.QWidget()
+        self.stackedWidgetPage1.setObjectName(_fromUtf8("stackedWidgetPage1"))
+        self.tbl_job_details = QtGui.QTableView(self.stackedWidgetPage1)
+        self.tbl_job_details.setEnabled(True)
+        self.tbl_job_details.setGeometry(QtCore.QRect(0, 60, 881, 521))
+        self.tbl_job_details.setEditTriggers(QtGui.QAbstractItemView.NoEditTriggers)
+        self.tbl_job_details.setObjectName(_fromUtf8("tbl_job_details"))
+        self.btn_search = QtGui.QPushButton(self.stackedWidgetPage1)
+        self.btn_search.setGeometry(QtCore.QRect(640, 20, 98, 31))
+        self.btn_search.setObjectName(_fromUtf8("btn_search"))
+        self.cmbx_job_type = QtGui.QComboBox(self.stackedWidgetPage1)
+        self.cmbx_job_type.setGeometry(QtCore.QRect(750, 20, 131, 31))
+        self.cmbx_job_type.setObjectName(_fromUtf8("cmbx_job_type"))
+        self.ledit_search = QtGui.QLineEdit(self.stackedWidgetPage1)
+        self.ledit_search.setGeometry(QtCore.QRect(490, 20, 141, 31))
+        self.ledit_search.setObjectName(_fromUtf8("ledit_search"))
+        self.cmbx_search_item_widget1 = QtGui.QComboBox(self.stackedWidgetPage1)
+        self.cmbx_search_item_widget1.setGeometry(QtCore.QRect(310, 20, 161, 31))
+        self.cmbx_search_item_widget1.setObjectName(_fromUtf8("cmbx_search_item_widget1"))
+        self.label_3 = QtGui.QLabel(self.stackedWidgetPage1)
+        self.label_3.setGeometry(QtCore.QRect(20, 20, 131, 31))
+        self.label_3.setObjectName(_fromUtf8("label_3"))
+        self.ledit_position_count_widget1 = QtGui.QLineEdit(self.stackedWidgetPage1)
+        self.ledit_position_count_widget1.setGeometry(QtCore.QRect(160, 20, 131, 31))
+        self.ledit_position_count_widget1.setObjectName(_fromUtf8("ledit_position_count_widget1"))
+        self.stackedWidget.addWidget(self.stackedWidgetPage1)
+        self.stackedWidgetPage2 = QtGui.QWidget()
+        self.stackedWidgetPage2.setObjectName(_fromUtf8("stackedWidgetPage2"))
+        self.cmbx_analysis_type = QtGui.QComboBox(self.stackedWidgetPage2)
+        self.cmbx_analysis_type.setGeometry(QtCore.QRect(640, 10, 131, 27))
+        self.cmbx_analysis_type.setObjectName(_fromUtf8("cmbx_analysis_type"))
+        self.tbl_anaysis_result = QtGui.QTableView(self.stackedWidgetPage2)
+        self.tbl_anaysis_result.setGeometry(QtCore.QRect(10, 50, 631, 531))
+        self.tbl_anaysis_result.setObjectName(_fromUtf8("tbl_anaysis_result"))
+        self.ledit_the_former = QtGui.QLineEdit(self.stackedWidgetPage2)
+        self.ledit_the_former.setGeometry(QtCore.QRect(730, 100, 161, 27))
+        self.ledit_the_former.setObjectName(_fromUtf8("ledit_the_former"))
+        self.btn_the_course_or_workplace_search_widget2 = QtGui.QPushButton(self.stackedWidgetPage2)
+        self.btn_the_course_or_workplace_search_widget2.setGeometry(QtCore.QRect(750, 390, 111, 27))
+        self.btn_the_course_or_workplace_search_widget2.setObjectName(_fromUtf8("btn_the_course_or_workplace_search_widget2"))
+        self.ledit_the_latter = QtGui.QLineEdit(self.stackedWidgetPage2)
+        self.ledit_the_latter.setGeometry(QtCore.QRect(730, 180, 161, 27))
+        self.ledit_the_latter.setObjectName(_fromUtf8("ledit_the_latter"))
+        self.lbl_search_former = QtGui.QLabel(self.stackedWidgetPage2)
+        self.lbl_search_former.setGeometry(QtCore.QRect(650, 96, 71, 31))
+        self.lbl_search_former.setObjectName(_fromUtf8("lbl_search_former"))
+        self.lbl_search_latter = QtGui.QLabel(self.stackedWidgetPage2)
+        self.lbl_search_latter.setGeometry(QtCore.QRect(650, 180, 71, 31))
+        self.lbl_search_latter.setObjectName(_fromUtf8("lbl_search_latter"))
+        self.cmbx_job_type_in_analysis = QtGui.QComboBox(self.stackedWidgetPage2)
+        self.cmbx_job_type_in_analysis.setGeometry(QtCore.QRect(780, 10, 131, 27))
+        self.cmbx_job_type_in_analysis.setObjectName(_fromUtf8("cmbx_job_type_in_analysis"))
+        self.label = QtGui.QLabel(self.stackedWidgetPage2)
+        self.label.setGeometry(QtCore.QRect(30, 10, 131, 31))
+        self.label.setObjectName(_fromUtf8("label"))
+        self.ledit_position_count_widget2 = QtGui.QLineEdit(self.stackedWidgetPage2)
+        self.ledit_position_count_widget2.setGeometry(QtCore.QRect(170, 10, 131, 31))
+        self.ledit_position_count_widget2.setObjectName(_fromUtf8("ledit_position_count_widget2"))
+        self.label_2 = QtGui.QLabel(self.stackedWidgetPage2)
+        self.label_2.setGeometry(QtCore.QRect(330, 10, 101, 31))
+        self.label_2.setObjectName(_fromUtf8("label_2"))
+        self.ledit_analysis_result_count_widget2 = QtGui.QLineEdit(self.stackedWidgetPage2)
+        self.ledit_analysis_result_count_widget2.setGeometry(QtCore.QRect(440, 10, 131, 31))
+        self.ledit_analysis_result_count_widget2.setObjectName(_fromUtf8("ledit_analysis_result_count_widget2"))
+        self.lbl_search_course_or_workplace_widget2 = QtGui.QLabel(self.stackedWidgetPage2)
+        self.lbl_search_course_or_workplace_widget2.setGeometry(QtCore.QRect(650, 340, 71, 31))
+        self.lbl_search_course_or_workplace_widget2.setObjectName(_fromUtf8("lbl_search_course_or_workplace_widget2"))
+        self.ledit_course_or_workplace_widget2 = QtGui.QLineEdit(self.stackedWidgetPage2)
+        self.ledit_course_or_workplace_widget2.setGeometry(QtCore.QRect(730, 340, 161, 27))
+        self.ledit_course_or_workplace_widget2.setObjectName(_fromUtf8("ledit_course_or_workplace_widget2"))
+        self.btn_the_course_search_widget2 = QtGui.QPushButton(self.stackedWidgetPage2)
+        self.btn_the_course_search_widget2.setGeometry(QtCore.QRect(750, 250, 111, 27))
+        self.btn_the_course_search_widget2.setObjectName(_fromUtf8("btn_the_course_search_widget2"))
+        self.stackedWidget.addWidget(self.stackedWidgetPage2)
+        self.stackedWidgetPage3 = QtGui.QWidget()
+        self.stackedWidgetPage3.setObjectName(_fromUtf8("stackedWidgetPage3"))
+        self.textEdit = QtGui.QTextEdit(self.stackedWidgetPage3)
+        self.textEdit.setGeometry(QtCore.QRect(10, 80, 841, 491))
+        self.textEdit.setObjectName(_fromUtf8("textEdit"))
+        self.stackedWidget.addWidget(self.stackedWidgetPage3)
+        self.stackedWidgetPage4 = QtGui.QWidget()
+        self.stackedWidgetPage4.setObjectName(_fromUtf8("stackedWidgetPage4"))
+        self.textBrowser = QtGui.QTextBrowser(self.stackedWidgetPage4)
+        self.textBrowser.setEnabled(False)
+        self.textBrowser.setGeometry(QtCore.QRect(30, 70, 441, 101))
+        self.textBrowser.setAutoFillBackground(True)
+        self.textBrowser.setObjectName(_fromUtf8("textBrowser"))
+        self.stackedWidget.addWidget(self.stackedWidgetPage4)
+        self.job_details_button = QtGui.QToolButton(self.centralWidget)
+        self.job_details_button.setGeometry(QtCore.QRect(920, 100, 91, 71))
+        self.job_details_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
+        self.job_details_button.setObjectName(_fromUtf8("job_details_button"))
+        self.job_analysis_button = QtGui.QToolButton(self.centralWidget)
+        self.job_analysis_button.setGeometry(QtCore.QRect(920, 220, 91, 71))
+        self.job_analysis_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
+        self.job_analysis_button.setObjectName(_fromUtf8("job_analysis_button"))
+        self.connect_us_button = QtGui.QToolButton(self.centralWidget)
+        self.connect_us_button.setGeometry(QtCore.QRect(920, 460, 91, 71))
+        self.connect_us_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
+        self.connect_us_button.setObjectName(_fromUtf8("connect_us_button"))
+        self.crawler_job_button = QtGui.QToolButton(self.centralWidget)
+        self.crawler_job_button.setGeometry(QtCore.QRect(920, 340, 91, 71))
+        self.crawler_job_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
+        self.crawler_job_button.setObjectName(_fromUtf8("crawler_job_button"))
+        self.close_button_del = QtGui.QPushButton(self.centralWidget)
+        self.close_button_del.setGeometry(QtCore.QRect(930, 60, 71, 31))
+        self.close_button_del.setText(_fromUtf8(""))
+        self.close_button_del.setObjectName(_fromUtf8("close_button_del"))
+        self.title_icon_label = QtGui.QLabel(self.centralWidget)
+        self.title_icon_label.setGeometry(QtCore.QRect(10, 0, 31, 31))
+        self.title_icon_label.setObjectName(_fromUtf8("title_icon_label"))
+        self.title_label = QtGui.QLabel(self.centralWidget)
+        self.title_label.setGeometry(QtCore.QRect(50, 0, 151, 31))
+        self.title_label.setObjectName(_fromUtf8("title_label"))
+        self.close_button = QtGui.QToolButton(self.centralWidget)
+        self.close_button.setGeometry(QtCore.QRect(970, 0, 41, 41))
+        self.close_button.setText(_fromUtf8(""))
+        self.close_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
+        self.close_button.setObjectName(_fromUtf8("close_button"))
+        self.minimize_button = QtGui.QToolButton(self.centralWidget)
+        self.minimize_button.setGeometry(QtCore.QRect(940, 0, 31, 31))
+        self.minimize_button.setText(_fromUtf8(""))
+        self.minimize_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
+        self.minimize_button.setObjectName(_fromUtf8("minimize_button"))
+        MainWindow.setCentralWidget(self.centralWidget)
+
+        self.retranslateUi(MainWindow)
+        self.stackedWidget.setCurrentIndex(0)
+        QtCore.QMetaObject.connectSlotsByName(MainWindow)
+
+    def retranslateUi(self, MainWindow):
+        MainWindow.setWindowTitle(_translate("MainWindow", "Analysis Robot", None))
+        self.btn_search.setText(_translate("MainWindow", "搜    索", None))
+        self.label_3.setText(_translate("MainWindow", "该类型岗位的数量：", None))
+        self.btn_the_course_or_workplace_search_widget2.setText(_translate("MainWindow", "搜索课程/地点", None))
+        self.lbl_search_former.setText(_translate("MainWindow", "搜索前项", None))
+        self.lbl_search_latter.setText(_translate("MainWindow", "搜索后项", None))
+        self.label.setText(_translate("MainWindow", "该分析的岗位数量：", None))
+        self.label_2.setText(_translate("MainWindow", "分析结果数量：", None))
+        self.lbl_search_course_or_workplace_widget2.setText(_translate("MainWindow", "课程/地点", None))
+        self.btn_the_course_search_widget2.setText(_translate("MainWindow", "搜    索", None))
+        self.textBrowser.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'Ubuntu\'; font-size:11pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">有问题可以反馈给开开发者。开发者邮箱airlvchuan@sina.com。</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">反馈问题的时候，请务必详细一点，可以把截图也发过来。谢谢您的反馈，感激不尽。</p></body></html>", None))
+        self.job_details_button.setText(_translate("MainWindow", "岗位详情", None))
+        self.job_analysis_button.setText(_translate("MainWindow", "岗位分析", None))
+        self.connect_us_button.setText(_translate("MainWindow", "联系我们", None))
+        self.crawler_job_button.setText(_translate("MainWindow", "爬取数据", None))
+        self.title_icon_label.setText(_translate("MainWindow", "标题图标", None))
+        self.title_label.setText(_translate("MainWindow", "标题名字", None))
+
+
+if __name__ == "__main__":
+    import sys
+    app = QtGui.QApplication(sys.argv)
+    MainWindow = QtGui.QMainWindow()
+    ui = Ui_MainWindow()
+    ui.setupUi(MainWindow)
+    MainWindow.show()
+    sys.exit(app.exec_())
+

@@ -1,0 +1,17 @@
+java,javaScript,gcc,C语言,C++语言
+css层叠样式表,Html,javaScript,git,软件架构设计,软件架构
+Memcached,javaScript,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,MongoDB数据库,redis数据库
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,WebSocket协议,linux操作系统,unix操作系统,HTTP传输协议,XML技术,面向对象分析,MongoDB数据库,redis数据
+java,javaScript,gcc,C语言,C++语言
+bootstrap框架,Bootstrap框架,css层叠样式表,Html,.net,javaScript,Bootstrap(Web前端CSS框架),bootstrap
+bootstrap框架,Bootstrap框架,javaScript,linux操作系统,Ubuntu操作系统,HTTP传输协议,git,MongoDB数据库,Bootstrap(Web前端CSS框架),bootstrap,Restful,SSH协议
+Memcached,javaScript,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,linux操作系统,git,redis数据库,Shell语言,Restful
+javaScript,系统设计,mysql数据库,NoSQL数据库,TCP/IP编程,HTTP传输协议,项目实施,C语言,分布式,关系型数据库
+javaScript,NoSQL数据库,Redis数据库,TCP/IP编程,Socket编程,MongoDB数据库,redis数据库
+javaScript,NoSQL数据库,Redis数据库,MongoDB数据库,redis数据库,C语言,ruby,Microsoft Visual C++ 6.0,嵌入式操作系统
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,.net,javaScript,COM编程,mysql数据库,NoSQL数据库,linux操作系统,python编程,HTTP传输协议,ios开发,软件架构设计,Shell语言,熟悉一种脚本语言,软件架构,Restful
+css层叠样式表,Html,javaScript,mysql数据库,MongoDB数据库
+javaScript,NoSQL数据库,MongoDB数据库,C语言,数据挖掘,Microsoft Visual C++ 6.0,Backbone
+javaScript,mysql数据库,NoSQL数据库,Redis数据库,TCP/IP编程,linux操作系统,HTTP传输协议,git,redis数据库,UDP协议
+java,jQuery框架,css层叠样式表,Html,DHTML,C#,javaScript,mysql数据库,NoSQL数据库,Redis数据库,python编程,svn,git,MongoDB数据库,redis数据库,软件测试,CVS(一种自动测试工具),C语言,C++语言
+javaScript,NoSQL数据库,Redis数据库,Socket编程,linux操作系统,git,MongoDB数据库,redis数据库

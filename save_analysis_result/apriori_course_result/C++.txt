@@ -1,0 +1,736 @@
+mysql数据库,Socket编程,C++语言
+java,C#,COM编程,linux操作系统,OOD面向对象设计,C语言,C++语言,算法设计与技术
+多线程,Socket编程,linux操作系统,boost库,XML技术,Shell语言,bash语言,gcc,g++,C语言,C++语言,gdb,GDB
+多线程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,串口编程,C语言,C++语言,串口开发
+TCP/IP编程,Socket编程,linux操作系统,网络编程,boost库,python编程,HTTP传输协议,面向对象分析,软件测试,C++语言
+java,Memcached,多线程,mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,MongoDB数据库,redis数据库,C语言,C++语言,分布式
+php,TCP/IP编程,linux操作系统,网络编程,面向对象分析,C语言,C++语言
+多线程,COM编程,windows操作系统,linux操作系统,HTTP传输协议,软件测试,软件工程,数据结构,C++语言,分布式,网络安全技术
+多线程,COM编程,windows操作系统,linux操作系统,HTTP传输协议,软件测试,软件工程,数据结构,C++语言,分布式,网络安全技术
+多线程,COM编程,windows操作系统,linux操作系统,HTTP传输协议,软件测试,软件工程,数据结构,C++语言,分布式,网络安全技术
+系统分析,mysql数据库,TCP/IP编程,UML建模语言,HTTP传输协议,C语言,C++语言,汇编语言
+ERP(企业资源计划),项目实施
+多线程,系统分析,linux操作系统,网络编程,数据结构,C语言,C++语言
+TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,C语言,C++语言
+TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,ios开发,Android开发,C语言,C++语言
+多线程,windows操作系统,linux操作系统,网络编程,STL库,软件测试,软件工程,数据结构,C语言,C++语言,分布式,Standard Template Library
+ORM对象关系映射,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,C语言,C++语言,分布式,Hadoop分布式文件系统,Spark,zookeeper,Storm
+Socket编程,unix操作系统,消息队列,共享内存,C语言,C++语言
+linux操作系统,软件架构设计,软件架构,C语言,C++语言,嵌入式操作系统
+多线程,linux操作系统,网络编程,软件测试,gcc,C语言,C++语言,分布式,gdb,GDB,Microsoft Visual C++ 6.0
+MFC,visualStudio,windows操作系统,网络编程,数据结构,C语言,C++语言
+.net,MFC,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,DirectX图形编程,OpenGl图形编程,串口编程,usb编程,C语言,C++语言,串口开发
+GUI编程,windows操作系统,mysql数据库,DirectX图形编程,RTSP传输协议,面向对象分析,ERP(企业资源计划),数据结构,C语言,C++语言,分布式,HOOK
+windows操作系统,Qt,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+C++语言
+多线程,系统设计,系统分析,linux操作系统,网络编程,软件测试,数据结构,C语言,C++语言,分布式,算法设计与技术
+多线程,windows操作系统,windows编程,软件测试,C语言,C++语言
+MFC,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,网络编程,Db2数据库,C语言,C++语言,Microsoft Visual C++ 6.0
+java,visualStudio,多线程,windows操作系统,linux操作系统,Qt,QtCreator开发环境,ios开发,网络通信,Android开发,软件测试,C++语言,嵌入式操作系统
+多线程,linux操作系统,unix操作系统,STL库,boost库,Shell语言,C语言,C++语言,Standard Template Library
+多线程,windows操作系统,网络编程,数据库系统原理,C++语言
+面向对象分析,C++语言
+C语言,C++语言
+MFC,COM编程,windows操作系统,C语言,C++语言
+Nginx,Nginx(一个HTTP和反向代理服务器),TCP/IP编程,linux操作系统,HTTP传输协议,C语言,C++语言
+UML建模语言,面向对象分析,软件工程,C语言,C++语言
+多线程,mysql数据库,TCP/IP编程,Socket编程,面向对象分析,网络通信,C语言,C++语言
+UML建模语言,面向对象分析,软件工程,C语言,C++语言
+多线程,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,C语言,C++语言
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,C语言,C++语言
+MFC,windows操作系统,mysql数据库,Oracle数据库,面向对象分析,软件工程,C语言,C++语言
+java,.net,系统分析,C语言,C++语言
+Oracle数据库,Socket编程,C++语言
+linux操作系统,C语言
+MFC,GUI编程,windows操作系统,Qt,C语言,C++语言
+MFC,多线程,windows操作系统,GDI+图形编程,C语言,C++语言,Microsoft Visual C++ 6.0,WinSock
+java,Objective-c语言,面向对象分析,C语言,C++语言,cocos2d-x,cocos2d
+多线程,TCP/IP编程,Socket编程,linux操作系统,unix操作系统,HTTP传输协议,软件测试,Shell语言,C语言,C++语言,Webservice
+Html,多线程,COM编程,TCP/IP编程,linux操作系统,STL库,python编程,Qt,RTP传输协议,RTSP传输协议,HTTP传输协议,HLS传输协议,软件测试,office,C语言,C++语言,Standard Template Library
+MFC,visualStudio,多线程,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,STL库,网络通信,软件文档写作,C语言,C++语言,Standard Template Library
+网络通信,C++语言
+MFC,STL库,boost库,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+C#,MFC,windows操作系统,C语言,C++语言
+多线程,Socket编程,linux操作系统,网络编程,C语言,C++语言
+多线程,windows操作系统,软件架构设计,软件架构,数据结构,C语言,C++语言
+多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,网络通信,Shell语言,数据结构,C语言,C++语言
+多线程,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件文档写作,C语言,C++语言
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+MFC,多线程,windows操作系统,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,TCP/IP编程,面向对象分析,C语言,C++语言
+MFC,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,STL库,软件测试,C语言,C++语言,Standard Template Library
+MFC,TCP/IP编程,面向对象分析,C语言,C++语言
+C#,MFC,多线程,windows操作系统,Socket编程,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0,嵌入式操作系统
+windows操作系统,linux操作系统,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+软件测试,C++语言
+javaScript,MFC,系统设计,windows操作系统,STL库,boost库,python编程,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua,Standard Template Library
+MFC,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+Qt,svn,git,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件测试,软件项目管理,C语言,C++语言
+Html,Memcached,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,多线程,系统设计,windows操作系统,NoSQL数据库,TCP/IP编程,网络编程,OpenGl图形编程,ios开发,XML技术,Android开发,C语言,C++语言,分布式,Windows Communicat
+mysql数据库,Oracle数据库,C语言,C++语言
+java,多线程,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,网络编程,UML建模语言,Db2数据库,软件工程,数据结构,C语言,C++语言,中间件
+java,C++语言
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,Qt,软件架构设计,软件架构,C++语言
+多线程,mysql数据库,Oracle数据库,网络编程,面向对象分析,C语言,C++语言
+多线程,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,数据结构,gcc,g++,C语言,C++语言,gdb,GDB
+mysql数据库,TCP/IP编程,C++语言,Lua
+MFC,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,SIP协议,数据库系统原理,C语言,C++语言
+多线程,STL库,软件测试,数据结构,C语言,C++语言,Lua,Standard Template Library
+MFC,COM编程,C语言,C++语言
+多线程,windows操作系统,面向对象分析,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+linux操作系统,unix操作系统,软件测试,Shell语言,C语言
+MFC,多线程,COM编程,windows操作系统,windows编程,HTTP传输协议,网络通信,C语言,C++语言,Microsoft Visual C++ 6.0
+java,TCP/IP编程,RTP传输协议,SIP协议,RTSP传输协议,rtmp协议,rtcp协议,UDP协议,office,C语言,C++语言
+linux操作系统,Qt,软件测试,gcc,g++,C语言,C++语言,gdb,GDB
+COM编程,网络编程,面向对象分析,C语言,C++语言,信息安全导论
+linux操作系统,数据库系统原理,postgresql
+MFC,多线程,DirectX图形编程,软件测试,C语言
+linux操作系统,C语言,C++语言
+windows操作系统,Qt,面向对象分析,C++语言
+photoshop,TCP/IP编程,linux操作系统,HTTP传输协议,数据结构,C语言,C++语言
+C++语言,Lua,Unity
+linux操作系统,Qt,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,windows操作系统,linux操作系统,Qt,svn,sqlite数据库,网络通信,C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,多线程,COM编程,windows操作系统,TCP/IP编程,Socket编程,linux操作系统,C语言,C++语言
+linux操作系统,C语言,C++语言
+.net,MFC,多线程,STL库,DirectX图形编程,OpenGl图形编程,C语言,C++语言,Standard Template Library
+mysql数据库,linux操作系统,python编程,软件测试,熟悉一种脚本语言,C++语言,分布式,Lua,网络安全技术
+多线程,系统设计,windows操作系统,linux操作系统,网络编程,面向对象分析,软件测试,C语言,C++语言
+java,.net,javaScript,MFC,COM编程,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,网络编程,Access数据库,软件项目管理,C语言,C++语言,Microsoft Visual C++ 6.0
+C#,.net,多线程,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,数据结构,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,面向对象分析,C语言,C++语言
+C语言,C++语言
+Nginx,Nginx(一个HTTP和反向代理服务器),多线程,mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,unix操作系统,redis数据库,gcc,C语言,C++语言,Lua,gdb,GDB
+java,.net,COM编程,HTTP传输协议,软件工程,C语言,C++语言
+数据结构,C语言,C++语言
+linux操作系统,美术基础,C++语言,Lua
+java,Socket编程,网络编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,Android开发,C语言,C++语言
+mysql数据库,linux操作系统,网络编程,STL库,python编程,Perl语言,熟悉一种脚本语言,数据结构,bash语言,C语言,C++语言,Lua,Standard Template Library
+windows操作系统,linux操作系统,Objective-c语言,面向对象分析,软件测试,数据库系统原理,C语言,C++语言
+软件文档写作,C++语言
+linux操作系统,Android开发,C语言,C++语言
+.net,MFC,COM编程,STL库,GDI+图形编程,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,TCP/IP编程,linux操作系统,网络编程,STL库,boost库,C++语言,Standard Template Library
+C#,OpenGl图形编程,C语言,C++语言,Microsoft Visual C++ 6.0
+windows操作系统,svn,软件测试,C语言,C++语言
+MFC,COM编程,STL库,GDI+图形编程,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+java,ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+C#,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,软件架构设计,软件工程,软件架构,软件项目管理,C语言,C++语言
+多线程,Socket编程,UML建模语言,C语言,Microsoft Visual C++ 6.0
+windows操作系统,C++语言
+linux操作系统,Android开发,C语言,C++语言
+linux操作系统,unix操作系统,C++语言
+linux操作系统,网络编程,数据结构,C语言,C++语言
+多线程,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,linux操作系统,UDP协议,网络通信,软件架构设计,软件架构,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,C语言,C++语言
+MFC,多线程,svn,并发控制,C语言,C++语言,算法设计与技术
+多线程,Socket编程,linux操作系统,网络编程,C语言,C++语言
+系统设计,linux操作系统,软件测试
+MFC,多线程,系统分析,Socket编程,网络编程,串口编程,Qt,面向对象分析,数据结构,C语言,C++语言,串口开发
+C语言
+多线程,windows操作系统,SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,面向对象分析,C语言,C++语言
+多线程,windows操作系统,SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,面向对象分析,C语言,C++语言
+多线程,Oracle数据库,PL/SQL,TCP/IP编程,linux操作系统,STL库,项目实施,C语言,C++语言,Standard Template Library
+多线程,系统设计,TCP/IP编程,linux操作系统,面向对象分析,cache技术,UDP协议,网络通信,美术基础,C++语言,汇编语言
+java,Hbase数据库,python编程,Shell语言,Perl语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),搜索引擎算法,gcc,g++,C语言,C++语言,数据挖掘,机器学习,HBase,信息检索
+MFC,visualStudio,多线程,COM编程,GUI编程,系统设计,自动化测试(使用自动化测试软件、框架等),项目实施,C语言,C++语言
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,unix操作系统,STL库,Db2数据库,sybase数据库,g++,C语言,C++语言,Standard Template Library,嵌入式操作系统
+photoshop,linux操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library
+java,C语言
+MFC,多线程,COM编程,windows操作系统,Qt,C语言,C++语言,Microsoft Visual C++ 6.0
+软件测试,office
+photoshop,linux操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library
+java,C语言
+ORM对象关系映射,visualStudio,windows操作系统,Socket编程,linux操作系统,project,C语言,C++语言
+MFC,多线程,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,面向对象分析,C语言,C++语言
+软件测试,office
+mysql数据库,linux操作系统,数据结构,C语言,C++语言
+MFC,多线程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,网络编程,STL库,SIP协议,xmpp协议,sqlite数据库,UDP协议,数据结构,C语言,C++语言,分布式,Standard Template Library,Microsoft Visual C++ 6.0
+MFC,多线程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,网络编程,STL库,SIP协议,xmpp协议,sqlite数据库,UDP协议,数据结构,C语言,C++语言,分布式,Standard Template Library,Microsoft Visual C++ 6.0
+linux操作系统,python编程,软件测试,Perl语言,熟悉一种脚本语言,数据结构,美术基础,bash语言,C语言,C++语言,Lua,计算机网络
+MFC,windows操作系统,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,linux操作系统,网络编程,RTP传输协议,SIP协议,RTSP传输协议,HTTP传输协议,rtcp协议,软件工程,数据结构,C语言,C++语言,soap,嵌入式操作系统
+java,office,C语言,C++语言
+java,css层叠样式表,Html,javaScript,软件工程,数据结构,C语言,C++语言
+java,photoshop,linux操作系统,OOD面向对象设计,C语言,C++语言
+mysql数据库,TCP/IP编程,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,C++语言,gdb,GDB
+面向对象分析,C语言,C++语言,嵌入式操作系统
+.net,MFC,多线程,COM编程,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,网络编程,Access数据库,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,TCP/IP编程,Socket编程,SIP协议,HTTP传输协议,xmpp协议,ios开发,UDP协议,软件工程,分布式
+java,php,C#,linux操作系统,网络编程,面向对象分析,C语言,C++语言,游戏设计
+多线程,系统分析,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,美术基础,C语言,C++语言
+MFC,C语言,C++语言
+系统设计,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,C语言,C++语言
+windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,SIP协议,HTTP传输协议,软件项目管理,C语言,C++语言
+多线程,windows操作系统,linux操作系统,网络编程,STL库,软件测试,软件工程,数据结构,C语言,C++语言,分布式,Standard Template Library
+C语言,C++语言
+mysql数据库,Oracle数据库,Hbase数据库,hadoop(分布式系统基础架构),C语言,C++语言,分布式,HBase,Hive
+软件测试,C语言,C++语言
+.net,windows操作系统,TCP/IP编程,linux操作系统,网络编程,串口编程,面向对象分析,软件测试,软件工程,C++语言,Microsoft Visual C++ 6.0,串口开发
+多线程,系统设计,SQL Server数据库,TCP/IP编程,Socket编程,面向对象分析,软件工程,数据结构,C++语言
+多线程,COM编程,windows操作系统,面向对象分析,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+photoshop,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,数据结构,C++语言,Unity
+C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,windows操作系统,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+java,php,python编程,Shell语言,熟悉一种脚本语言,数据结构,C语言,C++语言,分布式
+MFC,windows操作系统,GDI+图形编程,软件工程,C语言,C++语言
+C++语言,Microsoft Visual C++ 6.0,数据通信基础
+Memcached,多线程,Redis数据库,TCP/IP编程,linux操作系统,unix操作系统,网络编程,redis数据库,UDP协议,软件测试,数据结构,C语言,C++语言,算法设计与技术
+Oracle数据库,linux操作系统,unix操作系统,软件测试,C++语言
+多线程,系统设计,windows操作系统,Oracle数据库,网络编程,UML建模语言,数据结构,C语言,C++语言,计算机网络
+linux操作系统,python编程,C语言,C++语言,VxWorks,嵌入式操作系统
+多线程,Socket编程,DirectX图形编程,OpenGl图形编程,C语言,C++语言,Microsoft Visual C++ 6.0
+visualStudio,mysql数据库,Oracle数据库,软件项目管理,C语言,C++语言,信息安全导论
+windows操作系统,TCP/IP编程,Socket编程,linux操作系统,软件测试,数据结构,C语言,C++语言
+linux操作系统,软件测试,数据结构,C语言,C++语言,嵌入式操作系统
+mysql数据库,linux操作系统,unix操作系统,网络编程,软件测试,数据库系统原理,数据分析,C语言,C++语言
+MFC,多线程,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,STL库,boost库,面向对象分析,C语言,C++语言,Standard Template Library
+软件工程,C语言,C++语言,嵌入式操作系统
+memcache,mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,网络编程,redis数据库,cache技术,C++语言,中间件
+windows操作系统,linux操作系统,软件测试,C语言,C++语言,嵌入式操作系统
+多线程,linux操作系统,网络编程,软件测试,数据结构,C语言,C++语言
+windows操作系统,linux操作系统,软件测试,C语言,C++语言
+C语言,C++语言
+多线程,TCP/IP编程,linux操作系统,unix操作系统,网络编程,UDP协议,Shell语言,数据结构,C语言,C++语言,算法设计与技术
+mysql数据库,TCP/IP编程,Socket编程,linux操作系统,软件测试,C++语言
+mysql数据库,TCP/IP编程,Socket编程,linux操作系统,软件测试,C++语言
+memcache,多线程,Redis数据库,linux操作系统,python编程,git,redis数据库,cache技术,网络通信,软件测试,Shell语言,数据库系统原理,C++语言
+Socket编程,OpenGl图形编程,Qt,C++语言
+系统设计,linux操作系统,软件测试,软件工程,C语言,C++语言
+java,多线程,windows操作系统,linux操作系统,STL库,boost库,python编程,面向对象分析,Android开发,数据结构,C++语言,Standard Template Library
+C语言
+数据结构,C语言,C++语言
+MFC,多线程,windows操作系统,SQL Server数据库,TCP/IP编程,网络编程,软件工程,C语言,C++语言,Microsoft Visual C++ 6.0
+Microsoft Office Visio,COM编程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,linux操作系统,UDP协议,TCP/UDP,软件测试,office,C++语言,Windows Communication Foundation
+windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,unix操作系统,软件测试,Shell语言,熟悉一种脚本语言,数据结构,gcc,g++,C语言,C++语言,gdb,GDB,Microsoft Visual C++ 6.0
+windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,Db2数据库,软件测试,C语言,C++语言
+多线程,windows操作系统,TCP/IP编程,Socket编程,UDP协议,TCP/UDP,C语言,C++语言,Microsoft Visual C++ 6.0
+面向对象分析,Android开发,数据结构,C++语言
+visualStudio,多线程,GUI编程,mysql数据库,TCP/IP编程,Socket编程,Qt,sqlite数据库,数据结构,软件项目管理,C语言,C++语言
+OpenGl图形编程,面向对象分析,C++语言
+MFC,visualStudio,windows操作系统,面向对象分析,软件工程,数据结构,C语言,C++语言,算法设计与技术
+C语言,C++语言
+TCP/IP编程,Socket编程,linux操作系统,python编程,HTTP传输协议,UDP协议,软件架构设计,Shell语言,软件架构,C语言,C++语言,网络安全技术
+多线程,windows操作系统,网络编程,C++语言,网络安全技术
+TCP/IP编程,Socket编程,linux操作系统,python编程,HTTP传输协议,UDP协议,软件架构设计,Shell语言,软件架构,C语言,C++语言,网络安全技术
+Memcached,多线程,NoSQL数据库,Redis数据库,linux操作系统,网络编程,面向对象分析,redis数据库,Shell语言,gcc,g++,C语言,C++语言,gdb,protobuf协议,fix协议,GDB
+java,软件工程
+TFS(一个分布式文件系统),多线程,软件测试,数据结构,C语言,C++语言,编译原理,算法设计与技术
+Oracle数据库,Access数据库,软件文档写作,C++语言
+.net,MFC,COM编程,SQL Server数据库,Oracle数据库,STL库,GDI+图形编程,XML技术,数据库系统原理,C语言,C++语言,Open Database Connectivity,Standard Template Library,Microsoft Visual C++ 6.0
+TCP/IP编程,linux操作系统,unix操作系统,网络编程,软件测试,C语言,C++语言,Keyboard Video Mouse
+.net,windows操作系统,linux操作系统,网络编程,Qt,软件工程,软件项目管理,C语言,C++语言,Microsoft Visual C++ 6.0
+C#,MFC,windows操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library
+C++语言,Microsoft Visual C++ 6.0
+MFC,TCP/IP编程,网络编程,Qt,面向对象分析,C语言,C++语言
+C语言,C++语言
+linux操作系统,Qt,C++语言
+java,linux操作系统,C语言,C++语言
+TCP/IP编程,linux操作系统,网络编程,SIP协议,RTSP传输协议,HTTP传输协议,软件测试,数据结构,gcc,C语言,C++语言,gdb,GDB
+多线程,windows操作系统,TCP/IP编程,linux操作系统,OOA面向对象分析,OOD面向对象设计,面向对象分析,网络通信,软件架构设计,软件工程,软件架构,gcc,C语言,C++语言,分布式,Microsoft Visual C++ 6.0
+C#,.net,MFC,windows操作系统,linux操作系统,面向对象分析,软件架构设计,软件工程,软件架构,C语言,C++语言
+多线程,系统分析,windows操作系统,linux操作系统,网络编程,Db2数据库,软件测试,熟悉一种脚本语言,C语言,C++语言,分布式,中间件
+MFC,软件测试,数据结构,C语言,C++语言
+Socket编程,linux操作系统,unix操作系统,网络编程,软件测试,C++语言
+MFC,软件测试,C语言,C++语言
+linux操作系统,unix操作系统,软件测试,Shell语言,C语言
+java,windows操作系统,linux操作系统,ios开发,Android开发,数据结构,软件项目管理,C语言,C++语言
+COM编程,windows操作系统,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,TCP/IP编程,linux操作系统,HTTP传输协议,MongoDB数据库,redis数据库,数据结构,软件项目管理,C语言,C++语言,HBase,计算机网络
+java,C#,MFC,visualStudio,windows操作系统,linux操作系统,Qt,svn,ios开发,Android开发,数据结构,软件项目管理,C语言,C++语言
+多线程,COM编程,系统设计,windows操作系统,linux操作系统,软件测试,数据结构,软件项目管理,C语言,C++语言
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,redis数据库,Shell语言,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua,Linux Virtual Server
+MFC,多线程,windows操作系统,Socket编程,网络编程,C语言,C++语言
+php,apache,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,python编程,HTTP传输协议,XML技术,jSon技术,网络通信,Perl语言,数据分析,bash语言,数据库建模,soap
+mysql数据库,Socket编程,linux操作系统,STL库,面向对象分析,数据结构,Standard Template Library
+多线程,TCP/IP编程,网络编程,C语言,C++语言
+Oracle数据库,面向对象分析,软件工程,C语言,C++语言
+软件测试,C++语言
+windows操作系统
+MFC,多线程,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,网络编程,python编程,UDP协议,软件测试,Shell语言,C语言,C++语言,数据挖掘,机器学习
+面向对象分析,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,C语言
+系统设计,TCP/IP编程,HTTP传输协议,面向对象分析,C语言,C++语言
+boost库,C++语言
+MFC,COM编程,C语言,C++语言,Microsoft Visual C++ 6.0
+linux操作系统,C语言,C++语言,Microsoft Visual C++ 6.0
+C++语言,分布式
+Oracle数据库,linux操作系统,软件项目管理,C语言,C++语言
+SQL Server数据库,Oracle数据库,PL/SQL,C语言,C++语言,中间件
+windows操作系统,linux操作系统,ios开发,Android开发,Shell语言,数据结构,C语言,C++语言,关系型数据库
+C语言,C++语言
+ios开发,Android开发,软件测试,C语言,C++语言,Lua
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Shell语言,C++语言
+windows操作系统,Socket编程,网络编程,C++语言
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Shell语言,C++语言
+windows操作系统,Socket编程,网络编程,C++语言
+SQL Server数据库,C++语言,Microsoft Visual C++ 6.0
+linux操作系统,HLS传输协议,C语言,C++语言
+系统设计,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,软件项目管理,C++语言
+C++语言
+jQuery框架,javaScript,mysql数据库,面向对象分析,Prototype,数据库系统原理,C++语言
+linux操作系统,软件测试,Shell语言,C++语言
+多线程,TCP/IP编程,Socket编程,linux操作系统,CentOS操作系统,网络编程,软件测试,C语言,C++语言,分布式,算法设计与技术
+windows操作系统,linux操作系统,C++语言
+多线程,网络编程
+ios开发,Android开发,C语言,C++语言,Lua
+photoshop,COM编程,linux操作系统,python编程,数据结构,C语言,C++语言,Lua
+SQL Server数据库,Oracle数据库,PL/SQL,C语言,C++语言,中间件
+多线程,网络通信,软件工程,C++语言
+MFC,多线程,boost库,面向对象分析,C语言,C++语言
+MFC,多线程,COM编程,windows操作系统,windows编程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,网络编程,C语言,C++语言
+MFC,多线程,COM编程,windows操作系统,windows编程,Socket编程,C语言,C++语言,游戏设计
+python编程,熟悉一种脚本语言,C++语言,Matlab,算法设计与技术
+MFC,SQL Server数据库,Oracle数据库,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+windows操作系统,面向对象分析,软件工程,C++语言,Microsoft Visual C++ 6.0
+多线程,windows操作系统,linux操作系统,网络编程,面向对象分析,数据库系统原理,数据结构,office,C++语言
+MFC,多线程,windows操作系统,windows编程,STL库,HTTP传输协议,ios开发,XML技术,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+MFC,多线程,windows操作系统,TCP/IP编程,Socket编程,Qt,数据结构,C语言,C++语言
+C++语言
+多线程,windows操作系统,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,UDP协议,网络通信,Shell语言,gcc,C语言,C++语言,Open Database Connectivity,gdb,GDB
+GUI编程,数据结构,C++语言,cocos2d
+Qt,面向对象分析,C语言,C++语言
+MFC,多线程,TCP/IP编程,Socket编程,网络编程,Qt,数据结构,C语言,C++语言
+php,网络编程,面向对象分析,软件架构设计,软件测试,软件工程,软件架构,数据结构,C++语言
+MFC,系统分析,windows操作系统,linux操作系统,网络编程,STL库,UML建模语言,面向对象分析,软件架构设计,软件测试,软件架构,软件文档写作,C语言,C++语言,Standard Template Library
+php,网络编程,面向对象分析,软件架构设计,软件测试,软件工程,软件架构,数据结构,C++语言
+网络编程,面向对象分析,软件架构设计,软件测试,软件工程,软件架构,数据结构,C++语言,fix协议
+ORM对象关系映射,系统分析,TCP/IP编程,linux操作系统,C语言,C++语言,Windows Communication Foundation,网络安全技术
+多线程,系统分析,mysql数据库,Socket编程,linux操作系统,ios开发,MongoDB数据库,Android开发,Shell语言,熟悉一种脚本语言,数据结构,C++语言,Lua
+ORM对象关系映射,C#,系统分析,TCP/IP编程,linux操作系统,C语言,Windows Communication Foundation,网络安全技术
+MFC,多线程,windows操作系统,STL库,UML建模语言,GDI+图形编程,svn,软件架构设计,软件测试,Jira(项目与事务跟踪工具),软件架构,C语言,C++语言,Standard Template Library,计算机网络
+多线程,系统设计,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,STL库,网络通信,软件测试,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+windows操作系统,面向对象分析,C++语言
+OpenGl图形编程,C++语言
+C++语言,cocos2d-x,cocos2d
+网络编程,面向对象分析,C语言,C++语言
+linux操作系统,unix操作系统,Db2数据库,软件项目管理,C语言,中间件
+MFC,windows操作系统,DirectX图形编程,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+Nginx,Nginx(一个HTTP和反向代理服务器),RTP传输协议,RTSP传输协议,HLS传输协议,数据结构,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,软件工程,熟悉一种脚本语言,C语言,C++语言
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,网络编程,RTP传输协议,软件测试,软件工程,C语言,C++语言
+windows操作系统,DirectX图形编程,OpenGl图形编程,数据库系统原理,数据结构,计算机图形学
+SQL Server数据库,TCP/IP编程,linux操作系统,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0,嵌入式操作系统
+多线程,COM编程,windows操作系统,STL库,面向对象分析,数据结构,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,COM编程,windows操作系统,STL库,面向对象分析,数据结构,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,COM编程,windows操作系统,STL库,面向对象分析,数据结构,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+windows操作系统,STL库,C语言,C++语言,Standard Template Library,HOOK,IDA,信息安全导论,汇编语言
+windows操作系统,C语言,C++语言,IDA,信息安全导论,汇编语言
+Microsoft Office Visio,.net,COM编程,系统设计,windows操作系统,STL库,UML建模语言,DirectX图形编程,HTTP传输协议,数据结构,软件项目管理,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,COM编程,windows操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+windows操作系统,Android开发,C语言,C++语言
+css层叠样式表,Html,javaScript,windows操作系统,网络编程,STL库,boost库,熟悉一种脚本语言,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0,算法设计与技术
+GUI编程,windows操作系统,mysql数据库,DirectX图形编程,RTSP传输协议,面向对象分析,ERP(企业资源计划),数据结构,C语言,C++语言,分布式,HOOK
+GUI编程,windows操作系统,mysql数据库,DirectX图形编程,面向对象分析,数据结构,C语言,C++语言,分布式
+C#,.net,Socket编程,软件工程,C语言,Microsoft Visual C++ 6.0
+Oracle数据库,linux操作系统,unix操作系统,软件测试,C语言,C++语言
+C#,.net,C语言,C++语言
+C#,C语言,C++语言
+软件测试,软件文档写作,C语言,C++语言
+软件测试,数据结构,C语言,C++语言,机器学习,计算机组成原理,嵌入式操作系统
+windows操作系统,windows编程,软件测试,数据结构,C语言,C++语言,汇编语言
+mysql数据库,linux操作系统,C++语言
+Socket编程,C++语言,cocos2d-x,cocos2d
+mysql数据库,linux操作系统,软件文档写作,C语言,C++语言
+MFC,visualStudio,多线程,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,C语言,C++语言
+java,Html,ORM对象关系映射,photoshop,C#,.net,javaScript,windows操作系统,project,C语言,C++语言,WebService
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,OOD面向对象设计,软件工程,Adobe Illustrator(AI),project,C语言,C++语言
+Microsoft Office Visio,系统设计,windows操作系统,STL库,UML建模语言,DirectX图形编程,数据结构,软件项目管理,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+java,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Tomcat,多线程,COM编程,系统设计,系统分析,windows操作系统,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,u
+.net,MFC,多线程,windows操作系统,Oracle数据库,PL/SQL,网络编程,STL库,C语言,C++语言,Standard Template Library
+ios开发,Android开发
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,OOD面向对象设计,软件工程,Adobe Illustrator(AI),project,C语言,C++语言
+MFC,多线程,windows操作系统,TCP/IP编程,STL库,C语言,C++语言,Standard Template Library,信息安全导论
+MFC,多线程,windows操作系统,TCP/IP编程,linux操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library,信息安全导论
+多线程,COM编程,windows操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,COM编程,windows操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,COM编程,windows操作系统,STL库,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+java,windows操作系统,linux操作系统,ios开发,Android开发,数据结构,软件项目管理,C语言,C++语言
+多线程,COM编程,系统设计,windows操作系统,linux操作系统,软件测试,数据结构,软件项目管理,C语言,C++语言
+软件项目管理,C语言,C++语言
+SQL Server数据库,Oracle数据库,C++语言,Microsoft Visual C++ 6.0,C++builder
+mysql数据库,TCP/IP编程,linux操作系统,面向对象分析,软件测试,数据库系统原理,C++语言
+mysql数据库,TCP/IP编程,linux操作系统,面向对象分析,软件测试,数据库系统原理,C++语言
+Html,javaScript,MFC,多线程,windows操作系统,windows编程,TCP/IP编程,Socket编程,网络编程,STL库,GDI+图形编程,DirectX图形编程,面向对象分析,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,Qt,C++语言,Microsoft Visual C++ 6.0
+C语言,C++语言
+linux操作系统,C语言,C++语言
+COM编程,系统设计,mysql数据库,NoSQL数据库,TCP/IP编程,linux操作系统,面向对象分析,软件测试,数据库系统原理,Adobe Illustrator(AI),C++语言,分布式
+面向对象分析,C++语言
+多线程,COM编程,mysql数据库,Socket编程,linux操作系统,面向对象分析,Adobe Illustrator(AI),C语言,C++语言
+mysql数据库,linux操作系统,面向对象分析,软件架构设计,软件工程,熟悉一种脚本语言,软件架构,C语言,C++语言,Lua
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,面向对象分析,Android开发,数据结构,美术基础,C++语言,cocos2d-x,cocos2d,算法设计与技术
+windows操作系统,C语言,C++语言,中间件,Microsoft Visual C++ 6.0,网络安全技术,信息安全导论,密码学
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,python编程,Perl语言,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua
+windows操作系统,linux操作系统,软件测试,C语言,C++语言
+C语言,C++语言
+mysql数据库,Oracle数据库,Redis数据库,linux操作系统,网络编程,redis数据库,软件测试,C++语言
+windows操作系统,mysql数据库,Socket编程,linux操作系统,网络编程,C++语言
+MFC,windows操作系统,OpenGl图形编程,C语言,C++语言
+.net,MFC,多线程,windows操作系统,windows编程,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,Qt,面向对象分析,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,windows操作系统,OpenGl图形编程,C语言,C++语言
+多线程,TCP/IP编程,linux操作系统,unix操作系统,网络编程,软件测试,C语言,C++语言
+ios开发,Android开发,软件测试,美术基础,C++语言
+GUI编程,网络编程,串口编程,Qt,面向对象分析,软件测试,软件工程,C语言,C++语言,串口开发
+rose(UML画图工具),MFC,SQL Server数据库,Oracle数据库,Socket编程,UML建模语言,面向对象分析,C语言,C++语言,Powerdesigner,Microsoft Visual C++ 6.0
+MFC,多线程,Qt,网络通信,数据结构,C语言,C++语言,Matlab
+MFC,多线程,Qt,网络通信,数据结构,C语言,C++语言,Matlab
+windows操作系统,C语言,C++语言
+MFC,多线程,Qt,网络通信,数据结构,C语言,C++语言,Matlab
+MFC,多线程,Qt,网络通信,数据结构,C语言,C++语言,Matlab
+MFC,多线程,Qt,网络通信,数据结构,C语言,C++语言,Matlab
+软件架构设计,软件架构
+linux操作系统,unix操作系统,面向对象分析,软件工程,C语言,C++语言
+linux操作系统,SIP协议,ios开发,Android开发
+MFC,多线程,windows操作系统,TCP/IP编程,网络编程,svn,软件测试,单元测试工具,熟悉主流测试工具,C语言,C++语言
+MFC,多线程,windows操作系统,TCP/IP编程,网络编程,svn,软件测试,单元测试工具,熟悉主流测试工具,C语言,C++语言
+MFC,多线程,windows操作系统,TCP/IP编程,网络编程,svn,软件测试,单元测试工具,熟悉主流测试工具,C语言,C++语言
+windows操作系统,linux操作系统,C语言,C++语言,NDIS,信息安全导论
+MFC,windows操作系统,STL库,OpenGl图形编程,面向对象分析,软件测试,项目实施,C语言,C++语言,Standard Template Library
+多线程,TCP/IP编程,Socket编程,linux操作系统,网络编程,STL库,boost库,UDP协议,网络通信,Shell语言,C语言,C++语言,gdb,Standard Template Library,GDB
+ios开发,面向对象分析,软件工程,数据结构,C++语言
+ios开发,面向对象分析,软件工程,数据结构,C++语言
+linux操作系统,SIP协议,HTTP传输协议,C语言,C++语言
+MFC,windows操作系统,linux操作系统,C语言,C++语言
+MFC,windows操作系统,linux操作系统,C语言,C++语言
+memcache,photoshop,mysql数据库,SQL Server数据库,TCP/IP编程,HTTP传输协议,MongoDB数据库,cache技术,软件工程,C语言,C++语言
+mysql数据库,Oracle数据库,Qt,数据结构,C语言,C++语言
+MFC,visualStudio,COM编程,STL库,面向对象分析,数据结构,C语言,C++语言,Standard Template Library
+COM编程,windows操作系统,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,hadoop(分布式系统基础架构),数据结构,C++语言,分布式,算法设计与技术
+linux操作系统,unix操作系统,STL库,面向对象分析,数据结构,C语言,C++语言,Standard Template Library
+多线程,Socket编程,linux操作系统,网络编程,STL库,C语言,C++语言,Standard Template Library
+UML建模语言,面向对象分析,数据结构,C语言,C++语言
+C#,COM编程,windows操作系统,UML建模语言,串口编程,usb编程,C语言,C++语言,Microsoft Visual C++ 6.0,串口开发
+Oracle数据库,unix操作系统,软件测试,C++语言
+C#,COM编程,windows操作系统,UML建模语言,串口编程,usb编程,C语言,C++语言,Microsoft Visual C++ 6.0,串口开发
+系统分析,linux操作系统,软件测试,软件工程,C++语言,CORBA
+C#,windows操作系统,UML建模语言,串口编程,usb编程,C语言,C++语言,Microsoft Visual C++ 6.0,串口开发
+Oracle数据库,unix操作系统,软件测试,C++语言
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,网络编程,STL库,boost库,C++语言,Standard Template Library
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,网络编程,STL库,boost库,C++语言,Standard Template Library
+windows操作系统,windows编程,Socket编程,linux操作系统,网络编程,C++语言
+windows操作系统,windows编程,Socket编程,linux操作系统,网络编程,C++语言
+熟悉一种脚本语言,C++语言,机器学习
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,网络编程,面向对象分析,Shell语言,gcc,C语言,C++语言,gdb,GDB
+.net,C++语言
+COM编程,Oracle数据库,linux操作系统,UML建模语言,面向对象分析,C语言,C++语言
+COM编程,Oracle数据库,linux操作系统,UML建模语言,面向对象分析,C语言,C++语言
+OpenGl图形编程,面向对象分析,美术基础,C++语言,cocos2d-x,cocos2d
+Redis数据库,TCP/IP编程,Socket编程,linux操作系统,python编程,MongoDB数据库,redis数据库,熟悉一种脚本语言,C++语言
+Objective-c语言,熟悉一种脚本语言,C语言,C++语言,cocos2d-x,cocos2d
+Objective-c语言,熟悉一种脚本语言,C语言,C++语言,cocos2d-x,cocos2d
+MFC,多线程,SQL Server数据库,Socket编程,UML建模语言,数据结构,C语言,C++语言,中间件
+ORM对象关系映射,.net,Oracle数据库,串口编程,面向对象分析,C++语言,串口开发
+MFC,C语言,Microsoft Visual C++ 6.0
+C++语言
+COM编程,面向对象分析,软件工程,C++语言
+windows操作系统,C语言,C++语言
+windows操作系统,C语言,C++语言
+rose(UML画图工具),Microsoft Office Visio,多线程,TCP/IP编程,linux操作系统,unix操作系统,网络编程,STL库,UML建模语言,串口编程,RTP传输协议,SIP协议,RTSP传输协议,HTTP传输协议,rtcp协议,面向对象分析,C语言,C++
+MFC,多线程,windows操作系统,TCP/IP编程,网络编程,STL库,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+MFC,多线程,GDI+图形编程,rtmp协议,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+软件工程,C语言,C++语言
+软件工程,C语言,C++语言
+MFC,windows操作系统,网络编程,面向对象分析,软件架构设计,软件测试,软件工程,软件架构,C语言,C++语言,Microsoft Visual C++ 6.0
+C++语言
+数据结构,C++语言
+MFC,windows操作系统,软件工程,数据结构,C语言,C++语言
+.net,TCP/IP编程,linux操作系统,Ubuntu操作系统,CentOS操作系统,Red Hat操作系统,HTTP传输协议,软件测试,C语言,C++语言
+多线程,linux操作系统,Qt,面向对象分析,数据分析,软件项目管理,C语言,C++语言,wxWidgets
+Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),系统分析,Redis数据库,linux操作系统,unix操作系统,python编程,redis数据库,Shell语言,Perl语言,熟悉一种脚本语言,C语言,C++语言,分布式,Vmware,Keyboard Video Mouse
+C#,多线程,windows操作系统,Oracle数据库,TCP/IP编程,linux操作系统,软件测试,数据结构,C语言,C++语言
+.net,COM编程,数据结构,C语言,C++语言
+C#,多线程,windows操作系统,TCP/IP编程,Socket编程,STL库,Qt,面向对象分析,网络通信,Android开发,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+C#,多线程,windows操作系统,TCP/IP编程,Socket编程,STL库,Qt,面向对象分析,网络通信,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+C#,多线程,windows操作系统,Oracle数据库,TCP/IP编程,linux操作系统,软件测试,数据结构,C语言,C++语言
+C#,GUI编程,Qt,面向对象分析,C语言,C++语言
+MFC,COM编程,OpenGl图形编程,C语言,C++语言,Arcgis,ArcGIS,Microsoft Visual C++ 6.0
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,面向对象分析,Db2数据库,软件测试,数据结构,C++语言
+MFC,windows操作系统,STL库,boost库,GDI+图形编程,软件测试,数据结构,C语言,C++语言,Standard Template Library,OllyDBG
+多线程,SQL Server数据库,TCP/IP编程,linux操作系统,C++语言
+windows操作系统,TCP/IP编程,Socket编程,linux操作系统,C语言,C++语言
+系统设计,windows操作系统,TCP/IP编程,Socket编程,网络编程,STL库,面向对象分析,软件工程,C语言,C++语言,Standard Template Library
+MFC,windows操作系统,软件测试,C语言,C++语言
+java,C#,windows操作系统,熟悉主流测试工具,C语言,Microsoft Visual C++ 6.0
+windows操作系统,C语言,C++语言
+windows操作系统,Oracle数据库,linux操作系统,unix操作系统,sybase数据库,软件测试,软件项目管理,C语言,C++语言
+boost库,python编程,面向对象分析,C语言,C++语言,OpenCV,计算机图形学
+多线程,网络编程
+eclipse,linux操作系统,C语言,C++语言
+TCP/IP编程,Socket编程,unix操作系统,软件测试,C语言,中间件
+Photoshop,OpenGl图形编程,数据结构,C语言,C++语言,Matlab
+sqlite数据库,C语言,C++语言
+SQL Server数据库,Oracle数据库,Socket编程,项目实施,C语言,C++语言,Microsoft Visual C++ 6.0
+mysql数据库,Socket编程,python编程,HTTP传输协议,MongoDB数据库,数据结构,C语言,C++语言,Lua
+Socket编程,python编程,熟悉一种脚本语言,C++语言,Lua
+MFC,多线程,windows操作系统,windows编程,TCP/IP编程,Socket编程,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,系统设计,windows操作系统,linux操作系统,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,系统设计,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,windows操作系统,linux操作系统,gcc,C语言,C++语言,cuda
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+面向对象分析,C++语言,OpenCV
+java,C#,多线程,Socket编程,linux操作系统,美术基础,C语言,C++语言
+多线程,windows操作系统,Socket编程,面向对象分析,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,TCP/IP编程,数据结构,C语言,C++语言
+系统分析,SQL Server数据库,Oracle数据库,linux操作系统,STL库,软件测试,C语言,C++语言,Standard Template Library
+MFC,多线程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,网络编程,STL库,SIP协议,xmpp协议,sqlite数据库,UDP协议,数据结构,C语言,C++语言,分布式,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,系统设计,windows操作系统,linux操作系统,软件测试,数据结构,软件项目管理,C语言,C++语言
+C#,windows操作系统,linux操作系统,STL库,OpenGl图形编程,数据结构,C语言,C++语言,Standard Template Library
+多线程,TCP/IP编程,linux操作系统,unix操作系统,网络编程,python编程,HTTP传输协议,C语言,C++语言,分布式,gdb,GDB,网络安全技术
+git,C语言,C++语言
+linux操作系统,unix操作系统,Qt,面向对象分析,C语言,C++语言
+MFC,visualStudio,多线程,COM编程,windows操作系统,Socket编程,Qt,C语言,C++语言
+系统设计,TCP/IP编程,linux操作系统,unix操作系统,网络编程,软件测试,C语言,C++语言
+COM编程,windows操作系统,C语言,C++语言,Microsoft Visual C++ 6.0
+系统设计,面向对象分析
+MFC,系统设计,windows操作系统,Socket编程,GDI+图形编程,C语言,C++语言,Microsoft Visual C++ 6.0
+java,Oracle数据库,linux操作系统,unix操作系统,XML技术,Shell语言,Perl语言,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,面向对象分析,UDP协议,Android开发,TCP/UDP,C语言,C++语言,中间件,嵌入式操作系统
+mysql数据库,SQL Server数据库,Oracle数据库,C++语言,关系型数据库
+Android开发,C++语言
+linux操作系统,OpenGl图形编程,Qt,软件测试,C语言,C++语言
+java,C#,MFC,visualStudio,windows操作系统,linux操作系统,Qt,svn,ios开发,Android开发,数据结构,软件项目管理,C语言,C++语言
+java,php,javaScript,NoSQL数据库,linux操作系统,C语言,C++语言,Lua
+多线程,Socket编程,linux操作系统,网络编程,C语言,C++语言
+ERP(企业资源计划),C++语言
+熟悉一种脚本语言,C++语言
+C#,python编程,美工基础,C语言,C++语言
+python编程,美工基础,C++语言
+多线程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,linux操作系统,boost库,串口编程,XML技术,Shell语言,bash语言,gcc,g++,C语言,C++语言,gdb,GDB,串口开发
+STL库,OpenGl图形编程,C语言,C++语言,Standard Template Library
+多线程,Socket编程,linux操作系统,网络编程,boost库,C++语言,信息安全导论
+windows操作系统,网络编程,软件测试,软件工程,C语言,C++语言,Microsoft Visual C++ 6.0,网络安全技术
+MFC,多线程,windows操作系统,Oracle数据库,linux操作系统,unix操作系统,网络编程,Db2数据库,C语言,C++语言
+MFC,多线程,windows操作系统,Oracle数据库,linux操作系统,unix操作系统,网络编程,Db2数据库,C语言,C++语言
+C语言,C++语言
+Html,多线程,系统分析,TCP/IP编程,linux操作系统,网络编程,美术基础,C++语言,Lua
+php,软件测试
+多线程,C语言,C++语言,Microsoft Visual C++ 6.0
+linux操作系统,C语言,C++语言
+windows操作系统,STL库,C++语言,Standard Template Library
+MFC,多线程,windows操作系统,mysql数据库,Socket编程,STL库,软件测试,数据结构,C语言,C++语言,NDIS,Standard Template Library,Microsoft Visual C++ 6.0,信息安全导论
+多线程,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,python编程,Shell语言,C语言,分布式,postgresql,gdb,GDB,网络安全技术,信息安全导论
+TCP/IP编程,RTP传输协议,SIP协议,rtcp协议,网络通信,C语言,C++语言
+C#,MFC,linux操作系统,DirectX图形编程,C语言,C++语言,Microsoft Visual C++ 6.0
+javaScript,COM编程,mysql数据库,python编程,C++语言,分布式,Lua
+MFC,TCP/IP编程,Socket编程,网络编程,UDP协议,C语言,C++语言,信息安全导论
+软件项目管理,C语言,C++语言,电子商务
+linux操作系统,unix操作系统,网络编程,软件项目管理,C语言,C++语言,电子商务
+windows操作系统,软件项目管理,C语言,C++语言,电子商务
+C#,.net,SQL Server数据库,Oracle数据库,C语言,C++语言,分布式
+MFC,visualStudio,多线程,COM编程,windows操作系统,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+ios开发,面向对象分析,Android开发,美术基础,C++语言,cocos2d-x,cocos2d
+linux操作系统,ios开发,面向对象分析,C语言,C++语言
+系统分析,UML建模语言,面向对象分析,软件架构设计,软件工程,软件架构,数据库系统原理,数据分析,数据结构,项目实施,C语言,C++语言,计算机网络,算法设计与技术,网络安全技术
+php,python编程,熟悉一种脚本语言,C语言,C++语言,Lua,Unity
+Html,php,mysql数据库,Socket编程,linux操作系统,软件测试,C++语言
+MFC,windows操作系统,网络编程,STL库,C语言,Standard Template Library
+MFC,windows操作系统,网络编程,STL库,C语言,Standard Template Library
+多线程,系统分析,linux操作系统,unix操作系统,网络编程,数据结构,C语言,C++语言,算法设计与技术
+MFC,visualStudio,多线程,Socket编程,网络编程,STL库,GDI+图形编程,usb编程,Android开发,gcc,C语言,C++语言,Standard Template Library,IDA,OllyDBG,汇编语言
+MFC,GUI编程,windows操作系统,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,Shell语言,数据结构,C语言,C++语言,中间件,gdb,vi,GDB,Microsoft Visual C++ 6.0
+linux操作系统,unix操作系统,软件测试,C语言,C++语言
+java,linux操作系统,熟悉主流测试工具,C语言,C++语言,汇编语言
+多线程,linux操作系统,C语言,C++语言
+MFC,多线程,COM编程,windows操作系统,Qt,软件测试,C语言,C++语言,OpenCV,wxWidgets,Microsoft Visual C++ 6.0
+java,MFC,多线程,windows操作系统,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+php,多线程,mysql数据库,Socket编程,linux操作系统,熟悉一种脚本语言,数据结构,C语言,C++语言
+MFC,visualStudio,多线程,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,网络编程,STL库,面向对象分析,软件测试,数据结构,gcc,C语言,C++语言,Standard Template Library,计算机网
+linux操作系统,unix操作系统,ios开发,软件测试,数据结构,软件文档写作,C++语言,VxWorks,cocos2d-x,cocos2d,嵌入式操作系统
+linux操作系统,unix操作系统,ios开发,软件测试,数据结构,软件文档写作,C++语言,VxWorks,cocos2d-x,cocos2d,嵌入式操作系统
+memcache,系统设计,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,linux操作系统,xmpp协议,redis数据库,cache技术,C++语言,分布式
+mysql数据库,Oracle数据库,linux操作系统,数据结构,C语言,C++语言
+C语言,C++语言,嵌入式操作系统
+java,C#,多线程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+C++语言
+php,mysql数据库,linux操作系统,python编程,C语言,C++语言
+mysql数据库,TCP/IP编程,软件工程,C语言,C++语言
+windows操作系统,数据结构,C语言,C++语言
+网络编程,Qt,面向对象分析,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+网络编程,Qt,面向对象分析,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,COM编程,windows操作系统,TCP/IP编程,Socket编程,STL库,boost库,C语言,C++语言,Standard Template Library
+面向对象分析,C++语言
+多线程,TCP/IP编程,Socket编程,linux操作系统,STL库,Shell语言,g++,C语言,C++语言,Standard Template Library
+多线程,windows操作系统,Socket编程,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+java,mysql数据库,linux操作系统,C语言,C++语言,Microsoft Visual C++ 6.0
+软件工程,C语言,C++语言,嵌入式操作系统
+COM编程,系统设计,网络编程,HTTP传输协议,面向对象分析,C语言,C++语言,信息安全导论
+MFC,多线程,COM编程,windows操作系统,STL库,C语言,C++语言,Standard Template Library,HOOK
+java,C++语言
+多线程,linux操作系统,C语言,C++语言
+linux操作系统,Qt,面向对象分析,C++语言
+MFC,软件工程,C语言,C++语言
+linux操作系统,软件工程,C语言,C++语言
+多线程,mysql数据库,linux操作系统,STL库,C++语言,Standard Template Library
+MFC,GDI+图形编程,sqlite数据库,C语言,Microsoft Visual C++ 6.0
+C语言,C++语言,单片机原理与引用,嵌入式操作系统,汇编语言
+MFC,C语言,C++语言,电子商务
+TCP/IP编程,linux操作系统,C语言,C++语言,Matlab,嵌入式操作系统
+多线程,SQL Server数据库,Oracle数据库,Socket编程,C语言,C++语言,Microsoft Visual C++ 6.0
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,软件工程,软件项目管理,C语言,C++语言
+MFC,C语言,C++语言,电子商务
+MFC,多线程,COM编程,windows操作系统,Socket编程,linux操作系统,STL库,C语言,C++语言,Standard Template Library
+linux操作系统,Qt,面向对象分析,C++语言
+MFC,SQL Server数据库,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,windows操作系统,网络编程,Qt,面向对象分析,C++语言
+MFC,C语言,C++语言
+linux操作系统,面向对象分析,熟悉一种脚本语言,数据结构,项目实施,C语言,C++语言
+windows操作系统,mysql数据库,Oracle数据库,unix操作系统,软件测试,C语言,C++语言,中间件,CORBA,Microsoft Visual C++ 6.0
+多线程,windows操作系统,TCP/IP编程,Socket编程,数据结构,C语言,C++语言
+C++语言
+MFC,Qt,面向对象分析,数据库系统原理,office,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,linux操作系统,unix操作系统,网络编程,软件测试,C语言,C++语言
+MFC,windows操作系统,linux操作系统,STL库,boost库,Qt,软件测试,C语言,C++语言,Standard Template Library
+linux操作系统,unix操作系统,C语言,C++语言
+MFC,visualStudio,COM编程,windows操作系统,数据结构,C语言,C++语言
+rose(UML画图工具),面向对象分析,软件工程,数据库系统原理,数据结构,C语言
+多线程,windows操作系统,windows编程,Qt,C语言,C++语言,Microsoft Visual C++ 6.0
+rose(UML画图工具),Microsoft Office Visio,多线程,TCP/IP编程,linux操作系统,unix操作系统,网络编程,STL库,UML建模语言,RTP传输协议,SIP协议,RTSP传输协议,HTTP传输协议,rtcp协议,面向对象分析,Shell语言,gcc,g++,C语
+visualStudio,多线程,COM编程,windows操作系统,STL库,面向对象分析,软件测试,C语言,C++语言,Standard Template Library,HOOK,IDA,OllyDBG,汇编语言
+多线程,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,python编程,Shell语言,熟悉一种脚本语言,数据结构,C语言,C++语言,中间件,gdb,vi,GDB,Microsoft Visual C++ 6.0
+系统设计,windows操作系统,Oracle数据库,linux操作系统,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+COM编程,HTTP传输协议
+windows操作系统,TCP/IP编程,linux操作系统,网络编程,SIP协议,面向对象分析,软件测试,C语言,C++语言
+COM编程,系统设计,STL库,面向对象分析,C语言,C++语言,分布式,Standard Template Library
+MFC,软件测试,软件工程,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,多线程,COM编程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,网络编程,GDI+图形编程,HTTP传输协议,sqlite数据库,XML技术,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,C语言
+系统分析,windows操作系统,数据结构,C语言,C++语言,计算机网络
+SQL Server数据库,Oracle数据库,TCP/IP编程,面向对象分析,C++builder
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,STL库,boost库,串口编程,RTP传输协议,SIP协议,RTSP传输协议,rtcp协议,软件工程,数据结构,Standard Template Library,串口开发
+java,多线程,windows操作系统,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,软件测试,数据结构,C语言,C++语言,中间件,Microsoft Visual C++ 6.0,嵌入式操作系统
+MFC,STL库,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+.net,windows操作系统,TCP/IP编程,linux操作系统,网络编程,串口编程,面向对象分析,软件测试,软件工程,C++语言,Microsoft Visual C++ 6.0,串口开发
+.net,windows操作系统,TCP/IP编程,linux操作系统,网络编程,串口编程,面向对象分析,软件测试,软件工程,C++语言,Microsoft Visual C++ 6.0,串口开发
+.net,windows操作系统,TCP/IP编程,linux操作系统,网络编程,串口编程,面向对象分析,软件测试,软件工程,C++语言,Microsoft Visual C++ 6.0,串口开发
+MFC,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,网络编程,GDI+图形编程,OpenGl图形编程,串口编程,UDP协议,C语言,C++语言,串口开发
+java,eclipse,linux操作系统,软件工程,C语言,C++语言
+jQuery框架,css层叠样式表,Html,XHTML,C#,.net,javaScript,windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,python编程,软件架构设计,软件架构,软件项目管理,gcc,g++,C语言,
+C++语言
+C++语言
+Html,javaScript,COM编程,windows操作系统,linux操作系统,网络编程,HTTP传输协议,XML技术,C语言,C++语言,Microsoft Visual C++ 6.0
+ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+多线程,windows操作系统,网络编程,软件测试,软件工程,C语言,C++语言,Microsoft Visual C++ 6.0
+多线程,windows操作系统,linux操作系统,网络编程,Qt,软件测试,C语言,C++语言
+Android开发,C++语言
+C++语言,Microsoft Visual C++ 6.0
+OpenGl图形编程,C++语言,计算机图形学
+windows操作系统,linux操作系统,面向对象分析,C语言,C++语言
+多线程,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,面向对象分析,数据结构,C语言,C++语言,postgresql,算法设计与技术
+Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,C语言,C++语言
+多线程,windows操作系统,TCP/IP编程,RTP传输协议,RTSP传输协议,HTTP传输协议,rtcp协议,C++语言
+MFC,多线程,windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,串口编程,Qt,软件项目管理,C语言,C++语言,Microsoft Visual C++ 6.0,串口开发
+Qt,软件项目管理,C语言,C++语言
+java,.net,windows操作系统,linux操作系统,数据结构,C语言,C++语言,VxWorks,WinCE,嵌入式操作系统
+多线程,系统设计,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,STL库,网络通信,软件测试,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+多线程,系统设计,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,STL库,网络通信,软件测试,数据结构,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+MFC,windows操作系统,linux操作系统,ios开发,C语言,C++语言
+TCP/IP编程,STL库,boost库,RTP传输协议,RTSP传输协议,HTTP传输协议,rtmp协议,rtcp协议,数据结构,C语言,C++语言,Standard Template Library
+SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,串口编程,C++语言,串口开发
+C#,SQL Server数据库,软件工程,C语言,C++语言,算法设计与技术
+MFC,windows操作系统,mysql数据库,SQL Server数据库,网络编程,串口编程,C语言,C++语言,WinSock,串口开发,嵌入式操作系统
+Oracle数据库,linux操作系统,unix操作系统,软件测试,软件工程,C语言,C++语言
+windows操作系统,SQL Server数据库,Oracle数据库,Access数据库,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0,C++builder
+MFC,多线程,Qt,网络通信,数据结构,C语言,C++语言,Matlab
+MFC,多线程,windows操作系统,Socket编程,linux操作系统,unix操作系统,网络编程,STL库,Qt,软件测试,软件工程,数据结构,软件项目管理,C语言,C++语言,分布式,Standard Template Library,信息安全导论
+MFC,多线程,windows操作系统,Socket编程,linux操作系统,unix操作系统,网络编程,STL库,Qt,软件测试,软件工程,数据结构,软件项目管理,C语言,C++语言,分布式,Standard Template Library,信息安全导论
+linux操作系统,SIP协议,C语言,C++语言
+Socket编程,unix操作系统,消息队列,共享内存,C语言,C++语言
+MFC,网络编程,Qt,面向对象分析,软件测试,数据结构,C语言,C++语言,计算机网络,网络安全技术
+网络编程,C语言,C++语言
+Oracle数据库,Qt
+java,jQuery框架,jsp(java服务器页面),Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,svn,XML技术,C语言,C++语言,Java Data Base Connectivity,SSH协议
+软件工程
+多线程,windows操作系统,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,软件测试,熟悉一种脚本语言,C语言,C++语言,gdb,SSH协议,IDA,OllyDBG,GDB,汇编语言
+软件工程
+linux操作系统,C语言,C++语言,嵌入式操作系统
+linux操作系统,C语言,C++语言,嵌入式操作系统
+多线程,Socket编程,Qt,SIP协议,C语言,C++语言
+mysql数据库,Socket编程,C++语言,Lua
+Memcached,多线程,NoSQL数据库,Redis数据库,linux操作系统,网络编程,面向对象分析,redis数据库,Shell语言,gcc,g++,C语言,C++语言,gdb,protobuf协议,fix协议,GDB
+windows操作系统,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,Db2数据库,sybase数据库,软件测试,C语言,C++语言,Microsoft Visual C++ 6.0
+windows操作系统,TCP/IP编程,TCP/UDP编程,Socket编程,linux操作系统,网络编程,UDP协议,C语言,C++语言
+linux操作系统,RTP传输协议,SIP协议,C语言,C++语言
+系统分析,mysql数据库,SQL Server数据库,Oracle数据库,网络编程,软件测试,C语言,C++语言
+MFC,windows操作系统,软件测试,C语言,C++语言,Matlab,OpenCV,Microsoft Visual C++ 6.0,算法设计与技术
+linux操作系统,Qt,软件测试,C语言,C++语言
+多线程,mysql数据库,Socket编程,linux操作系统,网络编程,C语言,C++语言
+visualStudio,mysql数据库,SQL Server数据库,svn,面向对象分析,数据结构,C语言,C++语言
+多线程,Socket编程,linux操作系统,网络编程,C语言,C++语言
+mysql数据库,TCP/IP编程,网络编程,C++语言
+COM编程,mysql数据库,TCP/IP编程,linux操作系统,MongoDB数据库,UDP协议,网络通信,熟悉一种脚本语言,C++语言
+MFC,windows操作系统,TCP/IP编程,Socket编程,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+MFC,windows操作系统,TCP/IP编程,Socket编程,网络编程,C语言,C++语言,Microsoft Visual C++ 6.0
+网络编程,C语言,C++语言,HOOK,Widbg,IDA,汇编语言
+多线程,linux操作系统,面向对象分析,C语言,C++语言
+MFC,多线程,SQL Server数据库,Socket编程,串口编程,RTP传输协议,RTSP传输协议,HTTP传输协议,C语言,C++语言,vi,串口开发
+C#,visualStudio,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,GDI+图形编程,HTTP传输协议,面向对象分析,网络通信,软件工程,数据库系统原理,C语言,C++语言,计算机网络
+windows操作系统,mysql数据库,Socket编程,linux操作系统,C语言,C++语言
+windows操作系统,mysql数据库,Socket编程,linux操作系统,C语言,C++语言
+MFC,COM编程,SQL Server数据库,Oracle数据库,网络通信,软件项目管理,C语言,C++语言,vi,wxwidgets
+javaScript,MFC,windows操作系统,TCP/IP编程,网络编程,HTTP传输协议,软件架构设计,软件架构,数据结构,C语言,C++语言,Lua,wxWidgets,C++builder
+java,jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,系统设计,windows操作系统,ios开发,Android开发,数据分析,C语言,C++语言,Microsoft Visual C++ 6.0
+photoshop,MFC,网络编程,DirectX图形编程,OpenGl图形编程,Qt,软件工程,C语言,C++语言
+windows操作系统,linux操作系统,软件测试,C语言,C++语言
+java,linux操作系统,python编程,Shell语言,数据结构,Adobe Illustrator(AI),C++语言,网络安全技术
+多线程,Socket编程,C++语言
+面向对象分析,软件测试,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0,汇编语言
+MFC,C语言,C++语言
+java,JavaEE架构,Spring框架,Extjs框架,myEclipse,jsp(java服务器页面),css层叠样式表,Html,eclipse,Microsoft Office Visio,.net,javaScript,MFC,SQL Server数据库,Oracle数据库,PL/SQL,svn,面向对象分析,软件工程,C语言,C++语言,SSH
+DirectX图形编程,OpenGl图形编程,数据结构,C语言,C++语言,cocos2d
+MFC,多线程,windows操作系统,SQL Server数据库,TCP/IP编程,Socket编程,linux操作系统,STL库,python编程,面向对象分析,软件测试,熟悉一种脚本语言,C语言,C++语言,Lua,Standard Template Library,Unity,Microsoft Visual C++ 6.0
+C#,.net,MFC,多线程,windows操作系统,TCP/IP编程,Socket编程,网络编程,串口编程,数据库系统原理,C语言,C++语言,Microsoft Visual C++ 6.0,串口开发
+Socket编程,linux操作系统,网络编程,gcc,C语言,C++语言,gdb,vi,GDB
+apache,多线程,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,C++语言
+C语言,C++语言,FlasCC,cuda,OpenCV
+软件测试,C++语言
+C++语言
+TCP/IP编程,网络编程,面向对象分析,C语言,C++语言,嵌入式操作系统
+linux操作系统,C语言,C++语言,嵌入式操作系统
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Shell语言,软件工程,数据结构,项目实施,C++语言
+MFC,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,串口编程,面向对象分析,软件项目管理,项目实施,C语言,C++语言,NDIS,Microsoft Visual C++ 6.0,串口开发
+Android开发,C++语言,cocos2d-x,cocos2d
+.net,mysql数据库,Oracle数据库,svn,Shell语言,CVS(一种自动测试工具),C++语言,Microsoft Visual C++ 6.0
+C++语言,Microsoft Visual C++ 6.0
+多线程,windows操作系统,TCP/IP编程,Socket编程,linux操作系统,网络编程,面向对象分析,数据结构,gcc,C语言,C++语言,gdb,GDB
+MFC,多线程,mysql数据库,STL库,面向对象分析,数据结构,C语言,C++语言,Standard Template Library
+MFC,windows操作系统,SQL Server数据库,linux操作系统,C语言,C++语言,嵌入式操作系统
+mysql数据库,Socket编程,linux操作系统,STL库,面向对象分析,数据结构,Standard Template Library
+C#,windows操作系统,C语言,C++语言
+多线程,Socket编程,DirectX图形编程,C++语言,Microsoft Visual C++ 6.0,计算机图形学
+系统分析,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,软件工程,数据结构,C语言,C++语言,分布式,网络安全技术
+GUI编程,windows操作系统,HOOK
+linux操作系统,软件项目管理,HOOK,信息安全导论
+photoshop,TCP/IP编程,SIP协议,HTTP传输协议,UDP协议,C语言,C++语言
+Oracle数据库,unix操作系统,C++语言
+C++语言
+系统设计,面向对象分析,软件工程,C语言
+Socket编程,HTTP传输协议,网络通信,C语言,C++语言
+java,SQL Server数据库,Oracle数据库,C语言,C++语言,Vmware
+SQL Server数据库,Oracle数据库,C语言,C++语言,Vmware
+系统设计,TCP/IP编程,网络编程,C语言,C++语言,分布式
+多线程,Socket编程,C语言,C++语言,Lua
+MFC,windows操作系统,SQL Server数据库,C语言,C++语言,Microsoft Visual C++ 6.0
+linux操作系统,python编程,面向对象分析,Perl语言,熟悉一种脚本语言,bash语言,gcc,g++,C语言,C++语言

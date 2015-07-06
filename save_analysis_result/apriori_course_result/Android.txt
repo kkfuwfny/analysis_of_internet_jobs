@@ -1,0 +1,1479 @@
+java,COM编程,HTTP传输协议,SSH协议
+eclipse,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Android SDK,Android开发
+windows操作系统,linux操作系统,OOD面向对象设计,Android开发,C语言,C++语言
+Android开发,软件工程
+java,linux操作系统,Android SDK,Android开发,C++语言
+java,面向对象分析,Android开发,数据结构
+java,TCP/IP编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP,熟悉主流测试工具
+java,COM编程,mysql数据库,sqlite数据库,面向对象分析,Android开发,项目实施
+java,photoshop,.net,Socket编程,linux操作系统,网络通信,Android开发
+eclipse,linux操作系统,unix操作系统,面向对象分析,Android SDK,Android开发,软件测试,数据结构
+java,COM编程,linux操作系统,网络通信,Android开发,软件测试,C语言
+java,jQuery框架,Html,Objective-c语言,Android开发,C语言,C++语言,Sencha Touch,jQuery Mobile
+C#,.net,visualStudio,ios开发,Android开发,软件测试,C语言
+java,COM编程,windows操作系统,HTTP传输协议,ios开发,Android开发,数据结构
+java,COM编程,windows操作系统,HTTP传输协议,ios开发,Android开发,数据结构
+Html,COM编程,HTTP传输协议,ios开发,Android开发
+Html,COM编程,HTTP传输协议,ios开发,Android开发
+java,COM编程,windows操作系统,HTTP传输协议,ios开发,Android开发,数据结构
+java,TCP/IP编程,网络编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android开发,rest
+Android开发
+eclipse,面向对象分析,Android SDK,Android开发,软件测试,软件工程,数据结构
+java,Html,ios开发,Android开发,C语言
+Android开发,C语言,C++语言
+Android开发,软件测试
+java,php,网络编程,python编程,ios开发,jSon技术,面向对象分析,Android开发,软件文档写作,C语言,C++语言,嵌入式操作系统
+系统分析,TCP/IP编程,网络编程,HTTP传输协议,Android开发
+java,eclipse,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发
+java,Html,eclipse,Objective-c语言,Android SDK,Android开发,C语言
+Socket编程,HTTP传输协议,Android开发,软件测试,软件项目管理
+面向对象分析,Android开发
+java,多线程,HTTP传输协议,jSon技术,网络通信,Android开发,数据结构,C++语言
+java,多线程,网络通信,Android开发,数据结构
+sqlite数据库,Android开发,C语言
+java,eclipse,Android开发
+java,Android开发,软件测试,C语言,C++语言
+ios开发,Android开发
+java,Html,javaScript,TCP/IP编程,Socket编程,sqlite数据库,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,软件测试,数据结构
+java,eclipse,Android开发
+Socket编程,OpenGl图形编程,HTTP传输协议,网络通信,Android开发
+java,Android开发
+java,JavaEE架构,eclipse,Socket编程,HTTP传输协议,面向对象分析,Android开发
+java,HTTP传输协议,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,软件测试,数据结构
+java,Android开发,C++语言
+Android开发,软件项目管理
+java,eclipse,面向对象分析,Android SDK,Android开发,软件项目管理
+HTTP传输协议,svn,git,面向对象分析,Android开发,C语言
+java,php,多线程,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发,C语言
+java,多线程,Android开发,软件测试,Logcat(Android中一个命令行工具),C++语言
+java,多线程,HTTP传输协议,Android开发
+java,Android开发
+java,多线程,Android开发,软件测试,软件项目管理,美工基础
+java,Android开发,软件测试
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工
+java,系统设计,Android开发,中间件
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工
+java,Android开发
+java,OpenGl图形编程,HTTP传输协议,Android开发,数据结构,C语言,C++语言,soap,rest,cocos2d-x,cocos2d,Unity
+面向对象分析,Android开发,软件测试
+JavaEE架构
+java,Html,多线程,网络编程,Android开发
+Android开发,电子商务
+java,多线程,sqlite数据库,面向对象分析,Android开发,数据结构
+Android SDK,Android开发
+COM编程,Android开发
+java,多线程,TCP/IP编程,网络编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+多线程,Android开发
+java,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,数据结构
+XML技术,jSon技术,面向对象分析,网络通信,Android开发,软件项目管理
+ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+java,ORM对象关系映射,eclipse,ant(一种基于Java的build工具),OOD面向对象设计,Android SDK,Android开发,C语言
+多线程,GUI编程,Android开发
+java,Objective-c语言,ios开发,面向对象分析,Android开发,C语言
+多线程,GUI编程,网络编程,Android SDK,Android开发,数据结构
+java,XCode开发工具,ios开发,Android开发,软件测试,熟悉主流测试工具,C语言,C++语言,Microsoft Visual C++ 6.0
+java,系统设计,Android开发
+java,eclipse,多线程,系统分析,TCP/IP编程,Socket编程,网络编程,面向对象分析,Android SDK,Android开发,软件工程,软件项目管理
+java,linux操作系统,ios开发,Android SDK,Android开发
+photoshop,TCP/IP编程,Socket编程,ios开发,网络通信,Android开发,软件测试
+java,JavaEE架构,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Android开发,关系型数据库
+java,Android开发
+Android开发,电子商务
+java,eclipse,ios开发,Android开发
+java,eclipse,TCP/IP编程,Socket编程,网络编程,XML技术,jSon技术,Android SDK,Android开发,软件测试,数据结构,软件项目管理,Webservice,rest
+java,Socket编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,面向对象分析,Android开发,软件测试,数据结构
+Socket编程,网络编程,HTTP传输协议,Android开发,自动化测试(使用自动化测试软件、框架等)
+Android开发
+Android开发
+Android开发
+java,.net,linux操作系统,OpenGl图形编程,Android SDK,Android开发,C语言,C++语言,嵌入式操作系统
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,ios开发,Android开发,C语言,Microsoft Visual C++ 6.0
+java,多线程,linux操作系统,HTTP传输协议,Android开发,C++语言
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,jSon技术,面向对象分析,Android SDK,Android开发,数据通信基础
+java,TCP/IP编程,Socket编程,HTTP传输协议,xmpp协议,网络通信,Android开发
+java,TCP/IP编程,Socket编程,unix操作系统,HTTP传输协议,OOD面向对象设计,Android SDK,Android开发,软件工程,数据结构,C语言,C++语言
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+java,Html,linux操作系统,Android SDK,Android开发
+svn,sqlite数据库,ios开发,Android开发,CVS(一种自动测试工具),数据结构,算法设计与技术
+java,Android开发
+java,Android开发
+java,Socket编程,网络编程,HTTP传输协议,Android SDK,网络通信,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,Html,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试,软件工程,数据结构
+java,Socket编程,网络编程,HTTP传输协议,Android SDK,网络通信,Android开发,软件测试
+java,多线程,Android开发,软件测试,C++语言,嵌入式操作系统
+java,多线程,TCP/IP编程,OpenGl图形编程,RTP传输协议,RTSP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,Cocoa开发框架,Android SDK,UDP协议,Android开发,C语言,OpenCV,Microsoft Visual C++ 6.0
+java,多线程,Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,Android开发,软件测试
+java,eclipse,多线程,linux操作系统,网络编程,XML技术,面向对象分析,Android开发
+java,eclipse,多线程,linux操作系统,网络编程,OpenGl图形编程,XML技术,面向对象分析,Android开发,C语言
+java,photoshop,系统设计,TCP/IP编程,HTTP传输协议,软件架构设计,Android开发,软件架构,JavaSe
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发
+java,Android开发,C语言,C++语言,汇编语言
+java,多线程,XML技术,jSon技术,Android SDK,Android开发,软件文档写作
+Socket编程,HTTP传输协议,Android开发
+java,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,数据结构,C语言,C++语言
+ios开发,Android开发,电子商务
+Android开发
+java,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,数据结构,C语言,C++语言
+Android开发
+java,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发,美工基础,C语言,C++语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,软件测试,熟悉主流测试工具,Webservice
+java,多线程,GUI编程,网络通信,Android开发
+java,.net,Android开发
+java,多线程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Android开发,数据结构,C语言,C++语言
+java,ios开发,Android开发,软件项目管理,Axure RP(快速原型设计工具),Webservice
+java,COM编程,Android开发,软件测试,数据结构,软件项目管理,算法设计与技术
+java,Android开发,数据结构,软件项目管理,算法设计与技术
+java,多线程,TCP/IP编程,HTTP传输协议,面向对象分析,UDP协议,Android开发,TCP/UDP,软件测试,数据结构
+java,Struts框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,Android开发,C语言,Microsoft Visual C++ 6.0
+.net,HTTP传输协议,软件项目管理,C语言
+java,TCP/IP编程,HTTP传输协议,xmpp协议,jSon技术,Android开发,数据结构,软件文档写作
+java,photoshop,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,ios开发,面向对象分析,Android开发,数据结构,C++语言
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发
+jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,sqlite数据库,XML技术,Android开发
+Html,TCP/IP编程,Socket编程,WebSocket协议,HTTP传输协议,XML技术,jSon技术,OOA面向对象分析,OOD面向对象设计,网络通信,Android开发
+java,photoshop,Android开发
+网络通信,Android开发
+Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,Android SDK,软件架构设计,Android开发,软件架构,数据结构
+java,多线程,Android开发
+java,多线程,TCP/IP编程,HTTP传输协议,Android开发
+Html,Android开发
+windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,Android开发,软件测试
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发
+Socket编程,HTTP传输协议,ios开发,面向对象分析,Android开发,软件测试
+Socket编程,HTTP传输协议,面向对象分析,Android开发,软件测试
+多线程,TCP/IP编程,网络编程,HTTP传输协议,面向对象分析,Android SDK,UDP协议,Android开发,TCP/UDP,软件项目管理
+多线程,TCP/IP编程,网络编程,HTTP传输协议,面向对象分析,Android SDK,UDP协议,Android开发,TCP/UDP,软件项目管理
+java,网络编程,Android开发,数据结构
+COM编程,Android开发
+java,网络编程,Android开发,数据结构
+java,python编程,git,面向对象分析,Android开发,ruby
+java,多线程,Socket编程,sqlite数据库,Android开发,软件项目管理,C语言,C++语言
+java,TCP/IP编程,HTTP传输协议,XML技术,面向对象分析,Android SDK,网络通信,Android开发,算法设计与技术
+java,TCP/IP编程,HTTP传输协议,Android开发,软件测试
+java,Socket编程,HTTP传输协议,xmpp协议,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发
+java,TCP/IP编程,Android SDK,Android开发
+Android开发,软件测试
+java,Socket编程,git,网络通信,Android开发
+多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,软件架构设计,Android开发,软件架构,数据结构
+java,Android开发
+java,Android开发
+java,TCP/IP编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,Android开发
+java,css层叠样式表,Html,eclipse,XML技术,Android SDK,Android开发
+Android开发
+GUI编程,mysql数据库,Socket编程,HTTP传输协议,Android开发
+java,OpenGl图形编程,Android SDK,Android开发
+java,C#,Objective-c语言,Android SDK,Android开发,软件测试,JavaSe,软件项目管理,C语言
+Android开发,软件测试
+java,多线程,sqlite数据库,XML技术,jSon技术,面向对象分析,网络通信,Android开发,软件测试
+photoshop
+Html,HTTP传输协议,jSon技术,Android开发,软件测试,软件文档写作,C语言
+java,Android开发,C语言
+java,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,面向对象分析,Android SDK,Android开发,软件测试,JavaSe
+网络编程,git,Android开发
+java,JAVA主流框架,Html,eclipse,多线程,Socket编程,WebSocket协议,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,软件测试,C语言,C++语言,rest
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发
+java,eclipse,linux操作系统,Android SDK,Android开发,C语言,C++语言
+Socket编程,HTTP传输协议,Android开发,熟悉主流测试工具
+Html,ios开发,iOS SDK,webview(一个显示网页的视图),Android开发,数据结构
+Html,GUI编程,网络编程,XML技术,Android开发,数据结构
+java,sqlite数据库,Android开发
+java,css层叠样式表,Html,javaScript,HTTP传输协议,ios开发,iOSSDK,XML技术,jSon技术,Android SDK,Android开发,数据结构
+java,COM编程,HTTP传输协议,Android开发,软件工程
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,svn,sqlite数据库,XML技术,jSon技术,Android SDK,网络通信,Android开发,CVS(一种自动测试工具)
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,svn,sqlite数据库,XML技术,jSon技术,Android SDK,网络通信,Android开发,CVS(一种自动测试工具)
+Android SDK,Android开发
+ios开发,Android SDK,Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,UDP协议,Android开发,TCP/UDP,数据结构,Webservice
+java,软件架构设计,Android开发,软件架构,C语言,C++语言
+java,GUI编程,TCP/IP编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android开发
+java,GUI编程,网络编程,Android开发,C语言,C++语言
+java,Socket编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,网络通信,Android开发,数据结构
+Android开发
+java,Android开发,数据结构
+java,Android开发,数据结构
+java,多线程,网络编程,面向对象分析,Android开发,数据结构,C语言
+java,多线程,网络编程,面向对象分析,Android开发,数据结构,C语言
+Android开发,数据结构
+多线程,Socket编程,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,Android SDK,软件架构设计,Android开发,软件测试,软件架构,数据结构
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Android SDK,UDP协议,Android开发,TCP/UDP,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,Android开发
+java,多线程,系统设计,Android SDK,网络通信,Android开发,数据结构,C语言,C++语言
+java,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,Android SDK,网络通信,Android开发,软件测试,C语言,C++语言
+java,eclipse,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,Android开发
+多线程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android开发,数据结构,软件项目管理
+java,系统设计,面向对象分析,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,软件架构设计,Android开发,软件架构
+java,多线程,网络编程,ios开发,XML技术,jSon技术,面向对象分析,Android开发,软件测试
+java,TCP/IP编程,网络编程,HTTP传输协议,Android开发,软件测试
+java,多线程,网络编程,sqlite数据库,jSon技术,Android SDK,Android开发
+java,TCP/IP编程,linux操作系统,HTTP传输协议,面向对象分析,Android开发,软件测试
+java,Html,多线程,HTTP传输协议,ios开发,Android开发
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,软件测试,熟悉
+Android开发
+java,Android开发,项目实施,C++语言
+java,windows操作系统,TCP/IP编程,Socket编程,串口编程,HTTP传输协议,xmpp协议,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发,美工基础,SSH协议,串口开发
+java,XML技术,jSon技术,面向对象分析,网络通信,软件架构设计,Android开发,软件架构,C语言,Webservice
+java,多线程,Socket编程,sqlite数据库,Android SDK,Android开发
+java,网络编程,HTTP传输协议,面向对象分析,网络通信,并发控制,软件架构设计,软件架构
+java,sqlite数据库,Android开发,软件测试,熟悉主流测试工具
+Android开发
+软件工程
+Android开发
+java,多线程,GUI编程,GDI+图形编程,Android开发,中间件
+COM编程,HTTP传输协议,Android开发,软件测试
+java,Html,javaScript,多线程,Socket编程,HTTP传输协议,Android开发,软件测试,数据结构
+java,多线程,XML技术,jSon技术,Android SDK,网络通信,Android开发,C语言
+java,ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+java,eclipse,Socket编程,linux操作系统,HTTP传输协议,svn,git,sqlite数据库,Android SDK,网络通信,软件架构设计,Android开发,软件测试,软件架构,数据库系统原理,数据结构,项目实施
+java,linux操作系统,Ubuntu操作系统,HTTP传输协议,svn,Android开发,数据结构,C语言,C++语言
+java,Android开发
+Socket编程,HTTP传输协议,网络通信,Android开发
+java,Socket编程,HTTP传输协议,xmpp协议,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发,软件测试
+Android SDK,Android开发,软件测试,软件项目管理,C语言,C++语言
+java,Android开发,软件项目管理
+Socket编程,SIP协议,HTTP传输协议,Android SDK,网络通信,Android开发,软件项目管理
+java,linux操作系统,Android开发,数据结构
+eclipse,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Android SDK,Android开发
+java,XML技术,jSon技术,网络通信,Android开发
+java,Html,Socket编程,网络编程,HTTP传输协议,sqlite数据库,Android开发
+ios开发,Android开发
+java,Android开发,数据结构
+多线程,TCP/IP编程,HTTP传输协议,面向对象分析,Android SDK,Android开发
+java,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,xmpp协议,面向对象分析,Android SDK,网络通信,Android开发,软件测试
+java,Html,多线程,sqlite数据库,ios开发,Android开发
+java,面向对象分析,Android开发,数据结构
+java,php,mysql数据库,Redis数据库,svn,git,MongoDB数据库,redis数据库,Android开发
+TCP/IP编程,Socket编程,HTTP传输协议,Android开发,软件测试,Webservice
+java,多线程,TCP/IP编程,HTTP传输协议,Android开发,数据结构
+java,eclipse,TCP/IP编程,HTTP传输协议,ios开发,XML技术,Android SDK,Android开发
+java,多线程,系统设计,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,UDP协议,Android开发,软件测试
+Android开发
+Android开发,C语言
+java,Android开发
+java,GUI编程,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,Android SDK,网络通信,Android开发,软件测试,C语言,C++语言
+java,GUI编程,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,Android SDK,网络通信,Android开发,软件测试,C语言,C++语言
+linux操作系统,Android开发,C语言,嵌入式操作系统
+java,Android开发,软件测试
+Android开发,C语言
+java,Android开发
+java,photoshop,javaScript,linux操作系统,HTTP传输协议,Android开发,C语言,C++语言
+java,ios开发,Android开发
+java,Socket编程,HTTP传输协议,面向对象分析,Android开发,Webservice
+java,Socket编程,HTTP传输协议,面向对象分析,Android开发,Webservice
+java,Html,javaScript,TCP/IP编程,HTTP传输协议,jSon技术,Android开发,数据库系统原理
+软件架构设计,Android开发,软件架构
+Android开发
+Socket编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,软件测试,数据结构,项目实施
+java,Android开发,数据结构
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发,熟悉主流测试工具
+java,多线程,Socket编程,网络编程,HTTP传输协议,Android开发,软件测试,数据结构,C语言
+java,php,svn,Android SDK,Android开发,软件测试,CVS(一种自动测试工具),熟悉主流测试工具,JavaSe,软件项目管理
+java,css层叠样式表,Html,.net,javaScript,HTTP传输协议,ios开发,Android SDK,Android开发,软件测试,C语言,C++语言
+java,Socket编程,HTTP传输协议,网络通信,Android开发,软件测试
+java,多线程,网络编程,sqlite数据库,ios开发,面向对象分析,Android开发,数据库系统原理,C语言
+java,面向对象分析,Android开发,软件测试,C语言,C++语言
+java,Html,Memcached,mysql数据库,Redis数据库,linux操作系统,消息队列,HTTP传输协议,ios开发,redis数据库,Android SDK,Android开发,软件测试,分布式,ActiveMQ,RabbitMQ
+Html,Socket编程,HTTP传输协议,xmpp协议,webview(一个显示网页的视图),网络通信,Android开发
+java,Socket编程,HTTP传输协议,Android开发,数据结构,算法设计与技术
+java,eclipse,Socket编程,HTTP传输协议,svn,git,网络通信,Android开发
+java,SQL Server数据库,Oracle数据库,ios开发,XML技术,jSon技术,Android开发,软件测试,熟悉主流测试工具,WebService
+java,C语言
+软件测试,office
+Android开发
+java,软件架构设计,软件架构,数据结构,电子商务
+java,多线程,Socket编程,linux操作系统,HTTP传输协议,网络通信,Android开发
+eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Android SDK,Android开发,熟悉主流测试工具,软件项目管理
+java,C语言
+Android开发,软件项目管理
+java,Android开发,软件项目管理
+java,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,ios开发,网络通信,Android开发,数据结构
+软件测试,office
+java,eclipse,COM编程,XML技术,jSon技术,Android SDK,Android开发
+TCP/IP编程,Socket编程,HTTP传输协议,Android开发,软件测试,Webservice
+java,ant(一种基于Java的build工具),系统设计,svn,git,Android开发,数据结构,软件项目管理,C++语言,Gradle
+java,JavaEE架构,多线程,mysql数据库,sqlite数据库,网络通信,Android开发,软件测试,美术基础,Webservice
+java,多线程,系统分析,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+java,mysql数据库,Oracle数据库,Socket编程,网络编程,HTTP传输协议,xmpp协议,XML技术,jSon技术,网络通信,Android开发,分布式,openfire
+java,Android开发
+Android开发
+java,Socket编程,linux操作系统,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,软件测试
+java,系统分析,svn,git,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,软件测试,数据库系统原理,数据结构,软件文档写作,C语言
+office
+java,系统设计,Socket编程,HTTP传输协议,面向对象分析
+面向对象分析,Android开发,软件测试
+面向对象分析,Android开发,软件测试
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,SQL Server数据库,Oracle数据库,面向对象分析,Android开发,数据库系统原理
+java,office,C语言,C++语言
+java,SQL Server数据库,Oracle数据库,ios开发,XML技术,jSon技术,Android开发,软件测试,熟悉主流测试工具,WebService
+java,jQuery框架,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Androi
+java,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,xmpp协议,svn,git,面向对象分析,Android SDK,Android开发
+java,Android SDK,Android开发,软件测试
+Android开发,软件测试
+java,TCP/IP编程,Socket编程,HTTP传输协议,xmpp协议,面向对象分析,网络通信,Android开发
+COM编程,Android开发
+Android开发,熟悉主流测试工具,嵌入式操作系统
+java,Html,XML技术,jSon技术,面向对象分析,Android开发,软件文档写作
+css层叠样式表,Html,javaScript,系统分析,网络通信,Android开发,软件测试,数据结构
+java,多线程,GUI编程,Android开发
+多线程,GUI编程,Android开发
+java,面向对象分析,Android开发,熟悉主流测试工具
+java,eclipse,面向对象分析,Android开发,嵌入式操作系统
+eclipse,linux操作系统,Android开发,软件测试
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Android SDK,Android开发
+java,Android开发,数据结构
+java,Android SDK,Android开发
+linux操作系统,Android开发,数据结构,C语言,C++语言
+java,Android开发,C语言,C++语言,算法设计与技术
+java,多线程,系统设计,TCP/IP编程,Android SDK,Android开发,软件测试,软件文档写作
+java,系统分析,Android开发,软件测试,数据结构
+java,Html,javaScript,GUI编程,TCP/IP编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android开发
+java,Html,多线程,mysql数据库,Oracle数据库,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,数据结构
+java,eclipse,系统分析,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,软件测试,CVS(一种自动测试工具),数据库系统原理,数据结构,软件项目管
+java,Socket编程,网络编程,HTTP传输协议,jSon技术,Android SDK,Android开发,熟悉主流测试工具
+java,Socket编程,网络编程,HTTP传输协议,xmpp协议,jSon技术,Android SDK,Android开发,熟悉主流测试工具
+java,网络通信,Android开发
+Socket编程,HTTP传输协议,xmpp协议,sqlite数据库,Android SDK,网络通信,Android开发,软件工程,C语言
+java,网络通信,Android开发,C语言,信息安全导论
+java,photoshop,TCP/IP编程,Socket编程,ViewPager,Fragment,网络通信,Android开发
+java,Html,.net,多线程,COM编程,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,UDP协议,Android开发,C语言,C++语言
+java,css层叠样式表,Html,php,Memcached,AJAX(异步的JavaScript与XML技术),FreeBSD操作系统,web2.0,Smarty(一个模板引擎),eclipse,javaScript,windows操作系统,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传
+java,Android SDK,Android开发
+ios开发,Android开发
+Html,photoshop,javaScript,系统设计,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,软件工程
+HTTP传输协议,Android开发,Adobe Illustrator(AI)
+java,css层叠样式表,多线程,Socket编程,网络编程,ios开发,面向对象分析,Android SDK,Android开发
+java,Android开发,软件测试
+java,Android SDK,Android开发,C语言,C++语言
+Android开发
+Html,Socket编程,HTTP传输协议,webview(一个显示网页的视图),网络通信,Android开发
+java,JAVA主流框架,Html,eclipse,多线程,Socket编程,WebSocket协议,HTTP传输协议,Objective-c语言,ios开发,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,软件测试,C语言,C++语言,rest
+java,GUI编程,系统设计,Android开发
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),css层叠样式表,Html,AOP面向切面编程,eclipse,javaScript,Android SDK,Android开发,软件测试
+GUI编程,Socket编程,HTTP传输协议,Android开发,软件工程
+java,多线程,Android SDK,Android开发
+java,JavaEE架构,.net,Socket编程,ios开发,XML技术,jSon技术,OOD面向对象设计,Android SDK,Android开发,数据结构
+java,Oracle数据库,ios开发,XML技术,jSon技术,Android开发,软件测试,熟悉主流测试工具,WebService
+java,eclipse,mysql数据库,SQL Server数据库,Socket编程,HTTP传输协议,XML技术,Android SDK,网络通信,Android开发,软件测试
+java,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,网络通信,Android开发,软件测试,分布式
+java,多线程,Android SDK,Android开发
+java,COM编程,面向对象分析,Android开发,软件工程,C++语言
+java,多线程,COM编程,HTTP传输协议,sqlite数据库,jSon技术,面向对象分析,Android开发,C语言,电子商务
+java,Html,Socket编程,linux操作系统,HTTP传输协议,sqlite数据库,jSon技术,Android开发,数据结构,C语言,Microsoft Visual C++ 6.0
+Android开发
+Android开发
+Android开发
+java,eclipse,Oracle数据库,Android开发
+java,多线程,GUI编程,linux操作系统,网络编程,sqlite数据库,jSon技术,Android SDK,Android开发,软件测试,C语言,Unity
+GUI编程,Socket编程,网络编程,HTTP传输协议,Android SDK,Android开发
+java,sqlite数据库,Android SDK,网络通信,Android开发
+java,Android开发,软件测试
+ios开发,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,Android SDK,网络通信,软件架构设计,Android开发,软件架构
+java,ios开发,Android SDK,Android开发,C++语言
+OpenGl图形编程,Android开发
+网络通信,Android开发
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,数据结构,C语言,C++语言
+java,TCP/IP编程,HTTP传输协议,xmpp协议,XML技术,UDP协议,Android开发,TCP/UDP,数据结构,openfire
+java,SQL Server数据库,XML技术,Android开发,中间件
+java,TCP/IP编程,ios开发,网络通信,Android开发,数据结构,算法设计与技术
+java,git,面向对象分析,Android开发
+java,ios开发,Android开发,数据结构
+java,多线程,mysql数据库,sqlite数据库,ios开发,Android开发,数据结构,C语言
+javaScript,系统设计,Oracle数据库,Socket编程,网络编程,HTTP传输协议,sqlite数据库,Android开发,软件项目管理
+java,多线程,ios开发,面向对象分析,Android开发,软件测试,C语言,C++语言
+java,Html,Android开发
+svn,git,Android开发
+java,多线程,TCP/IP编程,网络编程,HTTP传输协议,Android SDK,Android开发
+java,ios开发,Android开发,软件测试,数据结构
+eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,svn,git,XML技术,Android开发
+java
+java,photoshop,HTTP传输协议,xmpp协议,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Android开发,软件测试
+java,Android开发,熟悉主流测试工具
+java,面向对象分析,Android开发,数据挖掘,机器学习
+java,面向对象分析,Android开发
+java,Android开发,C语言,C++语言
+java,linux操作系统,Android开发,C语言,C++语言
+Android开发,软件项目管理
+java,linux操作系统,python编程,HTTP传输协议,Android开发,C语言,C++语言
+java,.net,Android开发
+C#,多线程,TCP/IP编程,网络编程,HTTP传输协议,Android SDK,UDP协议,Android开发,TCP/UDP,软件项目管理,C语言,C++语言
+ios开发,Android开发
+java,eclipse,多线程,linux操作系统,网络编程,sqlite数据库,ios开发,Android开发,软件测试,C语言,C++语言
+网络通信,Android开发
+java,Android开发,C语言,C++语言
+java,Android开发,软件项目管理
+java,Android开发
+java,Android开发,熟悉主流测试工具,软件工程
+GUI编程,Android开发
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件工程
+java,photoshop,TCP/IP编程,HTTP传输协议,Android开发
+java,多线程,TCP/IP编程,HTTP传输协议,Android开发,软件测试
+java,linux操作系统,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件架构设计,Android开发,软件测试,软件架构,软件文档写作,C语言,C++语言
+java,JavaEE架构,.net,Socket编程,ios开发,XML技术,jSon技术,OOD面向对象设计,Android SDK,Android开发,数据结构
+java,Html,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发
+java,linux操作系统,Android开发,C语言
+java,Html,OpenGl图形编程,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,soap
+java,TCP/IP编程,Socket编程,HTTP传输协议,svn,面向对象分析,Android SDK,网络通信,Android开发,软件测试
+Android开发,软件测试,人机交互技术
+COM编程,HTTP传输协议,软件架构设计,Android开发,软件架构,嵌入式操作系统
+java,Html,javaScript,ios开发,数据库系统原理
+java,面向对象分析,Android开发,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,XML技术,jSon技术,Android SDK,Android开发,软件工程
+java,Android开发
+java,Android开发
+java,面向对象分析,Android开发
+java,面向对象分析,Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,面向对象分析,UDP协议,Android开发,TCP/UDP,C语言,C++语言,中间件
+COM编程,TCP/IP编程,UML建模语言,HTTP传输协议,面向对象分析,软件架构设计,Android开发,软件架构
+COM编程,TCP/IP编程,UML建模语言,HTTP传输协议,面向对象分析,软件架构设计,Android开发,软件架构
+java,eclipse,多线程,Socket编程,网络编程,HTTP传输协议,Android SDK,Android开发,数据结构
+java,面向对象分析,Android开发
+软件架构设计,Android开发,软件架构
+Socket编程,HTTP传输协议
+java,eclipse,HTTP传输协议,ios开发,XML技术,jSon技术,OOD面向对象设计,Android开发,C语言,WebService,Restful
+Html,photoshop,eclipse,XML技术,Android开发,软件测试
+java,多线程,TCP/IP编程,Socket编程,Ubuntu操作系统,面向对象分析,Android开发,软件测试
+eclipse,XCode开发工具,C语言
+Android开发
+java,Hibernate框架,Spring框架,apache,系统分析,Android开发,软件测试,熟悉主流测试工具,mina框架,CXF
+java,多线程,HTTP传输协议,XML技术,jSon技术,Android开发
+java,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Android SDK,Android开发
+java,系统设计,XCode开发工具,Android开发,电子商务
+java,SIP协议,Android开发,软件测试,C语言,C++语言
+java,多线程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,软件架构设计,Android开发,软件架构
+java,eclipse,Android开发,熟悉主流测试工具
+java,Android开发,软件测试
+java,photoshop,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,数据结构,C++语言
+php,linux操作系统,网络编程,sqlite数据库,Android开发,软件测试
+java,多线程,webview(一个显示网页的视图),网络通信,Android开发,软件测试,数据结构,软件项目管理,算法设计与技术
+java,Html,Android开发,数据结构
+java,Android开发,C语言,C++语言
+java,多线程,GUI编程,TCP/IP编程,网络编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+java,photoshop,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Android开发,软件测试
+java,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,数据结构,算法设计与技术
+java,多线程,Socket编程,linux操作系统,Android SDK,Android开发,软件测试,Webservice
+java,面向对象分析,Android开发,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发
+java,css层叠样式表,Html,javaScript,mysql数据库,jSon技术,MongoDB数据库,Android开发
+java,面向对象分析,Android开发,熟悉主流测试工具
+java,面向对象分析,Android SDK,Android开发,美工基础
+JavaEE架构,myBatis框架,Ibatis框架,MyBatis框架,多线程,mysql数据库,Android开发
+Android开发
+java,多线程,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,ios开发,面向对象分析,Android开发
+java,系统分析,Android开发,软件测试,软件项目管理
+java,多线程,GUI编程,mysql数据库,TCP/IP编程,Socket编程,sqlite数据库,OOD面向对象设计,Android SDK,Android开发,软件测试,数据结构
+java,Html,HTTP传输协议,Android SDK,Android开发,软件测试
+java,TCP/IP编程,Android开发
+COM编程,HTTP传输协议,面向对象分析,Android开发
+java,Html,photoshop,.net,多线程,TCP/IP编程,Socket编程,RTP传输协议,SIP协议,RTSP传输协议,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,C语言,C++语言,Webservice,SSH协议
+java,Android开发,C语言
+java,多线程,GUI编程,TCP/IP编程,HTTP传输协议,Android开发
+java,ORM对象关系映射,C#,.net,MFC,SQL Server数据库,sqlite数据库,jSon技术,Android开发,C语言,C++语言,Windows Communication Foundation,Webservice,RFID系统设计
+java,Socket编程,HTTP传输协议,网络通信,Android开发
+Android开发
+java,Socket编程,网络编程,HTTP传输协议,ios开发,Android SDK,网络通信,Android开发,软件测试
+java,Android开发
+java,Android开发
+系统分析,Android开发,软件测试
+java,JavaEE架构,photoshop,TCP/IP编程,Socket编程,Android SDK,Android开发
+java,javaScript,多线程,sqlite数据库,XML技术,jSon技术,网络通信,Android开发,熟悉主流测试工具,数据结构
+java,TCP/IP编程,Socket编程,HTTP传输协议,svn,面向对象分析,Android SDK,网络通信,Android开发,软件测试
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发
+java,多线程,系统设计,网络编程,UML建模语言,svn,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,软件测试,数据结构
+java,Android SDK,Android开发
+java,Html,Memcached,mysql数据库,Redis数据库,linux操作系统,消息队列,HTTP传输协议,ios开发,redis数据库,Android SDK,Android开发,软件测试,分布式,ActiveMQ,RabbitMQ
+java,多线程,网络编程,HTTP传输协议,面向对象分析,Android开发,软件测试,熟悉主流测试工具,网络安全技术
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,C语言,C++语言
+ios开发,Android开发
+Android开发
+java,eclipse,面向对象分析,网络通信,Android开发,数据结构
+java,Android开发
+java,Android SDK,Android开发
+java,JAVA主流框架,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,数据结构
+svn,Android开发
+多线程,系统设计,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,XML技术,Android开发,软件测试
+java,AJAX(异步的JavaScript与XML技术),XML技术,jSon技术,Android开发,rest
+多线程,Socket编程,HTTP传输协议,Android开发
+java,Android开发,熟悉主流测试工具
+java,Android开发
+eclipse,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,Android开发,C语言,C++语言
+多线程,网络通信,Android开发
+java,COM编程,HTTP传输协议,Android开发
+java,photoshop,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,数据结构
+java,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试
+java,photoshop,多线程,TCP/IP编程,Socket编程,sqlite数据库,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+java,Android SDK,Android开发
+java,多线程,网络编程,Android开发,数据结构,cocos2d-x,cocos2d
+java,linux操作系统,usb编程,Android开发,数据结构,C语言,C++语言
+Objective-c语言,XCode开发工具,ios开发,iOS SDK,网络通信,Android开发,C语言,电子商务
+eclipse,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,Android开发
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发
+java,软件架构设计,Android开发,软件架构
+sqlite数据库,Android开发
+java,Android开发,软件测试
+java,C#,多线程,mysql数据库,SQL Server数据库,Socket编程,linux操作系统,网络编程,UML建模语言,网络通信,软件架构设计,Android开发,软件测试,软件架构,C语言,C++语言,嵌入式操作系统
+css层叠样式表,Html,javaScript,Android开发,软件测试
+java,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,网络通信,Android开发,软件测试,分布式
+java,多线程,Android开发
+java,HTTP传输协议
+java,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,网络通信,Android开发
+java,Android SDK,Android开发
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Android开发
+java,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,网络通信,Android开发,数据结构
+java,系统分析,UML建模语言,面向对象分析,Android开发,熟悉主流测试工具
+java,eclipse,系统设计,windows操作系统,SQL Server数据库,Socket编程,网络编程,HTTP传输协议,面向对象分析,Android开发
+java,网络编程,Android SDK,Android开发
+java,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发
+photoshop,usb编程,Android开发,C语言
+java,JavaEE架构,eclipse,多线程,TCP/IP编程,HTTP传输协议,软件架构设计,Android开发,软件架构,JavaSe
+java,Html,多线程,HTTP传输协议,sqlite数据库,Android SDK,Android开发,数据结构
+java,多线程,linux操作系统,Android SDK,Android开发,数据结构
+java,多线程,linux操作系统,Android SDK,Android开发,数据结构
+java,系统设计,面向对象分析,Android开发,软件测试
+java,Html,Android SDK,Android开发,openfire
+eclipse,windows操作系统,TCP/IP编程,Socket编程,linux操作系统,OpenGl图形编程,HTTP传输协议,OOD面向对象设计,软件架构设计,Android开发,软件架构,Unity
+java,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),C++语言
+java,Socket编程,linux操作系统,Android开发,软件工程,数据结构,C语言,C++语言
+java,linux操作系统,RTP传输协议,RTSP传输协议,HTTP传输协议,Android开发,数据结构,C语言,C++语言,vi
+TCP/IP编程,Socket编程,linux操作系统,Android开发
+Android开发
+Android开发
+TCP/IP编程,HTTP传输协议,jSon技术,软件架构设计,Android开发,软件架构,数据结构
+java,eclipse,javaScript,Android开发,软件测试
+java,Html,Android开发,熟悉主流测试工具,C语言,Microsoft Visual C++ 6.0
+java,Android开发
+多线程,TCP/IP编程,网络编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android开发,软件工程,数据结构,office
+Android开发
+java,Android SDK,Android开发,C语言,C++语言
+java,多线程,ios开发,面向对象分析,Android SDK,Android开发,熟悉主流测试工具,软件工程,Adobe Illustrator(AI)
+java,Android开发
+java,webview(一个显示网页的视图),Fragment,Android开发,软件测试
+java,jQuery框架,css层叠样式表,Html,javaScript,Objective-c语言,XCode开发工具,Android开发,熟悉一种脚本语言,C语言
+java,Android开发
+Android开发
+java,Android SDK,网络通信,Android开发
+java,Android SDK,网络通信,Android开发
+Android开发
+java,Socket编程,网络编程,HTTP传输协议,Android SDK,网络通信,Android开发
+java,Android开发,软件测试
+Android开发
+java,eclipse
+java,TFS(一个分布式文件系统),svn,git,ios开发,面向对象分析,软件架构设计,Android开发,软件测试,软件架构,C语言
+java,多线程,sqlite数据库,Android开发
+java,Android SDK,网络通信,Android开发,C语言,C++语言
+java
+java,eclipse,linux操作系统,Android开发,C语言,C++语言,中间件,嵌入式操作系统
+eclipse,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,Android开发
+Html,HTTP传输协议,jSon技术,Android开发,软件测试,软件文档写作,C语言
+Html,eclipse,Android开发
+Html,eclipse,Android开发
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发
+java,Android开发
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,XCode开发工具,ios开发,XML技术,Android SDK,webview(一个显示网页的视图),Android开发,软件测试,软件项目管理,C语言,C++语言
+java,系统设计,TCP/IP编程,网络编程,UML建模语言,HTTP传输协议,XML技术,jSon技术,Android开发
+java,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发
+java,系统设计,TCP/IP编程,网络编程,UML建模语言,HTTP传输协议,XML技术,jSon技术,Android开发
+java,系统分析,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Android SDK,网络通信,Android开发,C语言,C++语言
+java,多线程,GUI编程,ios开发,Android开发
+java,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,Android开发,软件工程
+java,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,Android开发
+系统分析,Android开发,软件项目管理
+系统分析,Android开发,软件项目管理
+系统分析,Android开发,软件项目管理
+css层叠样式表,Html,javaScript,COM编程,TCP/IP编程,HTTP传输协议,ios开发,网络通信,Android开发,嵌入式操作系统
+java,面向对象分析,Android开发,软件测试
+java,面向对象分析,Android开发,软件测试
+java,多线程,TCP/IP编程,svn,git,OOA面向对象分析,OOD面向对象设计,Android SDK,软件架构设计,Android开发,软件测试,软件架构,C语言,C++语言,嵌入式操作系统
+java,mysql数据库,Oracle数据库,Android开发
+java,多线程,GUI编程,Socket编程,网络通信,Android开发,数据结构
+java,TCP/IP编程,ios开发,面向对象分析,Cocoa开发框架,Android SDK,Android开发
+java,TCP/IP编程,面向对象分析,Android SDK,Android开发
+java,ORM对象关系映射,OOD面向对象设计,Android开发,软件工程,C语言,C++语言
+java,Socket编程,linux操作系统,网络编程,HTTP传输协议,ios开发,软件架构设计,Android开发,软件测试,软件工程,软件架构
+java,ORM对象关系映射,OOD面向对象设计,Android开发,软件工程,C语言,C++语言
+java,多线程,网络编程,Android开发,数据结构,算法设计与技术
+java,Android开发
+java,jQuery框架,Extjs框架,css层叠样式表,Html,javaScript,网络通信,Android开发
+java,linux操作系统,网络编程,Android SDK,Android开发,软件测试
+java,linux操作系统,Android开发,软件测试
+java,多线程,mysql数据库,Oracle数据库,TCP/IP编程,网络编程,HTTP传输协议,Android SDK,Android开发,C语言,Microsoft Visual C++ 6.0
+COM编程,Android开发
+java,eclipse,系统分析,svn,ios开发,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,软件测试,CVS(一种自动测试工具),数据库系统原理,数据结构,软件项目管理,软件文档写作
+java,Html,php,XHTML,mysql数据库,HTTP传输协议,Objective-c语言,XCode开发工具,sqlite数据库,XML技术,jSon技术,Cocoa开发框架,Android开发,C语言,WebService
+java,eclipse,Socket编程,HTTP传输协议,Android开发
+Photoshop,Android开发,Adobe Illustrator(AI),美工基础
+COM编程,Android开发
+java,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,熟悉主流测试工具
+Photoshop,Android开发,Adobe Illustrator(AI),美工基础
+java,ios开发,Android开发,数据结构
+java,面向对象分析,Android开发,软件测试,C语言,C++语言
+java,eclipse,Android开发,软件测试
+java,系统分析,XML技术,Android开发,C语言,Microsoft Visual C++ 6.0
+java,TCP/IP编程,Socket编程,网络通信,Android开发
+java,系统分析,XML技术,Android开发,C语言,Microsoft Visual C++ 6.0
+java,Android开发,C语言,C++语言
+java,Android开发
+java,多线程,系统分析,网络编程,面向对象分析,Android SDK,Android开发,软件测试,软件工程,数据结构
+java,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,熟悉主流测试工具
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Jsf框架,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,Socket编程,linux操作系统,unix操作系统,UML建模语言,O
+java,photoshop,Socket编程,OpenGl图形编程,XML技术,Android开发
+java,OpenGl图形编程,Android开发,熟悉主流测试工具
+java,多线程,网络编程,Android开发
+多线程,mysql数据库,Oracle数据库,sqlite数据库,软件架构设计,Android开发,软件测试,熟悉主流测试工具,软件架构
+photoshop,fireworks,office,人机交互技术
+java,系统设计,Android SDK,Android开发,C语言,C++语言
+java,Android开发,熟悉主流测试工具
+java,Android开发,熟悉主流测试工具
+java,Extjs框架,javaScript,SQL Server数据库,Oracle数据库,Db2数据库,ERP(企业资源计划),Android开发,自动化测试(使用自动化测试软件、框架等),软件项目管理,SSH协议
+java,Android SDK,Android开发
+java,sqlite数据库,Android开发,数据结构
+java,C#,ios开发,iOS SDK,Android SDK,Android开发,数据结构,C语言,Unity
+java,Android开发,软件测试
+linux操作系统,Android开发
+Android开发,C语言
+java,eclipse,Android SDK,Android开发
+java,eclipse,Android SDK,Android开发
+css层叠样式表,Html,javaScript,COM编程,Objective-c语言,XCode开发工具,ios开发,iOS SDK,Android开发,C语言,电子商务
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,多线程,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,UDP协议,Android开发,TCP/UDP
+多线程,TCP/IP编程,网络编程,HTTP传输协议,Android SDK,UDP协议,Android开发,TCP/UDP,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,软件架构设计,Android开发,软件架构
+java,Android开发
+系统设计,Android开发,软件测试
+java,eclipse,Android SDK,Android开发,软件测试
+java,jQuery框架,Html,Objective-c语言,ios开发,Android开发,C语言,C++语言,Sencha Touch,jQuery Mobile
+java,Socket编程,linux操作系统,HTTP传输协议,XML技术,Android开发,C语言,C++语言
+java,多线程,linux操作系统,unix操作系统,网络编程,Android开发,Shell语言,数据结构,C++语言
+HTTP传输协议,jSon技术,软件架构设计,Android开发,软件架构
+HTTP传输协议,jSon技术,软件架构设计,Android开发,软件架构
+多线程,XML技术,面向对象分析,网络通信,软件架构设计,Android开发,软件架构
+java,多线程,Socket编程,Android开发
+java,TCP/IP编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,软件架构设计,Android开发,熟悉主流测试工具,软件架构,数据结构,软件项目管理
+java,网络通信,Android开发,软件文档写作
+css层叠样式表,Html,javaScript,Android开发
+java,面向对象分析,Android SDK,Android开发,软件测试
+多线程,系统分析,Android开发,C语言
+Android开发,数据结构
+SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+java,多线程,TCP/IP编程,Android SDK,Android开发
+系统设计,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,UDP协议,Android开发
+java,eclipse,多线程,TCP/IP编程,网络编程,HTTP传输协议,Android SDK,Android开发
+java,jsp(java服务器页面),servlet,javaScript,系统设计,mysql数据库,Android开发,软件测试
+系统分析,TCP/IP编程,linux操作系统,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android开发,软件测试,熟悉主流测试工具,数据结构
+java,系统设计,svn,ios开发,iOS SDK,Android开发,CVS(一种自动测试工具),数据结构,C语言,C++语言
+java,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,软件测试
+java,php,.net,ios开发,Android开发
+java,Android SDK,Android开发,C语言
+linux操作系统,Android开发,C语言,C++语言
+java,Android开发,软件项目管理
+java,网络编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android开发,熟悉主流测试工具
+java,网络编程,Android SDK,网络通信,Android开发
+java,HTTP传输协议,jSon技术,Android开发
+java,Android开发,软件项目管理
+java,网络通信,Android开发,C++语言,人机交互技术
+java,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,C语言,C++语言
+RTP传输协议,RTSP传输协议,HTTP传输协议,HLS传输协议,Android开发
+java,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,项目实施
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,AJAX(异步的JavaScript与XML技术),系统设计,mysql数据库,TCP/IP编程,Android开发,数据库系统原理,C语言,分布式,Java Data Base Connectivity,Microsoft Visu
+Android开发
+java,面向对象分析,Android SDK,Android开发
+Socket编程,OpenGl图形编程,HTTP传输协议,网络通信,Android开发
+java,面向对象分析,Android开发,软件测试,C语言,C++语言
+java,Html,面向对象分析,Android开发,软件项目管理
+java,网络编程,Android开发,软件项目管理
+java,Android开发,熟悉主流测试工具,C++语言
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,软件测试,数据结构
+Socket编程,OpenGl图形编程,HTTP传输协议,网络通信,Android开发
+java,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,C语言,C++语言
+java,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,C语言,C++语言
+RTP传输协议,RTSP传输协议,HTTP传输协议,HLS传输协议,Android开发
+java,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,C语言,C++语言
+php,TCP/IP编程,HTTP传输协议,xmpp协议,ios开发,XML技术,jSon技术,软件架构设计,Android开发,软件架构,C语言,C++语言
+java,Android开发,C语言,C++语言
+php,TCP/IP编程,HTTP传输协议,xmpp协议,ios开发,XML技术,jSon技术,软件架构设计,Android开发,软件架构,C语言,C++语言
+Android开发,软件项目管理,C语言
+ios开发,Android开发
+java,多线程,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,熟悉主流测试工具,C语言
+Android开发
+java,Android开发
+java,面向对象分析,Android开发,C语言,C++语言
+RTP传输协议,RTSP传输协议,HTTP传输协议,HLS传输协议,Android开发
+TCP/IP编程,Socket编程,Android SDK,网络通信,Android开发
+多线程,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,网络通信,Android开发,软件测试,数据结构
+java,Android开发,数据结构,C语言,C++语言
+linux操作系统,usb编程,软件架构设计,Android开发,软件测试,软件架构,C语言,嵌入式操作系统
+java,eclipse,TCP/IP编程,HTTP传输协议,sqlite数据库,XML技术,面向对象分析,Android SDK,Android开发,算法设计与技术
+java,TCP/IP编程,HTTP传输协议,ios开发,面向对象分析,Android开发,熟悉主流测试工具,数据结构,C++语言
+eclipse,TCP/IP编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,C++语言
+java,HTTP传输协议,svn,git,面向对象分析,Android SDK,Android开发,软件测试,软件项目管理,C语言,Microsoft Visual C++ 6.0
+.net,多线程,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+java,GUI编程,系统设计,HTTP传输协议,Android SDK,Android开发,IDA
+java,多线程,TCP/IP编程,网络编程,HTTP传输协议,Android开发,数据结构
+java,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Tomcat,系统设计,mysql数据库,linux操作系统,ios开发,Android开发,Jboss,电子商务
+ios开发,Android开发
+java,svn,sqlite数据库,ios开发,Android开发,CVS(一种自动测试工具),C++语言
+java,Android开发,C++语言
+linux操作系统,Android开发,C语言,C++语言
+java,Android开发,软件项目管理
+java,Android SDK,Android开发,C语言
+java,Android开发,数据结构,软件项目管理,算法设计与技术
+java,COM编程,Android开发,软件测试,数据结构,软件项目管理,算法设计与技术
+java,COM编程,Android开发,软件测试,数据结构,软件项目管理,算法设计与技术
+java,linux操作系统,Android开发,Shell语言,gcc,C语言,C++语言,gdb,GDB
+HTTP传输协议,jSon技术,Android开发
+java,Html,系统设计,XML技术,Android开发,C语言,Microsoft Visual C++ 6.0,DOM,算法设计与技术
+ant(一种基于Java的build工具),windows操作系统,linux操作系统,STL库,DirectX图形编程,OpenGl图形编程,面向对象分析,Android开发,bash语言,C语言,C++语言,cocos2d-x,cocos2d,Standard Template Library
+ios开发,Android开发,软件测试,软件工程
+java,photoshop,HTTP传输协议,Android SDK,网络通信,Android开发
+jQuery框架,Html,php,Smarty(一个模板引擎),javaScript,多线程,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,计算机网络
+java,Android SDK,Android开发,熟悉主流测试工具
+java,git,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,面向对象分析,网络通信,Android开发
+eclipse,Android开发,数据结构
+java,Oracle数据库,Android开发
+java,Oracle数据库,Android开发
+java,eclipse,多线程,Objective-c语言,ios开发,面向对象分析,Cocoa开发框架,网络通信,Android开发,软件测试,熟悉主流测试工具,数据结构,C语言,C++语言
+java,linux操作系统,面向对象分析,Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Android开发
+java,eclipse,TCP/IP编程,Socket编程,网络编程,XML技术,jSon技术,Android SDK,Android开发,软件测试,数据结构,软件项目管理,Webservice,rest
+java,Html,XHTML,TCP/IP编程,HTTP传输协议,XML技术,Android开发,C语言,C++语言
+多线程,网络编程,Android开发
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,熟悉主流测试工具
+java,Socket编程,HTTP传输协议,xmpp协议,sqlite数据库,Android SDK,网络通信,Android开发
+java,软件架构设计,Android开发,软件架构
+TCP/IP编程,HTTP传输协议,jSon技术,Android开发
+java,多线程,GUI编程,网络通信,Android开发
+eclipse,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,Android开发
+java,ios开发,Android开发,C语言,C++语言
+Android开发,软件项目管理
+Android开发,软件项目管理,C语言
+软件项目管理,项目实施
+java,系统设计,TCP/IP编程,网络编程,Android开发,数据结构
+Android开发
+Android SDK,Android开发
+java,TCP/IP编程,python编程,Objective-c语言,Android开发,C语言,C++语言
+eclipse,ios开发,Android开发,Unity
+Html,Android SDK,Android开发
+java,系统分析,Android SDK,Android开发,软件测试
+java,HTTP传输协议,ios开发,XML技术,jSon技术,Android SDK,Android开发
+java,Android开发
+java,面向对象分析,Android开发,C++语言
+Photoshop,多线程,linux操作系统,HTTP传输协议,git,sqlite数据库,jSon技术,Android开发,C语言,Restful
+Photoshop,多线程,HTTP传输协议,git,sqlite数据库,jSon技术,Android开发,C语言,Restful
+Android开发,C语言
+eclipse,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android开发
+eclipse,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android开发
+eclipse,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android开发
+java,Android开发
+linux操作系统,Android开发,Shell语言,gcc,C语言,C++语言,gdb,GDB
+java,COM编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,Android开发,软件测试
+eclipse,多线程,svn,git,Android开发
+java,eclipse,多线程,svn,git,Android开发
+java,Android开发
+java,Android开发
+java,Android开发
+java,Android开发,熟悉主流测试工具
+java,TCP/IP编程,HTTP传输协议,xmpp协议,Objective-c语言,sqlite数据库,ios开发,Android开发,软件测试,C语言
+多线程,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,XML技术,Android开发
+eclipse,svn,git,面向对象分析,Android SDK,Android开发
+java,TCP/IP编程,HTTP传输协议,UDP协议,Android开发
+java,eclipse,Android开发,软件工程
+java,eclipse,系统设计,Android开发,软件测试,软件工程,JavaSe,嵌入式操作系统
+java,css层叠样式表,Html,javaScript,Objective-c语言,ios开发,面向对象分析,Android开发,数据结构,C语言,C++语言
+java,photoshop,多线程,系统分析,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发,软件测试,数据结构,算法设计与技术
+java,HTTP传输协议,Android开发,软件测试,软件项目管理
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+java,多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,ios开发,iOS SDK,Android开发,数据结构,C++语言
+SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+java,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发,数据结构,算法设计与技术
+java,OpenGl图形编程,Android开发,软件测试,熟悉主流测试工具,数据结构
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+photoshop,面向对象分析,Android开发,软件工程
+JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XCode开发工具,ios开发,iOS SDK,jSon技术,Db2数据库,Android SDK,Android开发,软件测试,软件工程,数据库系统原理
+java,C#,windows操作系统,Android开发,C语言,C++语言
+linux操作系统,Android开发,软件工程,C语言,C++语言
+java,Android开发
+java,Android开发
+java,网络通信,Android开发,熟悉主流测试工具,数据结构
+C语言,Microsoft Visual C++ 6.0
+多线程,Socket编程,HTTP传输协议,Android开发,C语言
+java,Android开发,软件测试,数据结构,C语言,C++语言,计算机网络,嵌入式操作系统
+java,TCP/IP编程,Socket编程,HTTP传输协议,svn,git,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发,软件项目管理
+java,TCP/IP编程,Socket编程,HTTP传输协议,svn,git,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发,软件项目管理
+java,css层叠样式表,Html,php,photoshop,Microsoft Office Visio,.net,javaScript,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,CVS(一种自动测
+java,JavaEE架构,Android开发,JavaSe
+java,ios开发,Android开发
+java,css层叠样式表,Html,php,photoshop,Microsoft Office Visio,.net,javaScript,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,CVS(一种自动测
+java,css层叠样式表,Html,php,photoshop,Microsoft Office Visio,.net,javaScript,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,CVS(一种自动测
+java,Socket编程,HTTP传输协议,Android开发,熟悉主流测试工具
+java,HTTP传输协议,XML技术,Android SDK,Android开发,数据结构,C++语言
+linux操作系统,C语言
+TCP/IP编程,Socket编程,UDP协议,Android开发
+javaScript,多线程,面向对象分析,Android开发,C语言,ActionScript,Microsoft Visual C++ 6.0
+javaScript,多线程,面向对象分析,Android开发,C语言,ActionScript,Microsoft Visual C++ 6.0
+java,多线程,系统设计,TCP/IP编程,网络编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP,软件测试,嵌入式操作系统
+Android开发,软件测试
+网络通信,Android开发
+photoshop,Socket编程,HTTP传输协议,网络通信,Android开发
+java,linux操作系统,xmpp协议,软件架构设计,Android开发,软件架构,C语言,C++语言,OpenCV
+java,COM编程,Android开发,Arcgis,ArcGIS
+java,Socket编程,HTTP传输协议,Android开发,熟悉主流测试工具,C++语言
+java,COM编程,HTTP传输协议,面向对象分析,Android SDK,Android开发,数据分析,数据结构
+Android开发
+java,eclipse,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,Android开发,软件测试
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,UDP协议,Android开发,软件测试,C语言,C++语言
+Android开发
+java,Android开发,C语言,C++语言
+java,Html,Android开发,数据结构,C语言
+java,Android开发
+java,TCP/IP编程,Socket编程,unix操作系统,HTTP传输协议,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,熟悉主流测试工具,数据结构
+Android开发
+java,Android开发,软件项目管理
+Html,Android开发
+java,.net,TCP/IP编程,Socket编程,HTTP传输协议,Android开发,Webservice,protobuf协议
+java,网络编程,Android开发
+java,linux操作系统,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发,C语言,C++语言
+java,linux操作系统,svn,Android SDK,Android开发
+java,linux操作系统,svn,Android SDK,Android开发
+java,linux操作系统,svn,Android SDK,Android开发
+java,linux操作系统,svn,Android SDK,Android开发
+java,linux操作系统,svn,Android SDK,Android开发
+php,Android开发
+java,Android开发
+多线程,HTTP传输协议,sqlite数据库,Android开发,软件测试,Restful
+java,photoshop,TCP/IP编程,HTTP传输协议,xmpp协议,sqlite数据库,XML技术,jSon技术,网络通信,Android开发
+java,photoshop,TCP/IP编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,网络通信,Android开发
+java,myEclipse,eclipse,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,sqlite数据库,XML技术,Android SDK,Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,Android开发,软件测试
+java,python编程,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+java,git,Android开发,数据结构,软件项目管理,C语言,C++语言,嵌入式操作系统
+java,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,面向对象分析,网络通信,Android开发
+linux操作系统,Android开发,Shell语言,熟悉一种脚本语言,C语言,C++语言,汇编语言
+java,git,Android开发,数据结构,C语言,C++语言,嵌入式操作系统
+java,TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,面向对象分析,UDP协议,Android开发,TCP/UDP,软件测试,C语言,C++语言
+java,Android开发,C语言,C++语言
+java,eclipse,sqlite数据库,Android开发,软件测试
+java,多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,软件测试
+java,Struts框架,Hibernate框架,Spring框架,eclipse,mysql数据库,SQL Server数据库,XCode开发工具,sqlite数据库,ios开发,Android SDK,Android开发,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,apache,Tomcat,eclipse,mysql数据库,SQL Server数据库,XCode开发工具,sqlite数据库,ios开发,Android SDK,Android开发,C语言,Jboss,Microsoft Visual C++ 6.0
+java,HTTP传输协议,sqlite数据库,XML技术,jSon技术,Fragment,Android开发
+java,COM编程,Socket编程,HTTP传输协议,Android SDK,Android开发,数据结构,算法设计与技术
+java,JavaEE架构,多线程,COM编程,Android开发
+java,网络编程,Android SDK,Android开发
+软件测试,熟悉主流测试工具
+java,eclipse,多线程,TCP/IP编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,网络通信,Android开发,软件测试
+java,Android开发,数据结构
+java,网络编程,面向对象分析,Android开发
+java,网络编程,面向对象分析,Android开发
+java,Android开发,数据结构
+java,Android开发,数据结构
+java,Android开发
+java,Android开发
+java,Android SDK,Android开发,C语言,C++语言,HOOK
+java,多线程,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,网络通信,软件架构设计,Android开发,软件架构,网络安全技术
+Android开发,软件工程
+java,COM编程,Android开发,C语言
+java,Android开发,数据结构,C语言,C++语言
+java,Android开发,数据结构
+java,css层叠样式表,javaScript,多线程,Socket编程,Android开发
+java,多线程,Socket编程,git,Android SDK,Android开发
+java,Android开发,C语言,C++语言,IDA,OllyDBG,汇编语言
+系统设计,系统分析,TCP/IP编程,网络编程,HTTP传输协议,XML技术,网络通信,Android开发
+java,photoshop,多线程,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发
+系统设计,系统分析,TCP/IP编程,网络编程,HTTP传输协议,XML技术,网络通信,Android开发
+java,面向对象分析,Android开发
+windows操作系统,linux操作系统,软件架构设计,软件架构
+windows操作系统,linux操作系统,软件架构设计,软件架构
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发,熟悉主流测试工具,软件项目管理
+Android开发,嵌入式操作系统
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,ios开发,XML技术,jSon技术,面向对象分析,Prototype,Android开发,C语言,DOM,jQuery Mobile
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,ios开发,XML技术,jSon技术,面向对象分析,Prototype,Android开发,C语言,DOM,jQuery Mobile
+java,eclipse,系统分析,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,数据结构
+java,JavaEE架构,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XML技术,Android SDK,网络通信,Android开发,C++语言
+java,linux操作系统,python编程,面向对象分析,Android开发,Perl语言,熟悉一种脚本语言,C语言,C++语言
+java,Html,XHTML,Objective-c语言,ios开发,Android开发,C语言,C++语言,Webservice
+java,Android开发,数据结构,C++语言
+网络编程,Android开发
+java,网络编程,XML技术,jSon技术,Android开发,软件测试
+java,多线程,Android开发
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Jsf框架,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,Socket编程,linux操作系统,unix操作系统,UML建模语言,O
+linux操作系统,Android开发,嵌入式操作系统
+美术基础
+多线程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android开发,cocos2d,Unity
+java,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,数据结构
+系统设计,网络通信,Android开发,软件项目管理,C语言
+java,SQL Server数据库,Oracle数据库,Android开发,C语言
+java,多线程,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,软件工程
+软件架构设计,Android开发,软件架构,数据结构
+java,eclipse,Android开发
+java,TCP/IP编程,Android SDK,Android开发,软件项目管理,C语言
+java,系统设计,Android SDK,Android开发,C语言
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,网络通信,Android开发,数据结构,C语言,C++语言
+java,系统设计,系统分析,ios开发,Android开发,软件测试
+java,Android开发,C语言,C++语言
+java,多线程,COM编程,网络通信,Android开发,C语言
+Android开发
+java,多线程,GUI编程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,XCode开发工具,ios开发,Cocoa开发框架,Android SDK,网络通信,Android开发,C语言
+java,Android SDK,Android开发,美工基础,C语言,C++语言
+Android开发,office
+java,eclipse,面向对象分析,Android开发
+java,Android开发,美工基础
+COM编程,Android开发,软件测试
+java,面向对象分析,Android开发
+java,Android SDK,Android开发,软件测试,数据结构,电子商务
+java,Android开发
+java,Android开发,C语言,C++语言
+系统设计,系统分析,TCP/IP编程,网络编程,HTTP传输协议,XML技术,网络通信,Android开发
+Android开发
+Android SDK,Android开发,软件测试,QualityCenter,qxdm高通无线协议分析软,Logcat(Android中一个命令行工具)
+java,eclipse,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,数据结构,C语言,C++语言
+java,系统设计,sqlite数据库,面向对象分析,Android开发,C语言,C++语言,中间件
+Android开发
+java,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,网络通信,Android开发,软件测试,C语言,C++语言
+Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,软件工程
+java,Android开发,C语言,C++语言
+java,Socket编程,HTTP传输协议,Android开发,Webservice
+java,ios开发,Android开发
+Android开发,软件项目管理
+java,TCP/IP编程,网络编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP
+Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发,软件测试,电子商务
+java,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发
+java,TCP/IP编程,SIP协议,HTTP传输协议,网络通信,Android开发,netty框架,C语言,C++语言,Netty
+Android开发,软件项目管理
+java,多线程,Socket编程,linux操作系统,Android开发,C语言,C++语言
+eclipse,Android SDK,Android开发,软件测试,软件工程,数据结构
+java,C#,TCP/IP编程,Android开发,C语言,C++语言
+java,Android SDK,Android开发
+ios开发,Android开发
+java,Android开发,熟悉主流测试工具,C++语言
+linux操作系统,Android开发,C语言
+photoshop,linux操作系统,usb编程,svn,git,Android开发,软件工程,C语言
+java,ios开发
+COM编程,网络通信,Android开发
+java,面向对象分析,网络通信,Android开发
+java,JavaEE架构,Tomcat,websphere服务器,mysql数据库,SQL Server数据库,Android开发,Jboss
+css层叠样式表,Html,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,sqlite数据库,XML技术,Android开发,软件测试,Webservice
+java,C#,TCP/IP编程,Android开发,C语言,C++语言
+COM编程,网络通信,Android开发
+Android开发
+网络编程,jSon技术,Android开发,软件文档写作
+eclipse,多线程,网络编程,RTSP传输协议,ios开发,Android SDK,Android开发,C语言
+java,XML技术,jSon技术,Android SDK,Android开发,数据结构,算法设计与技术
+ios开发,Android开发,软件工程
+java,jQuery框架,css层叠样式表,Html,sqlite数据库,Android开发,软件测试
+Android SDK,Android开发
+java,面向对象分析,Android开发
+java,jQuery框架,Html,javaScript,多线程,HTTP传输协议,Android SDK,Android开发
+TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,ios开发,网络通信,Android开发
+java,photoshop,TCP/IP编程,HTTP传输协议,面向对象分析,Android SDK,UDP协议,网络通信,Android开发,软件测试
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),css层叠样式表,Html,javaScript,Android开发
+java,系统设计,svn,git,面向对象分析,网络通信,Android开发,项目实施
+java,Android开发,熟悉主流测试工具
+java,Socket编程,linux操作系统,RTP传输协议,RTSP传输协议,Android开发,C语言,C++语言,中间件
+java,Html,多线程,ios开发,面向对象分析,Android SDK,Android开发,熟悉主流测试工具
+css层叠样式表,Html,javaScript,TCP/IP编程,HTTP传输协议,网络通信,Android开发
+java,多线程,系统分析,TCP/IP编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP,数据结构
+网络编程,Android SDK,Android开发,数据结构,嵌入式操作系统
+java,系统分析,Android开发,软件测试,软件项目管理
+windows操作系统,ios开发,Android开发,软件测试,C语言,计算机网络
+java,jQuery框架,css层叠样式表,Html,javaScript,Android开发,jQuery Mobile
+COM编程,HTTP传输协议,Android开发
+java,Android SDK,Android开发
+java,Android SDK,Android开发
+java,Socket编程,HTTP传输协议,网络通信,Android开发
+photoshop,XML技术,jSon技术,Android SDK,Android开发
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,数据结构,C语言
+java,eclipse,mysql数据库,Oracle数据库,Socket编程,HTTP传输协议,xmpp协议,Android开发,软件项目管理
+Html,HTTP传输协议,jSon技术,Android开发,软件测试,软件文档写作,C语言
+系统设计,Android开发,软件测试,美术基础
+java,Android SDK,Android开发,C语言,C++语言
+java,面向对象分析,Android开发,数据结构,C语言,C++语言
+java,jQuery框架,css层叠样式表,Html,javaScript,Android开发,jQuery Mobile
+java,Android开发,软件测试
+TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发
+java,多线程,Socket编程,sqlite数据库,ios开发,XML技术,jSon技术,Android开发,软件文档写作
+java,eclipse,Socket编程,HTTP传输协议,Android开发
+java,Html,Socket编程,网络编程,HTTP传输协议,Android SDK,Android开发,数据分析,软件项目管理
+多线程,sqlite数据库,jSon技术,Android开发
+TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,软件测试
+java,Android开发
+多线程,网络编程,Android开发
+java,Android开发
+photoshop,多线程,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,Android SDK,网络通信,Android开发,软件测试
+git,面向对象分析,Android开发,数据结构
+java,css层叠样式表,Html,javaScript,Objective-c语言,Android开发,熟悉主流测试工具,C语言
+java,eclipse,多线程,TCP/IP编程,OpenGl图形编程,XML技术,面向对象分析,Android开发
+jSon技术,面向对象分析,网络通信,Android开发,软件工程
+java,系统设计,Android开发,软件测试,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,TCP/IP编程,UML建模语言,ios开发,网络通信,软件架构设计,Android开发,软件架构,项目实施,Webservice,soap
+ios开发,Android开发,QTP(一种自动测试工具),Jira(项目与事务跟踪工具)
+java,TCP/IP编程,网络编程,HTTP传输协议,jSon技术,Android开发,SSH协议
+java,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,Android开发
+Html,photoshop,多线程,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,sqlite数据库,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+java,jQuery框架,css层叠样式表,Html,javaScript,Objective-c语言,Android开发,C语言,jQuery Mobile
+Android开发
+系统设计,OOD面向对象设计,网络通信,Android开发,软件测试
+Android开发
+java,TCP/IP编程,Android SDK,Android开发,软件项目管理,C语言
+java,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,网络通信,Android开发,数据结构
+css层叠样式表,Html,Android开发
+java,Android开发,熟悉主流测试工具
+java,ios开发,软件架构设计,Android开发,软件架构
+Android SDK,Android开发
+java,ios开发,Android开发
+java,Android开发
+java,多线程,Socket编程,Android开发,软件测试
+eclipse,windows操作系统,TCP/IP编程,Socket编程,linux操作系统,OpenGl图形编程,HTTP传输协议,OOD面向对象设计,软件架构设计,Android开发,软件架构,Unity
+SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+java,GUI编程,TCP/IP编程,Socket编程,HTTP传输协议,xmpp协议,jSon技术,Android开发,软件工程,C语言,C++语言
+java,Socket编程,HTTP传输协议,网络通信,Android开发,软件测试,数据结构,C++语言
+Android开发,数据结构
+java,css层叠样式表,Html,javaScript,Objective-c语言,ios开发,网络通信,Android开发,软件测试,数据结构,C语言,C++语言
+java,面向对象分析,Android开发,软件测试
+java,系统设计,windows操作系统,Socket编程,HTTP传输协议,网络通信,Android开发,软件项目管理
+ios开发,Android开发,软件测试
+java,javaScript,多线程,TCP/IP编程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,Android SDK,Android开发,C语言
+TCP/IP编程,HTTP传输协议,ios开发,软件架构设计,Android开发,软件架构,数据结构
+面向对象分析,Android开发,软件测试,数据结构,电子商务
+面向对象分析,Android开发,软件测试,数据结构,电子商务
+java,Android开发
+java,多线程,TCP/IP编程,网络编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP
+java,系统分析,Android开发,数据结构,软件项目管理
+ios开发,Android开发
+ios开发,Android开发
+photoshop,多线程,TCP/IP编程,HTTP传输协议,Android开发,软件工程
+ios开发,Android开发
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,数据结构,C++语言
+java,css层叠样式表,Html,eclipse,系统分析,面向对象分析,Android SDK,Android开发,软件文档写作
+java,Socket编程,HTTP传输协议,网络通信,Android开发
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android SDK,Android开发
+HTTP传输协议,ios开发,jSon技术,Android开发,cocos2d
+java,Android开发
+Android开发
+面向对象分析,网络通信,Android开发,数据结构
+java,Android开发,数据结构
+java,mysql数据库,Oracle数据库,面向对象分析,数据库系统原理,数据结构,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,mysql数据库,SQL Server数据库,Android开发,软件工程,数据结构
+java,eclipse,svn,Android SDK,Android开发,数据结构
+java,linux操作系统,ios开发,Android开发,数据结构
+Android开发
+java,GUI编程,Android开发,数据结构,C语言,C++语言
+java,GUI编程,Android开发,数据结构,C语言,C++语言
+java,eclipse,linux操作系统,网络编程,Android SDK,网络通信,软件架构设计,Android开发,软件测试,软件架构,C语言,C++语言
+java,eclipse,多线程,svn,git,网络通信,Android开发
+photoshop,TCP/IP编程,Socket编程,ios开发,Android SDK,网络通信,Android开发,软件测试,C语言,C++语言
+java,linux操作系统,git,Android SDK,Android开发,C语言,C++语言,HOOK
+JavaEE架构,eclipse,系统设计,PL/SQL,svn,Android SDK,Android开发,软件测试,CVS(一种自动测试工具)
+java,Android SDK,Android开发
+Android开发
+java,Html,javaScript,TCP/IP编程,HTTP传输协议,jSon技术,Android开发,数据库系统原理
+Html,COM编程,HTTP传输协议,ios开发,Android开发
+Android SDK,Android开发
+java,Android SDK,Android开发,HOOK
+java,面向对象分析,Android开发
+java,面向对象分析,Android开发
+java,COM编程,HTTP传输协议,Android开发,数据库系统原理,软件文档写作
+ios开发,Android开发
+java,eclipse,面向对象分析,Android开发,C语言,Microsoft Visual C++ 6.0
+java,多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,软件架构设计,Android开发,软件架构,数据结构
+java,Android SDK,Android开发
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发
+java,Android SDK,Android开发,C语言,C++语言,HOOK
+GUI编程,sqlite数据库,Android开发,软件工程,计算机网络
+java,eclipse,多线程,linux操作系统,Android开发,软件测试,C语言,C++语言
+Html,javaScript,网络编程,HTTP传输协议,sqlite数据库,Android SDK,网络通信,Android开发,美工基础,Arcgis,ArcGIS
+java,eclipse,Android开发,软件测试,C语言,C++语言
+多线程,系统分析,Android开发,软件测试,OpenCV
+java,网络通信,Android开发,数据结构,C语言,C++语言
+面向对象分析,网络通信,Android开发,软件测试
+Android开发
+java,TCP/IP编程,Socket编程,Android开发,软件测试,C语言,Microsoft Visual C++ 6.0
+多线程,sqlite数据库,Android开发,软件测试,美术基础
+多线程,HTTP传输协议,sqlite数据库,Android开发
+java,Android开发,C语言,C++语言
+java,多线程,svn,git,jSon技术,网络通信,Android开发
+java,TCP/IP编程,linux操作系统,HTTP传输协议,XML技术,Android开发,C语言
+java,面向对象分析,网络通信,Android开发,javaSe,美工基础
+java,多线程,TCP/IP编程,Socket编程,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发
+java,C#,linux操作系统,网络通信,Android开发,C语言,C++语言,Microsoft Visual C++ 6.0
+java,linux操作系统,Android开发,C语言,C++语言
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,软件文档写作
+java,多线程,Socket编程,HTTP传输协议,XML技术,Android开发,软件测试,数据结构
+java,TCP/IP编程,网络编程,HTTP传输协议,面向对象分析,网络通信,Android开发,软件测试,数据结构
+java,多线程,GUI编程,系统设计,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,软件工程,计算机网络
+java,eclipse,Android SDK,Android开发,软件测试,美工基础
+Android开发,软件测试,电子商务
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,xmpp协议,XML技术,面向对象分析,网络通信,Android开发,openfire
+java,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发
+java,Objective-c语言,ios开发,iOS SDK,面向对象分析,Android SDK,Android开发,C语言,Microsoft Visual C++ 6.0
+java,Html,eclipse,Objective-c语言,Swift语言,XCode开发工具,ios开发,Android开发,C语言
+java,Android开发
+java,系统设计,TCP/IP编程,网络编程,HTTP传输协议,面向对象分析,UDP协议,Android开发,数据结构,C语言,C++语言
+java,Android开发,软件项目管理,C语言,信息安全导论,汇编语言
+java,Html,多线程,XML技术,jSon技术,面向对象分析,网络通信,Android开发,数据结构,软件项目管理
+多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,软件架构设计,Android开发,软件架构,数据结构,C语言,C++语言
+java,系统分析,Android开发,数据结构,软件项目管理
+java,Html,javaScript,TCP/IP编程,HTTP传输协议,jSon技术,Android开发,数据库系统原理
+java,Android SDK,Android开发,数据结构,软件项目管理
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,GUI编程,mysql数据库,Oracle数据库,linux操作系统,ios开发,XML技术,Android开发,C语言
+java,eclipse,mysql数据库,sqlite数据库,ios开发,Android SDK,Android开发
+java,COM编程,HTTP传输协议,Android开发,SSH协议
+java,linux操作系统,Android SDK,Android开发,软件测试,数据结构
+HTTP传输协议,Android开发
+java,JavaEE架构,eclipse,多线程,TCP/IP编程,Socket编程,HTTP传输协议,xmpp协议,XML技术,Android SDK,Android开发,Shell语言,熟悉主流测试工具,数据结构
+java,网络编程,Android SDK,Android开发,C语言,C++语言
+java,mysql数据库,linux操作系统,svn,Android开发
+java,面向对象分析,Android开发
+java,linux操作系统,软件架构设计,Android开发,软件测试,软件架构
+ios开发,Android SDK,Android开发,人机交互技术
+java,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,svn,sqlite数据库,XML技术,jSon技术,Android SDK,Android开发,CVS(一种自动测试工具),美术基础
+java,eclipse,TCP/IP编程,HTTP传输协议,面向对象分析,Android SDK,Android开发,C语言,C++语言
+Android开发,软件项目管理
+Android SDK,Android开发
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,ios开发,iOS SDK,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,bash语言,C语言
+java,eclipse,面向对象分析,Android SDK,网络通信,Android开发,C语言
+java
+Android开发,软件测试
+java,GUI编程,Socket编程,HTTP传输协议,ERP(企业资源计划),Android开发,C语言,嵌入式操作系统
+Spring框架,HTTP传输协议,git,Android开发,软件测试,C语言,rest,Microsoft Visual C++ 6.0
+java,linux操作系统,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件架构设计,Android开发,软件测试,软件架构,软件文档写作,C语言,C++语言
+java,ant(一种基于Java的build工具),python编程,OOD面向对象设计,Android开发,软件工程,Adobe Illustrator(AI),project,bash语言,C语言,C++语言
+JavaEE架构,Socket编程,HTTP传输协议,Android开发
+Html,photoshop,Socket编程,linux操作系统,HTTP传输协议,XML技术,jSon技术,面向对象分析,网络通信,Android开发
+windows操作系统,linux操作系统,OOD面向对象设计,Android开发,gcc,C语言,C++语言,Microsoft Visual C++ 6.0
+java,Socket编程,xmpp协议,svn,git,jSon技术,网络通信,Android开发
+java,eclipse,网络通信,Android开发
+Android开发
+java,eclipse,多线程,TCP/IP编程,HTTP传输协议,Android SDK,Android开发
+java,多线程,TCP/IP编程,网络编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP,Webservice
+photoshop,系统设计,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,软件文档写作,C语言
+java,eclipse,Android开发
+linux操作系统,OOD面向对象设计,Android开发,C语言,C++语言
+java,eclipse,windows操作系统,ios开发,Android SDK,Android开发,JavaSe,WinCE
+java,eclipse,windows操作系统,SQL Server数据库,面向对象分析,Android SDK,Android开发,软件项目管理,ITIL,电子商务
+多线程,COM编程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发
+java,网络通信,Android开发
+java,Html,多线程,网络编程,Android开发
+java,linux操作系统,Android SDK,Android开发,软件测试,数据结构
+java,TCP/IP编程,Socket编程,linux操作系统,面向对象分析,网络通信,Android开发,软件测试,熟悉主流测试工具,软件项目管理
+java,多线程,linux操作系统,sqlite数据库,XML技术,jSon技术,Android SDK,Android开发
+java,数据结构,C语言
+多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,ios开发,网络通信,Android开发
+java,eclipse,TCP/IP编程,HTTP传输协议,软件架构设计,Android开发,软件架构,数据结构,C语言,C++语言
+java,多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android SDK,网络通信,Android开发,关系型数据库
+java,面向对象分析,人机交互技术
+TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发,软件测试,软件项目管理
+java,多线程,网络编程,sqlite数据库,Android SDK,网络通信,Android开发,软件测试
+java,多线程,TCP/IP编程,网络编程,HTTP传输协议,sqlite数据库,XML技术,Android开发,熟悉主流测试工具
+java,多线程,网络编程,sqlite数据库,Android SDK,网络通信,Android开发,软件测试
+Android开发,office
+java,php,C#,Objective-c语言,ios开发,Android开发,C语言,C++语言
+java,linux操作系统,unix操作系统,Android开发,C语言,C++语言,嵌入式操作系统
+java,TCP/IP编程,HTTP传输协议,Android SDK,Android开发
+java,多线程,Socket编程,HTTP传输协议,面向对象分析,Android开发
+Android开发,数据结构,C语言,C++语言,算法设计与技术
+多线程,GUI编程,网络编程,xmpp协议,Android开发
+java,linux操作系统,python编程,Android开发,Shell语言,Perl语言,熟悉一种脚本语言,C语言,C++语言
+java,eclipse,TCP/IP编程,Socket编程,网络编程,XML技术,jSon技术,Android SDK,Android开发,软件测试,数据结构,Webservice,rest
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,软件项目管理
+java,css层叠样式表,Html,ORM对象关系映射,.net,javaScript,mysql数据库,SQL Server数据库,OOD面向对象设计,Android开发,project,C++语言
+linux操作系统,unix操作系统,HTTP传输协议,svn,vss,git,Android开发,软件测试,CVS(一种自动测试工具),软件文档写作,电子商务
+java,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,数据结构,算法设计与技术
+TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发
+Android开发
+eclipse,XCode开发工具,svn,ios开发,Android开发,电子商务
+Android开发,软件测试,软件工程
+Android开发
+jQuery框架,css层叠样式表,Html,javaScript,windows操作系统,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,面向对象分析,Android SDK,网络通信,Android开发,软件测试
+java,面向对象分析,Android开发
+ios开发,Android开发
+美工基础
+java,面向对象分析,Android开发,软件文档写作,C语言
+Android SDK,Android开发
+java,Socket编程,HTTP传输协议,Android开发,熟悉主流测试工具
+eclipse,网络通信,Android开发
+java,jQuery框架,Extjs框架,css层叠样式表,Html,php,XHTML,eclipse,javaScript,多线程,TCP/IP编程,Socket编程,网络编程,python编程,svn,XML技术,UDP协议,Android开发,软件测试,熟悉主流测试工具,软件文档写作,ruby
+java,eclipse,Android SDK,Android开发,数据结构
+java,python编程,Android开发,软件测试,Perl语言,熟悉一种脚本语言,数据结构,bash语言,C语言,C++语言,嵌入式操作系统
+java,多线程,Socket编程,Android SDK,Android开发
+java,eclipse,COM编程,HTTP传输协议,git,Android SDK,Android开发,数据库系统原理,软件文档写作
+多线程,sqlite数据库,面向对象分析,网络通信,Android开发
+OpenGl图形编程,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d
+java,eclipse,COM编程,系统分析,TCP/IP编程,Socket编程,HTTP传输协议,svn,ios开发,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,软件测试,CVS(一种自动测试工具),数据库系统原理,数据结构,软
+多线程,HTTP传输协议,sqlite数据库,Android开发
+linux操作系统,软件架构设计,Android开发,软件架构,嵌入式操作系统
+java,ios开发,面向对象分析,cocos2d-x,cocos2d
+Android开发
+java,XML技术,Android SDK,Android开发,软件测试,计算机图形学
+ios开发,Android开发
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,servlet,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,Android开发,数据库系
+TCP/IP编程,HTTP传输协议,svn,git,面向对象分析,软件架构设计,Android开发,软件架构
+java,eclipse,Android SDK,Android开发,软件工程
+java,Android开发
+Android开发
+ios开发,Android开发,数据结构
+java,eclipse,Objective-c语言,XCode开发工具,ios开发,Android开发,软件测试,C语言,C++语言
+java,多线程,网络编程,面向对象分析,Android SDK,Android开发
+java,Html,XHTML,Photoshop,TCP/IP编程,HTTP传输协议,XML技术,OOA面向对象分析,OOD面向对象设计,面向对象分析,Android开发,软件项目管理,软件文档写作
+git,Android开发,熟悉主流测试工具
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+java,photoshop,eclipse,系统设计,Socket编程,HTTP传输协议,ios开发,Android SDK,Android开发,软件项目管理,Flash,C语言,C++语言
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+JavaEE架构,Oracle数据库,Android开发,软件工程
+java,linux操作系统,Android开发,C语言,C++语言
+java,面向对象分析,Android开发
+java,多线程,网络编程,Android SDK,Android开发,数据结构
+photoshop,C#,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,C语言
+java,网络通信,Android开发,电子商务
+java,网络通信,Android开发
+java,Html,XHTML,Photoshop,TCP/IP编程,HTTP传输协议,XML技术,OOA面向对象分析,OOD面向对象设计,面向对象分析,Android开发,软件项目管理,软件文档写作
+java,TCP/IP编程,Socket编程,xmpp协议,网络通信,Android开发
+java,系统设计,Android开发
+java,多线程,sqlite数据库,Android SDK,Android开发,数据结构
+ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+java,Html,javaScript,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,面向对象分析,Android SDK,网络通信,Android开发
+java,多线程,TCP/IP编程,sqlite数据库,面向对象分析,Android SDK,Fragment,Android开发,软件测试
+java,TCP/IP编程,面向对象分析,Android SDK,Android开发
+java,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Android SDK,网络通信,软件架构设计,Android开发,软件架构,数据库系统原理,数据结构,软
+java,photoshop,windows操作系统,linux操作系统,UML建模语言,软件架构设计,Android开发,软件测试,软件架构,office,C语言,嵌入式操作系统,电子商务,网络安全技术
+mysql数据库,Oracle数据库,软件架构设计,Android开发,软件架构,Webservice
+Html,Tomcat,GUI编程,HTTP传输协议,ios开发,ERP(企业资源计划),Android开发,软件测试,数据结构,C语言,C++语言,Jboss
+ios开发,Android开发,电子商务
+java,eclipse,多线程,COM编程,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,数据结构
+Android开发
+java,myEclipse,eclipse,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,sqlite数据库,XML技术,Android开发
+java,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发
+java,photoshop,HTTP传输协议,网络通信,Android开发,软件测试,数据结构
+网络编程,Android开发
+java,RTSP传输协议,HLS传输协议,面向对象分析,Android开发
+java,TCP/IP编程,HTTP传输协议,软件架构设计,Android开发,熟悉主流测试工具,软件架构,数据结构,C语言
+Android开发
+COM编程,Android SDK,网络通信,Android开发,数据结构
+java,面向对象分析,Android开发,软件测试
+eclipse,Android开发
+java,系统设计,XML技术,jSon技术,面向对象分析,网络通信,Android开发,C++语言
+java,css层叠样式表,Html,javaScript,面向对象分析,Android开发
+java,css层叠样式表,Html,javaScript,Objective-c语言,面向对象分析,Android开发,C语言
+java,myEclipse,eclipse,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,sqlite数据库,XML技术,Android开发
+java,photoshop,多线程,HTTP传输协议,sqlite数据库,XML技术,jSon技术,面向对象分析,Android开发,软件测试
+java,eclipse,TCP/IP编程,HTTP传输协议,sqlite数据库,UDP协议,Android开发,TCP/UDP
+java,Html,javaScript,Android开发
+SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件测试
+java,jQuery框架,Html,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,iOS SDK,XML技术,jSon技术,网络通信,Android开发,C语言,jQuery Mobile
+css层叠样式表,Html,javaScript,HTTP传输协议,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发,软件测试
+Android开发
+java,UML建模语言,OpenGl图形编程,OOA面向对象分析,OOD面向对象设计,面向对象分析,Android开发,数据结构,算法设计与技术
+java,eclipse,Android SDK,Android开发,软件测试,软件工程,数据结构
+多线程,TCP/IP编程,Socket编程,HTTP传输协议,sqlite数据库,ios开发,XML技术,jSon技术,网络通信,Android开发,软件测试,数据结构
+多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,Webservice
+java,photoshop,COM编程,HTTP传输协议,面向对象分析,Android开发
+Android开发
+svn,git,面向对象分析,Android开发
+photoshop,Android开发
+Android开发
+java,Android开发,C语言
+java,ios开发,Android开发
+java,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,UDP协议,Android开发,熟悉主流测试工具,C语言,C++语言
+java,Socket编程,XML技术,jSon技术,Android开发,软件测试,软件文档写作,C语言,嵌入式操作系统
+java,eclipse,Android SDK,Android开发
+多线程,mysql数据库,Oracle数据库,sqlite数据库,软件架构设计,Android开发,软件测试,熟悉主流测试工具,软件架构
+GUI编程,linux操作系统,软件架构设计,Android开发,软件测试,软件架构,嵌入式操作系统
+java,Html,mysql数据库,Oracle数据库,linux操作系统,Android开发,软件测试
+Socket编程,sqlite数据库,Android SDK,网络通信,Android开发,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,Html,javaScript,Android开发,软件测试,C++语言
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),javabean,Oracle数据库,面向对象分析,Android开发,项目实施,C语言,Java Data Base Connectivity
+java,eclipse,Socket编程,ios开发,面向对象分析,网络通信,Android开发
+java,系统设计,Android SDK,Android开发,C语言
+java,多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android SDK,Android开发
+Html,多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android开发,软件测试,数据结构
+java,TCP/IP编程,HTTP传输协议,sqlite数据库,UDP协议,Android开发
+java,网络编程,svn,git,面向对象分析,Android SDK,Android开发,C++语言
+java,ios开发,XML技术,jSon技术,Android SDK,Android开发
+面向对象分析,Android开发,数据结构
+JavaEE架构,Socket编程,HTTP传输协议,ios开发,Android开发
+Android开发
+多线程,sqlite数据库,软件架构设计,Android开发,软件架构
+java,Html,多线程,TCP/IP编程,网络编程,Android SDK,UDP协议,Android开发,TCP/UDP,C语言,Microsoft Visual C++ 6.0
+java,eclipse,OOD面向对象设计,Android SDK,Android开发,project
+Html,HTTP传输协议,jSon技术,Android开发,软件测试
+java,Socket编程,Android开发,C语言
+mysql数据库,SQL Server数据库,Oracle数据库,Android开发,美工基础
+java,HTTP传输协议,ios开发,Android开发
+网络编程,sqlite数据库,XML技术,jSon技术,面向对象分析,网络通信,软件架构设计,Android开发,软件架构
+java,linux操作系统,软件架构设计,Android开发,软件测试,软件架构,C语言,C++语言,嵌入式操作系统
+java,网络编程,sqlite数据库,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,soap
+java,eclipse,多线程,系统设计,TCP/IP编程,网络编程,OpenGl图形编程,sqlite数据库,ios开发,面向对象分析,Android SDK,Android开发,软件测试,数据库系统原理,软件项目管理,C语言,C++语言
+TCP/IP编程,Socket编程,网络通信,Android开发
+java,多线程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android开发
+java,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发
+多线程,网络编程,面向对象分析
+java,windows操作系统,Objective-c语言,ios开发,Android开发,数据结构,C语言,C++语言
+java,GUI编程,Android SDK,Android开发,软件测试,C语言,C++语言
+多线程,Socket编程,网络编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发,Webservice
+java,COM编程,HTTP传输协议,ios开发,Android开发,office
+java,多线程,COM编程,windows操作系统,Socket编程,HTTP传输协议,ios开发,网络通信,Android开发
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,svn,面向对象分析,网络通信,Android开发,数据结构,算法设计与技术
+java,软件测试
+C语言
+linux操作系统,Android开发,软件测试,C语言,C++语言,汇编语言
+Socket编程,HTTP传输协议,xmpp协议,sqlite数据库,XML技术,jSon技术,Android SDK,网络通信,Android开发
+Html,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发,软件测试,C语言,C++语言
+java,eclipse,Android SDK,Android开发
+java,eclipse,linux操作系统,Android开发,C语言,C++语言,Microsoft Visual C++ 6.0
+java,eclipse,linux操作系统,Android开发,C语言,C++语言,Microsoft Visual C++ 6.0
+java,XML技术,jSon技术,面向对象分析,网络通信,软件架构设计,Android开发,软件架构,C语言,Webservice
+java,TCP/IP编程,HTTP传输协议,软件架构设计,Android开发,软件架构,数据结构
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,软件测试,C语言
+java,photoshop,Socket编程,OpenGl图形编程,XML技术,Android开发
+Android开发
+java,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发,C语言,cocos2d-x,cocos2d,Unity
+java,JavaEE架构,.net,Socket编程,ios开发,XML技术,jSon技术,OOD面向对象设计,Android SDK,Android开发,数据结构
+Android开发
+java,系统设计,TCP/IP编程,HTTP传输协议,Android SDK,Android开发,软件工程,嵌入式操作系统
+ios开发,Android开发,电子商务
+java,Html,多线程,面向对象分析,Android开发
+java,linux操作系统,Android开发,软件测试,C语言,C++语言
+java,linux操作系统,Android开发,软件测试,C语言,C++语言
+java,Html,Android开发,软件测试,软件文档写作
+Android开发
+多线程,ios开发,Android开发
+多线程,ios开发,Android开发
+Android开发,软件测试,软件工程,软件项目管理
+Android开发,软件测试,软件工程
+eclipse,TCP/IP编程,Socket编程,HTTP传输协议,OOD面向对象设计,软件架构设计,Android开发,软件架构
+网络通信,Android开发
+Android SDK,Android开发
+java,GUI编程,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,软件工程,C语言,C++语言
+多线程,RTP传输协议,RTSP传输协议,Android开发,软件测试
+java,TCP/IP编程,Socket编程,linux操作系统,RTSP传输协议,rtmp协议,UDP协议,Android开发,TCP/UDP,数据结构,C++语言,分布式
+java,eclipse,Socket编程,面向对象分析,Android开发,数据结构,C语言,C++语言
+java,php,.net,ios开发,Android开发,软件测试,软件工程,C语言,C++语言
+java,多线程,Socket编程,网络编程,HTTP传输协议,面向对象分析,Android开发,软件文档写作,C语言,C++语言
+Android开发
+.net,Android开发
+java,TCP/IP编程,Socket编程,面向对象分析,Android开发
+java,eclipse,mysql数据库,网络编程,XCode开发工具,sqlite数据库,ios开发,Android开发,C语言
+java,linux操作系统,Android开发,C语言,C++语言
+多线程,COM编程,网络编程,HTTP传输协议,git,ios开发,Android开发,熟悉一种脚本语言,电子商务
+linux操作系统,Android开发,软件测试,C语言,C++语言,HOOK
+java,多线程,TCP/IP编程,Socket编程,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,电子商务
+java,多线程,GUI编程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,HTTP传输协议,Android开发
+eclipse,linux操作系统,Android开发,软件测试
+Android开发
+java,Html,多线程,GUI编程,Socket编程,HTTP传输协议,XML技术,网络通信,Android开发,数据结构,C语言,C++语言
+java,linux操作系统,ios开发,Android SDK,Android开发,软件测试
+java,eclipse,Android开发
+TCP/IP编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,webview(一个显示网页的视图),Fragment,Android开发,TCP/UDP,C语言,C++语言
+java,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,网络通信,Android开发,软件测试
+Android开发,嵌入式操作系统
+java,eclipse,Android SDK,Android开发,软件测试,C语言,C++语言
+java,GUI编程,系统设计,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,面向对象分析,Android SDK,Android开发,软件测试,C语言,C++语言
+java,photoshop,多线程,Socket编程,OpenGl图形编程,HTTP传输协议,Android开发,软件测试,数据结构
+java,Android开发,C语言,C++语言
+TCP/IP编程,Socket编程,HTTP传输协议,XML技术,网络通信,Android开发,软件项目管理
+多线程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android SDK,Android开发
+java,Android开发,软件项目管理
+java,面向对象分析,Android开发
+java,多线程,网络通信,Android开发,数据结构
+java,Android开发,软件测试,数据结构,电子商务,算法设计与技术
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,photoshop,eclipse,javaScript,COM编程,mysql数据库,jSon技术,Android开发,软件测试,C语言,Restful
+java,COM编程,Android开发,软件测试
+Android SDK,Android开发
+Android SDK,Android开发
+java,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,数据结构
+java,C#,Objective-c语言,ios开发,Android开发,C语言
+java,photoshop,多线程,Socket编程,sqlite数据库,jSon技术,Android开发
+photoshop,Socket编程,sqlite数据库,Android开发,软件项目管理,C语言,C++语言,信息安全导论
+Android开发,数据结构
+java,多线程,网络通信,Android开发
+java,多线程,网络编程,sqlite数据库,jSon技术,Android SDK,Android开发
+java,网络编程
+Html,javaScript,XML技术,jSon技术,Android SDK,Android开发
+java,.net,ios开发
+java,Html,linux操作系统,Android开发,数据结构
+Android开发,软件测试,软件项目管理
+Android开发
+java,git,Android开发
+java,eclipse,多线程,svn,Android开发,软件测试
+java,Oracle数据库,Android开发
+java,多线程,GUI编程,网络编程,HTTP传输协议,Objective-c语言,ios开发,iOS SDK,XML技术,jSon技术,软件架构设计,Android开发,软件测试,软件架构,数据结构,C语言,C++语言
+java,ios开发,Android开发
+java,eclipse,Android SDK,Android开发
+java,TCP/IP编程,SIP协议,HTTP传输协议,sqlite数据库,面向对象分析,软件架构设计,Android开发,软件架构
+java,多线程,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,网络通信,软件架构设计,Android开发,软件架构,C语言,C++语言
+java,系统设计,面向对象分析,Android开发
+java,css层叠样式表,Html,javaScript,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,网络通信,Android开发,C语言,C++语言
+java,Android开发
+linux操作系统,Android开发,软件测试,C++语言
+java,Android开发,熟悉主流测试工具
+面向对象分析,网络通信,Android开发,C++语言
+面向对象分析,网络通信,Android开发,软件项目管理,C++语言
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,网络通信,软件架构设计,Android开发,软件测试,软件架构,数据结构
+java,php,ios开发,iOS SDK,Android开发,软件测试,C++语言
+java,css层叠样式表,Html,javaScript,mysql数据库,jSon技术,MongoDB数据库,Android开发
+java,Android开发
+java,TCP/IP编程,Socket编程,网络编程,RTP传输协议,SIP协议,HTTP传输协议,rtcp协议,面向对象分析,UDP协议,Android开发,C语言,C++语言
+JavaEE架构,mysql数据库,SQL Server数据库,Oracle数据库,Android开发
+系统设计,面向对象分析,软件测试
+Html,GUI编程,HTTP传输协议,jSon技术,Android开发,软件测试
+java,系统设计,系统分析,面向对象分析,网络通信,Android开发,软件文档写作,C语言
+TCP/IP编程,Socket编程,网络编程,串口编程,HTTP传输协议,sqlite数据库,网络通信,Android开发,美工基础,串口开发
+java,eclipse,ant(一种基于Java的build工具),多线程,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,面向对象分析,Android开发,软件测试
+java,ORM对象关系映射,ant(一种基于Java的build工具),linux操作系统,OOD面向对象设计,Android开发,C语言,C++语言
+java,photoshop,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,Android SDK,网络通信,Android开发,数据结构
+Android开发
+Android开发,软件测试
+php,eclipse,mysql数据库,网络编程,svn,git,XML技术,jSon技术,面向对象分析,Android SDK,Android开发,C语言,Microsoft Visual C++ 6.0
+Android开发
+java,xmpp协议,Android SDK,Android开发
+eclipse,GUI编程,mysql数据库,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android SDK,网络通信,Android开发,Webservice
+java,面向对象分析,网络通信,Android开发,数据结构,软件项目管理,office,project,项目实施,嵌入式操作系统
+java,css层叠样式表,Html,photoshop,javaScript,多线程,COM编程,系统分析,Socket编程,linux操作系统,unix操作系统,python编程,HTTP传输协议,ios开发,网络通信,Android开发,Shell语言,Perl语言,熟悉一种脚本语言,数据结构,Adobe Illustrator(AI),C语言,C++语言
+photoshop,多线程,TCP/IP编程,Socket编程,HTTP传输协议,Android SDK,网络通信,软件架构设计,Android开发,软件架构
+java,TCP/IP编程,Socket编程,linux操作系统,网络通信,Android开发,熟悉主流测试工具
+Android开发
+Android开发
+Socket编程,HTTP传输协议,面向对象分析,Android开发,软件测试,嵌入式操作系统
+java,git,Android SDK,Android开发,Gradle
+java,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,Android SDK,网络通信,Android开发,软件测试
+多线程,HTTP传输协议,sqlite数据库,ios开发,Android开发,Restful,OpenCV
+java,多线程,Socket编程,sqlite数据库,XML技术,jSon技术,Android开发,软件测试
+java,多线程,Socket编程,sqlite数据库,XML技术,jSon技术,Android开发,软件测试
+java,Html,Android SDK,Android开发,软件测试
+java,Html,HTTP传输协议,Android SDK,Android开发,软件测试
+TCP/IP编程,HTTP传输协议,面向对象分析,Android SDK,Android开发,JavaSe,计算机网络
+java,Android开发,软件测试,office
+java,myEclipse,eclipse,多线程,mysql数据库,TCP/IP编程,网络编程,HTTP传输协议,UDP协议,Android开发,TCP/UDP
+java,Android开发,软件测试,office
+java,eclipse,Android开发,软件测试,数据结构
+Socket编程,网络编程,HTTP传输协议,Android开发
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),git,ios开发,jSon技术,Android开发,Maven(一个项目管理工具),Bootstrap(Web前端CSS框架),C语言,bootstrap,soap,rest,OAuth,Microsoft Visual C++ 6.0
+java,Android开发,软件测试,软件工程
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Socket编程,WebSocket协议,网络编程,ios开发,jSon技术,Android开发,C语言,jQuery Mobile
+eclipse,windows操作系统,linux操作系统,Android开发
+Socket编程,HTTP传输协议,网络通信,Android开发

@@ -1,0 +1,1284 @@
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,Html,DHTML,ant(一种基于Java的build工具),javaScript,COM编程,HTTP传输协议,svn,Junit
+java,JavaEE架构,Hibernate框架,JAVA主流框架,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,C语言,中间件
+java,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),XML技术,C语言
+java,jQuery框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,eclipse,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,eclipse,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,SQL Server数据库,Oracle数据库
+java,JavaEE架构,Struts框架,jsp(java服务器页面),servlet,javabean,EJB,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,XML技术,C语言,Java Data Base Connectivity,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,jsp(java服务器页面),servlet,javabean,EJB,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,XML技术,C语言,Java Data Base Connectivity,Jboss,Microsoft Visual C++ 6.0
+java,jsp(java服务器页面),Tomcat,weblogic服务器,Oracle数据库,编写技术方案,C语言,中间件
+java,jQuery框架,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,XML技术
+java,jsp(java服务器页面),servlet,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,面向对象分析
+java,jQuery框架,软件测试,数据库设计,软件文档写作
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,软件测试,软件工程,关系型数据库,Jboss
+java,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,svn,XML技术
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),css层叠样式表,Html,eclipse,javaScript,mysql数据库,Oracle数据库,svn,XML技术
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),javabean,EJB,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),SQL Server数据库,Oracle数据库,XML技术
+java,jQuery框架,css层叠样式表,Html,javaScript,mysql数据库,linux操作系统,SSH协议
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,系统设计,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,软件测试,软件文档写作,C语言,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,系统设计,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,软件测试,软件文档写作,C语言,Jboss
+java,JavaEE架构,Oracle数据库
+java,Struts框架,Hibernate框架,Spring框架,javaScript
+java,COM编程,系统设计,mysql数据库,软件测试
+java,JavaEE架构,Struts框架,Hibernate框架,JAVA主流框架,jsp(java服务器页面),servlet,EJB,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,soap,SSH协议,Microsoft Visual C++ 6.0
+java,Struts框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Tomcat,eclipse,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,linux操作系统,UML建模语言,XML技术,面向对象分析,软件工程,C语言,Java Data Base Connectivity,中间件,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,spring mvc框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,cms(Content Management System内容管理系统(网页有关)),Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,spring mvc框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,cms(Content Management System内容管理系统(网页有关)),Microsoft Visual C++ 6.0
+java,jQuery框架,jsp(java服务器页面),css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,SQL Server数据库,Oracle数据库,HTTP传输协议,软件工程,软件项目管理,SSH协议
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),系统设计,Oracle数据库,PL/SQL,Socket编程,软件测试,C语言,Jboss
+java,Struts框架,Spring框架,windows操作系统,linux操作系统,面向对象分析,软件测试
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,EASYUI框架(UI架构),MyBatis框架,Tomcat,eclipse,系统分析,Oracle数据库,UML建模语言,面向对象分析,软件测试,Jboss,SSH协议
+java,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,css层叠样式表,Html,javaScript,mysql数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,面向对象分析,mapreduce(一种编程模型),C语言
+java,jQuery框架,JavaEE架构,jsp(java服务器页面),css层叠样式表,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,多线程,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,XML技术,软件测试,XSLT,中间件
+java,Struts框架,jsp(java服务器页面),servlet,EJB,eclipse,软件测试
+java,Html,多线程,系统设计,分布式
+java,servlet,Memcached,eclipse,mysql数据库,Hbase数据库,TCP/IP编程,linux操作系统,网络编程,python编程,消息队列,HTTP传输协议,svn,Shell语言,熟悉一种脚本语言,Maven(是一个项目管理工具),HBase,protobuf协议
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,linux操作系统,Mongo DB数据库,hadoop(分布式系统基础架构),分布式
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,ant(一种基于Java的build工具),javaScript,多线程,mysql数据库,NoSQL数据库,Socket编程,linux操作系统,unix操作系统,python编程,Db2数据库,软件测试,hadoop(分布式系统基础架构),Maven(是一个项目管理工具),GreenPlum,Hive,Cognos,Solr,Storm
+java,jsp(java服务器页面),servlet,Tomcat,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,ERP(企业资源计划),Android开发,office,C语言,Java Data Base Connectivity,关系型数据库,中间件,Jboss
+java,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,关系型数据库
+jQuery框架,JavaEE架构,Hibernate框架,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,数据库设计,数据库建模,SSH协议
+java,jQuery框架,Spring框架,spring mvc框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Maven(是一个项目管理工具),C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,myEclipse,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,面向对象分析,Db2数据库,sybase数据库,软件工程,C语言,Webservice
+java,Spring框架,Ibatis框架,spring mvc框架,多线程,系统设计,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,TCP/IP编程,面向对象分析,Mongo DB数据库,redis数据库,数据库设计,hadoop(分布式系统基础架构),mapreduce(一种编程模型),netty框架,mina框架,C语言,分布式,HBase,Netty,Microsoft Visual C++ 6.0
+java,Spring框架,Ibatis框架,spring mvc框架,多线程,系统设计,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,TCP/IP编程,linux操作系统,面向对象分析,Mongo DB数据库,redis数据库,软件测试,数据库设计,netty框架,mina框架,C语言,分布式,HBase,Netty,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,photoshop,Dreamweaver,SEO(搜索引擎优化),javaScript,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,Html,eclipse,mysql数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Hibernate框架,Spring框架,spring mvc框架,css层叠样式表,Html,Tomcat,weblogic服务器,jetty服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,svn,软件测试,Maven(是一个项目管理工具),C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,weblogic服务器,eclipse,SQL Server数据库,Oracle数据库,项目实施,C语言,Jboss
+java,JavaEE架构,Struts框架,jsp(java服务器页面),servlet,javabean,SQL Server数据库,Oracle数据库
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,jSon技术
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,jSon技术
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Tomcat,系统设计,mysql数据库,linux操作系统,软件测试,数据库设计
+jQuery框架,css层叠样式表,Html,XHTML,javaScript,COM编程,HTTP传输协议
+java,jsp(java服务器页面),css层叠样式表,Html,javaScript,mysql数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ant(一种基于Java的build工具),javaScript,C语言,DOM
+java,Hbase数据库,Mongo DB数据库,软件测试,hadoop(分布式系统基础架构),分布式,Hadoop分布式文件系统,HBase
+java,jQuery框架,JavaEE架构,jsp(java服务器页面),servlet,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,Oracle数据库,Socket编程,网络编程,jSon技术
+java,jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,Socket编程,网络通信,Android开发,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,mysql数据库,SQL Server数据库,Oracle数据库
+Struts框架,Hibernate框架,Spring框架,Oracle数据库,UML建模语言
+java,myBatis框架,EASYUI框架(UI架构),dwz框架(UI架构),spring mvc框架,MyBatis框架,jsp(java服务器页面),javaScript,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+ERP(企业资源计划),项目实施
+java,JAVA主流框架
+java,Spring框架,myBatis框架,Extjs框架,MyBatis框架,css层叠样式表,Html,photoshop,javaScript,mysql数据库,Oracle数据库,Ubuntu操作系统,CentOS操作系统,Red Hat操作系统,EOS嵌入式操作系统,Db2数据库,软件测试
+java,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,AOP面向切面编程,javaScript
+java,JavaEE架构,mysql数据库
+java,jQuery框架,Spring框架,Ibatis框架,apache,多线程,linux操作系统,XML技术,jSon技术,OOA面向对象分析,OOD面向对象设计,网络通信,hadoop(分布式系统基础架构),关系型数据库
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,C语言,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Tomcat,多线程,linux操作系统,python编程,Shell语言,Perl语言,数据库设计,数据分析,ETL(数据仓库技术),数据结构,JavaSe
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,C语言,关系型数据库,SSH协议
+java,Struts框架,mysql数据库,Oracle数据库
+java,Struts框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,mysql数据库,Oracle数据库,linux操作系统,Db2数据库,软件测试,编写项目规划,软件项目管理,C语言,Jboss
+spring mvc框架,css层叠样式表,Html,javaScript,web后端设计与开发,C语言,Microsoft Visual C++ 6.0
+java,spring mvc框架,javaScript,web后端设计与开发,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,javaScript,DOM
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),Html,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,ant(一种基于Java的build工具),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,XML技术,Db2数据库,Junit,Jboss
+java,JavaEE架构,Struts框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,XML技术,Db2数据库,Maven(是一个项目管理工具),Junit,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,Jboss
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,DWR框架,EASYUI框架(UI架构),css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,sybase数据库
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,jetty服务器,mysql数据库,SQL Server数据库,Oracle数据库,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,cache技术,C语言,Jboss,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,javaScript,Prototype,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,javabean,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,系统分析,mysql数据库,Redis数据库,redis数据库,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,HTTP传输协议,svn,Maven(是一个项目管理工具),Arcgis,Junit,ArcGIS
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,eclipse,ant(一种基于Java的build工具),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,svn,XML技术,数据结构,SSH协议
+java,Spring框架,myBatis框架,MyBatis框架,mysql数据库,Oracle数据库,linux操作系统,网络编程,面向对象分析,Shell语言,ActiveMQ
+java,JavaEE架构,Spring框架,myBatis框架,Extjs框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,Memcached,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,多线程,mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,linux操作系统,HTTP传输协议,面向对象分析,redis数据库,hadoop(分布式系统基础架构),C语言,分布式,Solr,Webservice,zookeeper,RabbitMQ,Java Message Service,Microsoft Visual C++ 6.0,activiti
+jsp(java服务器页面),Html,javaScript,软件测试,JavaSe
+jsp(java服务器页面),Html,javaScript,软件测试,CVS(一种自动测试工具),JavaSe
+java,JavaEE架构,css层叠样式表,Html,rose(UML画图工具),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,软件工程
+java,系统设计,OpenGl图形编程,软件工程
+java,.net,javaScript,系统设计,软件工程,C语言,C++语言
+java,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,C语言
+java,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,XML技术,jSon技术,Db2数据库,并发控制,C语言,Webservice
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,JAVA主流框架,多线程,Socket编程,C语言,WebService,Restful,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,weblogic服务器,websphere服务器,eclipse,javaScript,Oracle数据库,Db2数据库,C语言,Jboss
+java,Struts框架,Spring框架,myEclipse,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,mysql数据库,Oracle数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,myEclipse,css层叠样式表,Html,Tomcat,weblogic服务器,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,软件项目管理,C语言,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,mysql数据库,Oracle数据库,C语言,Arcgis,ArcGIS
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,myEclipse,jsp(java服务器页面),jstl,css层叠样式表,Html,Tomcat,memcache,AJAX(异步的JavaScript与XML技术),eclipse,ant(一种基于Java的build工具),javaScript,系统设计,mysql数据库,Oracle数据库,STL库,UML建模语言,svn,XML技术,面向对象分析,cache技术,Maven(是一个项目管理工具),C语言,Ehcache,Jboss,Standard Template Library,Microsoft Visual C++ 6.0
+java,JavaEE架构,jsp(java服务器页面),servlet,mysql数据库,UML建模语言,XML技术,面向对象分析,软件工程,数据结构,rest
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,weblogic服务器,websphere服务器,eclipse,javaScript,Oracle数据库,Db2数据库,C语言,Jboss
+java,系统分析,软件架构设计,软件工程,软件架构,C语言
+java,JavaEE架构,Struts框架,apache,mysql数据库,Oracle数据库,hadoop(分布式系统基础架构),C语言,Java Data Base Connectivity
+java,C#,Oracle数据库,C语言,C++语言
+java,jQuery框架,spring mvc框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,Memcached,javaScript,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,Mongo DB数据库,redis数据库,软件测试,编写技术方案,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),javabean,rose(UML画图工具),mysql数据库,Oracle数据库,软件测试,C语言,Java Data Base Connectivity,Powerdesigner
+JavaEE架构,Spring框架,系统设计,mysql数据库,Oracle数据库,linux操作系统,UML建模语言,软件工程,数据库设计,分布式
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,memcache,javaScript,windows操作系统,mysql数据库,NoSQL数据库,linux操作系统,cache技术
+java,jQuery框架,Struts框架,Spring框架,Ibatis框架,css层叠样式表,Tomcat,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,Oracle数据库,jSon技术,Webservice
+java,Tomcat,eclipse,mysql数据库,Oracle数据库,linux操作系统,svn,C语言,SSH协议,Microsoft Visual C++ 6.0
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,jsp(java服务器页面),servlet,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,ant(一种基于Java的build工具),javaScript,svn,C语言,Jboss,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Hibernate框架,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,数据库设计,数据库建模,SSH协议
+java,jQuery框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,eclipse,javaScript,mysql数据库,Oracle数据库,linux操作系统,svn,XML技术,软件测试
+java,jsp(java服务器页面),css层叠样式表,Html,eclipse,ant(一种基于Java的build工具),javaScript,GUI编程,mysql数据库,Oracle数据库,linux操作系统,UML建模语言,OOD面向对象设计,Shell语言,Bugzilla(一个开源的缺陷跟踪系统),C语言,postgresql,Junit,Unity
+java,JavaEE架构,系统设计,Oracle数据库,unix操作系统,Db2数据库,Shell语言
+jQuery框架,Struts框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,jsp(java服务器页面),css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,mysql数据库,SQL Server数据库,HTTP传输协议
+java,jQuery框架,bootstrap框架,Struts框架,Hibernate框架,Spring框架,spring mvc框架,Bootstrap框架,jsp(java服务器页面),jstl,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),mysql数据库,SQL Server数据库,STL库,svn,git,CVS(一种自动测试工具),Maven(是一个项目管理工具),Bootstrap(Web前端CSS框架),C语言,bootstrap,Standard Template Library,Microsoft Visual C++ 6.0
+java,jQuery框架,Tomcat,AJAX(异步的JavaScript与XML技术),mysql数据库,SQL Server数据库,SSH协议
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,软件测试,数据库设计
+java,servlet,Html,javaScript,Oracle数据库,XML技术,软件测试,软件工程
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myEclipse,AJAX(异步的JavaScript与XML技术),eclipse,mysql数据库,cms(Content Management System内容管理系统(网页有关))
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,DWR框架,Extjs框架,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,Prototype
+java,多线程,mysql数据库,Oracle数据库,网络通信,分布式,中间件
+jQuery框架,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Tomcat,weblogic服务器,websphere服务器,eclipse,mysql数据库,Oracle数据库,Db2数据库,软件测试,软件工程,C语言,Jboss,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Tomcat,weblogic服务器,websphere服务器,eclipse,mysql数据库,Oracle数据库,Db2数据库,软件工程,C语言,Jboss,Microsoft Visual C++ 6.0
+JavaEE架构,jsp(java服务器页面),servlet,EJB,SQL Server数据库,Oracle数据库,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,Tomcat,javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+java,多线程,系统分析,软件工程
+java,Struts框架,Hibernate框架,Ibatis框架,Tomcat,.net,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,HTTP传输协议,面向对象分析,C语言,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Spring框架,Oracle数据库,Db2数据库,WebService
+java,Spring框架,myBatis框架,MyBatis框架,servlet,Html,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,git,软件测试,SOA,Java Message Service
+java,JavaEE架构,Struts框架,Spring框架,Oracle数据库,TCP/IP编程,Db2数据库,WebService
+java,Tomcat,weblogic服务器,多线程,系统设计,mysql数据库,Hbase数据库,linux操作系统,软件测试,熟悉一种脚本语言,hadoop(分布式系统基础架构),C语言,分布式,HBase,Jboss
+系统设计,面向对象分析
+java,jQuery框架,Struts框架,Spring框架,css层叠样式表,Html,Tomcat,weblogic服务器,eclipse,javaScript,系统设计,Oracle数据库,Android开发,软件测试,软件工程,C语言,Microsoft Visual C++ 6.0
+java,多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,python编程,UML建模语言,网络通信,Shell语言,熟悉一种脚本语言,mina框架,C语言,Webservice
+java,mysql数据库,面向对象分析,数据结构,SSH协议
+java,Struts框架,Hibernate框架,Spring框架,JAVA主流框架,jsp(java服务器页面),Html,linux操作系统,XML技术,软件测试,Webservice
+java,Spring框架,myBatis框架,MyBatis框架,servlet,Html,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,git,软件测试,SOA,Java Message Service
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EJB,Tomcat,weblogic服务器,websphere服务器,Oracle数据库,C语言,Webservice,SOA,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,SQL Server数据库,Oracle数据库,OOD面向对象设计,面向对象分析,数据库设计,分布式,数据库建模,Webservice,中间件
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,photoshop,javaScript,SQL Server数据库,Db2数据库,软件测试,C语言,中间件
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myEclipse,Html,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,XML技术,数据库建模
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,myEclipse,css层叠样式表,Html,apache,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),eclipse,Microsoft Office Visio,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,面向对象分析,软件测试,数据库设计,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,mysql数据库,SQL Server数据库,Oracle数据库,sybase数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件工程
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,软件工程,C语言,Jboss
+系统设计
+java,Struts框架,Spring框架,Ibatis框架,weblogic服务器,mysql数据库,Oracle数据库,C语言,中间件,Jboss
+java,Struts框架,Spring框架,Ibatis框架,weblogic服务器,mysql数据库,Oracle数据库,C语言,中间件,Jboss
+java,Struts框架,Spring框架,Ibatis框架,weblogic服务器,mysql数据库,Oracle数据库,C语言,中间件,Jboss
+css层叠样式表,Html,javaScript,C语言,C++语言
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,OpenGl图形编程,HTTP传输协议,面向对象分析,Prototype,Android开发,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,C语言,C++语言,数据挖掘,Hive,soap,rest,Jboss,cocos2d-x,cocos2d,Unity
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,OpenGl图形编程,HTTP传输协议,面向对象分析,Prototype,Android开发,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,C语言,C++语言,数据挖掘,Hive,soap,rest,Jboss,cocos2d-x,cocos2d,Unity
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,OpenGl图形编程,HTTP传输协议,面向对象分析,Prototype,Android开发,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,C语言,C++语言,数据挖掘,Hive,soap,rest,Jboss,cocos2d-x,cocos2d,Unity
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,OpenGl图形编程,HTTP传输协议,面向对象分析,Prototype,Android开发,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,C语言,C++语言,数据挖掘,Hive,soap,rest,Jboss,cocos2d-x,cocos2d,Unity
+java,jQuery框架,JavaEE架构,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,OpenGl图形编程,HTTP传输协议,面向对象分析,Prototype,Android开发,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,C语言,C++语言,数据挖掘,Hive,soap,rest,Jboss,cocos2d-x,cocos2d,Unity
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,Tomcat,photoshop,javaScript,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,软件项目管理,C语言,C++语言,中间件,Jboss
+java,Struts框架,Hibernate框架,Spring框架,weblogic服务器,websphere服务器,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,C语言
+java,jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),DHTML,javaScript,mysql数据库,Oracle数据库,XML技术,软件测试,数据结构,关系型数据库,XSLT
+java,系统设计
+Struts框架,Hibernate框架,Spring框架,weblogic服务器,eclipse,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,软件测试,CVS(一种自动测试工具),C语言
+java,jQuery框架,Html,AJAX(异步的JavaScript与XML技术)
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),javaScript,Oracle数据库,PL/SQL,XML技术,Db2数据库
+java,JavaEE架构,javaScript,Oracle数据库,sybase数据库
+java,JavaEE架构,Oracle数据库,面向对象分析,ERP(企业资源计划)
+java,jQuery框架,bootstrap框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Bootstrap框架,css层叠样式表,Html,ORM对象关系映射,系统设计,cache技术,Bootstrap(Web前端CSS框架),C语言,bootstrap,Restful,Microsoft Visual C++ 6.0,JBPM,activiti
+java,linux操作系统,熟悉一种脚本语言,分布式
+java,JavaEE架构,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,sybase数据库,软件测试
+java,JavaEE架构,Hibernate框架,Spring框架,Tomcat,eclipse,系统设计,软件测试,数据库设计,编写技术方案,Jboss
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,mysql数据库,linux操作系统,数据结构,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,mysql数据库,Oracle数据库,Hbase数据库,hadoop(分布式系统基础架构),HBase,Java Message Service
+java,多线程,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,网络编程,HTTP传输协议,软件测试,C语言,soap,中间件
+java,jQuery框架,Jsf框架,spring mvc框架,Html,javaScript,mysql数据库,面向对象分析,数据分析,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,mysql数据库,linux操作系统,unix操作系统,cache技术,Android开发,软件测试,数据结构,关系型数据库
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,AJAX(异步的JavaScript与XML技术),mysql数据库,NoSQL数据库,Redis数据库,Mongo DB数据库,redis数据库,软件测试,数据库设计,Maven(是一个项目管理工具),C语言,分布式,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,系统设计,系统分析,mysql数据库,Oracle数据库,面向对象分析,C语言,Jboss
+软件项目管理,项目实施
+java,jQuery框架,Struts框架,Spring框架,Extjs框架,spring mvc框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Photoshop,eclipse,javaScript,美工设计,fireworks,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,C语言,数据挖掘,SSH协议
+java,JavaEE架构,myEclipse,jsp(java服务器页面),css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),DHTML,eclipse,javaScript,Oracle数据库,svn,XML技术,软件测试,C语言
+java,jQuery框架,Struts框架,Spring框架,Extjs框架,spring mvc框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Photoshop,eclipse,javaScript,美工设计,fireworks,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,myEclipse,jsp(java服务器页面),css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),DHTML,eclipse,javaScript,Oracle数据库,svn,XML技术,软件测试,C语言
+java,JavaEE架构,JavaEE开发,多线程,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,软件项目管理
+java,JavaEE架构,rose(UML画图工具),OOA面向对象分析,OOD面向对象设计,面向对象分析,Db2数据库,软件项目管理,Powerdesigner
+java,JavaEE架构,Hibernate框架,Spring框架,Tomcat,eclipse,系统设计,软件测试,数据库设计,编写技术方案,Jboss
+java,jQuery框架,jsp(java服务器页面),servlet,css层叠样式表,Html,photoshop,javaScript
+java,Tomcat,weblogic服务器,websphere服务器,mysql数据库,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,C语言,SSH协议
+java,mysql数据库,消息队列,面向对象分析,并发控制,数据库设计,分布式,SOA
+java,JavaEE架构,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,sybase数据库,软件项目管理,Webservice
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,eclipse,ant(一种基于Java的build工具),mysql数据库,SQL Server数据库,linux操作系统,svn,cache技术,数据库设计
+java,SSH协议
+java,jQuery框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统设计,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,CVS(一种自动测试工具),C语言
+java,Html,AJAX(异步的JavaScript与XML技术),javaScript,jSon技术,数据结构
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,数据库理论和应用,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,javaScript,软件测试,C语言,Microsoft Visual C++ 6.0
+mysql数据库,Oracle数据库,Db2数据库,软件项目管理
+java,jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,面向对象分析,软件项目管理
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,OOD面向对象设计,sybase数据库,C语言,Webservice,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),软件测试,C语言,Microsoft Visual C++ 6.0
+java,多线程,系统设计,Oracle数据库,NoSQL数据库,Hbase数据库,TCP/IP编程,Socket编程,linux操作系统,网络通信,软件测试,hadoop(分布式系统基础架构),软件项目管理,分布式,HBase,Hive,关系型数据库
+java,.net
+java,JavaEE架构,.net
+java,Spring框架,JAVA主流框架,css层叠样式表,Html,javaScript,Oracle数据库,NoSQL数据库,Mongo DB数据库,C语言,Solr,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,jsp(java服务器页面),servlet,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,ORM对象关系映射,C#,面向对象分析,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,Spring框架,spring mvc框架,mysql数据库,NoSQL数据库,linux操作系统,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,WebService,Jboss
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,WebService,Jboss
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,WebService,Jboss
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,WebService,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,javaScript,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,linux操作系统,XML技术,jSon技术,面向对象分析
+JavaEE架构,Spring框架,spring mvc框架,mysql数据库,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,SSH协议
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,jSon技术,面向对象分析,C语言,Microsoft Visual C++ 6.0,DOM
+java,Hibernate框架,jsp(java服务器页面),javaScript,Oracle数据库,unix操作系统
+java,Photoshop,eclipse,javaScript,Flash,Adobe Illustrator(AI)
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,myEclipse,Tomcat,weblogic服务器,eclipse,ant(一种基于Java的build工具),多线程,系统分析,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,HTTP传输协议,svn,XML技术,面向对象分析,软件测试,CVS(一种自动测试工具),C语言,Junit,Jboss
+java,JavaEE架构,JavaEE开发,Struts框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,servlet,IOC控制反转,Oracle数据库,UML建模语言,软件测试,软件工程,软件项目管理,C语言,Java Data Base Connectivity,关系型数据库,Webservice,中间件,Jboss,Microsoft Visual C++ 6.0
+java,myEclipse,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,C#,.net,javaScript,Oracle数据库,网络编程,XML技术,C语言
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,apache,ORM对象关系映射,AOP面向切面编程,IOC控制反转,多线程,TCP/IP编程,Socket编程,HTTP传输协议,软件测试,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,AJAX(异步的JavaScript与XML技术),javaScript
+java,JavaEE架构,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+java,JavaEE架构,Struts框架,jsp(java服务器页面),servlet,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,系统分析,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,linux操作系统,XML技术,面向对象分析,数据库设计,数据结构
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,AOP面向切面编程,IOC控制反转,javaScript,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Html,php,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,postgresql
+java,JavaEE架构,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Html,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,windows操作系统,mysql数据库,SQL Server数据库,Socket编程,linux操作系统,office
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,ant(一种基于Java的build工具),多线程,mysql数据库,Oracle数据库,Socket编程,XML技术,JMeter(一个测试软件的工具),Maven(是一个项目管理工具),CXF,C语言,Java Data Base Connectivity,Junit,zookeeper,Restful
+java,Spring框架,jsp(java服务器页面),weblogic服务器,websphere服务器,javaScript,mysql数据库,Oracle数据库,PL/SQL,C语言,中间件,Jboss
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,jSon技术,软件测试,hadoop(分布式系统基础架构),分布式
+java,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,python编程,面向对象分析,软件测试,Shell语言,Perl语言,软件工程,熟悉一种脚本语言,数据库设计,C语言,C++语言,postgresql,ruby
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,javaScript,多线程,mysql数据库,linux操作系统,软件测试
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,ant(一种基于Java的build工具),多线程,mysql数据库,Oracle数据库,Socket编程,XML技术,JMeter(一个测试软件的工具),Maven(是一个项目管理工具),CXF,C语言,Java Data Base Connectivity,Junit,zookeeper,Restful
+java,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Html,多线程,mysql数据库,Oracle数据库,XML技术,C语言,Java Data Base Connectivity
+java,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,ORM对象关系映射,ant(一种基于Java的build工具),多线程,mysql数据库,Oracle数据库,Socket编程,XML技术,JMeter(一个测试软件的工具),Maven(是一个项目管理工具),CXF,C语言,Java Data Base Connectivity,Junit,zookeeper,Restful
+java,jQuery框架,bootstrap框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,EASYUI框架(UI架构),MyBatis框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,ant(一种基于Java的build工具),javaScript,多线程,mysql数据库,Oracle数据库,Socket编程,XML技术,JMeter(一个测试软件的工具),Maven(是一个项目管理工具),Bootstrap(Web前端CSS框架),C语言,Java Data Base Connectivity,bootstrap,Junit,Restful
+java,JavaEE架构,jsp(java服务器页面),EJB,mysql数据库,软件项目管理,C语言,Java Data Base Connectivity,ActiveMQ,中间件,Jboss,Java Message Service
+java,Struts框架,Hibernate框架,Spring框架,mysql数据库,SQL Server数据库,Oracle数据库
+java,JavaEE开发,多线程,mysql数据库,Oracle数据库,分布式
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,Oracle数据库,HTTP传输协议,XML技术,jSon技术
+java,Memcached,多线程,系统分析,Redis数据库,redis数据库,分布式
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术
+java,AOP面向切面编程,多线程,系统设计,mysql数据库,linux操作系统,编写项目规划,C语言,分布式,数据挖掘,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,svn,XML技术,中间件
+软件测试,软件工程
+java,jsp(java服务器页面),css层叠样式表,javaScript,Oracle数据库,PL/SQL,Shell语言
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,spring mvc框架,jsp(java服务器页面),ORM对象关系映射,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Spring框架,css层叠样式表,Html,ORM对象关系映射,eclipse,ant(一种基于Java的build工具),.net,javaScript,jSon技术,OOD面向对象设计,Maven(是一个项目管理工具),office,C语言,WebService,Junit,SOA,SSH协议
+java,JavaEE架构,Memcached,多线程,系统分析,Hbase数据库,Redis数据库,redis数据库,软件项目管理,分布式,HBase
+java,JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,linux操作系统,面向对象分析,Junit
+java,JavaEE架构,C#,mysql数据库,Oracle数据库,sybase数据库,C语言
+java,jQuery框架,Struts框架,Spring框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,linux操作系统,面向对象分析,软件测试,数据库设计,数据结构
+java,jQuery框架,JavaEE架构,myEclipse,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,XML技术,软件测试,soap,Java Message Service
+java,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,javaScript,mysql数据库,Redis数据库,linux操作系统,unix操作系统,svn,redis数据库,软件测试,Maven(是一个项目管理工具),SSH协议
+java,JavaEE架构,Html,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,软件工程,数据库理论和应用,分布式
+java,jQuery框架,JavaEE架构,jsp(java服务器页面),javabean,EJB,Tomcat,mysql数据库,Oracle数据库,xmpp协议,OOD面向对象设计,面向对象分析,Jboss,SSH协议
+JavaEE架构,Hibernate框架,Spring框架,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,Hibernate框架,Spring框架,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,Hibernate框架,Spring框架,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,数据库设计,软件项目管理,project,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,ORM对象关系映射,mysql数据库,面向对象分析
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),系统设计,SQL Server数据库,Oracle数据库,git,面向对象分析,编写技术方案,C语言,Jboss
+java,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,javaScript,mysql数据库,Redis数据库,linux操作系统,unix操作系统,svn,redis数据库,软件测试,Maven(是一个项目管理工具),Solr,SSH协议
+java,windows操作系统,TCP/IP编程,unix操作系统,HTTP传输协议,面向对象分析,软件测试,软件工程,数据结构
+jQuery框架,ORM对象关系映射,netty框架,Netty,Storm,SSH协议
+JavaEE架构,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,javaScript,mysql数据库,Oracle数据库,C语言,SOA,Jboss,SSH协议
+java,Hibernate框架,Spring框架,spring mvc框架,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,jsp(java服务器页面),css层叠样式表,Html,javaScript,Oracle数据库,C语言
+软件项目管理,C语言
+java,jQuery框架,JavaEE架构,Struts框架,jsp(java服务器页面),css层叠样式表,Html,javaScript,Oracle数据库,C语言
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库
+java,jQuery框架,Struts框架,Hibernate框架,jsp(java服务器页面),servlet,css层叠样式表,Html,weblogic服务器,websphere服务器,javaScript,系统设计,Oracle数据库,svn,XML技术,面向对象分析,软件测试,CVS(一种自动测试工具),数据库理论和应用,数据结构,C语言,中间件
+java,JavaEE架构,myEclipse,jsp(java服务器页面),EJB,apache,Tomcat,eclipse,Oracle数据库,UML建模语言,svn,XML技术,面向对象分析,CVS(一种自动测试工具),数据结构,软件项目管理,C语言,Java Data Base Connectivity,WebService,Java Message Service
+java,css层叠样式表,Html,javaScript,数据库设计,SSH协议
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,jSon技术,Mongo DB数据库,redis数据库,ETL(数据仓库技术),Cassandra数据库
+Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,eclipse,javaScript,linux操作系统,OOD面向对象设计,软件测试,软件工程
+java,多线程,TCP/IP编程,Socket编程,HTTP传输协议,jSon技术,面向对象分析,Android SDK,Android开发
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,websphere服务器,多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,网络通信,Shell语言,数据结构,C语言,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,dwz框架(UI架构),jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,jetty服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,jSon技术,OOA面向对象分析,OOD面向对象设计,sybase数据库,C语言,Java Data Base Connectivity,Jboss
+java,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,Db2数据库
+Oracle数据库,软件工程
+java,Spring框架,myBatis框架,MyBatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,软件测试
+java,jQuery框架,css层叠样式表,Html,Tomcat,eclipse,javaScript,mysql数据库,Oracle数据库,linux操作系统
+java,jsp(java服务器页面),servlet,Html,Tomcat,weblogic服务器,eclipse,ant(一种基于Java的build工具),windows操作系统,TCP/IP编程,unix操作系统,HTTP传输协议,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,websphere服务器,mysql数据库,Oracle数据库,C语言,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,HTTP传输协议,svn,数据库设计,Maven(是一个项目管理工具),Junit
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,apache,Nginx,jetty服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),系统设计,系统分析,mysql数据库,TCP/IP编程,linux操作系统,python编程,消息队列,软件架构设计,Shell语言,软件架构,数据结构
+java,JavaEE架构,Spring框架,JAVA主流框架,系统设计,mysql数据库,NoSQL数据库,linux操作系统,netty框架,Maven(是一个项目管理工具),关系型数据库,Netty
+Struts框架,Hibernate框架,Spring框架,mysql数据库,SQL Server数据库,Oracle数据库,软件工程
+java,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,javaScript,Oracle数据库,Db2数据库,软件工程,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,AJAX(异步的JavaScript与XML技术),多线程,系统设计,mysql数据库,Oracle数据库,XML技术,jSon技术,数据库设计
+java,JavaEE架构,css层叠样式表,Html,windows操作系统,linux操作系统,软件测试,Shell语言,软件工程,数据结构
+java,JavaEE架构,linux操作系统,软件工程,数据结构
+java,Oracle数据库,linux操作系统,unix操作系统,关系型数据库,SSH协议
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,COM编程,SQL Server数据库,Oracle数据库
+java,jQuery框架,jsp(java服务器页面),servlet,Html,DHTML,eclipse,javaScript,COM编程,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,软件工程,数据结构,C语言,Online Analytical Processing,Java Data Base Connectivity,关系型数据库
+java,JavaEE架构,Spring框架,eclipse,Oracle数据库,sybase数据库,软件测试
+Spring框架,多线程,NoSQL数据库,Hbase数据库,消息队列,hadoop(分布式系统基础架构),Maven(是一个项目管理工具),分布式,HBase,Gradle
+java,jQuery框架,Struts框架,Hibernate框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,软件测试,项目实施,SSH协议
+Spring框架,jsp(java服务器页面),servlet,Html,Tomcat,javaScript,linux操作系统,HTTP传输协议,XML技术,面向对象分析,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,Oracle数据库,C语言,C++语言
+jQuery框架,Struts框架,Spring框架,spring mvc框架,Html,AJAX(异步的JavaScript与XML技术),Oracle数据库,Maven(是一个项目管理工具),C语言,Webservice,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,myEclipse,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,ant(一种基于Java的build工具),javaScript,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,HTTP传输协议,svn,网络通信,软件测试,Maven(是一个项目管理工具)
+java,JavaEE架构,javaScript,系统分析,mysql数据库,linux操作系统,面向对象分析,软件测试,Shell语言,postgresql,关系型数据库
+java
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,photoshop,eclipse,javaScript,多线程,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,unix操作系统,svn,软件测试,CVS(一种自动测试工具),CXF
+java
+java,jQuery框架,Struts框架,Spring框架,Html,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Webservice,Restful
+java,eclipse,面向对象分析
+JavaEE架构,Struts框架,Hibernate框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,多线程,Oracle数据库,PL/SQL,Socket编程,XML技术,软件项目管理,C语言,Java Data Base Connectivity,中间件
+jQuery框架,Spring框架,spring mvc框架,Html,Tomcat,weblogic服务器,eclipse,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0,jQuery Mobile
+java,NoSQL数据库,软件架构设计,软件测试,软件架构,数据结构,分布式
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),EJB,css层叠样式表,Html,.net,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+java,mysql数据库,linux操作系统,分布式
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,javaScript,多线程,mysql数据库
+java,多线程,系统设计,面向对象分析
+java,jQuery框架,Struts框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Oracle数据库
+java,jQuery框架,JavaEE架构,Hibernate框架,myBatis框架,EASYUI框架(UI架构),spring mvc框架,MyBatis框架,Tomcat,weblogic服务器,Microsoft Office Visio,javaScript,系统设计,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,面向对象分析,软件测试,软件工程,Flash,C语言,分布式,Powerdesigner,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),系统设计,Oracle数据库,PL/SQL,linux操作系统,UML建模语言,svn,XML技术,面向对象分析,软件测试,软件项目管理,CXF,分布式,Powerdesigner,Junit,gdb,GDB
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,DWR框架,MyBatis框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,Jboss
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),面向对象分析,软件测试,软件工程,编写技术方案,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,Spring框架,Tomcat,jetty服务器,eclipse,javaScript,mysql数据库,Oracle数据库,面向对象分析,软件测试,C语言,Java Data Base Connectivity
+jQuery框架,Extjs框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,C语言
+java,jsp(java服务器页面),css层叠样式表,javaScript,Oracle数据库,PL/SQL,Shell语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Jsf框架,spring mvc框架,apache,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Android开发,C语言,Jboss,SSH协议,Microsoft Visual C++ 6.0
+java
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,MyBatis框架,myEclipse,jsp(java服务器页面),servlet,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,svn,软件测试,Maven(是一个项目管理工具),CXF,C语言,Webservice,JBPM
+java,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,EJB,ORM对象关系映射,Oracle数据库,XML技术,面向对象分析,软件测试,C语言,中间件,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,Dreamweaver,javaScript,软件测试,Flash,C语言,DOM
+java,jsp(java服务器页面),css层叠样式表,javaScript,Oracle数据库,PL/SQL,Shell语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,myEclipse,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,eclipse,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,svn,C语言,Jboss,SSH协议
+java,jQuery框架,Struts框架,Spring框架,css层叠样式表,Html,eclipse,C#,.net,多线程,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,svn,Android SDK,ERP(企业资源计划),网络通信,Android开发,软件工程,C语言,关系型数据库,Windows Communication Foundation,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,eclipse,javaScript,Oracle数据库,XML技术,ERP(企业资源计划)
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,MyBatis框架,jsp(java服务器页面),servlet,Tomcat,javaScript,mysql数据库,Oracle数据库,Prototype,软件测试,C语言,Java Data Base Connectivity,Jboss,Java Message Service
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,jSon技术,面向对象分析,Webservice
+java,Struts框架,Hibernate框架
+java,jsp(java服务器页面),servlet,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+spring mvc框架,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,软件架构设计,软件测试,软件工程,软件架构,office,project,C语言,Arcgis,ArcGIS,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),EJB,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),photoshop,Oracle数据库,EOS嵌入式操作系统,UML建模语言,XML技术,面向对象分析,C语言,Java Data Base Connectivity,Jboss,SSH协议
+java,jQuery框架,JavaEE架构,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,面向对象分析,数据库设计,SSH协议
+java,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,Tomcat,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,Redis数据库,PL/SQL,UML建模语言,svn,OOD面向对象设计,Mongo DB数据库,redis数据库,hadoop(分布式系统基础架构),Maven(是一个项目管理工具),C语言,分布式,HBase,Hive,Jboss,Microsoft Visual C++ 6.0
+java,系统分析,SSH协议
+java,JavaEE架构,多线程,mysql数据库,Oracle数据库,Socket编程,linux操作系统,python编程,Shell语言,软件测试,熟悉一种脚本语言
+java,JavaEE架构,Spring框架,apache,Tomcat,mysql数据库,Oracle数据库,unix操作系统,分布式,中间件,Jboss
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,AOP面向切面编程,IOC控制反转,javaScript,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,git,UDP,TCP/UDP,编写项目规划,项目实施,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),css层叠样式表,Html,Tomcat,weblogic服务器,Memcached,AJAX(异步的JavaScript与XML技术),javaScript,Redis数据库,redis数据库,C语言,Jedis,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,mysql数据库,Oracle数据库
+java,JavaEE架构,Struts框架,Spring框架,apache,Tomcat,mysql数据库,OOA面向对象分析,OOD面向对象设计,面向对象分析,hadoop(分布式系统基础架构),数据分析,项目实施,分布式,数据挖掘,中间件,Jboss
+java,JavaEE架构,Spring框架,apache,Tomcat,mysql数据库,Oracle数据库,分布式,中间件,Jboss
+java,软件测试,SSH协议
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),javabean,EJB,AJAX(异步的JavaScript与XML技术),SQL Server数据库,Oracle数据库,Db2数据库
+css层叠样式表,Html,javaScript
+java,.net,面向对象分析,SSH协议
+java,JavaEE架构,Tomcat,weblogic服务器,websphere服务器,Oracle数据库,Db2数据库,C语言,SSH协议
+Struts框架,Hibernate框架,Spring框架,mysql数据库,Oracle数据库,PL/SQL,面向对象分析
+java,JavaEE架构,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+软件测试
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),Oracle数据库,linux操作系统,unix操作系统,svn,vss,XML技术,OOA面向对象分析,OOD面向对象设计,JavaSe,Junit,soap,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Tomcat,weblogic服务器,SQL Server数据库,Oracle数据库,Db2数据库,C语言,关系型数据库,Jboss,SSH协议
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,JAVA主流框架,javaScript,多线程,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,面向对象分析,CXF,C语言,WebService,rest,Microsoft Visual C++ 6.0
+java,Spring框架,javaScript,gdb,GDB
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,mysql数据库,SQL Server数据库,Oracle数据库,sqlite数据库
+java,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,Tomcat,javaScript,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,C语言,关系型数据库,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,jsp(java服务器页面),EJB,eclipse,系统分析,XML技术,Webservice
+java,JavaEE开发,多线程,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,面向对象分析,数据结构,分布式
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,spring mvc框架,css层叠样式表,Html,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,软件工程,C语言,中间件,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,XML技术,面向对象分析,Android开发,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,XHTML,javaScript,mysql数据库,linux操作系统
+java,JavaEE架构,jsp(java服务器页面),servlet,Html,weblogic服务器,websphere服务器,javaScript,Oracle数据库,C语言,关系型数据库,Webservice
+jQuery框架,spring mvc框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,Db2数据库,数据库设计,软件项目管理,软件文档写作,C语言,中间件,SSH协议,Microsoft Visual C++ 6.0
+css层叠样式表,Html,.net,javaScript,多线程,COM编程,TCP/IP编程,HTTP传输协议,分布式,SOA,SSH协议
+jQuery框架,Struts框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,Memcached,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,javaScript,多线程,COM编程,NoSQL数据库,Socket编程,linux操作系统,unix操作系统,HTTP传输协议,XML技术,软件测试,数据库设计,Maven(是一个项目管理工具),C语言,分布式,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,weblogic服务器,websphere服务器,多线程,网络编程,HTTP传输协议,XML技术,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,Db2数据库,软件测试,关系型数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,Db2数据库,软件测试,关系型数据库
+java,多线程,HTTP传输协议,Android开发
+java,Extjs框架,EASYUI框架(UI架构),jsp(java服务器页面),servlet,javaScript,多线程,Socket编程,XML技术,软件测试,数据结构,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,JavaEE架构,Hibernate框架,Spring框架,Extjs框架,servlet,css层叠样式表,Html,javaScript,XML技术,OOD面向对象设计,软件测试,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,eclipse,mysql数据库,linux操作系统,git,面向对象分析,Mongo DB数据库,软件测试,Shell语言,Maven(是一个项目管理工具),分布式
+java,JavaEE架构,数据结构
+java,css层叠样式表,Html,javaScript,mysql数据库,Oracle数据库,数据库设计
+java,.net
+java,JavaEE架构,jsp(java服务器页面),servlet,EJB,linux操作系统,软件测试,软件工程,软件项目管理,C语言,Java Data Base Connectivity,Java Message Service
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),javabean,Oracle数据库,软件测试,编写项目规划,项目实施,C语言,Java Data Base Connectivity
+java,Struts框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Db2数据库,C语言,Webservice,中间件,Microsoft Visual C++ 6.0
+java,jQuery框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,XML技术,jSon技术,C语言,分布式,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),photoshop,javaScript,多线程,Oracle数据库,PL/SQL,Socket编程,XML技术,软件项目管理,C语言,Java Data Base Connectivity,中间件
+java,bootstrap框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Bootstrap框架,Bootstrap(Web前端CSS框架),C语言,bootstrap,Microsoft Visual C++ 6.0
+Struts框架,Hibernate框架,Spring框架,Oracle数据库,UML建模语言,Enterprise Service Bus,SOA
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,weblogic服务器,websphere服务器,eclipse,SQL Server数据库,Oracle数据库,svn,CVS(一种自动测试工具),C语言,Jboss
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,Oracle数据库,XML技术
+java,jQuery框架,bootstrap框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Bootstrap框架,css层叠样式表,Html,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),XHTML,rose(UML画图工具),javaScript,Oracle数据库,UML建模语言,XML技术,软件测试,Bootstrap(Web前端CSS框架),C语言,Powerdesigner,bootstrap,Microsoft Visual C++ 6.0,JBPM
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件测试
+java,jQuery框架,JavaEE架构,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,Android开发,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,Android开发,C语言,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,XML技术,面向对象分析,C语言,Webservice,Jboss,Microsoft Visual C++ 6.0
+JavaEE架构,多线程,TCP/IP编程,Socket编程,OOA面向对象分析,OOD面向对象设计
+java,JavaEE架构,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,系统分析,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,XML技术,面向对象分析,Android开发,软件工程,数据库设计,Webservice
+Struts框架,Spring框架,Ibatis框架,eclipse
+Struts框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,eclipse,mysql数据库,SQL Server数据库,Oracle数据库,C语言,中间件
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,dwz框架(UI架构),photoshop,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,关系型数据库
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,面向对象分析,ERP(企业资源计划),软件架构设计,软件工程,软件架构,Webservice
+java,JavaEE架构,Struts框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,jstl,css层叠样式表,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,STL库,svn,XML技术,jSon技术,数据库设计,C语言,Jboss,Standard Template Library,Microsoft Visual C++ 6.0,DOM
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Redis数据库,linux操作系统,unix操作系统,svn,Mongo DB数据库,redis数据库,软件测试,CVS(一种自动测试工具),ActiveMQ
+java,jQuery框架,JavaEE架构,Ibatis框架,Extjs框架,jsp(java服务器页面),javaScript,mysql数据库,Oracle数据库,linux操作系统,C语言,Webservice,Microsoft Visual C++ 6.0
+java
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,eclipse,系统设计,软件测试
+Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,C语言,Jboss
+java,css层叠样式表,javaScript,系统分析,mysql数据库,XML技术
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Html,mysql数据库,Oracle数据库,PL/SQL,linux操作系统,面向对象分析,软件测试
+java,jQuery框架,AJAX(异步的JavaScript与XML技术),SSH协议
+java,jQuery框架,css层叠样式表,Html,javaScript,Hbase数据库,linux操作系统,XML技术,Shell语言,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,HBase,Hive
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,javaScript,Oracle数据库,PL/SQL,hadoop(分布式系统基础架构),分布式
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Tomcat,javaScript,mysql数据库,Oracle数据库,Jboss
+jQuery框架,JavaEE架构,Extjs框架,jsp(java服务器页面),servlet,javabean,AJAX(异步的JavaScript与XML技术),javaScript,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Socket编程,linux操作系统,HTTP传输协议,XML技术,C语言,中间件,Jboss,SSH协议
+java,Struts框架,Hibernate框架,Spring框架,mysql数据库,SQL Server数据库,软件架构设计,软件架构,数据库设计,C语言,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Spring框架,jsp(java服务器页面),Html,Tomcat,memcache,AOP面向切面编程,IOC控制反转,javaScript,系统设计,mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,linux操作系统,OOD面向对象设计,redis数据库,cache技术,软件测试,数据库设计,C语言,Java Data Base Connectivity
+java,jQuery框架,JavaEE架构,Extjs框架,css层叠样式表,Html,Tomcat,weblogic服务器,eclipse,ant(一种基于Java的build工具),.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,软件测试,Maven(是一个项目管理工具),C语言,Arcgis,rest,SOA,ArcGIS,Microsoft Visual C++ 6.0
+java,jQuery框架,bootstrap框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Bootstrap框架,Html,AOP面向切面编程,IOC控制反转,多线程,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,UML建模语言,HTTP传输协议,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件工程,Maven(是一个项目管理工具),数据结构,Bootstrap(Web前端CSS框架),C语言,Webservice,bootstrap,SOA,Java Message Service,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,myEclipse,EJB,Tomcat,eclipse,javaScript,系统分析,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,svn,软件测试,CVS(一种自动测试工具),Teradata数据仓库,关系型数据库,Jboss,SSH协议
+java,软件工程
+java,Spring框架,spring mvc框架,eclipse,多线程,mysql数据库,svn,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,TCP/IP编程,UML建模语言,面向对象分析,软件工程,编写技术方案
+java,jQuery框架,JavaEE架构,Extjs框架,javaScript,SSH协议
+java,jQuery框架,JavaEE架构,Extjs框架,javaScript,面向对象分析,SSH协议
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),EJB,Tomcat,mysql数据库,Oracle数据库,XML技术,C语言,Java Data Base Connectivity,Webservice,Jboss,Java Message Service
+java,Struts框架,Hibernate框架,Spring框架,JAVA主流框架,jsp(java服务器页面),servlet,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Android开发,数据库设计
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,Html,Tomcat,javaScript,SQL Server数据库,Oracle数据库,OOA面向对象分析,OOD面向对象设计
+java,JavaEE架构,Struts框架,Spring框架,多线程,mysql数据库,linux操作系统,UML建模语言,Shell语言,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,多线程,Oracle数据库,PL/SQL,Socket编程,XML技术,jSon技术
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,EASYUI框架(UI架构),Tomcat,Microsoft Office Visio,javaScript,系统分析,Oracle数据库,PL/SQL,ERP(企业资源计划),Powerdesigner,Webservice,JBPM
+java,jQuery框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,AJAX(异步的JavaScript与XML技术),javaScript,软件测试
+java,JavaEE架构,Struts框架,Spring框架,Html,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,XML技术
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,javaScript,多线程,Socket编程,网络编程,UML建模语言,Db2数据库,熟悉一种脚本语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Jsf框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,Oracle数据库,PL/SQL,XML技术,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,系统设计,系统分析,mysql数据库,Oracle数据库,XML技术,软件测试,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,spring mvc框架,css层叠样式表,Html,Tomcat,jetty服务器,SEO(搜索引擎优化),ant(一种基于Java的build工具),javaScript,mysql数据库,Oracle数据库,svn,git,面向对象分析,Mongo DB数据库,软件测试,hadoop(分布式系统基础架构),Maven(是一个项目管理工具),数据结构,C语言,ActiveMQ,Junit,Gradle,Microsoft Visual C++ 6.0,activiti
+java
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,javaScript,mysql数据库,Oracle数据库,HTTP传输协议,jSon技术,Db2数据库,数据库设计,软件项目管理,SSH协议
+java,ERP(企业资源计划),软件项目管理
+java,jQuery框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),jstl,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,STL库,软件项目管理,C语言,Standard Template Library,Microsoft Visual C++ 6.0
+java
+java,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,mysql数据库,linux操作系统,软件测试,C语言
+java,Struts框架,Spring框架,jsp(java服务器页面),Html,javaScript,Oracle数据库,XML技术
+java,jQuery框架,Hibernate框架,Spring框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,面向对象分析,ERP(企业资源计划),软件测试
+java,Struts框架,Hibernate框架,Spring框架,系统分析
+jsp(java服务器页面),css层叠样式表,Html,Photoshop,javaScript
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+JavaEE架构,Spring框架,jsp(java服务器页面),servlet,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Spring框架,Html,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,系统设计,mysql数据库,linux操作系统,HTTP传输协议,软件测试,数据库设计,分布式
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,面向对象分析,C语言,Webservice,Microsoft Visual C++ 6.0
+JavaEE架构,css层叠样式表,Html,ORM对象关系映射,javaScript,mysql数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,jsp(java服务器页面),servlet,AJAX(异步的JavaScript与XML技术),Oracle数据库,UML建模语言,面向对象分析,软件工程
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,JAVA主流框架,OOA面向对象分析,OOD面向对象设计,面向对象分析,cache技术,软件测试,数据库设计,软件文档写作,C语言,ruby,groovy,Restful,Microsoft Visual C++ 6.0
+系统分析,UML建模语言
+java,JavaEE架构,Spring框架,weblogic服务器,SQL Server数据库,Oracle数据库,Db2数据库,软件测试,C语言,Jboss
+java,软件工程,编写技术方案,软件项目管理
+java,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,XML技术,软件测试,C语言
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,系统分析,mysql数据库,Redis数据库,redis数据库,C语言,分布式,Solr,zookeeper,Java Message Service,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,Tomcat,eclipse,javaScript,mysql数据库,Oracle数据库,HTTP传输协议,XML技术
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,AOP面向切面编程,IOC控制反转,多线程,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,UML建模语言,HTTP传输协议,OOA面向对象分析,OOD面向对象设计,面向对象分析,hadoop(分布式系统基础架构),数据结构,C语言,C++语言,SOA,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,php,Photoshop,javaScript,COM编程,HTTP传输协议,面向对象分析,C语言
+java,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,软件项目管理,项目实施,C语言,postgresql,Webservice,SSH协议,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,系统设计,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,C语言,postgresql,Webservice,SSH协议,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,mysql数据库,Oracle数据库,软件测试,软件项目管理,C语言,postgresql,SSH协议,Microsoft Visual C++ 6.0
+java,软件工程,项目实施
+java,Hibernate框架,Spring框架,spring mvc框架,Html,Tomcat,eclipse,COM编程,mysql数据库,linux操作系统,HTTP传输协议,C语言,Junit,Microsoft Visual C++ 6.0
+java,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,jsp(java服务器页面),servlet,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,Spring框架,eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,软件工程
+java,Hibernate框架,Spring框架,css层叠样式表,Html,apache,Tomcat,javaScript,mysql数据库,Oracle数据库
+java,Hibernate框架,Spring框架,eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,软件工程
+java,Hibernate框架,Spring框架,eclipse,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,软件工程
+java,JavaEE架构,Struts框架,jsp(java服务器页面),css层叠样式表,Html,apache,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,jsp(java服务器页面),servlet,css层叠样式表,Html,javaScript,XML技术,C语言,Java Data Base Connectivity
+java,JavaEE架构,系统分析,unix操作系统,软件测试
+java,css层叠样式表,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,XML技术,数据库设计
+java,jQuery框架,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,面向对象分析,软件项目管理
+java,JavaEE架构,系统设计,Oracle数据库,PL/SQL,软件文档写作
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,javaScript,mysql数据库,SQL Server数据库,XML技术,C语言,Java Data Base Connectivity,中间件,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,photoshop,javaScript,mysql数据库,SQL Server数据库,XML技术,C语言,Java Data Base Connectivity,中间件,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,Solr
+java,javaScript,python编程,数据结构
+java,JavaEE架构,jsp(java服务器页面),.net,COM编程,HTTP传输协议,XML技术,C语言,C++语言
+JavaEE架构,Hibernate框架,Spring框架,EJB,javaScript,mysql数据库,Oracle数据库,软件文档写作
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,ORM对象关系映射,Oracle数据库,PL/SQL,Socket编程,数据结构,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,JAVA主流框架,多线程,mysql数据库,软件测试,软件文档写作,C语言,Solr,SOA,Microsoft Visual C++ 6.0
+java,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Tomcat,jetty服务器,mysql数据库,svn,git,C语言,Gradle,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Spring框架,css层叠样式表,Html,apache,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,jSon技术,数据库设计,项目实施,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,软件测试,数据库设计,C语言
+java,多线程,系统设计,mysql数据库,Oracle数据库,linux操作系统,网络编程,XML技术,jSon技术,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,DWR框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,C语言,Java Data Base Connectivity
+java
+java
+java,photoshop,软件项目管理,project,C语言
+java,JavaEE架构,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,XML技术,软件测试,Shell语言,软件项目管理
+系统设计,面向对象分析,软件测试
+java,ant(一种基于Java的build工具),Hbase数据库,OOD面向对象设计,HBase,Hive
+java,Hbase数据库,python编程,hadoop(分布式系统基础架构),数据分析,HBase,Hive
+jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,css层叠样式表,apache,Tomcat,weblogic服务器,websphere服务器,mysql数据库,Oracle数据库,Red Hat操作系统,软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,mysql数据库,面向对象分析
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,javabean,Html,javaScript,mysql数据库,Oracle数据库,XML技术,Db2数据库,数据库设计,C语言,Webservice,soap,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,linux操作系统,C语言,Microsoft Visual C++ 6.0
+java
+java,jsp(java服务器页面),rose(UML画图工具),javaScript,COM编程,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,软件工程,数据库设计,软件项目管理,Powerdesigner
+java,多线程,网络编程,编写技术方案,分布式
+java,JavaEE架构,Hibernate框架,Spring框架,jsp(java服务器页面),Html,Tomcat,weblogic服务器,websphere服务器,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,软件测试,C语言,Jboss
+java,Struts框架,Hibernate框架,Spring框架,servlet,EJB,Tomcat,Oracle数据库,XML技术,面向对象分析,Db2数据库,软件测试,单元测试工具,熟悉主流测试工具,软件工程,数据库设计,C语言,Java Data Base Connectivity,Junit
+java,JavaEE架构,Hibernate框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,websphere服务器,Dreamweaver,eclipse,javaScript,Oracle数据库,XML技术,Db2数据库
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,svn,XML技术,面向对象分析,软件测试,C语言,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,Memcached,javaScript,mysql数据库,Redis数据库,TCP/IP编程,linux操作系统,HTTP传输协议,Mongo DB数据库,redis数据库
+java,JavaEE架构,Hibernate框架,Jsf框架,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,数据库设计
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,Oracle数据库,linux操作系统
+java,myEclipse,apache,Tomcat,eclipse,linux操作系统,svn,vss,软件测试,CVS(一种自动测试工具)
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Jsf框架,weblogic服务器,IOC控制反转,Oracle数据库,PL/SQL,Socket编程,linux操作系统,unix操作系统,软件测试,软件工程,项目实施,C语言,Webservice,中间件,Java Message Service,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),Html,weblogic服务器,AJAX(异步的JavaScript与XML技术),Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,apache,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,COM编程,OOA面向对象分析,OOD面向对象设计,数据库设计
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),SQL Server数据库,Oracle数据库,软件架构设计,软件架构,C语言,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,数据库理论和应用,C语言,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,.net,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,数据库理论和应用,C语言,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,系统设计,系统分析,Oracle数据库,软件测试,项目实施
+java,css层叠样式表,javaScript,mysql数据库,软件架构设计,软件架构,关系型数据库,SSH协议
+java,jQuery框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,XML技术,jSon技术,C语言,Microsoft Visual C++ 6.0
+java,多线程,mysql数据库,linux操作系统,hadoop(分布式系统基础架构)
+java,JavaEE架构,Hibernate框架,Spring框架,javaScript,Oracle数据库,软件项目管理
+java,jQuery框架,css层叠样式表,Html,weblogic服务器,websphere服务器,javaScript,系统分析,Oracle数据库,linux操作系统,面向对象分析,C语言,数据挖掘,SSH协议
+java,系统设计,mysql数据库,Oracle数据库,面向对象分析,软件测试
+java,eclipse,Oracle数据库
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,svn,软件测试
+java,JavaEE开发,SSH协议
+java,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,Tomcat,javaScript,mysql数据库,linux操作系统,C语言,Microsoft Visual C++ 6.0
+java,jsp(java服务器页面),css层叠样式表,eclipse,javaScript,SQL Server数据库,Oracle数据库,项目实施
+java,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,apache,Tomcat,jetty服务器,mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,linux操作系统,HTTP传输协议,Mongo DB数据库,redis数据库,Shell语言,netty框架,mina框架,Maven(是一个项目管理工具),C语言,关系型数据库,WebService,Netty,Restful,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,apache,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,mysql数据库,Oracle数据库,XML技术,面向对象分析,熟悉一种脚本语言,数据库设计,mina框架,Jboss
+java,JavaEE架构,Hibernate框架,Spring框架,DWR框架,Extjs框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,XML技术
+java,Android开发,软件工程
+java,COM编程,HTTP传输协议,Android开发,软件工程
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,EASYUI框架(UI架构),MyBatis框架,AJAX(异步的JavaScript与XML技术),Oracle数据库,软件测试,单元测试工具,熟悉主流测试工具,Webservice,Junit
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,svn,XML技术,CVS(一种自动测试工具),软件项目管理,XSLT
+java,jQuery框架,JavaEE架构,Spring框架,DWR框架,css层叠样式表,SQL Server数据库,Oracle数据库
+java
+java,windows操作系统,linux操作系统,Android开发,软件测试,C语言,C++语言
+java,jQuery框架,spring mvc框架,jsp(java服务器页面),servlet,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,UML建模语言,C语言,Powerdesigner,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Html,apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,mysql数据库,Hbase数据库,TCP/IP编程,linux操作系统,HTTP传输协议,XML技术,数据库设计,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,HBase,Hive
+java,Oracle数据库,linux操作系统,Db2数据库,软件测试,软件项目管理
+java,JavaEE架构,Jsf框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,XHTML,linux操作系统,office,WebService,rest,Enterprise Service Bus,SOA
+java,jQuery框架,Extjs框架,myEclipse,jstl,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,STL库,Db2数据库,Standard Template Library,SSH协议
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,关系型数据库
+java,JavaEE架构,Struts框架,Hibernate框架,php,Tomcat,weblogic服务器,websphere服务器,mysql数据库,Oracle数据库,PL/SQL,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,myEclipse,jsp(java服务器页面),servlet,eclipse,javaScript,mysql数据库,Oracle数据库,svn,Android开发,数据库设计,项目实施,C语言,Java Data Base Connectivity,SSH协议,Microsoft Visual C++ 6.0
+java,jsp(java服务器页面),Tomcat,weblogic服务器,SQL Server数据库,Oracle数据库,软件项目管理,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,unix操作系统,UML建模语言,面向对象分析,软件测试
+java,编写标书
+java,Android开发
+java,软件架构设计,软件架构,hadoop(分布式系统基础架构),分布式,数据挖掘,机器学习
+java,jQuery框架,JavaEE架构,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,OOD面向对象设计,软件测试
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,myEclipse,apache,Tomcat,weblogic服务器,eclipse,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,数据库设计,C语言
+java,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,HTTP传输协议,项目实施,Webservice,SSH协议
+java,jQuery框架,Struts框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库,linux操作系统,XML技术,jSon技术,面向对象分析,数据库设计
+java,Struts框架,Hibernate框架,Spring框架,Html,javaScript,系统分析,Oracle数据库,XML技术
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Oracle数据库,Db2数据库,软件工程,C语言,C++语言,中间件
+java,Tomcat,weblogic服务器,eclipse,多线程,mysql数据库,SQL Server数据库,Oracle数据库,svn,CVS(一种自动测试工具),数据结构,C语言
+java,linux操作系统,软件测试,分布式,SSH协议
+java,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,Extjs框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件测试,C语言,Jboss,Microsoft Visual C++ 6.0
+java,软件架构设计,软件架构,数据分析
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),javaScript,多线程,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,网络编程,XML技术,jSon技术,软件测试,数据库设计,关系型数据库
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,mysql数据库,Oracle数据库,PL/SQL,svn,软件测试,单元测试工具,Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,数据结构,软件项目管理,C语言,关系型数据库,Junit,中间件
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,mysql数据库,Oracle数据库,PL/SQL,svn,软件测试,单元测试工具,Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,软件项目管理,C语言,关系型数据库,Junit,中间件
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,apache,Tomcat,Memcached,mysql数据库,Redis数据库,Socket编程,linux操作系统,CentOS操作系统,svn,git,redis数据库,软件测试
+java,系统设计,mysql数据库,Oracle数据库,软件测试
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,编写技术方案,C语言
+java,数据分析
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,Tomcat,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,jSon技术,C语言,Webservice,Microsoft Visual C++ 6.0
+java,.net,COM编程,HTTP传输协议,软件工程,C语言,C++语言
+java,.net,COM编程,HTTP传输协议,软件工程,C语言,C++语言
+java,.net,COM编程,HTTP传输协议,软件工程,C语言,C++语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Socket编程,WebSocket协议,Android开发,Sencha Touch,jQuery Mobile
+java,JavaEE架构,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,mysql数据库,Oracle数据库,软件测试,C语言
+java,JavaEE架构,Struts框架,AJAX(异步的JavaScript与XML技术),mysql数据库,SQL Server数据库,Oracle数据库,XML技术
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Tomcat,多线程,SQL Server数据库,linux操作系统,数据分析,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,COM编程,mysql数据库,数据库理论和应用,数据库设计,hadoop(分布式系统基础架构),数据结构
+java,JavaEE架构,jsp(java服务器页面),servlet,apache,Tomcat,多线程,mysql数据库,C语言,Java Data Base Connectivity
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),Oracle数据库,面向对象分析,关系型数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,javabean,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,XML技术,软件测试,数据库设计,C语言,Java Data Base Connectivity,Webservice
+java,jQuery框架,myBatis框架,spring mvc框架,MyBatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),eclipse,javaScript,Oracle数据库,PL/SQL,linux操作系统,UML建模语言,软件测试,熟悉主流测试工具,项目实施
+java,JavaEE架构,jsp(java服务器页面),servlet,apache,Tomcat,多线程,mysql数据库,C语言,Java Data Base Connectivity
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),javaScript,Oracle数据库,linux操作系统
+java,JavaEE开发,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),IOC控制反转,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,GDI+图形编程,XML技术,jSon技术,Maven(是一个项目管理工具),ETL(数据仓库技术),JavaSe,项目实施,C语言,关系型数据库,Webservice,Restful,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件测试,C语言
+编写技术方案,编写标书
+java,jQuery框架,spring mvc框架,jsp(java服务器页面),javaScript,Oracle数据库,ETL(数据仓库技术),C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,apache,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),ant(一种基于Java的build工具),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,svn,软件测试,Shell语言,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,weblogic服务器,javaScript,COM编程,Oracle数据库,HTTP传输协议,svn,XML技术,CVS(一种自动测试工具),C语言,Java Data Base Connectivity,Java Message Service
+java,jQuery框架,Extjs框架,javaScript,系统设计,Oracle数据库,软件测试
+java,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,apache,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,weblogic服务器,javaScript,COM编程,Oracle数据库,HTTP传输协议,svn,XML技术,CVS(一种自动测试工具),C语言,Java Data Base Connectivity,Java Message Service
+java,多线程,面向对象分析,数据库设计,分布式,中间件
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,软件项目管理,C语言,Webservice,Jboss
+java,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,系统设计,mysql数据库,软件测试,分布式,Webservice,soap,中间件
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),EJB,css层叠样式表,Html,.net,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,jSon技术,软件测试,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,DHTML,AOP面向切面编程,ant(一种基于Java的build工具),javaScript,SQL Server数据库,Oracle数据库,linux操作系统,XML技术,面向对象分析,hadoop(分布式系统基础架构),Maven(是一个项目管理工具),C语言,Java Data Base Connectivity,Junit,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,photoshop,javaScript
+java,JavaEE开发,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,Java Data Base Connectivity,中间件
+java
+java
+java,Hibernate框架,jsp(java服务器页面),Html,eclipse,javaScript,多线程,系统设计,mysql数据库,Oracle数据库,Socket编程,XML技术,数据结构
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,软件测试,熟悉一种脚本语言,Jboss
+java,JavaEE架构,SQL Server数据库,Oracle数据库,关系型数据库,SSH协议
+java,jQuery框架,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,apache,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,软件项目管理,C语言
+java,jQuery框架,JavaEE架构,Extjs框架,eclipse,javaScript,SQL Server数据库,Oracle数据库,关系型数据库
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,面向对象分析,Jboss
+java,JavaEE架构,Hibernate框架,Spring框架,eclipse,SQL Server数据库,Oracle数据库,软件测试
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Html,weblogic服务器,websphere服务器,javaScript,SQL Server数据库,Oracle数据库,Db2数据库,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,css层叠样式表,Tomcat,weblogic服务器,websphere服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,HTTP传输协议,XML技术,jSon技术,C语言,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,jsp(java服务器页面),Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,Oracle数据库,PL/SQL,linux操作系统,svn,XML技术,软件测试,CVS(一种自动测试工具),CXF,Junit
+java,数据分析
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据库设计
+java,mysql数据库,TCP/IP编程,linux操作系统,熟悉一种脚本语言,数据结构
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,COM编程,mysql数据库,Oracle数据库,HTTP传输协议
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,EJB,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,面向对象分析,软件测试,数据结构
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),css层叠样式表,Html,javaScript,面向对象分析,数据结构
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,C语言,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,eclipse,javaScript,Oracle数据库,XML技术
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,PL/SQL,C语言,Jboss,Microsoft Visual C++ 6.0
+java,Spring框架,myBatis框架,MyBatis框架,memcache,eclipse,mysql数据库,TCP/IP编程,网络编程,HTTP传输协议,cache技术,Maven(是一个项目管理工具)
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),EJB,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,XML技术,面向对象分析
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,EASYUI框架(UI架构),jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,eclipse,javaScript,UML建模语言,面向对象分析,软件测试,数据结构,C语言,Webservice,Microsoft Visual C++ 6.0
+java,Hibernate框架,Spring框架,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,linux操作系统,软件工程,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据结构,Hive
+java,mysql数据库,javaSe
+java,mysql数据库,javaSe
+Struts框架,Spring框架,myBatis框架,MyBatis框架,apache,系统设计,mysql数据库,Oracle数据库,数据库设计,mina框架,软件文档写作,C语言,ActiveMQ
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Oracle数据库,项目实施
+java,spring mvc框架,mysql数据库,linux操作系统,面向对象分析,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,spring mvc框架,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,Oracle数据库,Socket编程,HTTP传输协议,svn,git,XML技术,jSon技术,C语言,关系型数据库,Webservice,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,apache,weblogic服务器,Memcached,AJAX(异步的JavaScript与XML技术),eclipse,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,linux操作系统,svn,redis数据库,cache技术,软件工程,Maven(是一个项目管理工具),C语言,分布式,Java Data Base Connectivity,Ehcache,Java Message Service,Microsoft Visual C++ 6.0
+java,Hibernate框架,SQL Server数据库,Oracle数据库,HTTP传输协议,Webservice
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,面向对象分析
+java,myBatis框架,MyBatis框架,css层叠样式表,Html,ORM对象关系映射,AOP面向切面编程,IOC控制反转,javaScript,mysql数据库,linux操作系统,Shell语言,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,myBatis框架,MyBatis框架,Tomcat,weblogic服务器,eclipse,mysql数据库,Oracle数据库,svn,面向对象分析,Maven(是一个项目管理工具),C语言,Jboss,SSH协议
+java,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),javaScript,NoSQL数据库,XML技术,软件工程,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,apache,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,COM编程,OOA面向对象分析,OOD面向对象设计,数据库设计
+java,jQuery框架,Spring框架,myBatis框架,MyBatis框架,myEclipse,css层叠样式表,Html,Tomcat,eclipse,javaScript,mysql数据库,svn,git
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,Tomcat,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,ant(一种基于Java的build工具),javaScript,系统分析,mysql数据库,Oracle数据库,UML建模语言,svn,面向对象分析,数据库设计,Maven(是一个项目管理工具),C语言,Junit,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,Extjs框架,C#,javaScript,mysql数据库,Oracle数据库,linux操作系统,面向对象分析,C语言,Java Data Base Connectivity,kettle,SSH协议
+java,JavaEE开发,Hibernate框架,Ibatis框架,spring mvc框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,多线程,COM编程,mysql数据库,Oracle数据库,linux操作系统,HTTP传输协议,XML技术,jSon技术,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,bootstrap框架,Spring框架,Ibatis框架,Bootstrap框架,jsp(java服务器页面),servlet,css层叠样式表,Tomcat,memcache,javaScript,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,jSon技术,面向对象分析,Mongo DB数据库,cache技术,Android开发,Bootstrap(Web前端CSS框架),C语言,Java Data Base Connectivity,bootstrap,RabbitMQ,Jboss,Java Message Service,Backbone
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,jsp(java服务器页面),css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,Oracle数据库,PL/SQL,CVS(一种自动测试工具),C语言,Jboss
+java,jQuery框架,Spring框架,myBatis框架,MyBatis框架,javaScript,Oracle数据库,svn,jSon技术,软件测试,C语言,Microsoft Visual C++ 6.0
+java,系统设计,NoSQL数据库,Redis数据库,Socket编程,网络编程,Mongo DB数据库,redis数据库,netty框架,数据结构,Netty
+java,mysql数据库,SQL Server数据库,Oracle数据库
+java,JavaEE架构,jsp(java服务器页面),Html,javaScript,mysql数据库,Oracle数据库
+java,css层叠样式表,Html,apache,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,COM编程,OOA面向对象分析,OOD面向对象设计,数据库设计
+java,JavaEE架构,jsp(java服务器页面),Html,javaScript,mysql数据库,Oracle数据库
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,Oracle数据库,Socket编程,linux操作系统,unix操作系统,消息队列,面向对象分析,软件工程,软件项目管理,分布式
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,Html,Memcached,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,javaScript,多线程,mysql数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),servlet,EJB,Html,Tomcat,weblogic服务器,javaScript,COM编程,mysql数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,Redis数据库,redis数据库,软件工程,C语言,Webservice,Junit,Java Message Service,JBPM
+java,jQuery框架,JavaEE架构,Struts框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,linux操作系统,XML技术,Shell语言
+java,Spring框架,myBatis框架,MyBatis框架,mysql数据库,Oracle数据库,软件测试,数据结构,关系型数据库
+java,JavaEE架构,jsp(java服务器页面),servlet,javabean,eclipse,javaScript,系统设计,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件测试,熟悉一种脚本语言,C语言,Webservice,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,apache,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,COM编程,OOA面向对象分析,OOD面向对象设计,数据库设计
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),多线程,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,HTTP传输协议,数据库设计
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),多线程,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,HTTP传输协议,数据库设计
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,myEclipse,AJAX(异步的JavaScript与XML技术),eclipse,ant(一种基于Java的build工具),mysql数据库,jSon技术,面向对象分析,数据库设计,Maven(是一个项目管理工具),C语言,postgresql,Microsoft Visual C++ 6.0
+java,多线程,面向对象分析,分布式,中间件
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,Tomcat,weblogic服务器,eclipse,javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,svn,软件工程,C语言,zookeeper,Jboss,Microsoft Visual C++ 6.0
+JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),servlet,jstl,javaScript,mysql数据库,Oracle数据库,STL库,SOA,Standard Template Library
+JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),servlet,jstl,javaScript,mysql数据库,Oracle数据库,STL库,SOA,Standard Template Library
+java,mysql数据库,Oracle数据库
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,jSon技术
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,熟悉一种脚本语言,项目实施,C语言,关系型数据库,中间件,Jboss
+java,JavaEE架构,Hibernate框架,spring mvc框架,jsp(java服务器页面),Html,javaScript,mysql数据库,面向对象分析,软件测试,软件文档写作,C语言,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,memcache,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,NoSQL数据库,消息队列,cache技术,数据库设计,C语言,分布式,ActiveMQ,RabbitMQ,SOA,Microsoft Visual C++ 6.0
+java,ERP(企业资源计划),软件测试,软件项目管理,项目实施
+jQuery框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,apache,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),eclipse,javaScript,多线程,mysql数据库,Oracle数据库,linux操作系统,svn,jSon技术,并发控制,Shell语言,Maven(是一个项目管理工具),CXF,C语言,Webservice,Microsoft Visual C++ 6.0
+java,TCP/IP编程,HTTP传输协议,面向对象分析,Android开发,编写技术方案
+java,JavaEE架构
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),EJB,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,postgresql,Jboss
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,Html,eclipse,javaScript,系统设计,mysql数据库,SQL Server数据库,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,UDP,TCP/UDP,软件测试,C语言,Microsoft Visual C++ 6.0
+java,spring mvc框架,数据分析,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,websphere服务器,COM编程,GUI编程,mysql数据库,Oracle数据库,PL/SQL,C语言,Jboss
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,NoSQL数据库,XML技术,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,javaScript,mysql数据库,Oracle数据库,linux操作系统,软件工程,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Spring框架,jsp(java服务器页面),Oracle数据库
+java
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,apache,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,mysql数据库,linux操作系统,C语言
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),系统设计,Oracle数据库,PL/SQL,Socket编程,软件测试,C语言,Jboss
+java,jQuery框架,JavaEE架构,javabean,css层叠样式表,Html,weblogic服务器,websphere服务器,eclipse,javaScript,mysql数据库,jSon技术,面向对象分析,Db2数据库,软件工程,数据库设计,软件项目管理,项目实施,C语言,SSH协议
+java,jQuery框架,Spring框架,spring mvc框架,css层叠样式表,Html,eclipse,javaScript,svn,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,javaScript,C语言,人机交互
+java,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,JAVA主流框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,linux操作系统,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Spring框架,Ibatis框架,jsp(java服务器页面),Html,Tomcat,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,eclipse,Oracle数据库,Db2数据库,数据库设计
+java,C#,.net,javaScript,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,OOD面向对象设计,C语言,Webservice,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Jsf框架,jsp(java服务器页面),javaScript
+java,C#,mysql数据库,Oracle数据库,HTTP传输协议,面向对象分析,C语言
+Struts框架,Hibernate框架,Spring框架,weblogic服务器,eclipse,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,软件测试,CVS(一种自动测试工具),C语言
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,ORM对象关系映射,IOC控制反转,C语言,Enterprise Service Bus,SOA,Microsoft Visual C++ 6.0
+java,JavaEE架构,jsp(java服务器页面),servlet,多线程,mysql数据库,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,面向对象分析,软件测试,数据库设计,数据结构,JavaSe
+java,Struts框架,Html,eclipse,多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Db2数据库
+java,jQuery框架,Struts框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,XML技术,office
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,XML技术,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,JavaEE开发,多线程,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,软件项目管理
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,myEclipse,jsp(java服务器页面),Html,apache,Tomcat,weblogic服务器,eclipse,Microsoft Office Visio,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,UML建模语言,svn,XML技术,面向对象分析,sybase数据库,软件测试,Maven(是一个项目管理工具),CXF,C语言,Powerdesigner,Junit,SOA
+java,jQuery框架,JavaEE架构,myBatis框架,Extjs框架,EASYUI框架(UI架构),spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,Shell语言,软件测试,软件工程,hadoop(分布式系统基础架构),mapreduce(一种编程模型),C语言,soap,SOA,Java Message Service,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Extjs框架,Tomcat,eclipse,javaScript,SQL Server数据库,Oracle数据库,Db2数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,myEclipse,jsp(java服务器页面),css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,ant(一种基于Java的build工具),Microsoft Office Visio,javaScript,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,svn,vss,OOD面向对象设计,Db2数据库,数据库设计,C语言,数据库建模,Webservice,Junit,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,apache,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,多线程,Oracle数据库,XML技术,面向对象分析,熟悉一种脚本语言,数据库设计,mina框架
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,DWR框架,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),Microsoft Office Visio,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Axure RP(是一个专业的快速原型设计工具),Powerdesigner
+java,web2.0,SQL Server数据库,Oracle数据库,Db2数据库,SSH协议
+java,apache,Tomcat,weblogic服务器,memcache,mysql数据库,HTTP传输协议,cache技术,数据库理论和应用,数据结构,C语言,关系型数据库,Ehcache
+java,apache,Tomcat,weblogic服务器,memcache,mysql数据库,HTTP传输协议,cache技术,数据库理论和应用,数据结构,C语言,关系型数据库,Ehcache
+Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,软件测试,CXF,SOA,DOM
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),javaScript,Oracle数据库,C语言,Java Data Base Connectivity
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,mysql数据库,linux操作系统,Shell语言,数据结构,C语言,Java Data Base Connectivity
+java,JavaEE架构,Struts框架,Hibernate框架,Ibatis框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,HTTP传输协议
+java,JavaEE架构,Jsf框架,jsp(java服务器页面),javabean,EJB,Tomcat,mysql数据库,UML建模语言,编写技术方案,数据库建模,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,linux操作系统
+java,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,linux操作系统,面向对象分析,软件测试
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,jSon技术
+java,JavaEE开发,Extjs框架,javaScript,SQL Server数据库,Oracle数据库,数据库理论和应用,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,apache,Nginx,Tomcat,weblogic服务器,Memcached,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,Mongo DB数据库,redis数据库,编写技术方案,C语言,Jboss
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),javaScript,mysql数据库,Oracle数据库,数据库建模,Powerdesigner,Webservice,Jboss
+java,Hibernate框架,eclipse,mysql数据库,SQL Server数据库,Oracle数据库,ERP(企业资源计划)
+java,jQuery框架,Struts框架,Spring框架,jsp(java服务器页面),servlet,javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+java,Maven(是一个项目管理工具),C语言,Java Data Base Connectivity,Gradle
+JavaEE架构,Spring框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,面向对象分析,数据库设计,Webservice
+java,JavaEE架构,Spring框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,OOD面向对象设计,C语言,Java Data Base Connectivity
+java,多线程,linux操作系统,OOD面向对象设计,软件测试,Maven(是一个项目管理工具),C语言,Java Data Base Connectivity,Gradle
+java,Struts框架,Spring框架,Ibatis框架,Html,javaScript,Oracle数据库,Db2数据库
+java,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,apache,Tomcat,jetty服务器,mysql数据库,Oracle数据库,NoSQL数据库,Redis数据库,Mongo DB数据库,redis数据库,Maven(是一个项目管理工具),C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,mysql数据库,linux操作系统,面向对象分析,软件测试,数据结构
+java,Struts框架,myEclipse,javabean,weblogic服务器,Photoshop,eclipse,javaScript,系统设计,Oracle数据库,软件工程,熟悉一种脚本语言,软件项目管理,C语言
+java,jQuery框架,JavaEE架构,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统设计,SQL Server数据库,Oracle数据库,数据分析
+java,Spring框架,Ibatis框架,多线程,NoSQL数据库,XML技术,jSon技术,OOA面向对象分析,OOD面向对象设计,Mongo DB数据库,网络通信,Maven(是一个项目管理工具),分布式,关系型数据库
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,系统分析,SQL Server数据库,Oracle数据库,linux操作系统,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Extjs框架,javaScript,SQL Server数据库,Oracle数据库,关系型数据库
+java,.net,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,Socket编程,sybase数据库,软件项目管理,中间件
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,软件测试
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,PL/SQL
+java,jQuery框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),多线程,系统设计,Oracle数据库,TCP/IP编程,软件测试,C语言,Java Data Base Connectivity,SSH协议
+java,jQuery框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),javaScript,Oracle数据库
+java,JavaEE架构,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,javaScript,Oracle数据库,visual basic script
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件项目管理
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+java,jQuery框架,JavaEE架构,Extjs框架,css层叠样式表,Html,apache,AJAX(异步的JavaScript与XML技术),javaScript,Jboss
+Struts框架,Hibernate框架,Spring框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件工程
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,SQL Server数据库,Oracle数据库,软件项目管理,Webservice,Java Message Service
+java,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,jstl,Html,AJAX(异步的JavaScript与XML技术),STL库,面向对象分析,C语言,Standard Template Library,Microsoft Visual C++ 6.0
+java,Struts框架,Spring框架,Ibatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,软件项目管理,Junit
+JavaEE架构,Spring框架,spring mvc框架,Memcached,Oracle数据库,Redis数据库,linux操作系统,XML技术,jSon技术,redis数据库,C语言,Webservice,Microsoft Visual C++ 6.0
+Struts框架,Hibernate框架,Spring框架,mysql数据库,SQL Server数据库,Oracle数据库,软件工程
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,linux操作系统,svn,C语言,Java Data Base Connectivity
+java,Hibernate框架,Spring框架,spring mvc框架,mysql数据库,Oracle数据库,linux操作系统,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,多线程,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,svn,软件测试,数据库设计,数据结构
+java,JavaEE架构,linux操作系统,unix操作系统,面向对象分析,软件测试,关系型数据库
+java
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,C语言,Java Data Base Connectivity
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,XML技术,Sencha Touch,jQuery Mobile
+java,Struts框架,Spring框架,EJB,Tomcat,mysql数据库,Oracle数据库,软件测试,CVS(一种自动测试工具),C语言,关系型数据库,Jboss,Microsoft Visual C++ 6.0
+java
+java,jQuery框架,JavaEE架构,Spring框架,css层叠样式表,Html,apache,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,jSon技术,数据库设计,项目实施,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,Jsf框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,XHTML,linux操作系统,office,WebService,rest,Enterprise Service Bus,SOA
+java,JavaEE架构,spring mvc框架,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,软件测试
+java,Struts框架,Spring框架,Ibatis框架,多线程,mysql数据库,Redis数据库,TCP/IP编程,面向对象分析,redis数据库,netty框架,mina框架,分布式,Netty
+java,jQuery框架,JavaEE架构,servlet,Html,AJAX(异步的JavaScript与XML技术),DHTML,photoshop,javaScript,C语言,XSLT,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Memcached,AJAX(异步的JavaScript与XML技术),eclipse,系统设计,系统分析,mysql数据库,Oracle数据库,网络编程,数据库设计,软件项目管理,分布式,ActiveMQ
+java,eclipse,多线程,linux操作系统,unix操作系统,面向对象分析,软件工程,Open Service Gateway Initiative
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,XML技术,jSon技术,WebService
+java,jQuery框架,myEclipse,Tomcat,weblogic服务器,eclipse,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,svn,CVS(一种自动测试工具),C语言,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,熟悉一种脚本语言,Arcgis,SOA,Restful,ArcGIS
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,websphere服务器,ant(一种基于Java的build工具),COM编程,SQL Server数据库,Oracle数据库,OOD面向对象设计,Db2数据库,sybase数据库,数据库设计,project,C语言,Sybase ASE,rest
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,jstl,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,STL库,XML技术,jSon技术,C语言,Standard Template Library
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,ant(一种基于Java的build工具),多线程,mysql数据库,Oracle数据库,linux操作系统,svn,Android开发,Maven(是一个项目管理工具),C语言,Java Data Base Connectivity,Junit
+java,jQuery框架,Spring框架,Ibatis框架,jsp(java服务器页面),css层叠样式表,系统设计,SQL Server数据库,Oracle数据库
+java,JavaEE架构,JavaEE开发,Db2数据库
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,XML技术,分布式,SSH协议
+java,jQuery框架,JavaEE架构,Hibernate框架,Html,javaScript,ERP(企业资源计划),Android开发,项目实施,SSH协议
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),javabean,EJB,AJAX(异步的JavaScript与XML技术),SQL Server数据库,Oracle数据库,Db2数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,eclipse,SQL Server数据库,Oracle数据库
+java,jQuery框架,Hibernate框架,Extjs框架,javaScript,SSH协议
+java,Memcached,多线程,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,HTTP传输协议,Mongo DB数据库,redis数据库,C语言,分布式
+java,Spring框架,多线程,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,cache技术,Shell语言,分布式,Ehcache
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,jsp(java服务器页面),Oracle数据库,XML技术,Java Message Service
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,Extjs框架,MyBatis框架,Tomcat,javaScript,多线程,mysql数据库,Oracle数据库,网络编程,Db2数据库,sybase数据库,编写技术方案,分布式
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Html,javaScript,多线程,mysql数据库,hadoop(分布式系统基础架构),编写技术方案
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,XML技术,面向对象分析,Db2数据库,项目实施,C语言,Java Data Base Connectivity,Java Message Service,Microsoft Visual C++ 6.0
+java,JavaEE架构,Tomcat,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,数据库设计,关系型数据库
+java,jQuery框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),javaScript,Oracle数据库
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Oracle数据库,Java Message Service
+jQuery框架,JavaEE架构,Struts框架,Spring框架,Ibatis框架,Oracle数据库,Cognos
+java,Oracle数据库,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件工程,软件项目管理
+java,Struts框架,Hibernate框架,Spring框架
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,系统分析,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件架构设计,软件测试,软件架构,分布式,SSH协议
+java,JavaEE架构,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,数据库设计,C语言,中间件,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Html,javaScript,系统分析,mysql数据库,Oracle数据库,UML建模语言,面向对象分析,软件文档写作,数据库建模
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,jsp(java服务器页面),servlet,Html,javaScript,mysql数据库,Oracle数据库,编写技术方案,软件文档写作,C语言,数据库建模,Microsoft Visual C++ 6.0
+java,weblogic服务器,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,C语言
+java,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,svn,Db2数据库,软件测试,CVS(一种自动测试工具)
+java,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,svn,Db2数据库,软件测试,CVS(一种自动测试工具),C语言,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,sybase数据库,Webservice
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,php,C#,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,sybase数据库,Webservice
+java,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Oracle数据库,linux操作系统,unix操作系统,软件测试,软件工程
+java,Struts框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,javaScript,mysql数据库,Redis数据库,redis数据库,软件测试,Quality Center,C语言
+软件测试,office
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,rose(UML画图工具),Microsoft Office Visio,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,软件测试,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,.net,mysql数据库,SQL Server数据库,Oracle数据库
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),面向对象分析,软件测试,软件工程,编写技术方案,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,Oracle数据库,XML技术,软件测试
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,apache,Nginx,jetty服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),系统设计,系统分析,mysql数据库,TCP/IP编程,linux操作系统,python编程,消息队列,软件架构设计,Shell语言,软件架构,数据结构
+java,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,javaScript,linux操作系统,web后端设计与开发,Webservice
+java,Hibernate框架,Spring框架,eclipse,mysql数据库,TCP/IP编程,Socket编程,软件测试,熟悉主流测试工具
+java,C语言
+java,jQuery框架,bootstrap框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,EASYUI框架(UI架构),spring mvc框架,MyBatis框架,Bootstrap框架,myEclipse,jsp(java服务器页面),servlet,Html,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,Db2数据库,软件测试,编写项目规划,Bootstrap(Web前端CSS框架),C语言,bootstrap,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,bootstrap框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,EASYUI框架(UI架构),spring mvc框架,MyBatis框架,Bootstrap框架,myEclipse,jsp(java服务器页面),servlet,Html,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,OOA面向对象分析,OOD面向对象设计,面向对象分析,Db2数据库,软件测试,编写项目规划,Bootstrap(Web前端CSS框架),C语言,bootstrap,Jboss,Microsoft Visual C++ 6.0
+java,servlet,Html,apache,Tomcat,weblogic服务器,javaScript,Oracle数据库,XML技术,OOD面向对象设计,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,javaScript,Oracle数据库,PL/SQL,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Oracle数据库,PL/SQL
+java,jQuery框架,bootstrap框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Bootstrap框架,apache,weblogic服务器,eclipse,javaScript,mysql数据库,Oracle数据库,Bootstrap(Web前端CSS框架),C语言,bootstrap,SOA,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,javaScript,多线程,mysql数据库,Oracle数据库,linux操作系统,XML技术
+jQuery框架,Spring框架,myBatis框架,Ibatis框架,Extjs框架,spring mvc框架,MyBatis框架,Tomcat,weblogic服务器,jetty服务器,AJAX(异步的JavaScript与XML技术),eclipse,Microsoft Office Visio,javaScript,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,数据结构,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+java,JavaEE架构,Spring框架,Memcached,多线程,NoSQL数据库,Redis数据库,消息队列,面向对象分析,Mongo DB数据库,redis数据库,cache技术,分布式
+java,JavaEE架构,jsp(java服务器页面),servlet,javabean,Tomcat,eclipse,SQL Server数据库,ERP(企业资源计划),C语言,Java Data Base Connectivity,SSH协议,JBPM
+java,JavaEE架构,Spring框架,linux操作系统,面向对象分析,软件测试,数据结构,关系型数据库
+java
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),spring mvc框架,jsp(java服务器页面),css层叠样式表,Html,Tomcat,eclipse,javaScript,mysql数据库,Oracle数据库,svn,软件测试,Maven(是一个项目管理工具),C语言,hudson,Microsoft Visual C++ 6.0
+java,JavaEE架构,myEclipse,jsp(java服务器页面),servlet,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,C语言,SSH协议
+软件测试,office
+java,数据分析,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jsp(java服务器页面),Html,javaScript,Oracle数据库,XML技术
+java,jsp(java服务器页面),Html,javaScript,Oracle数据库,XML技术
+java,apache,Tomcat,TCP/IP编程,Socket编程,网络编程,HTTP传输协议,数据结构
+java,JavaEE架构,Struts框架,Hibernate框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,javaScript,mysql数据库,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+apache,Tomcat,系统设计,mysql数据库,面向对象分析,netty框架,mina框架,数据结构,分布式,Netty
+java,jsp(java服务器页面),css层叠样式表,Html,Tomcat,.net,javaScript,COM编程,svn
+java,Struts框架,Hibernate框架,Spring框架,mysql数据库,SQL Server数据库,Oracle数据库,编写技术方案
+office
+java,JavaEE架构,css层叠样式表,Html,javaScript,Oracle数据库,linux操作系统,unix操作系统,软件测试
+jQuery框架,JavaEE架构,Struts框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,svn,CVS(一种自动测试工具),数据库设计,C语言,Microsoft Visual C++ 6.0
+java,Spring框架,spring mvc框架,Memcached,mysql数据库,TCP/IP编程,数据库设计,编写技术方案,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),DHTML,ant(一种基于Java的build工具),javaScript,SQL Server数据库,Oracle数据库,UML建模语言,svn,XML技术,软件工程,软件项目管理
+java,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),DHTML,ant(一种基于Java的build工具),javaScript,SQL Server数据库,Oracle数据库,UML建模语言,svn,XML技术,软件工程,编写项目规划,软件项目管理,项目实施
+java,Struts框架,Hibernate框架,eclipse,mysql数据库,SQL Server数据库,HTTP传输协议,面向对象分析,软件项目管理
+jQuery框架,JavaEE架构,jsp(java服务器页面),servlet,css层叠样式表,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,svn,XML技术,软件工程,Maven(是一个项目管理工具),数据结构,C语言,Java Data Base Connectivity,Junit,Java Message Service,SSH协议
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,DWR框架,myEclipse,jsp(java服务器页面),EJB,Html,Tomcat,weblogic服务器,eclipse,javaScript,Oracle数据库,Prototype,C语言
+java,jsp(java服务器页面),servlet,EJB,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,软件测试,C语言,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,jQuery框架,jsp(java服务器页面),css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,jSon技术,SSH协议
+java,jQuery框架,jsp(java服务器页面),css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,jSon技术,SSH协议
+java,Spring框架,Oracle数据库,Db2数据库,软件项目管理
+java,css层叠样式表,Html,apache,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,COM编程,OOA面向对象分析,OOD面向对象设计,数据库设计
+java,jQuery框架,JavaEE架构,Spring框架,Extjs框架,spring mvc框架,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统分析,Oracle数据库,面向对象分析,Db2数据库,软件测试,C语言,中间件,Microsoft Visual C++ 6.0
+java
+java,Struts框架,Hibernate框架,myBatis框架,Extjs框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,javaScript,cache技术,Android开发,C语言,Ehcache,Microsoft Visual C++ 6.0
+java,Struts框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,javaScript,mysql数据库
+java,css层叠样式表,Html,javaScript
+java,memcache,mysql数据库,NoSQL数据库,Redis数据库,消息队列,HTTP传输协议,OOD面向对象设计,redis数据库,cache技术,数据库设计,中间件
+java,office,C语言,C++语言
+java,JavaEE架构,Hibernate框架,Spring框架,myEclipse,eclipse,linux操作系统,面向对象分析,编写项目规划,项目实施
+java,jQuery框架,Struts框架,Spring框架,Html,javaScript,mysql数据库,linux操作系统,面向对象分析
+java,apache,Tomcat,mysql数据库,Oracle数据库,linux操作系统,python编程,Shell语言
+java,jQuery框架,bootstrap框架,Struts框架,Hibernate框架,Spring框架,Bootstrap框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Bootstrap(Web前端CSS框架),bootstrap,Jboss
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Tomcat,weblogic服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,C语言
+java,Struts框架,Spring框架,Ibatis框架,mysql数据库,面向对象分析,关系型数据库,Solr
+java,Tomcat,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,netty框架,mina框架,Netty
+java,jQuery框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,面向对象分析,sybase数据库,软件测试,C语言,Junit
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,javaScript,系统设计,mysql数据库,SQL Server数据库,XML技术,软件测试
+jQuery框架,Spring框架,myBatis框架,EASYUI框架(UI架构),spring mvc框架,MyBatis框架,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,spring mvc框架,php,linux操作系统,编写技术方案,C语言,分布式,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,Ibatis框架,MyBatis框架,Html,AJAX(异步的JavaScript与XML技术),Oracle数据库,面向对象分析,软件工程
+java,SQL Server数据库,Oracle数据库,Db2数据库,sybase数据库,软件项目管理
+java,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,Jboss
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,面向对象分析,ERP(企业资源计划),软件架构设计,软件工程,软件架构,Webservice
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),Html,Tomcat,weblogic服务器,rose(UML画图工具),SQL Server数据库,Oracle数据库,UML建模语言,XML技术,OOA面向对象分析,OOD面向对象设计,面向对象分析,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,Spring框架,spring mvc框架,C语言,SSH协议,Microsoft Visual C++ 6.0
+java
+java
+java,Spring框架,javaScript,mysql数据库,Oracle数据库,svn,git,Maven(是一个项目管理工具),Webservice
+java,spring mvc框架,css层叠样式表,javaScript,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,Spring框架,Oracle数据库,ActionScript
+JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,mysql数据库,C语言,Java Data Base Connectivity,WebService,Microsoft Visual C++ 6.0
+java,SQL Server数据库,NoSQL数据库,hadoop(分布式系统基础架构)
+java,JavaEE架构,C#,.net,Oracle数据库,C语言
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,mysql数据库,SQL Server数据库,面向对象分析,Maven(是一个项目管理工具),Jboss
+java
+java,JavaEE架构,Spring框架,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,Oracle数据库,NoSQL数据库,linux操作系统,面向对象分析,Mongo DB数据库,软件测试,软件工程,数据库设计,分布式,postgresql,Restful,Jboss
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+java,Tomcat,weblogic服务器,eclipse,系统设计,Oracle数据库,C语言
+java,JavaEE架构,Struts框架,Spring框架,myBatis框架,MyBatis框架,JAVA主流框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库,XML技术,ERP(企业资源计划)
+java,JavaEE架构,Hibernate框架,spring mvc框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,XML技术,软件测试,Shell语言,C语言,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,jsp(java服务器页面),css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件测试
+java,Html,apache,Tomcat,Memcached,javaScript,多线程,COM编程,系统设计,mysql数据库,SQL Server数据库,Redis数据库,网络编程,UML建模语言,HTTP传输协议,svn,vss,git,redis数据库,网络通信,软件项目管理,分布式
+java,jsp(java服务器页面),servlet,javabean,EJB,Html,javaScript,Oracle数据库,PL/SQL,UML建模语言,XML技术
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),AOP面向切面编程,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,Redis数据库,redis数据库,软件工程,C语言,Webservice,Junit,Java Message Service,JBPM
+java,css层叠样式表,Html,javaScript,mysql数据库,Socket编程,网络编程,XML技术,软件测试,SSH协议
+JavaEE架构,Hibernate框架,myEclipse,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,javaScript,mysql数据库,XML技术,SSH协议
+COM编程,HTTP传输协议
+java,JavaEE架构,COM编程,系统设计,面向对象分析,数据库设计,项目实施,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,JavaEE架构,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,javaScript,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,JavaEE开发,多线程,mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,redis数据库,软件工程,熟悉一种脚本语言
+java,jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,javaScript,COM编程,Bootstrap(Web前端CSS框架),bootstrap
+java,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Android开发,中间件
+java,JavaEE架构,COM编程,系统设计,面向对象分析,数据库设计,软件项目管理,项目实施,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,面向对象分析,Android开发,C语言,Restful,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Spring框架,spring mvc框架,myEclipse,css层叠样式表,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice,Microsoft Visual C++ 6.0
+java,Tomcat,weblogic服务器,linux操作系统,unix操作系统,C语言
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,Oracle数据库,XML技术,C语言,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,myEclipse,css层叠样式表,Html,apache,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),eclipse,Microsoft Office Visio,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,面向对象分析,软件测试,数据库设计,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,php,ant(一种基于Java的build工具),javaScript,python编程,Perl语言,Maven(是一个项目管理工具),C语言,C++语言,WebService
+java,Hibernate框架,Spring框架,Ibatis框架,Jsf框架,AJAX(异步的JavaScript与XML技术),多线程,mysql数据库,Oracle数据库,Socket编程,XML技术,netty框架,关系型数据库,WebService,Netty,Java Message Service
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,mysql数据库,Redis数据库,linux操作系统,Mongo DB数据库,redis数据库,软件测试,JavaSe,WebService,rest
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,weblogic服务器,websphere服务器,系统设计,Oracle数据库,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,weblogic服务器,websphere服务器,系统设计,Oracle数据库,C语言
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+java,Microsoft Office Visio,系统设计,mysql数据库,linux操作系统,数据结构,office
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,系统分析,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,jsp(java服务器页面),eclipse,javaScript,mysql数据库,Redis数据库,redis数据库,软件架构设计,软件架构,C语言,Java Data Base Connectivity
+java,Spring框架,myBatis框架,MyBatis框架,linux操作系统,python编程,面向对象分析,Shell语言,熟悉一种脚本语言,分布式
+java
+java,Struts框架,Spring框架,Ibatis框架,多线程,mysql数据库,Oracle数据库,linux操作系统,软件测试,分布式
+java,JavaEE架构,Struts框架,Hibernate框架,jsp(java服务器页面),servlet,EJB,Html,weblogic服务器,websphere服务器,javaScript,SQL Server数据库,Oracle数据库,CVS(一种自动测试工具),C语言,Java Data Base Connectivity,关系型数据库
+java,JavaEE架构,jsp(java服务器页面),servlet,EJB,Html,weblogic服务器,eclipse,javaScript,SQL Server数据库,Oracle数据库,软件测试,CVS(一种自动测试工具),C语言
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,UML建模语言,面向对象分析,Db2数据库,软件测试,数据结构,C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,中间件
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,AOP面向切面编程,javaScript,系统设计,UML建模语言,XML技术,面向对象分析,软件测试,数据结构,C语言,Java Data Base Connectivity,SOA,Java Message Service,Microsoft Visual C++ 6.0
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,jetty服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,软件测试
+java,jQuery框架,EASYUI框架(UI架构),AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,rest,SSH协议
+java,jQuery框架,Spring框架,EASYUI框架(UI架构),spring mvc框架,css层叠样式表,Html,Tomcat,websphere服务器,javaScript,mysql数据库,Oracle数据库,数据分析,C语言,数据库建模,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,软件项目管理
+java,jsp(java服务器页面),servlet,javabean,Tomcat,weblogic服务器,javaScript,多线程,Oracle数据库,XML技术,C语言,WebService
+JavaEE架构,Struts框架,Spring框架,mysql数据库,SQL Server数据库,Oracle数据库,关系型数据库
+java,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,DHTML,eclipse,javaScript,多线程,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,OOA面向对象分析,OOD面向对象设计,Db2数据库,软件测试,数据库设计,项目实施,C语言
+java,JavaEE架构,Struts框架,Spring框架,Ibatis框架,myEclipse,jsp(java服务器页面),css层叠样式表,php,AJAX(异步的JavaScript与XML技术),eclipse,.net,javaScript,系统设计,mysql数据库,Oracle数据库,Mongo DB数据库,Ruby On Rails web开发,ruby
+java
+java
+java,JavaEE架构,weblogic服务器,ORM对象关系映射,多线程,系统设计,mysql数据库,Oracle数据库,NoSQL数据库,UML建模语言,XML技术,面向对象分析,软件测试,数据库设计,C语言,分布式,Webservice
+java,AOP面向切面编程,多线程,mysql数据库,linux操作系统,C语言,分布式,数据挖掘,Microsoft Visual C++ 6.0
+css层叠样式表,Html,XHTML,javaScript,mysql数据库,Oracle数据库,linux操作系统,jSon技术,软件工程,C语言,Lua
+java,Struts框架,Hibernate框架,Spring框架,Html,Tomcat,eclipse,javaScript,mysql数据库,ERP(企业资源计划)
+java,JavaEE架构,weblogic服务器,websphere服务器,rose(UML画图工具),Oracle数据库,UML建模语言,面向对象分析,Db2数据库,sybase数据库,软件测试,C语言
+java,JavaEE架构,linux操作系统,软件测试
+java,软件工程
+java,系统设计,编写技术方案
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,AJAX(异步的JavaScript与XML技术),系统分析,Oracle数据库
+JavaEE架构,Struts框架,Spring框架,Ibatis框架,servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,rose(UML画图工具),javaScript,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,数据库设计,C语言,关系型数据库,Powerdesigner
+java,Nginx,memcache,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),cache技术,软件测试,groovy
+java,JavaEE开发,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,多线程,系统设计,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,面向对象分析,软件架构设计,软件架构,编写技术方案,Webservice,Enterprise Service Bus
+java,jQuery框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,SSH协议
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Tomcat,websphere服务器,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库,linux操作系统,Db2数据库,C语言,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,css层叠样式表,Html,javaScript,面向对象分析,jQuery Mobile
+java,jQuery框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),多线程,mysql数据库,HTTP传输协议,数据结构,C语言,Microsoft Visual C++ 6.0
+java,linux操作系统,python编程,软件测试,熟悉一种脚本语言,ruby
+java,javaScript,数据结构,SSH协议
+java,jQuery框架,jsp(java服务器页面),javaScript,mysql数据库,SQL Server数据库,面向对象分析
+java,jQuery框架,JavaEE架构,Ibatis框架,Html,DHTML,javaScript,mysql数据库,Oracle数据库,linux操作系统,Maven(是一个项目管理工具),ActionScript
+java,Struts框架,Hibernate框架,Ibatis框架,Tomcat,.net,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,HTTP传输协议,面向对象分析,C语言,Jboss,Microsoft Visual C++ 6.0
+java,jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,TFS(是一个高可扩展、高可用、高性能、面向互联网服务的分布式文件系统),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,svn,XML技术,软件架构设计,软件架构,Bootstrap(Web前端CSS框架),C语言,Webservice,bootstrap,Jboss,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,软件文档写作,postgresql
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),Tomcat,jetty服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,Redis数据库,redis数据库,关系型数据库
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库
+java,Struts框架,Hibernate框架,Spring框架,eclipse,ant(一种基于Java的build工具),UML建模语言,svn,面向对象分析
+jQuery框架,JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,数据库设计,数据库建模,Webservice
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,eclipse,javaScript,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,eclipse,javaScript,COM编程,mysql数据库,linux操作系统,软件工程,数据结构,C语言,Microsoft Visual C++ 6.0,activiti
+java
+java,Oracle数据库
+java,jsp(java服务器页面),servlet,javabean,XML技术,软件工程,C语言,C++语言,Java Data Base Connectivity
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,ant(一种基于Java的build工具),javaScript,mysql数据库,Oracle数据库,svn,软件工程,Junit,SSH协议
+java,软件项目管理
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,svn,Shell语言,CVS(一种自动测试工具),C语言,Java Data Base Connectivity
+java,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,apache,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),AOP面向切面编程,mysql数据库,linux操作系统,面向对象分析,软件工程,数据库设计
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,系统设计,mysql数据库,NoSQL数据库,linux操作系统,unix操作系统,面向对象分析,软件测试,编写技术方案,分布式,中间件
+java,JavaEE架构,Extjs框架,photoshop,javaScript,系统设计,SQL Server数据库,Oracle数据库,Db2数据库,软件工程,JavaSe
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),spring mvc框架,javaScript,mysql数据库,SQL Server数据库,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),spring mvc框架,javaScript,mysql数据库,SQL Server数据库,ERP(企业资源计划),软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Memcached,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,消息队列,面向对象分析,redis数据库,软件测试,软件工程,编写技术方案,软件项目管理,软件文档写作,分布式,Enterprise Service Bus,SOA
+java,jQuery框架,JavaEE开发,Struts框架,Spring框架,Ibatis框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,jSon技术,软件测试
+java,Struts框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,jstl,css层叠样式表,Html,Tomcat,jetty服务器,eclipse,javaScript,mysql数据库,Oracle数据库,STL库,项目实施,C语言,Java Data Base Connectivity,Jboss,Standard Template Library
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,NoSQL数据库,cache技术,C语言,Microsoft Visual C++ 6.0
+java,Socket编程,HTTP传输协议,数据库设计,软件文档写作,中间件,JBPM
+java,JavaEE开发,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,Oracle数据库,面向对象分析,软件测试,C语言,分布式,Java Data Base Connectivity,中间件
+java,Spring框架,myBatis框架,MyBatis框架,Tomcat,AOP面向切面编程,系统设计,mysql数据库,面向对象分析,数据库设计,软件文档写作
+java,javaScript,面向对象分析,软件项目管理
+JavaEE架构,EJB,Tomcat,weblogic服务器,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,OOA面向对象分析,面向对象分析,Db2数据库,软件测试,C语言,关系型数据库,Jboss,SSH协议
+java,系统设计,软件测试
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,jsp(java服务器页面),Html,javaScript,mysql数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,多线程
+java,JavaEE架构,rose(UML画图工具),javaScript,mysql数据库,Oracle数据库,面向对象分析
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,jSon技术,软件测试,hadoop(分布式系统基础架构),分布式
+java,JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,Oracle数据库
+jQuery框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,apache,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),eclipse,javaScript,多线程,mysql数据库,Oracle数据库,linux操作系统,svn,jSon技术,并发控制,Shell语言,Maven(是一个项目管理工具),CXF,C语言,Webservice,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,HTTP传输协议,面向对象分析,软件测试,软件工程,关系型数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,XML技术,C语言
+java,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,NoSQL数据库,cache技术,C语言,Microsoft Visual C++ 6.0
+java,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,软件测试,Maven(是一个项目管理工具),编写技术方案,kettle,Solr,Java Message Service
+java,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),多线程,mysql数据库,linux操作系统,unix操作系统,软件测试,数据分析,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),jsp(java服务器页面),servlet,Html,Tomcat,javaScript,mysql数据库,linux操作系统,面向对象分析,Db2数据库,C语言,Java Data Base Connectivity,中间件,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),jsp(java服务器页面),servlet,Html,Tomcat,javaScript,mysql数据库,linux操作系统,面向对象分析,Db2数据库,C语言,Java Data Base Connectivity,中间件,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),jsp(java服务器页面),servlet,Html,Tomcat,javaScript,mysql数据库,linux操作系统,面向对象分析,Db2数据库,C语言,Java Data Base Connectivity,中间件,Jboss
+JavaEE架构,spring mvc框架,系统设计,mysql数据库,Oracle数据库,NoSQL数据库,linux操作系统,unix操作系统,C语言,分布式,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,javaScript,多线程,COM编程,网络编程,HTTP传输协议,面向对象分析,Mongo DB数据库,Bootstrap(Web前端CSS框架),C语言,bootstrap
+java,JavaEE架构,jsp(java服务器页面),EJB,weblogic服务器,websphere服务器,rose(UML画图工具),COM编程,系统分析,Oracle数据库,HTTP传输协议,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,JavaEE架构,jsp(java服务器页面),EJB,weblogic服务器,websphere服务器,rose(UML画图工具),COM编程,系统分析,Oracle数据库,HTTP传输协议,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,XML技术,数据库设计,C语言,Microsoft Visual C++ 6.0
+java,多线程
+java,Spring框架,spring mvc框架,css层叠样式表,Html,javaScript,软件测试,软件工程,数据结构,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,jSon技术,Db2数据库,软件文档写作,C语言,关系型数据库,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,数据库设计,关系型数据库,Webservice
+java,JavaEE架构,eclipse,SQL Server数据库,Oracle数据库,面向对象分析,数据库设计
+java,JavaEE架构,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Html,javaScript,SQL Server数据库,Oracle数据库,数据库设计
+java,JavaEE架构,Struts框架,Hibernate框架,jsp(java服务器页面),servlet,EJB,javaScript,Oracle数据库,linux操作系统,unix操作系统,软件测试
+java,Struts框架,Hibernate框架,Spring框架,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,SQL Server数据库,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,Tomcat,jetty服务器,eclipse,UML建模语言,XML技术,面向对象分析,软件架构设计,软件架构,office
+java,jQuery框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,Nginx,Tomcat,Memcached,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),eclipse,javaScript,多线程,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,svn,git,jSon技术,redis数据库,网络通信,Maven(是一个项目管理工具),C语言,Solr,ActiveMQ,RabbitMQ,Microsoft Visual C++ 6.0
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,NoSQL数据库,XML技术,C语言,关系型数据库,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,weblogic服务器,websphere服务器,系统设计,Oracle数据库,C语言
+java,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,面向对象分析
+多线程,系统设计,系统分析,网络编程,OOA面向对象分析,mina框架,分布式
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,php,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,数据库设计
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库
+java,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Html,多线程,mysql数据库,Oracle数据库,XML技术,C语言,Java Data Base Connectivity
+java,JavaEE架构,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),Html,ORM对象关系映射,ant(一种基于Java的build工具),多线程,mysql数据库,Oracle数据库,Socket编程,XML技术,JMeter(一个测试软件的工具),Maven(是一个项目管理工具),CXF,C语言,Java Data Base Connectivity,Junit,zookeeper,Restful
+java,jQuery框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,项目实施,中间件
+java,jsp(java服务器页面),servlet,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+java,JavaEE架构,javabean,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件测试,SSH协议
+JavaEE架构,Spring框架,Ibatis框架,jsp(java服务器页面),javaScript,XML技术,面向对象分析
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,多线程,SQL Server数据库,面向对象分析,Db2数据库,分布式
+jQuery框架,css层叠样式表,Html,javaScript,git,C语言,Microsoft Visual C++ 6.0,Backbone
+java,TCP/IP编程,linux操作系统,软件测试,数据结构
+java,Socket编程,数据结构,Adobe Illustrator(AI),C++语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+java,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),servlet,eclipse,javaScript,系统设计,面向对象分析
+java,jQuery框架,Struts框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,多线程,Socket编程,linux操作系统,svn,面向对象分析,数据库设计,C语言,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,JavaSe,C语言
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,EASYUI框架(UI架构),Tomcat,javaScript,多线程,mysql数据库,网络编程,编写技术方案,分布式
+java,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,数据库设计,编写技术方案,SSH协议
+java,jQuery框架,JavaEE架构,Extjs框架,jsp(java服务器页面),jstl,css层叠样式表,Html,eclipse,C#,.net,javaScript,mysql数据库,Oracle数据库,STL库,Objective-c语言,svn,面向对象分析,软件测试,C语言,Standard Template Library
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),servlet,javabean,EJB,css层叠样式表,Html,weblogic服务器,websphere服务器,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,jSon技术,面向对象分析,ERP(企业资源计划),C语言,Java Data Base Connectivity,关系型数据库,Java Message Service,Microsoft Visual C++ 6.0
+java,jQuery框架,jsp(java服务器页面),Html,Oracle数据库
+java,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,JAVA主流框架,Tomcat,多线程,CXF,C语言,WebService,rest,中间件,Enterprise Service Bus,Restful,Microsoft Visual C++ 6.0
+java,jQuery框架,Hibernate框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,jsp(java服务器页面),mysql数据库,Oracle数据库,linux操作系统,svn,软件测试,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,Spring框架,jsp(java服务器页面),servlet,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,SQL Server数据库,Oracle数据库,SSH协议
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),javabean,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),SQL Server数据库,Oracle数据库,XML技术
+java,jQuery框架,Spring框架,Ibatis框架,spring mvc框架,css层叠样式表,Html,Nginx,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,mysql数据库,Oracle数据库,Redis数据库,linux操作系统,svn,redis数据库,C语言,Solr,Webservice,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,面向对象分析
+jQuery框架,JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,Html,apache,Tomcat,weblogic服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+java,jQuery框架,Struts框架,Hibernate框架,spring mvc框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,编写技术方案,软件项目管理,项目实施,C语言,cms(Content Management System内容管理系统(网页有关)),Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,面向对象分析
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,系统分析,Oracle数据库,数据库理论和应用,C语言,Java Data Base Connectivity
+java,jQuery框架,JavaEE开发,Struts框架,Hibernate框架,Spring框架,Extjs框架,myEclipse,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,面向对象分析,Prototype,Android开发,Shell语言,数据库设计,C语言,Jboss
+java,Struts框架,Hibernate框架,Spring框架,JAVA主流框架,jsp(java服务器页面),Html,linux操作系统,XML技术,软件测试,Webservice
+Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+java,Hibernate框架,Spring框架,软件项目管理,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,MyBatis框架,Html,javaScript,SQL Server数据库,Oracle数据库,sybase数据库
+java,JavaEE开发,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,mysql数据库,linux操作系统,unix操作系统,svn,Maven(是一个项目管理工具),javaSe,软件项目管理,C语言,Java Data Base Connectivity
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,myEclipse,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,Socket编程,软件项目管理,C语言,Jboss
+java,JavaEE开发,Spring框架,myBatis框架,MyBatis框架,jsp(java服务器页面),servlet,mysql数据库,软件测试,javaSe,软件项目管理,C语言,Java Data Base Connectivity
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,myEclipse,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,Socket编程,C语言,Jboss
+java,JavaEE架构,jsp(java服务器页面),servlet,EJB,Html,javaScript,Oracle数据库,linux操作系统,UML建模语言,软件测试,CVS(一种自动测试工具),软件工程,C语言,Java Data Base Connectivity,Java Message Service
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,EASYUI框架(UI架构),spring mvc框架,MyBatis框架,css层叠样式表,javaScript,系统分析,mysql数据库,Oracle数据库,Android开发,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,EASYUI框架(UI架构),MyBatis框架,jsp(java服务器页面),servlet,EJB,Microsoft Office Visio,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,单元测试工具,熟悉主流测试工具,数据结构,编写技术方案,office,project,C语言,分布式,Java Data Base Connectivity,关系型数据库,Java Message Service
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,ORM对象关系映射,javaScript,mysql数据库,Oracle数据库,数据库设计,C语言,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE架构,css层叠样式表,Html,javaScript,mysql数据库,Oracle数据库,软件测试
+java,JavaEE架构,Extjs框架,jsp(java服务器页面),.net,javaScript,多线程,Socket编程,HTTP传输协议,xmpp协议,网络通信,软件测试,openfire
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Extjs框架,css层叠样式表,apache,Tomcat,weblogic服务器,javaScript,多线程,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据库设计,CXF,C语言,Webservice,Enterprise Service Bus
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,eclipse,mysql数据库,Oracle数据库,面向对象分析,软件测试,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,weblogic服务器,mysql数据库,Oracle数据库,UML建模语言,XML技术,C语言,Java Message Service
+java,rose(UML画图工具),系统设计,系统分析,UML建模语言,面向对象分析,软件文档写作,分布式,中间件
+jQuery框架,Struts框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库,项目实施
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,EJB,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,XML技术,jSon技术,面向对象分析,Db2数据库,软件工程,C语言,Java Data Base Connectivity
+jQuery框架,JavaEE架构,myEclipse,jsp(java服务器页面),servlet,jstl,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,linux操作系统,STL库,XML技术,软件测试,C语言,Java Data Base Connectivity,关系型数据库,Standard Template Library
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,jsp(java服务器页面),css层叠样式表,javaScript,linux操作系统,软件测试,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,jsp(java服务器页面),servlet,Html,javaScript,SSH协议
+JavaEE架构,jsp(java服务器页面),servlet,Html,javaScript,SSH协议
+jQuery框架,JavaEE架构,myEclipse,jsp(java服务器页面),servlet,jstl,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,linux操作系统,STL库,XML技术,软件测试,C语言,Java Data Base Connectivity,关系型数据库,Standard Template Library
+java,eclipse,linux操作系统,软件测试,关系型数据库
+java,SQL Server数据库,项目实施
+java,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,javaScript,Oracle数据库,Db2数据库,软件工程,C语言
+java,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,javaScript,Oracle数据库,Db2数据库,软件工程,C语言
+java,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,javaScript,Oracle数据库,Db2数据库,软件工程,C语言
+java,jsp(java服务器页面),Tomcat,weblogic服务器,websphere服务器,javaScript,Oracle数据库,Db2数据库,软件工程,C语言
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),javabean,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,XML技术,软件测试,C语言,关系型数据库,Jboss
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),C语言,中间件
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,jetty服务器,Memcached,ant(一种基于Java的build工具),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,NoSQL数据库,Redis数据库,面向对象分析,redis数据库,网络通信,软件测试,hadoop(分布式系统基础架构),Maven(是一个项目管理工具),数据结构,C语言,分布式,postgresql,数据挖掘,Java Data Base Connectivity,SOA,OAuth,Java Message Service
+java,JavaEE架构,Spring框架,spring mvc框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0
+java,Html,C#,COM编程,系统分析,HTTP传输协议,软件工程,C语言
+java,COM编程,Oracle数据库,软件项目管理,SSH协议
+java,jQuery框架,css层叠样式表,Html,javaScript,COM编程,Oracle数据库,SSH协议
+java,jQuery框架,css层叠样式表,Html,javaScript,COM编程,Oracle数据库,SSH协议
+java,jQuery框架,Struts框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,javabean,Html,AJAX(异步的JavaScript与XML技术),Dreamweaver,eclipse,javaScript,SQL Server数据库,Oracle数据库,C语言,Java Data Base Connectivity
+java,Spring框架,spring mvc框架,mysql数据库,svn,Maven(是一个项目管理工具),C语言,Microsoft Visual C++ 6.0
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,JAVA主流框架,javaScript,mysql数据库
+java,系统分析
+java,JavaEE架构,jsp(java服务器页面),SQL Server数据库,Oracle数据库,Db2数据库
+java,Spring框架,Ibatis框架,SQL Server数据库,Oracle数据库,数据结构
+java,Struts框架,Hibernate框架,Spring框架,Memcached,mysql数据库,linux操作系统
+java,JavaEE架构,Hibernate框架,Spring框架,面向对象分析,数据分析,数据结构,数据挖掘,关系型数据库
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,软件项目管理,项目实施
+java,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,websphere服务器,Oracle数据库,Db2数据库,软件项目管理,C语言
+java,Spring框架,myBatis框架,MyBatis框架,servlet,Html,javaScript,mysql数据库,Oracle数据库,linux操作系统,git,软件测试,SOA,Java Message Service
+JavaEE架构,Spring框架,系统分析,EOS嵌入式操作系统,ERP(企业资源计划),软件项目管理,Open Service Gateway Initiative
+jQuery框架,Struts框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库
+java,JavaEE架构,Hibernate框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,unix操作系统,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,网络编程,HTTP传输协议,svn,git,jSon技术,软件测试,C语言,关系型数据库,Webservice,rest,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Struts框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,网络编程,HTTP传输协议,svn,git,jSon技术,软件测试,C语言,关系型数据库,Webservice,rest,Microsoft Visual C++ 6.0
+jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,DWR框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,sybase数据库
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myEclipse,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,apache,Tomcat,weblogic服务器,websphere服务器,rose(UML画图工具),eclipse,javaScript,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,svn,XML技术,面向对象分析,Android开发,CVS(一种自动测试工具),数据库设计,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,UML建模语言,XML技术,Db2数据库,软件测试,Webservice
+java,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,javaScript,多线程,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Struts框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库
+java,JavaEE架构,Spring框架,Ibatis框架,系统分析,mysql数据库,软件架构设计,软件测试,软件工程,软件架构,Open Service Gateway Initiative
+jQuery框架,Struts框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),mysql数据库,Oracle数据库
+java,jQuery框架,JavaEE架构,Extjs框架,css层叠样式表,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,C语言,SSH协议
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,servlet,css层叠样式表,Html,Tomcat,weblogic服务器,XHTML,javaScript,mysql数据库,Oracle数据库,Socket编程,svn,XML技术,jSon技术,数据库设计,Maven(是一个项目管理工具),C语言,Webservice,Junit,DOM
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,关系型数据库
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,数据库设计,C语言,Jboss
+java,Struts框架,Hibernate框架,Spring框架,NoSQL数据库,关系型数据库
+java,Tomcat,weblogic服务器,系统设计,系统分析,SQL Server数据库,Socket编程,linux操作系统,网络编程,UML建模语言,HTTP传输协议,软件测试,mina框架,数据结构,C语言,Powerdesigner,Jboss,SSH协议,Microsoft Visual C++ 6.0
+java,spring mvc框架,css层叠样式表,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,多线程,svn,XML技术,jSon技术,Android开发,C语言,分布式,postgresql,Java Data Base Connectivity,Microsoft Visual C++ 6.0
+java,多线程,HTTP传输协议,svn
+java,Tomcat,多线程,Socket编程,HTTP传输协议,svn,分布式
+java,JavaEE架构,Spring框架,spring mvc框架,css层叠样式表,Html,apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,NoSQL数据库,TCP/IP编程,linux操作系统,HTTP传输协议,Shell语言,编写技术方案,C语言,分布式,关系型数据库,Webservice,rest,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),javabean,Html,Oracle数据库,C语言,Java Data Base Connectivity
+java,数据结构,C语言
+java,jQuery框架,Spring框架,Extjs框架,spring mvc框架,myEclipse,eclipse,javaScript,mysql数据库,UML建模语言,svn,面向对象分析,软件测试,JavaSe,C语言,Junit,SSH协议,Microsoft Visual C++ 6.0
+jQuery框架,Struts框架,Hibernate框架,Spring框架,myBatis框架,DWR框架,MyBatis框架,Memcached,AJAX(异步的JavaScript与XML技术),mysql数据库,linux操作系统,jSon技术
+java,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,面向对象分析,熟悉一种脚本语言
+java,JavaEE架构,Spring框架,Ibatis框架,php,apache,Tomcat,多线程,mysql数据库,NoSQL数据库,python编程,Mongo DB数据库,ruby
+java,jsp(java服务器页面),css层叠样式表,Html,.net,javaScript,mysql数据库,Oracle数据库,Db2数据库,软件工程,数据结构
+java,jsp(java服务器页面),css层叠样式表,Html,.net,javaScript,mysql数据库,Oracle数据库,Db2数据库,软件工程,数据结构
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),javaScript,多线程,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,网络编程,XML技术,jSon技术,软件测试,数据库设计,关系型数据库
+java,JavaEE架构,Hibernate框架,spring mvc框架,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Hibernate框架,spring mvc框架,Tomcat,weblogic服务器,mysql数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,css层叠样式表,Html,apache,Tomcat,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,软件测试,C语言,Webservice,Microsoft Visual C++ 6.0
+java,JavaEE架构,Hibernate框架,Spring框架,系统设计,面向对象分析,软件测试
+java,Memcached,ORM对象关系映射,AOP面向切面编程,IOC控制反转,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,面向对象分析,redis数据库,cache技术,Perl语言,熟悉一种脚本语言,C语言,分布式,ruby,groovy,Lua,Ehcache,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,svn,XML技术,CXF,C语言,WebService,Microsoft Visual C++ 6.0
+java,jQuery框架,JavaEE架构,Extjs框架,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,系统分析,mysql数据库,Oracle数据库,linux操作系统,python编程,UML建模语言,XML技术,软件测试,Shell语言,Perl语言,熟悉一种脚本语言,ruby,groovy,Lua,SSH协议
+java,jQuery框架,css层叠样式表,Html,apache,Nginx,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),Smarty(一个使用PHP写出来的模板引擎),javaScript,mysql数据库,XML技术,软件测试,C语言,SSH协议,Microsoft Visual C++ 6.0
+java,jQuery框架,myBatis框架,Ibatis框架,MyBatis框架,myEclipse,css层叠样式表,Html,apache,Tomcat,Memcached,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,linux操作系统,XML技术,面向对象分析,Shell语言
+java
+java,Struts框架,Spring框架,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,linux操作系统,软件测试,Webservice
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Extjs框架,jsp(java服务器页面),servlet,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,面向对象分析,Prototype,熟悉一种脚本语言,C语言
+java,Struts框架,Hibernate框架,Spring框架,javaScript,多线程,系统设计,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,Db2数据库,软件测试,熟悉一种脚本语言,Webservice
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,servlet,css层叠样式表,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,linux操作系统,svn,Webservice
+jQuery框架,EASYUI框架(UI架构),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Jboss
+java,JavaEE架构,Struts框架,Spring框架,Ibatis框架,mysql数据库,Oracle数据库,面向对象分析,Maven(是一个项目管理工具),软件项目管理,分布式,Junit
+java,JavaEE架构,Struts框架,Spring框架,Ibatis框架,Oracle数据库,Redis数据库,面向对象分析,redis数据库,Maven(是一个项目管理工具),Recovery Manager,Junit
+java,JavaEE架构,Spring框架,Ibatis框架,css层叠样式表,Html,Nginx,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,多线程,mysql数据库,Oracle数据库,UML建模语言,面向对象分析,C语言
+java
+JavaEE架构,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,软件测试
+java,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,mysql数据库,Oracle数据库,XML技术,jSon技术,面向对象分析,C语言,Jboss,Microsoft Visual C++ 6.0
+java,Db2数据库,sybase数据库
+java,Db2数据库,sybase数据库
+java,Db2数据库,sybase数据库
+java,Db2数据库,sybase数据库
+java,Db2数据库,sybase数据库
+java,Db2数据库,sybase数据库
+java,jQuery框架,JavaEE架构,Spring框架,Ibatis框架,JAVA主流框架,jsp(java服务器页面),jstl,css层叠样式表,Nginx,Tomcat,weblogic服务器,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,STL库,redis数据库,C语言,ActiveMQ,Standard Template Library
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,系统分析,mysql数据库,Oracle数据库,UML建模语言,Db2数据库,软件测试,软件工程,数据库设计,Erwin,Powerdesigner,DOM
+mysql数据库,SSH协议,JBPM
+java,JavaEE架构,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术,Android开发
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Extjs框架,EASYUI框架(UI架构),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析
+java,jsp(java服务器页面),php,C#,mysql数据库,SQL Server数据库,sqlite数据库,C语言,C++语言
+java,xmpp协议,openfire
+java,Struts框架,Html,javaScript
+JavaEE架构,Struts框架,Hibernate框架,Spring框架,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,Db2数据库,C语言,Webservice,Jboss,Microsoft Visual C++ 6.0
+java,JavaEE开发,Jsf框架,eclipse,SQL Server数据库,XML技术,Maven(是一个项目管理工具),C语言,postgresql,关系型数据库,soap,Microsoft Visual C++ 6.0
+java,office
+java,Hibernate框架,Spring框架,Ibatis框架,apache,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Ibatis框架,jsp(java服务器页面),Tomcat,websphere服务器,javaScript,SQL Server数据库,Oracle数据库,软件测试,Webservice
+jQuery框架,bootstrap框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Bootstrap框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,eclipse,javaScript,SQL Server数据库,Oracle数据库,jSon技术,Db2数据库,Bootstrap(Web前端CSS框架),C语言,bootstrap
+java,weblogic服务器,websphere服务器,Oracle数据库,Android开发,C语言,SOA
+java,weblogic服务器,websphere服务器,Oracle数据库,C语言,SOA
+java,jQuery框架,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,XML技术,Prototype,数据库设计,C语言,Java Message Service,Microsoft Visual C++ 6.0
+JavaEE架构,系统设计,软件架构设计,软件架构
+java,css层叠样式表,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件工程
+css层叠样式表,Html,javaScript
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,DOM,BOM
+java,Struts框架,Spring框架,jsp(java服务器页面),servlet,javabean,Photoshop,系统设计,mysql数据库,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,面向对象分析,软件测试,C语言,Java Data Base Connectivity
+java,mysql数据库,Oracle数据库,NoSQL数据库
+java,Struts框架,Spring框架,jsp(java服务器页面),servlet,javabean,Photoshop,系统设计,mysql数据库,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,面向对象分析,软件测试,C语言,Java Data Base Connectivity
+Struts框架,Hibernate框架,Spring框架,Ibatis框架,COM编程,HTTP传输协议,软件架构设计,软件架构,数据库设计,数据库建模
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,websphere服务器,javaScript,mysql数据库,Oracle数据库,Db2数据库,C语言
+java,jQuery框架,Struts框架,Spring框架,Ibatis框架,javaScript
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,apache,Tomcat,weblogic服务器,系统分析,SQL Server数据库,Oracle数据库,C语言,Jboss
+java,jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,linux操作系统,软件测试
+jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,Tomcat,weblogic服务器,websphere服务器,javaScript,mysql数据库,Oracle数据库,Db2数据库,C语言
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,Oracle数据库,XML技术,软件测试,C语言,Jboss,Microsoft Visual C++ 6.0
+JavaEE架构,Struts框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,css层叠样式表,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,面向对象分析,C语言,关系型数据库,Webservice,soap,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),javaScript,UML建模语言,面向对象分析,熟悉一种脚本语言,关系型数据库
+java,COM编程,HTTP传输协议,Webservice
+java
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,Nginx,Tomcat,Nginx(("engine x")是一个高性能的HTTP和反向代理服务器),javaScript,系统设计,mysql数据库,linux操作系统,消息队列,svn,XML技术,jSon技术,软件测试,熟悉一种脚本语言,ActiveMQ,Java Message Service
+java,JavaEE架构,css层叠样式表,Html,javaScript,多线程,系统分析,mysql数据库,Oracle数据库,linux操作系统,UML建模语言,HTTP传输协议,软件测试,分布式
+java,Struts框架,Spring框架,jsp(java服务器页面),servlet,javabean,Photoshop,系统设计,mysql数据库,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,面向对象分析,软件测试,C语言,Java Data Base Connectivity
+java,jsp(java服务器页面),servlet,AOP面向切面编程,多线程,mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,TCP/IP编程,Socket编程,linux操作系统,Mongo DB数据库,UDP,C语言,分布式,HBase,Microsoft Visual C++ 6.0
+java,jsp(java服务器页面),servlet,javaScript,mysql数据库,Oracle数据库,NoSQL数据库,Hbase数据库,Mongo DB数据库,C语言,HBase,Microsoft Visual C++ 6.0
+java,面向对象分析,Db2数据库,数据库设计,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,EASYUI框架(UI架构),Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,SOA,Jboss
+java,jQuery框架,Hibernate框架,Html,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,linux操作系统,python编程,面向对象分析,Mongo DB数据库,redis数据库,软件工程
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,EJB,javaScript,系统分析,mysql数据库,Oracle数据库,XML技术,数据库设计,hadoop(分布式系统基础架构),软件文档写作,C语言,Java Data Base Connectivity,Java Message Service,SSH协议,Microsoft Visual C++ 6.0
+java,jsp(java服务器页面),javaScript,Oracle数据库
+java,jQuery框架,Struts框架,Spring框架,Ibatis框架,javaScript,系统设计,Oracle数据库,linux操作系统,分布式
+java,JavaEE架构,Hibernate框架,Spring框架,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,软件工程
+java,Html,AJAX(异步的JavaScript与XML技术),javaScript,jSon技术,数据结构
+java,jQuery框架,Spring框架,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),AOP面向切面编程,javaScript,软件工程,项目实施,Webservice
+java,Struts框架,Spring框架,Ibatis框架,css层叠样式表,Html,javaScript,mysql数据库,面向对象分析,软件测试
+java,JavaEE架构,Hibernate框架,Spring框架,Ibatis框架,Tomcat,jetty服务器,eclipse,Oracle数据库,svn,OOA面向对象分析,OOD面向对象设计,面向对象分析,Maven(是一个项目管理工具),postgresql,WebService,SOA
+java,软件工程,C语言,C++语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),javaScript,系统设计,系统分析,mysql数据库,Oracle数据库,linux操作系统,XML技术,面向对象分析,数据库设计,C语言,Java Data Base Connectivity,DOM
+java,Spring框架,Ibatis框架,spring mvc框架,css层叠样式表,Html,javaScript,系统设计,mysql数据库,Oracle数据库,HTTP传输协议,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Spring框架,Ibatis框架,jsp(java服务器页面),mysql数据库,SQL Server数据库,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,jsp(java服务器页面),servlet,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,Socket编程,网络编程,svn,XML技术,CXF,C语言,WebService,Microsoft Visual C++ 6.0
+java,Oracle数据库,UML建模语言,面向对象分析
+java,系统设计,Oracle数据库,linux操作系统,unix操作系统,python编程,Mongo DB数据库,软件测试
+java,jsp(java服务器页面),javaScript,Oracle数据库,PL/SQL
+java,JavaEE架构,Spring框架,SQL Server数据库,Oracle数据库,Redis数据库,redis数据库,hadoop(分布式系统基础架构),软件项目管理,项目实施,C语言,JBPM
+java,Hibernate框架,Spring框架,spring mvc框架,mysql数据库,Oracle数据库,面向对象分析,C语言,分布式,Microsoft Visual C++ 6.0
+jQuery框架,Spring框架,myBatis框架,spring mvc框架,MyBatis框架,mysql数据库,Oracle数据库,linux操作系统,svn,Shell语言,软件工程,数据库设计,Maven(是一个项目管理工具),软件项目管理,C语言,Junit,Microsoft Visual C++ 6.0
+java,JavaEE架构,linux操作系统,软件测试,软件项目管理
+java,Struts框架,Spring框架,Html,Tomcat,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,Oracle数据库,linux操作系统,软件测试,Webservice
+java,Hibernate框架,Spring框架,jsp(java服务器页面),EJB,weblogic服务器,websphere服务器,mysql数据库,Oracle数据库,C语言
+java,jQuery框架,Struts框架,Spring框架,myBatis框架,Ibatis框架,spring mvc框架,MyBatis框架,css层叠样式表,Html,Memcached,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,javaScript,多线程,NoSQL数据库,Socket编程,linux操作系统,unix操作系统,HTTP传输协议,XML技术,面向对象分析,软件测试,数据库设计,Maven(是一个项目管理工具),C语言,分布式,Microsoft Visual C++ 6.0
+java,jQuery框架,Struts框架,myBatis框架,MyBatis框架,css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件工程,数据结构,SSH协议
+java,jQuery框架,Hibernate框架,Spring框架,Extjs框架,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,面向对象分析,Db2数据库,C语言,中间件
+java,JavaEE架构,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),数据库设计,C语言,C++语言,关系型数据库,Webservice
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,系统分析,mysql数据库,Oracle数据库,XML技术,面向对象分析,Db2数据库,sybase数据库,软件工程,C语言
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,jsp(java服务器页面),servlet,javabean,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,javaScript,系统分析,mysql数据库,Oracle数据库,XML技术,面向对象分析,Db2数据库,sybase数据库,软件工程,软件项目管理,C语言
+java,JavaEE架构,Hibernate框架,Spring框架,AJAX(异步的JavaScript与XML技术),系统设计,数据库设计,关系型数据库,Webservice
+java,mysql数据库,Oracle数据库,Db2数据库,数据库理论和应用,C语言,Java Data Base Connectivity
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,css层叠样式表,Html,Tomcat,AJAX(异步的JavaScript与XML技术),ant(一种基于Java的build工具),javaScript,mysql数据库,Oracle数据库,linux操作系统,git,Maven(是一个项目管理工具)
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,linux操作系统,unix操作系统
+java,Struts框架,Hibernate框架,Spring框架,apache,Tomcat,weblogic服务器,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,Db2数据库,软件测试,数据库设计,C语言,postgresql
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,servlet,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,XML技术,数据库设计,C语言,WebService,中间件,SOA,Restful,Jboss
+Html,ORM对象关系映射,COM编程,linux操作系统,python编程,ERP(企业资源计划),Shell语言,Adobe Illustrator(AI),office,project,C语言,django框架,postgresql,Microsoft Visual C++ 6.0
+mysql数据库,Oracle数据库,hadoop(分布式系统基础架构),ETL(数据仓库技术),C语言,Microsoft SQL Server Integration Services,数据挖掘,Hive,Cognos,Informatica
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,websphere服务器,mysql数据库,XML技术,C语言,Java Data Base Connectivity,Jboss
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,css层叠样式表,Html,Tomcat,websphere服务器,mysql数据库,XML技术,C语言,Java Data Base Connectivity,Jboss
+java,JavaEE架构,jsp(java服务器页面),javabean,EJB,mysql数据库,SQL Server数据库,Oracle数据库,Java Message Service
+java,JavaEE开发,Hibernate框架,Spring框架,javaScript,mysql数据库,Oracle数据库,NoSQL数据库,linux操作系统,UML建模语言,svn,git,面向对象分析,软件测试,数据库设计,javaSe,postgresql,关系型数据库
+java,软件工程
+java,jQuery框架,JavaEE架构,Struts框架,Hibernate框架,Spring框架,myBatis框架,MyBatis框架,AJAX(异步的JavaScript与XML技术),javaScript,UML建模语言,面向对象分析,熟悉一种脚本语言,关系型数据库
+java,jQuery框架,bootstrap框架,Hibernate框架,Spring框架,Ibatis框架,spring mvc框架,Bootstrap框架,jsp(java服务器页面),servlet,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,XML技术,jSon技术,软件测试,Bootstrap(Web前端CSS框架),C语言,bootstrap,rest,Microsoft Visual C++ 6.0
+java,JavaEE架构,Struts框架,Spring框架,jsp(java服务器页面),servlet,Tomcat,weblogic服务器,websphere服务器,mysql数据库,SQL Server数据库,Oracle数据库,sybase数据库,数据库设计,C语言,关系型数据库,中间件,Microsoft Visual C++ 6.0,JBPM
+java,css层叠样式表,Html,javaScript,linux操作系统,svn,git,web后端设计与开发,ruby

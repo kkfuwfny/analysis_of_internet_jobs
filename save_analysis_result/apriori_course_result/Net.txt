@@ -1,0 +1,1516 @@
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,COM编程
+ORM对象关系映射,C#,.net,面向对象分析,软件文档写作,C语言,Windows Communication Foundation
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言
+C#,.net,软件工程,数据结构,C语言
+.net
+C#,.net,mysql数据库,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+C#,.net,C语言
+jQuery框架,Hibernate框架,css层叠样式表,.net,javaScript,SQL Server数据库,ERP(企业资源计划)
+Hibernate框架,css层叠样式表,ORM对象关系映射,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言,Windows Communication Foundation,Webservice,嵌入式操作系统
+jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,软件工程,数据库系统原理,项目实施,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件测试,office,C语言,网络安全技术
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,.net,javaScript,Prototype,软件测试,美工基础,office,网络安全技术
+C#,.net,mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,面向对象分析,redis数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,C语言
+C#,.net,SQL Server数据库,面向对象分析,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言,Webservice
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,软件测试,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,svn,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,软件测试,软件工程,Webservice
+java,jQuery框架,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,软件测试,软件工程,Webservice
+C#,.net,javaScript,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,mysql数据库,SQL Server数据库,TCP/IP编程,网络编程,软件测试,office,C语言
+jQuery框架,Extjs框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,Oracle数据库,XML技术,面向对象分析,sybase数据库,C语言,Microsoft Visual C++ 6.0
+.net,mysql数据库,SQL Server数据库,Oracle数据库
+css层叠样式表,Html,ORM对象关系映射,.net,javaScript,系统分析,XML技术,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,.net,javaScript,多线程,串口编程,串口开发
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,系统设计,SQL Server数据库,XML技术,C语言,WebService
+java,php,ORM对象关系映射,C#,.net,javaScript,windows操作系统,mysql数据库,Oracle数据库,XML技术,数据分析,C语言,分布式,Windows Communication Foundation,Webservice
+C#,.net,COM编程,SQL Server数据库,OOD面向对象设计,Android开发,软件工程,C语言,Windows Communication Foundation
+C#,.net,COM编程,SQL Server数据库,OOD面向对象设计,Android开发,软件工程,C语言,Windows Communication Foundation
+C#,.net,COM编程,面向对象分析,C语言,分布式,Windows Communication Foundation
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,svn,Db2数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,C#,.net,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+.net,COM编程,UML建模语言,XML技术,Webservice,soap,管理信息系统
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,svn,Db2数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,XML技术,软件文档写作,C语言,Webservice,Microsoft Visual C++ 6.0
+.net
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言,Windows Communication Foundation
+java,.net,多线程,mysql数据库,SQL Server数据库,Socket编程,数据结构,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,XML技术,C语言,Microsoft Visual C++ 6.0
+Html,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式,Microsoft Visual C++ 6.0
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,svn,Db2数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,系统设计,SQL Server数据库,面向对象分析,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,TCP/IP编程,HTTP传输协议,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+.net
+Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+AJAX(异步的JavaScript与XML技术),.net,javaScript,COM编程,SQL Server数据库,软件项目管理,C语言,Microsoft Visual C++ 6.0,电子商务
+css层叠样式表,.net,SQL Server数据库
+软件测试,cms(Content Management System内容管理系统(网页有关))
+软件测试,cms(Content Management System内容管理系统(网页有关))
+jQuery框架,css层叠样式表,.net,javaScript,系统设计,SQL Server数据库,Socket编程,XML技术,电子商务
+css层叠样式表,Html,C#,.net,javaScript,系统分析,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+Html,web2.0,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,分布式,Webservice
+Html,web2.0,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,分布式,Webservice
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+C#,.net,系统设计,SQL Server数据库,Oracle数据库,项目实施,C语言
+C#,.net,多线程,mysql数据库,SQL Server数据库,Oracle数据库,C语言,分布式,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+.net,多线程,系统分析,NoSQL数据库,软件架构设计,软件架构,分布式
+java,.net
+java,JavaEE架构,.net
+Html,C#,.net,javaScript,SQL Server数据库,C语言,visual basic script
+java,ORM对象关系映射,C#,面向对象分析,C语言,Microsoft Visual C++ 6.0
+java,C#,.net,系统分析,SQL Server数据库,软件工程,软件项目管理,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,.net,javaScript,COM编程,系统设计,SQL Server数据库,XML技术,ERP(企业资源计划),电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,office,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,office,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,C语言
+java,myEclipse,css层叠样式表,Html,Tomcat,weblogic服务器,AJAX(异步的JavaScript与XML技术),XHTML,eclipse,C#,.net,javaScript,Oracle数据库,网络编程,XML技术,C语言
+css层叠样式表,.net,SQL Server数据库
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,软件架构设计,软件测试,软件架构,数据库系统原理,C语言
+.net
+jQuery框架,C#,.net,javaScript,COM编程,HTTP传输协议,XML技术,jSon技术,自动化测试(使用自动化测试软件、框架等),C语言,rest
+C#,.net,SQL Server数据库,软件项目管理,C语言,网络安全技术
+css层叠样式表,Html,C#,.net,visualStudio,SQL Server数据库,vss,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,Oracle数据库,XML技术,jSon技术,C语言,Webservice
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,Oracle数据库,XML技术,jSon技术,C语言,Webservice
+C#,.net,系统分析,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,系统设计,mysql数据库,XML技术,Access数据库
+Html,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,面向对象分析,软件测试,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,windows操作系统,SQL Server数据库,XML技术,软件测试,C语言
+jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,jSon技术,C语言,Webservice
+.net,Oracle数据库,软件工程,软件项目管理,C语言,Windows Communication Foundation,Webservice
+ORM对象关系映射,.net
+bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,Bootstrap(Web前端CSS框架),C语言,bootstrap,DOM
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,面向对象分析,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,C语言,Microsoft Visual C++ 6.0
+C#,.net,windows操作系统,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,面向对象分析,C语言
+jQuery框架,bootstrap框架,Hibernate框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,XML技术,面向对象分析,Bootstrap(Web前端CSS框架),C语言,Wind
+jQuery框架,bootstrap框架,Extjs框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,软件测试,软件项目管理,Bootstrap(Web前端CSS框
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,ERP(企业资源计划),美工基础,C语言
+css层叠样式表,Html,XHTML,.net,javaScript,多线程,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,Flash,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,数据库系统原理,软件文档写作,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,软件测试,数据结构,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,XML技术,ERP(企业资源计划),软件测试,软件项目管理,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,Oracle数据库,svn,XML技术,面向对象分析,C语言,Webservice
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,vss,XML技术,C语言,Arcgis,Windows Communication Foundation,Webservice,ArcGIS
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,visualStudio,UML建模语言,HTTP传输协议,XML技术,jSon技术,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0
+.net,系统设计
+.net,SQL Server数据库
+C#,.net,visualStudio,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,XML技术,Prototype,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,数据库系统原理,C语言
+C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,C++语言
+jQuery框架,css层叠样式表,Html,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Extjs框架,EASYUI框架(UI架构),AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,svn,面向对象分析,C语言,Microsoft Visual C++ 6.0
+C#,系统设计,SQL Server数据库,Oracle数据库,软件工程,C语言
+C#,.net,SQL Server数据库,HTTP传输协议,软件测试,软件项目管理,C语言,Windows Communication Foundation
+C#,.net,mysql数据库,SQL Server数据库,面向对象分析,数据库系统原理,C语言
+.net,visualStudio,SQL Server数据库,Oracle数据库,Socket编程,C语言,电子商务
+jQuery框架,Hibernate框架,Memcached,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),C#,.net,visualStudio,mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,UML建模语言,面向对象分析,MongoDB数据库,redis数据库,
+C#,visualStudio,系统分析,windows操作系统,面向对象分析,软件测试,C语言
+jQuery框架,css层叠样式表,Html,php,apache,AJAX(异步的JavaScript与XML技术),Smarty(一个模板引擎),javaScript,系统设计,mysql数据库,SQL Server数据库
+java,jQuery框架,Struts框架,Spring框架,css层叠样式表,Html,eclipse,C#,.net,多线程,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,svn,Android SDK,ERP(企业资源计划),网络通信,Android开发,软件工程,C语言,关系型数
+.net,ITIL
+JavaEE架构,C#,.net,COM编程,SQL Server数据库,Oracle数据库,Db2数据库,ERP(企业资源计划),C语言,SOA
+C#,.net,SQL Server数据库,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0,DOM
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0,DOM
+C#,.net,TCP/IP编程,面向对象分析,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,数据库系统原理,C语言,Webservice
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,软件工程,数据库系统原理,C语言,Webservice
+css层叠样式表,.net,SQL Server数据库,Oracle数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+.net,多线程,系统分析,SQL Server数据库,Oracle数据库,数据库系统原理,数据结构
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0,DOM
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0,DOM
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,SQL Server数据库,软件测试,C语言,Webservice
+.net,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,软件测试
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,数据库系统原理,C语言
+.net,软件测试
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,Oracle数据库,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+Html,C#,.net,javaScript,XML技术,C语言
+C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,软件测试,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,关系型数据库,Microsoft Visual C++ 6.0
+jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,C语言,分布式,Windows Communication Foundation,Webservice,Microsoft Visual
+C#,.net,SQL Server数据库,C语言
+.net,面向对象分析,Arcgis,ArcGIS
+jQuery框架,css层叠样式表,Html,TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,vss,C语言
+AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,SQL Server数据库,XML技术,软件测试,软件项目管理,电子商务
+C#,.net,javaScript,COM编程,SQL Server数据库,Oracle数据库,ERP(企业资源计划),C语言
+css层叠样式表,Html,C#,.net,javaScript,C语言
+AJAX(异步的JavaScript与XML技术),.net,visualStudio,SQL Server数据库,XML技术,Access数据库,C语言,Webservice
+C#,.net,数据分析,软件项目管理,C语言,数据挖掘,机器学习
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,SQL Server数据库,XML技术,ERP(企业资源计划),软件测试,数据分析,C语言,Windows Communication Foundation,Webservice,M
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,SQL Server数据库,C语言,Webservice
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,SQL Server数据库,C语言,Webservice
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,SQL Server数据库,Oracle数据库,数据库系统原理,软件项目管理,C语言,Webservice,电子商务
+jQuery框架,Extjs框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,数据库系统原理,C语言
+C#,数据库系统原理,数据结构,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,C#,.net,javaScript,XML技术,jSon技术,C语言,分布式,Powerdesigner,XSLT,Microsoft Visual C++ 6.0
+.net,系统设计,SQL Server数据库,Oracle数据库,Db2数据库
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,C#,.net,javaScript,XML技术,jSon技术,C语言,分布式,Powerdesigner,XSLT,Microsoft Visual C++ 6.0
+C#,.net,C语言
+C#,.net,SQL Server数据库,软件测试,C语言,关系型数据库,WinCE
+jQuery框架,bootstrap框架,Bootstrap框架,AJAX(异步的JavaScript与XML技术),.net,Oracle数据库,Prototype,Bootstrap(Web前端CSS框架),bootstrap
+jQuery框架,C#,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,C语言,C++语言
+java,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Webservice
+C#,visualStudio,SQL Server数据库,Oracle数据库,C语言
+.net,系统设计,TCP/IP编程,面向对象分析,软件架构设计,软件测试,软件架构,数据库系统原理,软件文档写作
+jQuery框架,Extjs框架,EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,C语言,Microsoft Visual C++ 6.0
+java,C#,.net,mysql数据库,Oracle数据库,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,HTTP传输协议,XML技术,C语言,C++语言
+.net
+C#,.net,SQL Server数据库,ERP(企业资源计划),C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,SQL Server数据库,XML技术,web后端设计与开发,C语言,WebService,Microsoft Visual C++ 6.0,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,XML技术,web后端设计与开发,C语言,WebService,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,windows操作系统,svn,美工基础,C语言,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,多线程,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,C语言,C++语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,OOA面向对象分析,OOD面向对象设计,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+C#,.net,系统设计,SQL Server数据库,Oracle数据库,软件测试,C语言
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,.net,javaScript,系统设计,SQL Server数据库,Socket编程,XML技术,电子商务
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+java,jQuery框架,bootstrap框架,Bootstrap框架,Html,php,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,Bootstrap(Web前端CSS框架),C语言,bootstrap,Sencha Touch
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,vss,XML技术,面向对象分析,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+java,C#,.net,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,网络编程,SIP协议,HTTP传输协议,C语言,C++语言,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,C语言
+jQuery框架,css层叠样式表,Html,javaScript
+C#,.net,windows操作系统,SQL Server数据库,XML技术,软件测试,office,C语言,Webservice
+AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言,Webservice
+C#,.net,SQL Server数据库,Oracle数据库,XML技术,C语言
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,svn,vss,XML技术,C语言,Microsoft Visual C++ 6.0
+jQuery框架,memcache,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,AOP面向切面编程,C#,.net,javaScript,SQL Server数据库,Redis数据库,OOD面向对象设计,redis数据库,cache技术,C语言,RabbitMQ,SOA,Microsoft Visual C++ 6.0,
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,memcache,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,AOP面向切面编程,C#,.net,javaScript,SQL Server数据库,Redis数据库,OOD面向对象设计,redis数据库,cache技术,C语言,RabbitMQ,SOA,Microsoft Visual C++ 6.0,
+C#,.net,SQL Server数据库,Oracle数据库,Db2数据库,软件测试,软件工程,C语言
+C#,.net,C语言
+JavaEE架构,C#,.net,visualStudio,GUI编程,OOD面向对象设计,C语言
+C#,Oracle数据库,软件项目管理,C语言
+.net,Oracle数据库,软件测试,软件项目管理,项目实施
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,XML技术,软件架构设计,软件工程,软件架构,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射
+jQuery框架,css层叠样式表,Html,C#,.net,mysql数据库,SQL Server数据库,XML技术,jSon技术,C语言,WebService
+jQuery框架,css层叠样式表,C#,.net,SQL Server数据库,软件工程,C语言,cms(Content Management System内容管理系统(网页有关)),Windows Communication Foundation,电子商务
+C#,.net,COM编程,HTTP传输协议,C语言,C++语言
+jQuery框架,css层叠样式表,Html,C#,.net,系统设计,SQL Server数据库,OOA面向对象分析,OOD面向对象设计,软件项目管理,C语言,Microsoft Visual C++ 6.0,jQuery Mobile
+C#,.net,mysql数据库,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,sqlite数据库,面向对象分析,项目实施,C语言
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,Oracle数据库,XML技术,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,XML技术,jSon技术,软件工程,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,XML技术,jSon技术,软件工程,C语言,Microsoft Visual C++ 6.0
+软件测试,QTP(一种自动测试工具),熟悉主流测试工具
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件工程,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,css层叠样式表,Html,C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,css层叠样式表,Html,C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,多线程,mysql数据库,SQL Server数据库,C语言,分布式,Windows Communication Foundation,Webservice,电子商务
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言,关系型数据库,Webservice
+jQuery框架,css层叠样式表,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Webservice
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,软件测试,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,visualStudio,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,电子商务
+C#,.net,windows操作系统,C语言,关系型数据库,RFID系统设计
+java,jQuery框架,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析
+java,C#,.net,SQL Server数据库,XML技术,面向对象分析,Access数据库,Android开发,C语言
+jQuery框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言,Windows Communication Foundation,OAuth,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,Oracle数据库,关系型数据库
+C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,数据库系统原理,软件项目管理,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,C语言
+css层叠样式表,Html,XHTML,.net,javaScript,SQL Server数据库,分布式
+ORM对象关系映射,C#,.net,windows操作系统,SQL Server数据库,Oracle数据库,ERP(企业资源计划),数据分析,C语言,电子商务
+jQuery框架,C#,.net,javaScript,SQL Server数据库,面向对象分析,软件文档写作,C语言
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,Oracle数据库,面向对象分析,软件工程,Bootstrap(Web前端CSS框架),bootstrap,Restful
+C#,windows操作系统,SQL Server数据库,C语言
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件测试,Bootstrap(Web前端CSS
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),C#,.net,javaScript,visualStudio,SQL Server数据库,vss,C语言,Webservice,Microsoft Visual C++ 6.0
+C#,.net,系统分析,Oracle数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,C#,.net,javaScript,XML技术,jSon技术,C语言,Powerdesigner,XSLT
+.net
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,NoSQL数据库,数据库系统原理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+C#,.net,windows操作系统,SQL Server数据库,C语言
+Html,AJAX(异步的JavaScript与XML技术),DHTML,.net,javaScript,SQL Server数据库
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试,数据结构,Windows Communication Foundation
+jQuery框架,css层叠样式表,Html,C#,.net,SQL Server数据库,Oracle数据库,jSon技术,C语言,Microsoft Visual C++ 6.0
+软件测试,软件项目管理
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,COM编程,SQL Server数据库,HTTP传输协议,C语言,Microsoft Visual C++ 6.0,网络安全技术
+.net
+css层叠样式表,Html,.net,javaScript,visualStudio,SQL Server数据库,Socket编程,面向对象分析,Windows Communication Foundation,SOA
+css层叠样式表,Html,.net,javaScript,visualStudio,SQL Server数据库,Socket编程,面向对象分析,Windows Communication Foundation,SOA
+TFS(一个分布式文件系统),C#,.net,C语言
+C#,.net,SQL Server数据库,软件测试,软件项目管理,软件文档写作,C语言,关系型数据库,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,软件测试,软件项目管理,软件文档写作,C语言,关系型数据库,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,软件测试,软件项目管理,C语言,电子商务
+C#,.net,SQL Server数据库,Oracle数据库,软件测试,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,Oracle数据库
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),DHTML,.net,javaScript,XML技术,数据库系统原理,XSLT
+.net,软件工程
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),XHTML,SEO(搜索引擎优化),.net,javaScript,SQL Server数据库,XML技术,软件测试,SEO数据挖掘及分析,网络安全技术
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言
+C#,.net,系统设计,C语言
+.net,mysql数据库,面向对象分析,软件工程,C语言,Windows Communication Foundation,OpenCV
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Webservice
+Html,C#,.net,javaScript,visualStudio,系统分析,SQL Server数据库,Oracle数据库,软件测试,C语言,关系型数据库
+jQuery框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),web2.0,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库
+jQuery框架,css层叠样式表,Html,C#,.net,系统设计,SQL Server数据库,Oracle数据库,数据库系统原理,C语言
+css层叠样式表,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,项目实施,C语言,Windows Communication Foundation,Webservice,Restful,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,多线程,SQL Server数据库,Oracle数据库,XML技术,Db2数据库,软件工程,软件项目管理,C语言,分布式,数据挖掘,Webservice
+java,C#,mysql数据库,Oracle数据库,HTTP传输协议,面向对象分析,C语言
+.net,软件文档写作
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库
+C#,.net,mysql数据库,C语言,Microsoft Visual C++ 6.0
+C#,.net,mysql数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言,Microsoft Visual C++ 6.0
+php,photoshop,Dreamweaver,C#,.net,javaScript,SQL Server数据库,ios开发,美工基础,C语言,电子商务
+ORM对象关系映射,C#,.net,windows操作系统,windows编程,SQL Server数据库,Oracle数据库,C语言,Arcgis,Webservice,ArcGIS
+jQuery框架,Extjs框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件工程,C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言
+ant(一种基于Java的build工具)
+C#,.net,系统分析,SQL Server数据库,Oracle数据库,XML技术,ERP(企业资源计划),项目实施,C语言,Windows Communication Foundation,Webservice,电子商务
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,svn,vss,熟悉一种脚本语言,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,数据库系统原理,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,多线程,SQL Server数据库,Socket编程,网络编程,XML技术,C语言,Webservice
+css层叠样式表,Html,C#,javaScript,windows操作系统,软件工程,C语言
+Html,Microsoft Office Visio,C#,javaScript,SQL Server数据库,UML建模语言,XML技术,面向对象分析,软件测试,C语言,Powerdesigner
+.net,系统设计
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,TCP/IP编程,HTTP传输协议,面向对象分析,C语言,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,面向对象分析
+php,C#,.net,javaScript,系统分析,mysql数据库,SQL Server数据库,Db2数据库,C语言
+php,C#,.net,javaScript,系统分析,mysql数据库,SQL Server数据库,Db2数据库,C语言
+php,C#,.net,javaScript,系统分析,mysql数据库,SQL Server数据库,Db2数据库,C语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,SQL Server数据库,C语言
+.net,Oracle数据库
+.net,面向对象分析,C语言,C++语言
+jQuery框架,Html,php,Microsoft Office Visio,C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,project,C语言
+css层叠样式表,ORM对象关系映射,C#,.net,javaScript,XML技术,C语言,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,PL/SQL,C语言,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,C语言
+ORM对象关系映射,C#,.net,visualStudio,SQL Server数据库,OOA面向对象分析,OOD面向对象设计,Access数据库,sybase数据库,C语言,SOA
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件项目管理,C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,SQL Server数据库,C语言,电子商务
+jQuery框架,TFS(一个分布式文件系统),C#,.net,javaScript,visualStudio,系统分析,windows操作系统,SQL Server数据库,Oracle数据库,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,SQL Server数据库,XML技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,css层叠样式表,Html,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,C#,.net,SQL Server数据库,Oracle数据库,C语言
+jQuery框架,C#,javaScript,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+.net,多线程,mysql数据库,SQL Server数据库,NoSQL数据库,Redis数据库,网络编程,HTTP传输协议,MongoDB数据库,redis数据库,rest
+C#,面向对象分析,数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,系统分析,SQL Server数据库,数据库系统原理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+.net,C++语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,windows操作系统,SQL Server数据库,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言,Microsoft Visual C++ 6.0,电子商务
+css层叠样式表,C#,.net,javaScript,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,windows操作系统,SQL Server数据库,Oracle数据库,软件测试,熟悉一种脚本语言,C语言,Microsoft Visual C++ 6.0
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,面向对象分析,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,UML建模语言,XML技术,软件测试,C语言,Webservice,信息安全导论
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),ORM对象关系映射,XHTML,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,svn,XML技术,C语言,分布式,Webservice
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,面向对象分析,C语言
+php,C#,.net,visualStudio,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,C++语言
+java,css层叠样式表,Html,php,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+java,php,C#,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,.net,javaScript,SQL Server数据库,XML技术,jSon技术,WebService
+java,C#,.net,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,C语言,vi
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,windows操作系统,面向对象分析,Bootstrap(Web前端CSS框架),项目实施,C语言,分布式,bootstr
+jQuery框架,C#,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,HTTP传输协议,软件测试,软件项目管理,C语言,Windows Communication Foundation
+jQuery框架,Extjs框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,XML技术,jSon技术,面向对象分析,软件测试,数据库系统原理,C语言
+css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,ERP(企业资源计划),C语言,Windows Communication Foundation,rest,Microsoft Visual C++ 6.0
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,NoSQL数据库,python编程,面向对象分析,软件工程,数据分析,C语言,Microsoft Visual C++ 6.0,电子商务
+css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,ERP(企业资源计划),C语言,Windows Communication Foundation,rest,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,软件测试,数据库系统原理
+TFS(一个分布式文件系统),ORM对象关系映射,C#,.net,windows操作系统,SQL Server数据库,C语言,Windows Communication Foundation,fix协议
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言,Microsoft Visual C++ 6.0
+java,C#,.net,多线程,Socket编程,ios开发,面向对象分析,Android开发,C语言,分布式,关系型数据库,Windows Communication Foundation
+系统分析,面向对象分析
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+css层叠样式表,C#,.net,SQL Server数据库,美工基础,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,OOA面向对象分析,面向对象分析,数据结构,C语言,cms(Content Management System内容管理系统(网页有关))
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,jSon技术,数据库系统原理,C语言
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,多线程,系统设计,mysql数据库,SQL Server数据库,Socket编程,串口编程,面向对象分析,软件测试,软件工程,office,C语言,Arcgis,ArcGIS,串口开发
+css层叠样式表,Html,.net,javaScript,SQL Server数据库
+java,jQuery框架,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,HTTP传输协议,XCode开发工具,ios开发,XML技术,jSon技术,面向对象分析,网络通信,Androi
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,XML技术,软件项目管理,项目实施,C语言,WebService
+jQuery框架,css层叠样式表,C#,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+C#,.net,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+jQuery框架,Extjs框架,EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,DHTML,C#,.net,javaScript,XML技术,软件测试,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0,DOM
+jQuery框架,Extjs框架,EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,DHTML,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Db2数据库,软件测试,C语言,Win
+TFS(一个分布式文件系统),ORM对象关系映射,C#,.net,项目实施,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+.net,SQL Server数据库
+C#,.net,SQL Server数据库,Oracle数据库,自动化测试(使用自动化测试软件、框架等),C语言,Windows Communication Foundation
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,数据库系统原理,C语言
+apache,mysql数据库,TCP/IP编程,Socket编程,linux操作系统,网络编程,HTTP传输协议,ios开发,XML技术,jSon技术,面向对象分析,Android开发,数据分析,数据库建模,soap
+jQuery框架,css层叠样式表,ORM对象关系映射,C#,.net,visualStudio,系统设计,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,IOC控制反转,rose(UML画图工具),Microsoft Office Visio,.net,javaScript,多线程,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,OOD面向对象设计,
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,C语言
+css层叠样式表,Html,C#,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,mysql数据库,Oracle数据库,XML技术,软件测试,C语言,Windows Communication Foundation,Webservice,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,C#,.net,javaScript,XML技术,jSon技术,C语言,Powerdesigner,XSLT,电子商务
+.net,系统分析,SQL Server数据库,面向对象分析,软件项目管理
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,软件工程,C语言,Webservice
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,C语言
+css层叠样式表,Html,IOC控制反转,.net,javaScript,面向对象分析,C语言,Windows Communication Foundation,XSLT
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,系统分析,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,面向对象分析,C语言
+COM编程,HTTP传输协议
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言,Webservice,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,软件工程,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+Html,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式,Microsoft Visual C++ 6.0
+.net,windows操作系统
+css层叠样式表,Html,C#,.net,SQL Server数据库,数据结构,C语言,电子商务
+C#,.net,SQL Server数据库,软件架构设计,软件架构,C语言,Windows Communication Foundation
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,C语言
+jQuery框架,css层叠样式表,C#,.net,面向对象分析,数据结构,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,软件测试,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+C#,.net,C语言
+C#,.net,C语言,Windows Communication Foundation
+java,C#,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,web2.0,C#,.net,javaScript,系统设计,SQL Server数据库,office,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,软件测试,C语言,数据库建模,关系型数据库,Webservice
+C#,.net,javaScript,SQL Server数据库,ERP(企业资源计划),C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,ios开发,XML技术,jSon技术,Android开发,软件测试,数据库系统原理,C语言,Webservice
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,MongoDB数据库,C语言,WebService
+php,mysql数据库
+jQuery框架,css层叠样式表,Html,php,apache,AJAX(异步的JavaScript与XML技术),SEO(搜索引擎优化),.net,javaScript,mysql数据库,linux操作系统,SEO数据挖掘及分析,C语言,cms(Content Management System内容管理系统(网页有关))
+jQuery框架,css层叠样式表,Html,php,apache,AJAX(异步的JavaScript与XML技术),SEO(搜索引擎优化),.net,javaScript,mysql数据库,linux操作系统,SEO数据挖掘及分析,C语言,cms(Content Management System内容管理系统(网页有关))
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,SQL Server数据库,项目实施,C语言,Webservice,Restful,Microsoft Visual C++ 6.0
+mysql数据库,SQL Server数据库,XML技术,jSon技术
+.net,COM编程,系统分析,ERP(企业资源计划)
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,svn,ios开发,C语言,Webservice,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,C语言
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,Microsoft Office Visio,.net,javaScript,SQL Server数据库,UML建模语言,HTTP传输协议,svn,vss,面向对象分析,数据结构,office,C语言,WebService
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,XML技术,熟悉一种脚本语言,C语言,Microsoft Visual C++ 6.0
+Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,cache技术,C语言,Webservice
+Hibernate框架,Spring框架,myBatis框架,MyBatis框架,AOP面向切面编程,IOC控制反转,C#,.net,COM编程,Oracle数据库,UML建模语言,C语言
+jQuery框架,C#,.net,COM编程,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+C#,.net,系统分析,SQL Server数据库,面向对象分析,C语言
+.net
+jQuery框架,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,NoSQL数据库,svn,sqlite数据库,XML技术,MongoDB数据库,C语言,Windows Communication Foundation,Micro
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,javaScript,SQL Server数据库,Oracle数据库,C语言,分布式
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,javaScript,SQL Server数据库,Oracle数据库,C语言,分布式
+系统分析
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,svn,vss,XML技术,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,XML技术,C语言
+jQuery框架,css层叠样式表,Html,.net,javaScript,SQL Server数据库,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,XML技术,C语言,Webservice
+C#,.net,SQL Server数据库,Oracle数据库,XML技术,C语言,Webservice
+C#,.net,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice
+C#,.net,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice
+jQuery框架,Html,.net,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,COM编程,系统分析,mysql数据库,SQL Server数据库,HTTP传输协议,C语言
+css层叠样式表,Html,TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,linux操作系统,面向对象分析,软件测试,数据结构,C语言,Powerdesigner,计算机网络
+C#,系统设计,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0
+jsp(java服务器页面),css层叠样式表,Html,php,Memcached,AJAX(异步的JavaScript与XML技术),.net,javaScript,linux操作系统,git,软件测试,数据结构,C语言,ruby,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,软件文档写作,Webservice
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,COM编程,SQL Server数据库,Oracle数据库,软件工程,电子商务
+java,.net,mysql数据库,SQL Server数据库,Oracle数据库,ERP(企业资源计划)
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,office,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+C#,.net,软件测试,软件工程,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),web2.0,C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,Socket编程,jSon技术,数据库系统原理,数据库建模,Windows Communication Foundation,Webservice,电子商务
+jsp(java服务器页面),Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,TCP/IP编程,XML技术,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,数据库系统原理,C语言,Webservice,Sencha Touch,iWebkit,jQuery Mobile
+C#,.net,C语言,Microsoft Visual C++ 6.0
+.net
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言
+.net,mysql数据库,C++语言
+css层叠样式表,Html,XHTML,C#,.net,javaScript,Oracle数据库,XML技术,jSon技术,面向对象分析,C语言,XSLT
+Html,C#,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,数据库系统原理,C语言
+java,php,.net,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件工程,C语言,Microsoft Visual C++ 6.0
+C#,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,C#,.net,javaScript,XML技术,jSon技术,C语言,Powerdesigner,XSLT
+.net,SQL Server数据库
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),C#,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,Webservice
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,HTTP传输协议,XML技术,jSon技术,ERP(企业资源计划),软件项目管理,项目实施,C语言,cms(Content Management System内容管理系
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,多线程,SQL Server数据库,Oracle数据库,网络编程,面向对象分析,软件项目管理,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,软件项目管理,软件文档写作,C语言,Windows Communication Foundation,Webservice,Microsoft Vi
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),ORM对象关系映射,C#,.net,javaScript,多线程,系统设计,windows操作系统,SQL Server数据库,NoSQL数据库,网络编程,vss,软件测
+css层叠样式表,Html,C#,.net,javaScript,windows操作系统,SQL Server数据库,TCP/IP编程,HTTP传输协议,数据库系统原理,C语言
+AOP面向切面编程,IOC控制反转,.net,搜索引擎算法,C语言,分布式,Windows Communication Foundation,SOA
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),ORM对象关系映射,C#,.net,javaScript,多线程,系统设计,windows操作系统,SQL Server数据库,NoSQL数据库,网络编程,vss,软件测
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+jQuery框架,C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言,C++语言,Microsoft Visual C++ 6.0
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),ORM对象关系映射,C#,.net,javaScript,多线程,系统设计,windows操作系统,SQL Server数据库,NoSQL数据库,网络编程,vss,软件测
+C#,.net,Oracle数据库,数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,XML技术,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,SQL Server数据库,jSon技术,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),web2.0,.net,javaScript,COM编程,SQL Server数据库,电子商务
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,XML技术,C语言
+Hibernate框架,Spring框架,.net,SQL Server数据库,Oracle数据库,软件测试,Windows Communication Foundation
+.net,mysql数据库,SQL Server数据库,vss,CVS(一种自动测试工具),Flash
+ORM对象关系映射,.net,mysql数据库,SQL Server数据库,Oracle数据库,Db2数据库
+C#,.net,系统设计,SQL Server数据库,Oracle数据库,软件工程,数据库系统原理,软件项目管理,项目实施,C语言
+jQuery框架,Extjs框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,C语言,C++语言
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,.net,javaScript,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),SEO(搜索引擎优化),C#,.net,mysql数据库,SQL Server数据库,Access数据库,SEO数据挖掘及分析,C语言
+C#,.net,mysql数据库,SQL Server数据库,TCP/IP编程,网络编程,HTTP传输协议,面向对象分析,数据结构,软件文档写作,C语言,数据库建模
+C#,.net,软件工程,软件项目管理,C语言
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,COM编程,系统设计,SQL Server数据库,面向对象分析,软件测试,软件工程,Adobe Illustrator(AI),office,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言,分布式
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,面向对象分析,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,软件测试,软件工程,软件项目管理
+css层叠样式表,C#,.net,javaScript,C语言,Webservice
+ORM对象关系映射,.net,office
+ORM对象关系映射,.net,office
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),web2.0,.net,javaScript,SQL Server数据库,XML技术,软件测试,软件工程
+jQuery框架,css层叠样式表,Html,C#,.net,SQL Server数据库,Oracle数据库,软件测试,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式
+Nginx,Nginx(一个HTTP和反向代理服务器),.net,linux操作系统,python编程,svn,软件测试,软件项目管理,分布式
+jQuery框架,Extjs框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,windows操作系统,SQL Server数据库,面向对象分析,软件文档写作,C语言,分布式,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,C语言,分布式,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,TCP/IP编程,HTTP传输协议,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,软件工程,数据库系统原理,C语言
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,jSon技术,C语言,Microsoft Visual C++ 6.0,DOM
+C#,.net,ERP(企业资源计划),C语言
+.net,面向对象分析,软件工程,数据结构,C语言,Microsoft Visual C++ 6.0
+jQuery框架,C#,.net,javaScript,系统设计,SQL Server数据库,数据库系统原理,数据结构,C语言
+C#,.net,面向对象分析,C语言,OpenCV
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,XML技术,面向对象分析
+.net,软件工程
+css层叠样式表,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,C语言
+ORM对象关系映射,rose(UML画图工具),.net,visualStudio,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Powerdesigner,Windows Communication Foundation,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,.net,javaScript,系统设计,NoSQL数据库,python编程,分布式
+css层叠样式表,C#,.net,系统设计,SQL Server数据库,面向对象分析,数据库系统原理,数据结构,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,软件测试,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,XML技术,jSon技术,C语言,XSLT,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,软件测试,C语言
+java,ORM对象关系映射,C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,ERP(企业资源计划),C语言,C++语言
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,美工基础,C语言,vi
+Hibernate框架,css层叠样式表,Html,ORM对象关系映射,.net,javaScript,多线程,windows操作系统,数据结构,Windows Communication Foundation
+java,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,XML技术,C语言
+java,Html,ORM对象关系映射,IOC控制反转,C#,.net,多线程,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,OOD面向对象设计,Android开发,数据库系统原理,数据结构,C语言,分布式,Windows Communication Found
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+Hibernate框架,ORM对象关系映射,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,WebService,SOA
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,WebService,SOA
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,windows操作系统,SQL Server数据库,XML技术,软件测试,C语言
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,vss,C语言,Webservice
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,vss,C语言,Webservice
+jQuery框架,css层叠样式表,C#,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0,电子商务
+java,C#,.net,SQL Server数据库,软件工程,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,SQL Server数据库,Oracle数据库,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,软件文档写作,Webservice
+C#,.net,SQL Server数据库,软件测试,C语言
+C#,.net,SQL Server数据库,软件项目管理,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,系统分析,mysql数据库,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,XML技术,软件架构设计,软件架构,数据库系统原理,数据结构,C语言,Webservice
+css层叠样式表,Html,DHTML,C#,.net,多线程,SQL Server数据库,XML技术,软件测试,C语言,Webservice
+jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,svn,XML技术,jSon技术,C语言,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,svn,XML技术,jSon技术,C语言,电子商务
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件工程,数据库系统原理,office,C语言,Webserv
+java,css层叠样式表,Html,XHTML,C#,.net,SQL Server数据库,XML技术,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,.net,javaScript,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,C语言,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,python编程,HTTP传输协议,面向对象分析,数据结构,项目实施,C语言,关系型数据库,Webservice,Mic
+C#,.net,C语言
+jQuery框架,css层叠样式表,Html,.net,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,jSon技术,ERP(企业资源计划),软件工程
+软件测试,cms(Content Management System内容管理系统(网页有关))
+软件测试,cms(Content Management System内容管理系统(网页有关))
+C#,.net,visualStudio,SQL Server数据库,C语言
+C#,.net,visualStudio,SQL Server数据库,Oracle数据库,软件工程,数据库系统原理,C语言
+C#,.net,javaScript,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Access数据库,C语言
+ORM对象关系映射,C#,.net,visualStudio,Oracle数据库,面向对象分析,C语言,C++语言
+.net,面向对象分析,软件工程,数据结构,C语言,Microsoft Visual C++ 6.0
+C#,.net,windows操作系统,SQL Server数据库,Oracle数据库,软件工程,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+COM编程,HTTP传输协议
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,软件测试,C语言
+C#,.net,SQL Server数据库,Oracle数据库,C语言,分布式
+css层叠样式表,Html,Microsoft Office Visio,C#,.net,javaScript,SQL Server数据库,svn,XML技术,软件工程,project,C语言,Powerdesigner
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,svn,vss,C语言
+jsp(java服务器页面),Html,Photoshop,.net,javaScript,系统设计,面向对象分析,软件测试,美工基础,visual basic script
+C#,.net,SQL Server数据库,软件测试,软件文档写作,C语言,Microsoft Visual C++ 6.0,信息安全导论
+css层叠样式表,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,软件工程
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,C语言
+.net,C语言
+C#,.net,javaScript,mysql数据库,SQL Server数据库,软件工程,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,系统设计,SQL Server数据库,面向对象分析,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,软件项目管理,项目实施,C语言
+Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件项目管理
+java,jQuery框架,css层叠样式表,C#,.net,javaScript,windows操作系统,SQL Server数据库,ios开发,XML技术,面向对象分析,ERP(企业资源计划),Android开发,数据库系统原理,软件项目管理,C语言,Webservice,Microsoft Visual C++ 6
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,美工基础,C语言,Microsoft Visual C++ 6.0
+C#,.net,windows操作系统,OOA面向对象分析,OOD面向对象设计,面向对象分析,软件架构设计,软件工程,软件架构,C语言
+jQuery框架,css层叠样式表,.net,SQL Server数据库,面向对象分析
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言,C++语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,OOA面向对象分析,面向对象分析,数据结构,C语言,cms(Content Management System内容管理系统(网页有关))
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,软件工程,C语言,Webservice
+Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,.net,javaScript,SQL Server数据库,Oracle数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,svn,ios开发,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,Oracle数据库,XML技术,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,面向对象分析,数据库系统原理,Webservice
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言,关系型数据库,Webservice
+jQuery框架,Extjs框架,css层叠样式表,C#,.net,javaScript,数据结构,C语言
+php,C#,.net,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,COM编程,SQL Server数据库,Oracle数据库,软件工程,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,软件测试,数据结构,C语言
+jQuery框架,C#,.net,javaScript,Oracle数据库,软件测试,软件工程,C语言
+ORM对象关系映射,C#,.net,windows操作系统,mysql数据库,SQL Server数据库,ERP(企业资源计划),C语言
+jQuery框架,C#,.net,javaScript,SQL Server数据库,jSon技术,软件文档写作,C语言
+jQuery框架,EASYUI框架(UI架构),C#,.net,javaScript,SQL Server数据库,jSon技术,软件文档写作,C语言,Webservice
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Socket编程,jSon技术,数据库系统原理,数据库建模,Windows Communication Foundation,Webservice,电子商务
+ORM对象关系映射,.net,系统分析,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0,电子商务
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言,Windows Communication Foundation
+Html,php,ORM对象关系映射,C#,.net,mysql数据库,SQL Server数据库,sqlite数据库,XML技术,jSon技术,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Html,photoshop,C#,.net,javaScript,系统设计,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+Html,TFS(一个分布式文件系统),C#,.net,visualStudio,SQL Server数据库,vss,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0,电子商务
+.net,系统设计,SQL Server数据库,Oracle数据库,Db2数据库
+.net,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,XML技术,数据库系统原理,C语言
+C#,.net,windows操作系统,Oracle数据库,Db2数据库,ERP(企业资源计划),C语言
+ORM对象关系映射,.net,visualStudio,Oracle数据库,svn,软件工程
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,visualStudio,SQL Server数据库,XML技术,jSon技术,C语言,Webservice,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,.net,多线程,mysql数据库,SQL Server数据库,NoSQL数据库,Socket编程,UML建模语言,面向对象分析,C语言,数据库建模,Windows Communication Foundation,Unity
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,DOM
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,C语言,WinCE
+.net
+C#,.net,SQL Server数据库,Oracle数据库,XML技术,Db2数据库,C语言
+css层叠样式表,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,windows操作系统,SQL Server数据库,Oracle数据库,ERP(企业资源计划),C语言
+软件测试,cms(Content Management System内容管理系统(网页有关))
+jQuery框架,C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,面向对象分析,C语言,Microsoft Visual C++ 6.0,电子商务
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+jQuery框架,Hibernate框架,Spring框架,css层叠样式表,Html,C#,.net,SQL Server数据库,消息队列,C语言,Webservice,Microsoft Visual C++ 6.0,jQuery Mobile
+java,css层叠样式表,Html,XHTML,C#,.net,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),.net,javaScript,系统设计,mysql数据库,XML技术,Access数据库
+.net,系统分析,SQL Server数据库,Oracle数据库,数据库系统原理
+jQuery框架,css层叠样式表,C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,C语言,WebService,DOM
+jQuery框架,css层叠样式表,C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,C语言,WebService,DOM
+C#,.net,SQL Server数据库,UML建模语言,面向对象分析,ERP(企业资源计划),软件测试,数据结构,C语言,计算机网络
+jQuery框架,C#,.net,软件工程,C语言,Microsoft Visual C++ 6.0
+Html,.net,javaScript,SQL Server数据库
+Html,.net,javaScript,SQL Server数据库,数据库系统原理
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,jSon技术,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,UML建模语言,OOD面向对象设计,面向对象分析,软件测试,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),ThinkPHP框架,javaScript,mysql数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,css层叠样式表,Html,C#,javaScript,visualStudio,系统分析,SQL Server数据库,面向对象分析,软件测试,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,系统设计,SQL Server数据库,XML技术,数据库系统原理,C语言,WebService
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试
+jQuery框架,EASYUI框架(UI架构),php,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Windows Communication Foundation
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Socket编程,软件工程,数据库系统原理,C语言,Webservice
+java,Struts框架,Spring框架,Ibatis框架,.net,mysql数据库,Oracle数据库,软件工程,软件项目管理
+Html,Nginx,Memcached,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),AOP面向切面编程,IOC控制反转,C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,项目实施,C语言,分布式,SOA,Microsoft 
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,windows操作系统,SQL Server数据库,XML技术,OOD面向对象设计,C语言
+Html,Memcached,AJAX(异步的JavaScript与XML技术),.net,javaScript,系统设计,系统分析,SQL Server数据库,NoSQL数据库,XML技术,软件测试,数据库系统原理,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+.net,面向对象分析,数据库系统原理
+C#,.net,C语言
+Html,Nginx,Memcached,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),AOP面向切面编程,IOC控制反转,C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,项目实施,C语言,分布式,SOA,Microsoft 
+C#,COM编程,HTTP传输协议,jSon技术,面向对象分析,C语言,分布式,Windows Communication Foundation,Webservice
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,PL/SQL,数据库系统原理,数据结构,C语言
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,数据库系统原理,C语言,分布式
+css层叠样式表,Html,photoshop,.net,javaScript,SQL Server数据库,XML技术,XSLT
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,多线程,SQL Server数据库,XML技术,面向对象分析,软件工程,C语言
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,多线程,系统分析,SQL Server数据库,XML技术,面向对象分析,C语言
+C#,.net,系统分析,SQL Server数据库,软件架构设计,软件架构,软件项目管理,C语言,中间件
+jQuery框架,Ibatis框架,C#,.net,javaScript,软件工程,C语言,Microsoft Visual C++ 6.0
+C#,.net,javaScript,SQL Server数据库,XML技术,软件测试,数据库系统原理,数据分析,项目实施,C语言,人机交互技术,Microsoft Visual C++ 6.0
+C#,.net,javaScript,SQL Server数据库,XML技术,软件测试,数据库系统原理,数据分析,项目实施,C语言,人机交互技术,Microsoft Visual C++ 6.0
+C#,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,svn,vss,面向对象分析,C语言
+jQuery框架,Extjs框架,EASYUI框架(UI架构),dwz框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,svn,XML技术,C语言,Webservice
+jQuery框架,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,jSon技术,C语言,分布式,关系型数据库,电子商务
+C#,.net,系统分析,软件工程,C语言
+C#,.net,软件工程,C语言
+C#,.net,软件工程,C语言
+C#,.net,系统设计,SQL Server数据库,UML建模语言,软件工程,C语言,C++语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式
+C#,.net,Oracle数据库,C语言
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,windows操作系统,面向对象分析,Bootstrap(Web前端CSS框架),项目实施,C语言,bootstrap,Microso
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,XML技术
+css层叠样式表,Html,C#,.net,javaScript,COM编程,HTTP传输协议,C语言,电子商务
+jQuery框架,EASYUI框架(UI架构),C#,.net,COM编程,SQL Server数据库,HTTP传输协议,美工基础,C语言
+ORM对象关系映射,.net,SQL Server数据库,Oracle数据库,软件测试,C语言
+css层叠样式表,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,C语言
+ORM对象关系映射,C#,.net,SQL Server数据库,数据库系统原理,C语言,分布式
+java,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件工程,C语言,电子商务
+C#,.net,visualStudio,SQL Server数据库,C语言,分布式
+jQuery框架,Extjs框架,css层叠样式表,C#,.net,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,数据库系统原理,C语言
+jQuery框架,javaScript,软件测试,熟悉一种脚本语言,电子商务
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,DHTML,AOP面向切面编程,IOC控制反转,rose(UML画图工具),Microsoft Office Visio,C#,.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,XML
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言
+C#,.net,windows操作系统,UML建模语言,面向对象分析,软件架构设计,软件架构,C语言,Windows Communication Foundation,Webservice
+jQuery框架,memcache,C#,.net,javaScript,SQL Server数据库,Redis数据库,redis数据库,cache技术,软件测试,C语言,Microsoft Visual C++ 6.0,电子商务
+java,css层叠样式表,Html,C#,mysql数据库,Oracle数据库,软件工程,熟悉一种脚本语言,软件项目管理,C语言,电子商务
+java,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件工程,软件项目管理,C语言,电子商务
+java,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件工程,软件项目管理,C语言,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,jSon技术,面向对象分析,软件文档写作,C语言
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,系统设计,系统分析,面向对象分析,软件架构设计,软件架构,C语言,Microsoft Visual C++ 6.0
+jQuery框架,.net,COM编程,系统设计,mysql数据库,Oracle数据库,XML技术,面向对象分析,项目实施,Webservice
+jQuery框架,.net,系统设计,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,项目实施,Webservice
+ORM对象关系映射,.net,ERP(企业资源计划),C语言,Windows Communication Foundation,Webservice
+Hibernate框架,ORM对象关系映射,C#,.net,mysql数据库,SQL Server数据库,ERP(企业资源计划),C语言,Windows Communication Foundation,Webservice
+Html,ORM对象关系映射,rose(UML画图工具),C#,.net,javaScript,系统分析,SQL Server数据库,UML建模语言,XML技术,OOD面向对象设计,Prototype,软件测试,Axure RP(快速原型设计工具),C语言,Windows Communication Foundation,Webserv
+Redis数据库,linux操作系统,jSon技术,redis数据库,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,C#,.net,系统设计,SQL Server数据库,数据库系统原理,数据分析,C语言
+java,jQuery框架,css层叠样式表,Html,C#,.net,系统设计,SQL Server数据库,数据库系统原理,数据分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,DHTML,C#,.net,javaScript,系统设计,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,软件测试,软件工程,C语言,Microsoft Visual C++
+C#,.net,NoSQL数据库,C语言
+css层叠样式表,C#,.net,系统分析,SQL Server数据库,数据库系统原理,C语言,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+Extjs框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件测试,C语言,Arcgis,ArcGIS
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言,Windows Communication Foundation
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,SQL Server数据库,XML技术
+jQuery框架,css层叠样式表,Html,.net,javaScript,visualStudio,系统设计,SQL Server数据库,分布式,Webservice
+C#,.net,多线程,windows操作系统,UML建模语言,GDI+图形编程,svn,面向对象分析,软件架构设计,软件测试,Jira(项目与事务跟踪工具),软件架构,C语言,计算机网络
+Hibernate框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,COM编程,SQL Server数据库,PL/SQL,XML技术,C语言,分布式,XSLT
+java,.net,软件工程
+.net
+Extjs框架,ORM对象关系映射,C#,.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件测试,数据库系统原理,C语言
+Extjs框架,ORM对象关系映射,C#,.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件测试,数据库系统原理,C语言
+.net,SQL Server数据库
+.net,SQL Server数据库
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+C#,.net,Oracle数据库,C语言,C++语言
+jQuery框架,TFS(一个分布式文件系统),IOC控制反转,C#,.net,系统设计,SQL Server数据库,UML建模语言,vss,软件工程,数据库系统原理,项目实施,C语言,Webservice,SOA,Microsoft Visual C++ 6.0
+jQuery框架,C#,.net,系统分析,windows操作系统,SQL Server数据库,linux操作系统,unix操作系统,软件架构设计,软件测试,软件架构,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+C#,.net,系统分析,windows操作系统,linux操作系统,unix操作系统,软件架构设计,软件测试,软件架构,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,Extjs框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,C语言
+C#,.net,多线程,系统设计,SQL Server数据库,网络通信,软件测试,C语言,Windows Communication Foundation,Webservice
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言,WebService
+C#,.net,C语言
+jQuery框架,Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,XML技术,C语言,Webservice,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,C语言
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,svn,XML技术,软件工程,C语言
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+ORM对象关系映射,C#,.net,多线程,GUI编程,系统分析,windows操作系统,UML建模语言,XML技术,面向对象分析,软件测试,软件工程,数据结构,C语言,分布式
+windows操作系统,DirectX图形编程,OpenGl图形编程,数据库系统原理,数据结构,计算机图形学
+.net,系统设计,软件工程,软件项目管理
+.net,软件工程,数据库系统原理
+C#,.net,C语言,C++语言
+C#,.net,visualStudio,SQL Server数据库,Oracle数据库,XML技术,软件项目管理,C语言,Webservice
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,vss,XML技术,面向对象分析,C语言
+C#,.net,SQL Server数据库,C语言
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+C#,.net,多线程,SQL Server数据库,TCP/IP编程,UDP协议,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,数据库系统原理,C语言,WebService
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,数据库系统原理,C语言,WebService
+C#,.net,多线程,SQL Server数据库,TCP/IP编程,UDP协议,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言,电子商务
+C#,.net,Oracle数据库,面向对象分析,Db2数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,vss,XML技术,面向对象分析,C语言
+C#,.net,系统设计,SQL Server数据库,C语言
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,系统分析,SQL Server数据库,XML技术,面向对象分析,软件工程,数据库系统原理,C语言,Windows Communication Foundat
+ORM对象关系映射,C#,.net,软件测试,C语言
+C#,C语言
+EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,SQL Server数据库,C语言,DOM,电子商务
+jQuery框架,Hibernate框架,Spring框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,svn,XML技术,ERP(企业资源计划),C语言,Webservice
+jQuery框架,EASYUI框架(UI架构),php,C#,.net,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,Webservice
+java,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Db2数据库,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0,电子商务
+.net,SQL Server数据库,ios开发,Access数据库
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,UML建模语言,面向对象分析,软件工程,Flash,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,C语言
+css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,jSon技术,软件工程,C语言,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,SQL Server数据库,XML技术,面向对象分析,Prototype,C语言
+jQuery框架,css层叠样式表,Html,XHTML,C#,.net,visualStudio,SQL Server数据库,XML技术,面向对象分析,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,C语言
+ORM对象关系映射,C#,.net,visualStudio,SQL Server数据库,数据分析,C语言,Webservice
+ORM对象关系映射,C#,.net,visualStudio,数据分析,C语言,数据挖掘,Webservice
+C#,.net,mysql数据库,TCP/IP编程,HTTP传输协议,面向对象分析,软件项目管理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+Microsoft Office Visio,C#,.net,SQL Server数据库,Oracle数据库,UML建模语言,软件测试,数据库系统原理,软件项目管理,C语言,分布式,Windows Communication Foundation,Webservice,Enterprise Service Bus,SOA,电子商务
+java,Html,ORM对象关系映射,photoshop,C#,.net,javaScript,windows操作系统,project,C语言,C++语言,WebService
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,ORM对象关系映射,C#,.net,多线程,SQL Server数据库,Oracle数据库,数据库系统原理,软件项目管理,C语言,Windows Communication Foundation
+.net,Webservice
+jQuery框架,C#,.net,Oracle数据库,Redis数据库,redis数据库,C语言
+系统设计,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,C语言
+C#,.net,软件测试,C语言
+css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,关系型数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,XHTML,.net,javaScript,多线程,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,Flash,C语言
+rose(UML画图工具),.net,UML建模语言,面向对象分析,软件工程,数据库系统原理,软件项目管理
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,SQL Server数据库,数据库系统原理,C语言
+ORM对象关系映射,.net
+ORM对象关系映射,.net
+.net
+ORM对象关系映射,.net,系统分析,Oracle数据库,面向对象分析,数据库系统原理,软件文档写作,Windows Communication Foundation
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,数据库系统原理,数据分析,C语言,分布式,电子商务
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,jSon技术,面向对象分析,软件架构设计,软件架构,项目实施,C语言,Microsoft Visual C++ 6.0
+C#,.net,数据库系统原理,C语言
+C#,.net,数据库系统原理,C语言
+C#,.net,数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,多线程,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件架构设计,软件架构,C语言,Windows Communication Foundation,
+memcache,ORM对象关系映射,.net,visualStudio,多线程,windows操作系统,Redis数据库,redis数据库,cache技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,多线程,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件架构设计,软件架构,C语言,Windows Communication Foundation,
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,多线程,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件架构设计,软件架构,C语言,Windows Communication Foundation,
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,多线程,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件架构设计,软件架构,C语言,Windows Communication Foundation,
+memcache,ORM对象关系映射,.net,visualStudio,多线程,windows操作系统,Redis数据库,redis数据库,cache技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,SQL Server数据库,C语言
+java,.net,C语言,C++语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,C#,.net,javaScript,UML建模语言,svn,面向对象分析,数据库系统原理,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+memcache,ORM对象关系映射,.net,visualStudio,多线程,windows操作系统,Redis数据库,redis数据库,cache技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,DHTML,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,多线程,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,软件架构设计,软件架构,C语言,Windows Communication Foundation,
+jQuery框架,Html,php,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,C语言
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+C#,.net,多线程,SQL Server数据库,Socket编程,Access数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,svn,vss,XML技术,ERP(企业资源计划),软件测试,软件项目管理,C语言,Webservice,Microsoft Visual C++ 6.0,电子商务
+C#,.net,windows操作系统,SQL Server数据库,Android开发,C语言,WinCE,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Windows Communication Foundation,XSLT,管理信息系统
+java,jQuery框架,css层叠样式表,Html,apache,Nginx,Tomcat,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,网络编程,XML技术,jSon技术,C语言,s
+TFS(一个分布式文件系统),.net,SQL Server数据库,vss,Windows Communication Foundation,管理信息系统
+jQuery框架,bootstrap框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,SQL Server数据库,svn,vss,XML技术,jSon技术,面向对象分析,ERP(企业资源计划),软件工程,Bootstrap(Web前端CSS框
+jQuery框架,C#,.net,javaScript,SQL Server数据库,ERP(企业资源计划),数据结构,C语言
+AJAX(异步的JavaScript与XML技术),Microsoft Office Visio,.net,javaScript,SQL Server数据库,Oracle数据库,软件项目管理,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,软件工程,C语言,Microsoft Visual C++ 6.0
+C#,.net,javaScript,SQL Server数据库,软件工程,C语言
+C#,.net,Oracle数据库,面向对象分析,软件测试,C语言
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,软件工程,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,软件工程,C语言,Microsoft Visual C++ 6.0
+C#,.net,javaScript,C语言
+C#,.net,javaScript,Oracle数据库,C语言
+C#,.net,javaScript,C语言
+java,jQuery框架,JavaEE架构,Extjs框架,jsp(java服务器页面),servlet,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件工程,软件项目管理,C语言,SSH协议
+java,jQuery框架,JavaEE架构,Extjs框架,jsp(java服务器页面),servlet,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件工程,软件项目管理,C语言,SSH协议
+C#,.net,javaScript,C语言
+C#,.net,javaScript,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言
+C#,.net,系统分析,SQL Server数据库,Oracle数据库,svn,vss,面向对象分析,软件测试,软件工程,C语言
+C#,.net,visualStudio,ERP(企业资源计划),软件项目管理,软件文档写作,C语言
+C#,.net,系统设计,SQL Server数据库,数据库系统原理,C语言
+Html,C#,.net,SQL Server数据库,Oracle数据库,项目实施,C语言
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,Dreamweaver,C#,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+C#,.net,ERP(企业资源计划),C语言
+.net,ERP(企业资源计划)
+css层叠样式表,C#,.net,javaScript,多线程,SQL Server数据库,Oracle数据库,C语言,postgresql,Microsoft Visual C++ 6.0
+ORM对象关系映射,.net,SQL Server数据库,ERP(企业资源计划)
+Html,javaScript,SQL Server数据库
+C#,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,数据库系统原理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,.net,SQL Server数据库,C语言
+Html,C#,.net,javaScript,visualStudio,windows操作系统,SQL Server数据库,面向对象分析,C语言,人机交互技术
+AJAX(异步的JavaScript与XML技术),C#,.net,visualStudio,windows操作系统,SQL Server数据库,Oracle数据库,面向对象分析,C语言,人机交互技术,Microsoft Visual C++ 6.0
+jsp(java服务器页面),php,.net,系统分析,SQL Server数据库,Oracle数据库,UML建模语言,Access数据库
+C#,.net,mysql数据库,SQL Server数据库,软件架构设计,软件测试,软件架构,数据库系统原理,C语言
+Photoshop,Dreamweaver,C#,mysql数据库,SQL Server数据库,C语言
+Photoshop,Dreamweaver,C#,mysql数据库,SQL Server数据库,C语言
+AJAX(异步的JavaScript与XML技术),C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+C#,.net,COM编程,SQL Server数据库,Oracle数据库,C语言,Arcgis,ArcGIS
+C#,.net,visualStudio,SQL Server数据库,Oracle数据库,svn,vss,Db2数据库,软件工程,C语言,Webservice,SOA,Microsoft Visual C++ 6.0
+jQuery框架,.net,javaScript,系统分析,软件架构设计,软件架构,数据库系统原理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,windows操作系统,mysql数据库,SQL Server数据库,TCP/IP编程,HTTP传输协议,XML技术,数据结构,软件项目管理,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,Oracle数据库,Socket编程,网络编程,ERP(企业资源计划),C语言
+TFS(一个分布式文件系统),.net,SQL Server数据库,Windows Communication Foundation
+css层叠样式表,Html,rose(UML画图工具),.net,javaScript,SQL Server数据库,vss,XML技术,软件项目管理
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言
+.net,系统设计,SQL Server数据库,软件测试
+visualStudio,数据结构,SOA
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,Oracle数据库,Socket编程,网络编程,ERP(企业资源计划),C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,Oracle数据库,Socket编程,网络编程,ERP(企业资源计划),C语言
+Extjs框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+.net,软件测试
+.net,软件工程
+css层叠样式表,Html,rose(UML画图工具),.net,javaScript,SQL Server数据库,vss,XML技术,软件项目管理
+css层叠样式表,Html,C#,.net,javaScript,Oracle数据库,PL/SQL,XML技术,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,C语言
+java,.net
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript
+.net
+.net
+C#,.net,visualStudio,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件工程,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,C语言
+AJAX(异步的JavaScript与XML技术),.net,javaScript,系统设计,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,数据库系统原理,软件项目管理
+C#,.net,visualStudio,SQL Server数据库,C语言
+C#,.net,visualStudio,SQL Server数据库,C语言
+ORM对象关系映射,C#,.net,visualStudio,SQL Server数据库,C语言
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,数据库建模
+ORM对象关系映射,C#,.net,SQL Server数据库,XML技术,面向对象分析,C语言
+ORM对象关系映射,.net,Oracle数据库,串口编程,面向对象分析,C++语言,串口开发
+Dreamweaver,.net,SQL Server数据库,ETL(数据仓库技术),Microsoft SQL Server Integration Services
+.net
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice,Microsoft Visual C++ 6.0
+ios开发,Android开发
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,jsp(java服务器页面),servlet,javabean,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Android开发,C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Microsoft Visual C++ 6.0
+C#,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,SQL Server数据库,vss,C语言,数据库建模
+jQuery框架,css层叠样式表,Html,C#,.net,mysql数据库,软件测试,数据库系统原理,C语言
+C#,.net,visualStudio,Oracle数据库,Db2数据库,ERP(企业资源计划),C语言,Webservice
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言,DOM
+jQuery框架,css层叠样式表,Html,C#,.net,XML技术,jSon技术,软件测试,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+java,jQuery框架,Extjs框架,css层叠样式表,Html,C#,.net,javaScript,windows操作系统,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,数据库系统原理,软件项目管理,C语言,电子商务
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,UML建模语言,数据库系统原理,软件项目管理,C语言,分布式,Webservice,电子商务
+css层叠样式表,Html,Photoshop,Dreamweaver,C#,.net,javaScript,SQL Server数据库,XML技术,软件测试,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,ERP(企业资源计划),C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,ERP(企业资源计划),C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,ERP(企业资源计划),C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,ERP(企业资源计划),C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,多线程,mysql数据库,SQL Server数据库,sqlite数据库,XML技术,面向对象分析,ERP(企业资源计划),C语言,Windows Communication Foundation,Webser
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,多线程,mysql数据库,SQL Server数据库,sqlite数据库,XML技术,面向对象分析,ERP(企业资源计划),C语言,Windows Communication Foundation,Webser
+C#,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,C语言
+C#,.net,多线程,mysql数据库,SQL Server数据库,Oracle数据库,C语言,分布式,Microsoft Visual C++ 6.0
+C#,SQL Server数据库,Oracle数据库,C语言,Windows Communication Foundation
+jQuery框架,Hibernate框架,Extjs框架,EASYUI框架(UI架构),Memcached,C#,.net,javaScript,SQL Server数据库,Redis数据库,UML建模语言,XML技术,面向对象分析,redis数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,Extjs框架,EASYUI框架(UI架构),Memcached,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Redis数据库,UML建模语言,XML技术,jSon技术,面向对象分析,redis数据库,C语言,Windows Co
+C#,C语言
+jQuery框架,C#,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,Oracle数据库,面向对象分析,数据库系统原理
+C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,软件架构设计,软件架构,软件文档写作,项目实施,C语言
+.net
+软件工程
+.net,多线程,系统设计,NoSQL数据库,Redis数据库,TCP/IP编程,HTTP传输协议,redis数据库,UDP协议,分布式
+C#,.net,javaScript,SQL Server数据库,软件测试,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),Dreamweaver,C#,.net,javaScript,多线程,windows操作系统,SQL Server数据库,面向对象分析,数据库系统原理,数据分析,C语言,分布式
+java,php,.net,javaScript,python编程,Android开发,Perl语言,软件工程,C语言,C++语言,ruby,Lua,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,C语言
+C#,.net,Flash,C语言
+C#,.net,javaScript,visualStudio,C语言,Microsoft Visual C++ 6.0
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,Bootstrap(Web前端CSS框架),C语言,bootstrap
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Extjs框架,EASYUI框架(UI架构),css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,Oracle数据库,XML技术,C语言,LinqQ
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试
+C#,.net,Oracle数据库,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,Flash,C语言
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,windows操作系统,SQL Server数据库,Flash,C语言
+Hibernate框架,ORM对象关系映射,C#,SQL Server数据库,Oracle数据库,svn,软件测试,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言,电子商务
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,软件测试,C语言
+jQuery框架,.net,visualStudio,SQL Server数据库,软件工程,Flash,C语言,Microsoft Visual C++ 6.0
+Html,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,C语言,电子商务
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言,Windows Communication Foundation
+ORM对象关系映射,.net,多线程,windows操作系统,Oracle数据库,Redis数据库,PL/SQL,Socket编程,GDI+图形编程,面向对象分析,MongoDB数据库,redis数据库,C语言
+ORM对象关系映射,.net,多线程,windows操作系统,Oracle数据库,Redis数据库,PL/SQL,Socket编程,GDI+图形编程,面向对象分析,MongoDB数据库,redis数据库,C语言
+C#,.net,SQL Server数据库,UML建模语言,OOD面向对象设计,面向对象分析,软件测试,C语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+NoSQL数据库,HTTP传输协议,数据结构,C语言,关系型数据库,Restful
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+.net,系统设计,SQL Server数据库,面向对象分析,软件测试,C语言
+java,jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,ORM对象关系映射,XHTML,.net,javaScript,多线程,SQL Server数据库,Oracle数据库,office,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,系统分析,SQL Server数据库,Oracle数据库,ios开发,数据库系统原理,软件文档写作,分布式
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,SQL Server数据库,Oracle数据库,WebService
+jQuery框架,Hibernate框架,Ibatis框架,css层叠样式表,Html,memcache,ORM对象关系映射,C#,.net,系统设计,系统分析,SQL Server数据库,Redis数据库,UML建模语言,XML技术,面向对象分析,redis数据库,cache技术,软件项目管
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,软件工程,C语言
+jQuery框架,css层叠样式表,Html,C#,javaScript,SQL Server数据库,Oracle数据库,C语言
+.net
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据结构,C语言,C++语言,Microsoft Visual C++ 6.0
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,C语言
+Hibernate框架,Spring框架,Extjs框架,EASYUI框架(UI架构),css层叠样式表,Html,memcache,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,visualStudio,多线程,mysql数据库,SQL Server数据库,Oracle数据库,Redis数
+ORM对象关系映射,C#,.net,多线程,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,软件文档写作,C语言,Windows Communication Foundation
+jQuery框架,css层叠样式表,Html,C#,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,ORM对象关系映射,C#,.net,多线程,COM编程,SQL Server数据库,UML建模语言,消息队列,HTTP传输协议,C语言,关系型数据库,SOA,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,css层叠样式表,C#,.net,软件工程,C语言,Microsoft Visual C++ 6.0
+jsp(java服务器页面),css层叠样式表,php,photoshop,SEO(搜索引擎优化),.net,SEO数据挖掘及分析
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),SEO(搜索引擎优化),.net,javaScript,SQL Server数据库,XML技术,SEO数据挖掘及分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,Ibatis框架,css层叠样式表,Html,ORM对象关系映射,AOP面向切面编程,IOC控制反转,.net,SQL Server数据库,Oracle数据库,C语言,SOA,Microsoft Visual C++ 6.0
+bootstrap框架,Bootstrap框架,css层叠样式表,C#,javaScript,COM编程,SQL Server数据库,Oracle数据库,XML技术,Bootstrap(Web前端CSS框架),C语言,bootstrap,Microsoft Visual C++ 6.0
+SQL Server数据库
+.net
+Extjs框架,websphere服务器,.net,javaScript,Oracle数据库,HTTP传输协议,C语言,分布式,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,.net,SQL Server数据库,ERP(企业资源计划),C语言
+C#,MFC,windows操作系统,C语言
+Html,AJAX(异步的JavaScript与XML技术),web2.0,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,Webservice
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,COM编程,系统设计,SQL Server数据库,面向对象分析,软件测试,软件工程,Adobe Illustrator(AI),office,C语言
+.net,NoSQL数据库,关系型数据库
+java,jQuery框架,css层叠样式表,C#,.net,javaScript,多线程,SQL Server数据库,Oracle数据库,Socket编程,XML技术,面向对象分析,C语言,Webservice
+css层叠样式表,Html,C#,.net,javaScript,Oracle数据库,XML技术,软件测试,熟悉一种脚本语言,C语言
+css层叠样式表,Html,.net,javaScript,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,javaScript,visualStudio,系统分析,SQL Server数据库,面向对象分析,软件测试,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,面向对象分析,C语言,WebService
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),IOC控制反转,C#,.net,javaScript,ios开发,jSon技术,Android开发,数据结构,C语言,Windows Communication Foundation,Restful,Microsoft Visual C++ 6.0,Sencha Touch,iWebkit,jQ
+jQuery框架,rose(UML画图工具),C#,.net,javaScript,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,软件工程,C语言,Powerdesigner,open data protocol,中间件,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,SQL Server数据库,ERP(企业资源计划),数据库系统原理,C语言,Microsoft Visual C++ 6.0
+C#,.net,javaScript,Oracle数据库,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,Oracle数据库,XML技术,C语言,WebService
+.net,软件测试
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),web2.0,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,jSon技术,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0,管理信息系统
+.net,系统设计,mysql数据库,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,Db2数据库,C语言
+jQuery框架,C#,.net,javaScript,mysql数据库,SQL Server数据库,UML建模语言,XML技术,OOD面向对象设计,面向对象分析,软件项目管理,project,C语言
+.net
+C#,.net,SQL Server数据库,Oracle数据库,Db2数据库,C语言
+photoshop,C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,数据结构,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,ant(一种基于Java的build工具),C#,.net,mysql数据库,SQL Server数据库,OOD面向对象设计,project,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,COM编程,系统设计,SQL Server数据库,面向对象分析,软件测试,软件工程,Adobe Illustrator(AI),office,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,.net,javaScript,软件测试,C语言,Microsoft Visual C++ 6.0
+Html,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,ERP(企业资源计划),软件工程,C语言,Webservice,电子商务
+C#,SQL Server数据库,C语言
+.net
+jQuery框架,Hibernate框架,css层叠样式表,C#,.net,软件工程,C语言,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,C#,.net,MFC,mysql数据库,SQL Server数据库,面向对象分析,软件测试,C语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,python编程,HTTP传输协议,面向对象分析,数据结构,项目实施,C语言,关系型数据库,Webservice,Mic
+Html,C#,.net,javaScript,SQL Server数据库,ERP(企业资源计划),数据库系统原理,项目实施,C语言
+jQuery框架,Html,C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言
+java,.net,COM编程,系统设计,OOD面向对象设计,数据库系统原理,C语言,分布式,关系型数据库,Windows Communication Foundation,Microsoft Visual C++ 6.0
+Tomcat,weblogic服务器,websphere服务器,eclipse,C#,.net,SQL Server数据库,Oracle数据库,Db2数据库,软件文档写作,C语言,C++语言,中间件,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0,信息安全导论
+css层叠样式表,Html,.net,SQL Server数据库,Oracle数据库,网络编程,XML技术,C语言,visual basic script
+Html,C#,.net,javaScript,SQL Server数据库,数据库系统原理,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,jSon技术,ERP(企业资源计划),软件测试,C语言,Webservice
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,jSon技术,软件文档写作,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,jSon技术,Db2数据库,C语言,DOM
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,XML技术,ERP(企业资源计划),软件文档写作
+C#,.net,多线程,windows操作系统,面向对象分析,C语言
+Hibernate框架,C#,.net,多线程,mysql数据库,TCP/IP编程,面向对象分析,UDP协议,美术基础,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,python编程,HTTP传输协议,面向对象分析,数据结构,项目实施,C语言,关系型数据库,Webservice,Mic
+C#,.net,javaScript,SQL Server数据库,C语言
+C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件文档写作,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件文档写作,C语言,Microsoft Visual C++ 6.0
+.net
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,SQL Server数据库,软件测试,数据库系统原理
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,windows操作系统,SQL Server数据库,XML技术,软件测试,软件工程,Windows Communication Foundation,电子商务
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,软件测试,软件工程,数据库系统原理,C语言,分布式,Microsoft Visual C++ 6.0
+Extjs框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,数据库系统原理,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,ERP(企业资源计划),C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+java,C#,.net,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,面向对象分析,软件测试,数据结构,C语言
+css层叠样式表,Html,.net,javaScript,软件文档写作,C++语言
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,SQL Server数据库,面向对象分析
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,数据库系统原理
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,系统设计,系统分析,SQL Server数据库,XML技术,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+.net,软件测试
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,windows操作系统,SQL Server数据库,XML技术,软件测试,软件工程,Windows Communication Foundation,电子商务
+css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言,电子商务
+.net
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,mysql数据库,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,Extjs框架,css层叠样式表,Html,TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,Oracle数据库,vss,C语言
+jQuery框架,Extjs框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,软件测试,数据库系统原理,项目实施,C语言,关系型数据库,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,软件测试,软件项目管理,C语言
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,C#,.net,javaScript,Bootstrap(Web前端CSS框架),C语言,bootstrap
+jQuery框架,css层叠样式表,C#,.net,系统分析,SQL Server数据库,C语言,C++语言,Microsoft Visual C++ 6.0
+java,C#,.net,多线程,SQL Server数据库,Oracle数据库,OOD面向对象设计,软件测试,C语言,Windows Communication Foundation
+css层叠样式表,web2.0,C#,.net,javaScript,SQL Server数据库,Oracle数据库,ERP(企业资源计划),数据库系统原理,C语言
+css层叠样式表,web2.0,C#,.net,javaScript,SQL Server数据库,Oracle数据库,ERP(企业资源计划),数据库系统原理,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,系统分析,SQL Server数据库,软件工程,软件项目管理,C语言
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,SEO(搜索引擎优化),.net,SQL Server数据库,面向对象分析,SEO数据挖掘及分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,Microsoft Office Visio,.net,javaScript,visualStudio,SQL Server数据库,UML建模语言,XML技术,软件文档写作,C语言,Windows Communica
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,.net,javaScript,软件测试,C语言,Microsoft Visual C++ 6.0
+C#,.net,系统分析,SQL Server数据库,Oracle数据库,XML技术,ERP(企业资源计划),项目实施,C语言,Windows Communication Foundation,Webservice,电子商务
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,XML技术,jSon技术,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,visualStudio,SQL Server数据库,C语言,WebService,Microsoft Visual C++ 6.0,电子商务
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,Oracle数据库,Windows Communication Foundation
+C#,.net,SQL Server数据库,数据库系统原理,C语言,Windows Communication Foundation
+Microsoft Office Visio,C#,.net,SQL Server数据库,面向对象分析,C语言,Powerdesigner
+css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言,电子商务
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,软件工程,C语言,Windows Communication Foundation,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+jQuery框架,bootstrap框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,Bootstrap(Web前端CSS框架),C语言,bootstrap,Microsoft Visual C++ 6.0
+css层叠样式表,C#,.net,javaScript,SQL Server数据库,XML技术,软件项目管理,C语言
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,.net,javaScript,OOD面向对象设计,美工基础,C语言,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,C语言
+php,.net
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,ios开发,XML技术,jSon技术,Android开发,C语言
+jQuery框架,C#,.net,javaScript,SQL Server数据库,C语言
+.net
+C#,.net,SQL Server数据库,面向对象分析,C语言,数据库建模,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,ERP(企业资源计划),C语言
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,Oracle数据库,ERP(企业资源计划),软件项目管理,美术基础,C语言,Webservice
+AOP面向切面编程,IOC控制反转,.net,系统分析,NoSQL数据库,软件测试,C语言,分布式,Windows Communication Foundation,中间件,SOA,Microsoft Visual C++ 6.0
+C#,.net,mysql数据库,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件文档写作,C语言,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,HTTP传输协议,C语言,Webservice
+bootstrap框架,Hibernate框架,Spring框架,Bootstrap框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件测试,软件文档写作,Bootstrap(Web前端CSS框架),C语言,bootstr
+css层叠样式表,AJAX(异步的JavaScript与XML技术),rose(UML画图工具),C#,.net,javaScript,Oracle数据库,UML建模语言,XML技术,面向对象分析,C语言
+css层叠样式表,Html,XHTML,Photoshop,windows操作系统,mysql数据库,SQL Server数据库,Flash
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件文档写作,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件文档写作,C语言,Microsoft Visual C++ 6.0
+C#,.net,javaScript,visualStudio,C语言,Microsoft Visual C++ 6.0
+.net
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,软件测试,C语言
+jQuery框架,Extjs框架,EASYUI框架(UI架构),css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,数据库系统原理,C语言,Microsoft Visual C++ 6.0,jQuery Mobile
+C#,.net,多线程,mysql数据库,SQL Server数据库,TCP/IP编程,ios开发,C语言,C++语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,SQL Server数据库,Oracle数据库,软件测试,软件项目管理,C语言
+jQuery框架,Hibernate框架,css层叠样式表,Html,ORM对象关系映射,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+java,jQuery框架,C#,.net,GUI编程,Oracle数据库,面向对象分析,软件工程,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,javaScript,SQL Server数据库,XML技术,jSon技术,面向对象分析,C语言
+C#,.net,javaScript,SQL Server数据库,C语言,Webservice,Microsoft Visual C++ 6.0
+.net,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,.net,visualStudio,SQL Server数据库,C语言
+.net,SQL Server数据库
+.net,SQL Server数据库,软件测试
+C#,.net,SQL Server数据库,C语言,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net
+jQuery框架,css层叠样式表,.net,系统设计,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,windows操作系统,UML建模语言,OOD面向对象设计,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,jSon技术,C语言,Webservice,Microsoft Visual C++ 6.0,DOM,电子商务
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,Oracle数据库,svn,XML技术,面向对象分析,C语言
+jQuery框架,bootstrap框架,Hibernate框架,Ibatis框架,Bootstrap框架,css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,Bootstrap(Web前端CSS框架),C语言,Webservice,bootstrap,Microsoft Visual C++ 
+css层叠样式表,Html,javaScript,系统分析,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,UML建模语言,XML技术,面向对象分析,C语言
+Hibernate框架,Spring框架,myBatis框架,MyBatis框架,AOP面向切面编程,IOC控制反转,C#,.net,COM编程,Oracle数据库,UML建模语言,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+C#,C语言
+C#,.net,SQL Server数据库,C语言
+.net,SQL Server数据库,软件测试,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,Oracle数据库,C语言,Webservice
+css层叠样式表,Html,C#,.net,javaScript,COM编程,SQL Server数据库,XML技术,ERP(企业资源计划),数据库系统原理,C语言,Microsoft Visual C++ 6.0,信息安全导论
+jQuery框架,.net,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+.net
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,系统设计,SQL Server数据库,XML技术,数据库系统原理,C语言,WebService
+jQuery框架,Extjs框架,EASYUI框架(UI架构),dwz框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ant(一种基于Java的build工具),C#,.net,javaScript,SQL Server数据库,svn,XML技术,ERP(企业资源计划),C语言,Wind
+jQuery框架,bootstrap框架,Extjs框架,Bootstrap框架,css层叠样式表,Html,C#,.net,javaScript,系统分析,mysql数据库,SQL Server数据库,美工基础,Bootstrap(Web前端CSS框架),C语言,bootstrap,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,HTTP传输协议,软件测试,软件项目管理,C语言,Windows Communication Foundation
+css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试,C语言
+.net
+.net,visualStudio,软件工程,office
+css层叠样式表,C#,.net,javaScript,数据库系统原理,C语言
+C#,.net,多线程,Oracle数据库,PL/SQL,Socket编程,office,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),C#,.net,javaScript,系统设计,windows操作系统,SQL Server数据库,Oracle数据库,svn,XML技术,jSon技术,软件测试,C语言,Microsoft Vis
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),C#,.net,javaScript,系统设计,windows操作系统,SQL Server数据库,Oracle数据库,svn,XML技术,jSon技术,软件测试,软件项目管理,C
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,关系型数据库
+C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,C语言,关系型数据库
+jQuery框架,Extjs框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,OOD面向对象设计,面向对象分析,Access数据库,C语言
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,jSon技术,软件测试,软件项目管理,C语言,Webservice
+jQuery框架,css层叠样式表,Html,.net,javaScript,SQL Server数据库,软件工程,软件项目管理,分布式
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+Html,.net,javaScript,SQL Server数据库,Oracle数据库,软件测试,Windows Communication Foundation
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,C语言
+Html,C#,.net,javaScript,SQL Server数据库,ERP(企业资源计划),数据库系统原理,项目实施,C语言
+jQuery框架,ORM对象关系映射,C#,.net,javaScript,visualStudio,SQL Server数据库,svn,C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,Hibernate框架,Spring框架,EASYUI框架(UI架构),css层叠样式表,Html,C#,.net,javaScript,visualStudio,Oracle数据库,XML技术,jSon技术,C语言,Webservice,Microsoft Visual C++ 6.0
+java,jQuery框架,php,.net,javaScript,mysql数据库,SQL Server数据库
+.net,javaScript,SQL Server数据库,Oracle数据库,熟悉一种脚本语言
+jQuery框架,css层叠样式表,C#,.net,javaScript,系统设计,SQL Server数据库,Oracle数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Html,C#,.net,javaScript,COM编程,系统分析,SQL Server数据库,XML技术,Access数据库,数据库系统原理,C语言
+C#,.net,系统设计,SQL Server数据库,数据库系统原理,office,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,软件测试,C语言,Windows Communication Foundation
+面向对象分析,软件架构设计,软件工程,软件架构,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,Oracle数据库,XML技术,数据库系统原理,数据分析,软件项目管理,C语言,Webservice,电子商务
+jQuery框架,css层叠样式表,Html,TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,svn,面向对象分析,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,C语言
+jQuery框架,C#,.net,javaScript,SQL Server数据库,面向对象分析,软件文档写作,C语言
+Html,C#,C语言
+Html,ORM对象关系映射,C#,.net,visualStudio,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+C#,.net,COM编程,SQL Server数据库,C语言
+jQuery框架,css层叠样式表,Html,.net,mysql数据库,SQL Server数据库,Oracle数据库,git,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件测试,数据库系统原理,C语言
+C#,.net,COM编程,系统设计,系统分析,C语言
+Hibernate框架,ORM对象关系映射,IOC控制反转,.net,mysql数据库,SQL Server数据库,Oracle数据库,UML建模语言,cache技术,软件架构设计,软件架构,软件文档写作,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+AJAX(异步的JavaScript与XML技术),C#,.net,visualStudio,SQL Server数据库,Oracle数据库,C语言
+jQuery框架,Extjs框架,css层叠样式表,Html,TFS(一个分布式文件系统),C#,.net,javaScript,SQL Server数据库,Oracle数据库,vss,C语言
+.net,系统设计,系统分析,mysql数据库,Oracle数据库,UML建模语言,软件架构设计,软件架构,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,面向对象分析,软件工程,数据库系统原理,C语言
+.net,SQL Server数据库,Oracle数据库
+C#,.net,系统分析,SQL Server数据库,Oracle数据库,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,面向对象分析,软件工程,数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,ERP(企业资源计划),数据库系统原理,C语言
+C#,.net,系统设计,SQL Server数据库,Oracle数据库,TCP/IP编程,软件架构设计,软件测试,软件架构,C语言
+C#,.net,SQL Server数据库,C语言,电子商务
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,熟悉一种脚本语言,C语言,电子商务
+jQuery框架,Extjs框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,UML建模语言,XML技术,面向对象分析,软件项目管理,C语言
+ORM对象关系映射,C#,.net,SQL Server数据库,Oracle数据库,C语言
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,windows操作系统,SQL Server数据库,熟悉一种脚本语言,C语言,visual basic script,Webservice
+C#,.net,C语言
+css层叠样式表,Html,php,javaScript,COM编程,mysql数据库,Access数据库,cms(Content Management System内容管理系统(网页有关))
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0,电子商务
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Windows Communication Foundation
+ORM对象关系映射,C#,.net,多线程,C语言
+css层叠样式表,Html,php,.net,javaScript,Flash
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,多线程,系统设计,windows操作系统,SQL Server数据库,XML技术,软件测试,C语言,Windows Communication Foundation
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,XML技术,Db2数据库,数据结构,C语言,Arcgis,ArcGIS
+css层叠样式表,AJAX(异步的JavaScript与XML技术),.net,javaScript,visualStudio,Oracle数据库,XML技术,C语言,分布式,数据挖掘,Webservice,Microsoft Visual C++ 6.0
+C#,.net,Oracle数据库,C语言
+C#,visualStudio,面向对象分析,ERP(企业资源计划),C语言
+java,Oracle数据库
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,软件测试,数据库系统原理,软件文档写作,C语言
+Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,windows操作系统,SQL Server数据库,XML技术,软件测试,软件工程,电子商务
+jQuery框架,Html,C#,.net,javaScript,COM编程,SQL Server数据库,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,SQL Server数据库,C语言,Windows Communication Foundation
+C#,.net,MFC,SQL Server数据库,Socket编程,软件测试,C语言,C++语言
+Html,C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言
+C#,.net,javaScript,SQL Server数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式
+C#,.net,javaScript,SQL Server数据库,C语言
+C#,.net,SQL Server数据库,C语言
+C#,.net,C语言
+Html,.net,javaScript,SQL Server数据库,ios开发,XML技术
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,SQL Server数据库,XML技术,C语言,Windows Communication Foundation,Webservice
+css层叠样式表,Html,php,.net,javaScript,Flash
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,C语言,WebService
+.net
+.net,SQL Server数据库,Oracle数据库
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,软件工程,C语言
+C#,.net,Oracle数据库,C语言
+C#,.net,系统分析,mysql数据库,SQL Server数据库,美工基础,C语言,Microsoft Visual C++ 6.0
+JavaEE架构,jsp(java服务器页面),servlet,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,ERP(企业资源计划),项目实施,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,XML技术,面向对象分析,cms(Content Management System内容管理系统(网页有关)),关系型数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,C语言,关系型数据库,Webservice,电子商务
+java,.net,windows操作系统,linux操作系统,软件工程,分布式,电子商务
+css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,svn,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,Html,.net,javaScript,mysql数据库,SQL Server数据库,svn,C语言,Webservice,Microsoft Visual C++ 6.0
+jQuery框架,C#,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,XHTML,C#,.net,SQL Server数据库,软件文档写作,C语言,Webservice,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,visualStudio,C语言,Microsoft Visual C++ 6.0
+C#,.net,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,软件工程,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,Oracle数据库,svn,C语言,Windows Communication Foundation
+C#,SQL Server数据库,Oracle数据库,Socket编程,C语言,Webservice,电子商务
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Microsoft Visual C++ 6.0
+.net,windows操作系统,TCP/IP编程,linux操作系统,网络编程,串口编程,面向对象分析,软件测试,软件工程,C++语言,Microsoft Visual C++ 6.0,串口开发
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,系统分析,面向对象分析,C语言
+.net,javaScript,HTTP传输协议,面向对象分析,MongoDB数据库,软件测试,数据结构,C语言,分布式,Open Web Interface for .NET,Microsoft Visual C++ 6.0
+.net,javaScript,HTTP传输协议,面向对象分析,MongoDB数据库,软件测试,数据结构,C语言,分布式,Open Web Interface for .NET,Microsoft Visual C++ 6.0
+.net,javaScript,HTTP传输协议,面向对象分析,MongoDB数据库,软件测试,数据结构,C语言,分布式,Open Web Interface for .NET,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,jSon技术,C语言,Microsoft Visual C++ 6.0,DOM
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,jSon技术,C语言,Microsoft Visual C++ 6.0,DOM
+jQuery框架,Html,C#,.net,javaScript,系统设计,SQL Server数据库,NoSQL数据库,软件测试,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,软件项目管理,C语言
+css层叠样式表,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,软件项目管理,C语言
+jQuery框架,css层叠样式表,Html,.net,javaScript,多线程,COM编程,TCP/IP编程,网络编程,UDP协议,C语言,数据库建模,Windows Communication Foundation,Webservice
+C#,.net,C语言
+jQuery框架,css层叠样式表,Html,XHTML,.net,javaScript,visualStudio,SQL Server数据库,UML建模语言,svn,XML技术,面向对象分析,软件工程,office,C语言,Webservice,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,系统分析,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+C#,.net,系统设计,SQL Server数据库,Oracle数据库,面向对象分析,软件工程,软件项目管理,C语言,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,系统分析,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,C语言,Microsoft Visual C++ 6.0,电子商务
+C#,.net,visualStudio,SQL Server数据库,ERP(企业资源计划),数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,COM编程,SQL Server数据库,HTTP传输协议,C语言
+jQuery框架,C#,.net,javaScript,系统设计,SQL Server数据库,ERP(企业资源计划),C语言
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,jSon技术,C语言,Webservice,Microsoft Visual C++ 6.0,DOM,电子商务
+jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,XML技术,jSon技术,C语言,Webservice,Microsoft Visual C++ 6.0,DOM,电子商务
+C#,.net,SQL Server数据库,ERP(企业资源计划),C语言,分布式
+C#,.net,SQL Server数据库,XML技术,面向对象分析,软件测试,数据结构,C语言,数据库建模
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,C语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,C语言,Microsoft Visual C++ 6.0,电子商务
+.net,visualStudio,SQL Server数据库,ERP(企业资源计划),软件工程,C语言,分布式,电子商务
+.net,visualStudio,SQL Server数据库,ERP(企业资源计划),软件工程,C语言,分布式,电子商务
+C#,.net,多线程,系统设计,C语言
+java,C#,.net,javaScript,系统设计,系统分析,windows操作系统,SQL Server数据库,Oracle数据库,C语言,visual basic script
+jQuery框架,EASYUI框架(UI架构),AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),.net,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,软件测试,软件项目管理,cms(Content Management System内容管理系统(
+C#,.net,mysql数据库,Oracle数据库,面向对象分析,C语言,Arcgis,ArcGIS,Microsoft Visual C++ 6.0
+C#,.net,javaScript,C语言
+css层叠样式表,Html,C#,.net,javaScript,系统设计,mysql数据库,SQL Server数据库,Redis数据库,UML建模语言,XML技术,redis数据库,C语言,分布式,RabbitMQ
+php,C#,.net,javaScript,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,面向对象分析,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,C语言
+Html,C#,.net,visualStudio,SQL Server数据库,Oracle数据库,面向对象分析,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,.net,javaScript,visualStudio,SQL Server数据库,vss,XML技术
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,XML技术,数据库系统原理,C语言,cms(Content Management System内容管理系统(网页有关))
+C#,.net,SQL Server数据库,C语言
+C#,.net,SQL Server数据库,C语言
+jQuery框架,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,多线程,mysql数据库,SQL Server数据库,XML技术,面向对象分析,数据库系统原理,软件文档写作,C语言,Windows Communication Foundation
+jQuery框架,php,C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,php,photoshop,C#,.net,javaScript,COM编程,mysql数据库,SQL Server数据库,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,C#,.net,javaScript,SQL Server数据库,ERP(企业资源计划),C语言,电子商务
+jQuery框架,C#,.net,javaScript,COM编程,SQL Server数据库,ERP(企业资源计划),C语言,电子商务
+jQuery框架,css层叠样式表,Html,photoshop,C#,.net,javaScript,Flash,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言,Windows Communication Foundation
+C#,.net,visualStudio,mysql数据库,SQL Server数据库,C语言,分布式
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,项目实施,C语言
+java,jQuery框架,Extjs框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,windows操作系统,SQL Server数据库,jSon技术,软件测试,C语言,C++语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+.net,COM编程,Socket编程,OOA面向对象分析,OOD面向对象设计,Prototype,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),web2.0,XHTML,DHTML,C#,.net,javaScript,OOD面向对象设计,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,DOM
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言,DOM
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言,DOM
+jQuery框架,css层叠样式表,C#,.net,SQL Server数据库,svn,面向对象分析,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,visualStudio,多线程,windows操作系统,TCP/IP编程,HTTP传输协议,XML技术,jSon技术,网络通信,数据库系统原理,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,HTTP传输协议,XML技术,C语言,Windows Communication Foundation,Webservice,Microsoft Visual C++ 6.0
+C#,多线程,SQL Server数据库,Oracle数据库,Socket编程,网络编程,软件项目管理,C语言
+C#,.net,C语言
+C#,.net,C语言
+.net
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,面向对象分析,C语言
+C#,.net,C语言
+C#,.net,C语言
+C#,.net,C语言
+C#,.net,C语言
+C#,.net,C语言
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,vss,CVS(一种自动测试工具),软件项目管理,Flash,C语言
+css层叠样式表,Html,.net,javaScript,SQL Server数据库,数据库系统原理
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,美工基础,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Socket编程,软件测试,数据库系统原理,C语言,分布式,Windows Communication Foundation,Microsoft Visual C++ 6.0
+Html,.net,javaScript,visualStudio,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,ORM对象关系映射,XHTML,.net,javaScript,多线程,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,串口编程,C++语言,串口开发
+C#,SQL Server数据库,软件工程,C语言,C++语言,算法设计与技术
+C#,.net,visualStudio,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,Db2数据库,ERP(企业资源计划),软件测试,软件文档写作,C语言,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库
+MFC,windows操作系统,mysql数据库,SQL Server数据库,网络编程,串口编程,C语言,C++语言,WinSock,串口开发,嵌入式操作系统
+css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,windows操作系统,mysql数据库,Oracle数据库,XML技术,office,C语言,visual basic script
+Hibernate框架,Memcached,photoshop,C#,.net,SQL Server数据库,Oracle数据库,Redis数据库,面向对象分析,redis数据库,C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,jSon技术,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0,电子商务
+.net,visualStudio,SQL Server数据库,Socket编程,网络编程,UML建模语言,软件架构设计,软件架构,Windows Communication Foundation
+.net,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+.net,SQL Server数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+C#,多线程,SQL Server数据库,Oracle数据库,Socket编程,网络编程,UML建模语言,面向对象分析,软件项目管理,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,XML技术
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,COM编程,SQL Server数据库,Oracle数据库,面向对象分析,软件项目管理,软件文档写作,C语言,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,SQL Server数据库,svn,面向对象分析,ERP(企业资源计划),C语言,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,C语言
+C#,.net,系统设计,SQL Server数据库,数据库系统原理,C语言
+.net,软件测试,熟悉主流测试工具,软件工程
+css层叠样式表,AJAX(异步的JavaScript与XML技术),javaScript,jSon技术
+C#,.net,SQL Server数据库,ERP(企业资源计划),软件项目管理,C语言
+.net,软件工程,C语言
+ORM对象关系映射,C#,.net,多线程,SQL Server数据库,Socket编程,XML技术,jSon技术,C语言,Webservice
+C#,.net,visualStudio,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,面向对象分析,UDP协议,TCP/UDP,软件测试,C语言
+C#,.net,SQL Server数据库,软件项目管理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,HTTP传输协议,XML技术,jSon技术,C语言,Webservice
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,Oracle数据库,Socket编程,XML技术,jSon技术,ERP(企业资源计划),软件测试,C语言,WebService,Webservice
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,windows操作系统,XML技术,jSon技术,网络通信,C语言,Webservice,Microsoft Visual C++ 6.0
+java,C#,.net,SQL Server数据库,Oracle数据库,软件工程,C语言
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,系统设计,SQL Server数据库,XML技术,数据库系统原理,C语言,WebService
+css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,visualStudio,多线程,mysql数据库,SQL Server数据库,UML建模语言,XML技术,面向对象分析,软件测试,数据库系统原理,C语言,Wi
+jQuery框架,css层叠样式表,Html,javaScript,系统分析,SQL Server数据库,Oracle数据库,面向对象分析
+ORM对象关系映射,C#,.net,mysql数据库,SQL Server数据库,面向对象分析,软件工程,C语言,Windows Communication Foundation
+jQuery框架,bootstrap框架,Bootstrap框架,css层叠样式表,Html,XHTML,.net,javaScript,mysql数据库,SQL Server数据库,linux操作系统,python编程,Bootstrap(Web前端CSS框架),C语言,bootstrap,Microsoft Visual C++ 6.0,电子商务
+.net,mysql数据库,SQL Server数据库,Oracle数据库
+.net,SQL Server数据库,UML建模语言,电子商务
+C#,.net,C语言
+C#,.net,visualStudio,系统分析,mysql数据库,SQL Server数据库,Oracle数据库,svn,vss,XML技术,面向对象分析,CVS(一种自动测试工具),C语言,WebService
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,C#,.net,javaScript,visualStudio,多线程,mysql数据库,SQL Server数据库,Oracle数据库,网络编程,XML技术,软件架构设计,熟悉一种脚本语言,软件架构,
+.net,Oracle数据库,面向对象分析,数据挖掘
+.net,Oracle数据库,面向对象分析,数据挖掘
+.net,Oracle数据库,面向对象分析,数据挖掘
+.net,Oracle数据库,面向对象分析,数据挖掘
+AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,Oracle数据库,C语言
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,Socket编程,面向对象分析,软件项目管理,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,.net,SQL Server数据库
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,SQL Server数据库,XML技术,软件工程
+jQuery框架,C#,.net,javaScript,软件测试,C语言,分布式
+jQuery框架,C#,.net,javaScript,系统设计,SQL Server数据库,软件工程,数据库系统原理,C语言,Microsoft Visual C++ 6.0
+jQuery框架,Html,.net,javaScript,SQL Server数据库,Oracle数据库,visual basic script,Windows Communication Foundation
+jQuery框架,C#,.net,javaScript,多线程,C语言,分布式,Windows Communication Foundation
+C#,.net,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,C语言
+jQuery框架,C#,.net,SQL Server数据库,svn,软件测试,C语言,Microsoft Visual C++ 6.0,jQuery Mobile
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,COM编程,系统设计,SQL Server数据库,面向对象分析,软件测试,软件工程,Adobe Illustrator(AI),office,C语言
+Jsf框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,面向对象分析,Db2数据库,软件工程,数据结构,C语言,微机原理与接口技术
+C#,.net,SQL Server数据库,软件项目管理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+jQuery框架,Html,.net,javaScript,熟悉一种脚本语言,计算机网络
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,系统分析,SQL Server数据库,Oracle数据库,面向对象分析,C语言,WebService,Microsoft Visual C++ 6.0
+css层叠样式表,ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,HTTP传输协议,jSon技术,面向对象分析,数据库系统原理,软件项目管理,C语言
+css层叠样式表,C#,.net,javaScript,系统设计,SQL Server数据库,面向对象分析,数据库系统原理,数据结构,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+Html,C#,.net,javaScript,C语言,visual basic script
+Extjs框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+C#,.net,SQL Server数据库,数据库系统原理,C语言,Windows Communication Foundation
+css层叠样式表,Html,apache,Tomcat,ORM对象关系映射,.net,Oracle数据库,XML技术,sybase数据库,Windows Communication Foundation,中间件
+weblogic服务器,websphere服务器,ORM对象关系映射,.net,Oracle数据库,linux操作系统,unix操作系统,sybase数据库,软件项目管理,C语言,中间件
+ORM对象关系映射,C#,.net,系统分析,SQL Server数据库,软件测试,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+Jsf框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,面向对象分析,Db2数据库,软件工程,数据结构,C语言,微机原理与接口技术
+Memcached,C#,.net,javaScript,Redis数据库,面向对象分析,redis数据库,C语言
+C#,.net,SQL Server数据库,Oracle数据库,UML建模语言,面向对象分析,软件测试,数据库系统原理,数据结构,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,C语言,网络安全技术
+.net,visualStudio,XML技术,面向对象分析
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,SQL Server数据库,面向对象分析,ERP(企业资源计划),C语言
+java,jQuery框架,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,php,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,PL/SQL,软件项目管理,C语言,SSH协议,网络安全技术
+ORM对象关系映射,IOC控制反转,C#,.net,SQL Server数据库,C语言,Microsoft Visual C++ 6.0
+Html,.net,javaScript,SQL Server数据库,XML技术,C语言,分布式,Microsoft Visual C++ 6.0
+.net,javaScript,COM编程,SQL Server数据库,软件工程,数据库系统原理,C语言,Powerdesigner,Microsoft Visual C++ 6.0
+jQuery框架,css层叠样式表,C#,.net,SQL Server数据库,面向对象分析,C语言,XSLT,电子商务
+jQuery框架,Extjs框架,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,Oracle数据库,软件项目管理,项目实施,C语言
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,XML技术,面向对象分析,C语言
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,mysql数据库,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言,Webservice,Microsoft Visual C++ 6.0
+C#,.net,Oracle数据库,PL/SQL,C语言
+java,C#,.net,多线程,SQL Server数据库,Oracle数据库,OOD面向对象设计,软件文档写作,C语言,Windows Communication Foundation
+jQuery框架,css层叠样式表,C#,.net,javaScript,COM编程,SQL Server数据库,C语言
+jQuery框架,Html,.net,javaScript,visualStudio,SQL Server数据库,HTTP传输协议,软件测试,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,COM编程,SQL Server数据库,Oracle数据库,软件工程,电子商务
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,SQL Server数据库,Oracle数据库,vss,C语言,DOM
+JavaEE架构,eclipse,.net,visualStudio,SQL Server数据库,SSH协议
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),TFS(一个分布式文件系统),C#,.net,javaScript,visualStudio,SQL Server数据库,vss,C语言,Webservice,Microsoft Visual C++ 6.0
+C#,.net,visualStudio,SQL Server数据库,C语言
+C#,.net,visualStudio,SQL Server数据库,Oracle数据库,软件项目管理,C语言
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,XHTML,C#,.net,javaScript,软件项目管理,Flash,C语言,ActionScript
+jQuery框架,css层叠样式表,Html,C#,javaScript,mysql数据库,SQL Server数据库,XML技术,jSon技术,C语言,DOM
+ORM对象关系映射,C#,.net,SQL Server数据库,ERP(企业资源计划),数据库系统原理,C语言
+Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,系统设计,软件测试,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,SQL Server数据库,XML技术,C语言,Single Sign On,Microsoft Visual C++ 6.0,DOM
+C#,.net,SQL Server数据库,Oracle数据库,软件项目管理,C语言,Windows Communication Foundation
+AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,XML技术,C语言,Webservice
+ORM对象关系映射
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,visualStudio,XML技术,项目实施,C语言,Webservice
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),Dreamweaver,C#,.net,javaScript,mysql数据库,SQL Server数据库,UML建模语言,vss,XML技术,面向对象分析,软件工程,C语言
+java,jQuery框架,css层叠样式表,Html,ORM对象关系映射,C#,.net,javaScript,系统设计,windows操作系统,ios开发,Android开发,数据分析,C语言,C++语言,Microsoft Visual C++ 6.0
+java,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,面向对象分析,C语言
+jQuery框架,Spring框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),IOC控制反转,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,数据库系统原理,C语言,rest
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,mysql数据库,Oracle数据库,XML技术,C语言,Webservice
+EASYUI框架(UI架构),C#,.net,SQL Server数据库,Oracle数据库,C语言,Webservice,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,多线程,office,C语言,Powerdesigner
+Html,.net,COM编程,SQL Server数据库,HTTP传输协议,XML技术
+.net
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),DHTML,C#,.net,javaScript,XML技术,项目实施,C语言
+ORM对象关系映射,C#,.net,SQL Server数据库,C语言
+ORM对象关系映射,多线程,网络编程,串口编程,C语言,串口开发
+jQuery框架,Html,AJAX(异步的JavaScript与XML技术),XHTML,Dreamweaver,C#,.net,javaScript,visualStudio,SQL Server数据库,vss,C语言,Microsoft Visual C++ 6.0
+Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,svn,vss,XML技术,软件测试,Jira(项目与事务跟踪工具),熟悉主流测试工具
+.net,SQL Server数据库
+java,.net,软件工程,C++语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,软件测试,C语言
+EASYUI框架(UI架构),AJAX(异步的JavaScript与XML技术),.net,javaScript,Oracle数据库
+Html,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,XML技术,C语言,Webservice
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,C语言,WebService
+css层叠样式表,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,软件测试,数据库系统原理,项目实施,C语言,关系型数据库
+css层叠样式表,C#,.net,javaScript,visualStudio,SQL Server数据库,Oracle数据库,软件测试,数据库系统原理,项目实施,C语言,关系型数据库
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,SQL Server数据库,XML技术,面向对象分析,C语言
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,软件测试,数据分析,软件项目管理,C语言,网络安全技术
+.net,windows操作系统,SQL Server数据库,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,XML技术,jSon技术,C语言
+java,.net,ios开发
+jQuery框架,css层叠样式表,C#,.net,javaScript,SQL Server数据库,C语言
+.net
+Extjs框架,C#,.net,javaScript,SQL Server数据库,C语言,Webservice
+Extjs框架,C#,.net,javaScript,SQL Server数据库,C语言,Webservice
+jQuery框架,EASYUI框架(UI架构),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,多线程,SQL Server数据库,Oracle数据库,XML技术,jSon技术,数据库系统原理,C语言,Windows Communication Foundation,soap,rest,Microsoft
+.net
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,系统设计,SQL Server数据库,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,.net,javaScript,SQL Server数据库,数据库系统原理,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+java,css层叠样式表,Html,eclipse,.net,javaScript,visualStudio,mysql数据库,SQL Server数据库,XML技术,C语言
+Hibernate框架,ORM对象关系映射,.net,windows操作系统,SQL Server数据库,Windows Communication Foundation,Webservice,电子商务
+SQL Server数据库,Oracle数据库,PL/SQL,面向对象分析,软件测试,软件工程,office,项目实施
+css层叠样式表,AJAX(异步的JavaScript与XML技术),photoshop,C#,.net,javaScript,SQL Server数据库,C语言
+jQuery框架,bootstrap框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,C#,.net,javaScript,Bootstrap(Web前端CSS框架),C语言,amaze,bootstrap
+jQuery框架,bootstrap框架,EASYUI框架(UI架构),Bootstrap框架,css层叠样式表,Html,C#,.net,javaScript,Bootstrap(Web前端CSS框架),C语言,amaze,bootstrap
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,数据结构,C语言
+css层叠样式表,Html,ORM对象关系映射,photoshop,ant(一种基于Java的build工具),C#,.net,javaScript,COM编程,OOD面向对象设计,Shell语言,Adobe Illustrator(AI),office,C语言,Windows Communication Foundation,Unity
+java,css层叠样式表,Html,.net,javaScript,多线程,SQL Server数据库,TCP/IP编程
+java,css层叠样式表,Html,.net,javaScript,多线程,SQL Server数据库,TCP/IP编程,Db2数据库
+java,css层叠样式表,Html,.net,javaScript,多线程,SQL Server数据库,TCP/IP编程
+jQuery框架,EASYUI框架(UI架构),Html,AJAX(异步的JavaScript与XML技术),C#,.net,多线程,SQL Server数据库,XML技术,软件工程,C语言,Windows Communication Foundation,电子商务
+jQuery框架,EASYUI框架(UI架构),Html,AJAX(异步的JavaScript与XML技术),C#,.net,多线程,SQL Server数据库,XML技术,软件工程,C语言,Windows Communication Foundation,电子商务
+css层叠样式表,Html,C#,.net,javaScript,数据结构,C语言
+C#,.net,SQL Server数据库,Oracle数据库,数据结构,C语言
+.net,javaScript,windows操作系统,SQL Server数据库
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,HTTP传输协议,面向对象分析,C语言
+css层叠样式表,Html,C#,.net,javaScript,系统设计,SQL Server数据库,HTTP传输协议,面向对象分析,C语言
+jQuery框架,AJAX(异步的JavaScript与XML技术),web2.0,.net,javaScript,SQL Server数据库,XML技术,软件测试,软件工程
+jQuery框架,Extjs框架,css层叠样式表,Html,C#,.net,javaScript,C语言,分布式,Windows Communication Foundation,WebService
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,XML技术,web后端设计与开发,C语言,WebService,Microsoft Visual C++ 6.0,电子商务
+jQuery框架,.net,javaScript,SQL Server数据库,UML建模语言,面向对象分析,Windows Communication Foundation,Webservice
+Html,电子商务
+ORM对象关系映射,.net,面向对象分析,C语言
+java,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,XML技术,OOD面向对象设计,C语言,Microsoft Visual C++ 6.0
+ORM对象关系映射,C#,.net,多线程,Socket编程,C语言,C++语言
+C#,.net,多线程,mysql数据库,Oracle数据库,C语言
+css层叠样式表,Html,Photoshop,Dreamweaver,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,Access数据库,软件测试,Flash,美工基础,fireworks,office,visual basic script,电子商务
+Html,C#,.net,javaScript,SQL Server数据库,软件工程,软件项目管理,项目实施,C语言
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,SQL Server数据库,svn,vss,XML技术
+jQuery框架,css层叠样式表,C#,.net,javaScript,SQL Server数据库,Oracle数据库,C语言,Microsoft Visual C++ 6.0
+css层叠样式表,C#,.net,SQL Server数据库,Oracle数据库,面向对象分析,数据库系统原理,C语言
+游戏设计
+C#,.net,多线程,SQL Server数据库,UML建模语言,office,C语言,Windows Communication Foundation,Microsoft Visual C++ 6.0
+游戏设计
+美术基础
+游戏设计
+游戏设计
+photoshop,美工基础,美术基础,C语言,Autodesk Maya(三维动画软件)
+photoshop,美工基础,美术基础,C语言,Autodesk Maya(三维动画软件)
+photoshop,美工基础,美术基础,C语言,Autodesk Maya(三维动画软件)
+美术基础,office,C语言,Autodesk Maya(三维动画软件),Unity
+美术基础,office,C语言,Autodesk Maya(三维动画软件),Unity
+photoshop,美工基础,美术基础,C语言,Autodesk Maya(三维动画软件)
+美术基础,office,C语言,Autodesk Maya(三维动画软件),Unity
+SEO(搜索引擎优化),C#,.net,mysql数据库,SQL Server数据库,STL库,软件项目管理,SEO数据挖掘及分析,C语言,C++语言,Standard Template Library
+jQuery框架,css层叠样式表,Html,C#,.net,javaScript,visualStudio,SQL Server数据库,UML建模语言,面向对象分析,软件测试,C语言
+jQuery框架,css层叠样式表,Html,.net,javaScript,软件文档写作
+jQuery框架,css层叠样式表,C#,.net,javaScript,visualStudio,系统设计,SQL Server数据库,面向对象分析,C语言,WebService,DOM
+COM编程,HTTP传输协议,软件工程,电子商务
+Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,SQL Server数据库,C语言
+.net,软件工程
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),web2.0,.net,javaScript,SQL Server数据库,XML技术,软件测试
+Extjs框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,C#,.net,javaScript,Oracle数据库,XML技术,ERP(企业资源计划),C语言,Webservice
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,mysql数据库,Oracle数据库,XML技术,软件测试,C语言
+C#,.net,面向对象分析,数据库系统原理,C语言,C++语言
+jQuery框架,css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,SQL Server数据库,C语言,Webservice,Microsoft Visual C++ 6.0,电子商务
+.net,office
+jQuery框架,bootstrap框架,Bootstrap框架,C#,.net,javaScript,mysql数据库,SQL Server数据库,XML技术,jSon技术,Bootstrap(Web前端CSS框架),office,C语言,Webservice,bootstrap,rest,Microsoft Visual C++ 6.0
+css层叠样式表,AJAX(异步的JavaScript与XML技术),C#,.net,javaScript,visualStudio,COM编程,系统设计,SQL Server数据库,面向对象分析,软件测试,软件工程,Adobe Illustrator(AI),office,C语言

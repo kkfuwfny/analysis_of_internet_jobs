@@ -1,0 +1,1542 @@
+java,linux操作系统,python编程,软件测试,云服务测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,熟悉主流测试工具
+Oracle数据库,Db2数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Quality Center,C语言
+mysql数据库,python编程,Android开发,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,数据结构,C语言,C++语言,visual basic script,Microsoft Visual C++ 6.0
+linux操作系统,Android开发,软件测试,Mantis(一个缺陷跟踪系统),软件工程
+软件测试
+svn,软件测试,熟悉主流测试工具
+软件架构设计,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程,故障定位工具,熟悉一种脚本语言,软件架构,数据库系统原理
+软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程,软件项目管理
+软件测试,熟悉主流测试工具
+mysql数据库,软件测试,熟悉主流测试工具,熟悉一种脚本语言,软件项目管理,C语言
+mysql数据库,SQL Server数据库,svn,软件测试,熟悉一种脚本语言,软件项目管理
+php,mysql数据库,SQL Server数据库,Socket编程,linux操作系统,HTTP传输协议,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉主流测试工具,熟悉一种脚本语言,数据分析,C语言,中间件
+软件测试
+java,Oracle数据库,PL/SQL,linux操作系统,unix操作系统,软件测试,Shell语言,软件工程
+linux操作系统,软件测试,Shell语言,Loadrunner(一个测试软件的工具),熟悉主流测试工具,C语言,分布式
+linux操作系统,unix操作系统,软件测试,熟悉主流测试工具,软件工程,软件文档写作
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具
+java,python编程,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),单元测试工具,熟悉主流测试工具,熟悉一种脚本语言,ruby
+ERP(企业资源计划),项目实施
+软件测试
+ERP(企业资源计划),项目实施
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,熟悉主流测试工具
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+java,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),postgresql
+java,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,C语言
+软件测试
+软件测试,C语言
+软件工程,软件项目管理,C语言
+软件测试,熟悉主流测试工具,软件工程,软件文档写作,C语言
+C语言
+windows操作系统,linux操作系统,ios开发,软件测试,C语言
+usb编程,ios开发,C语言
+Objective-c语言,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件项目管理,C语言
+软件测试,C语言
+软件测试,C语言
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+软件工程,软件项目管理,C语言
+photoshop,python编程,软件测试,分布式
+java,weblogic服务器,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,C语言,C++语言,中间件
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,svn,ios开发,Android开发,软件测试,熟悉主流测试工具,软件工程
+windows操作系统,Android开发,软件测试,软件工程,数据分析,软件项目管理
+java,Html,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,git,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),C语言,C++语言,ActionScript
+java,C#,.net,软件架构设计,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件架构,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),软件文档写作
+软件测试,熟悉主流测试工具
+Android开发,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,css层叠样式表,Html,Tomcat,weblogic服务器,websphere服务器,eclipse,C#,.net,javaScript,visualStudio,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,U
+ios开发,Android开发,自动化测试(使用自动化测试软件、框架等),软件测试,Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+软件测试,计算机网络,信息安全导论
+软件测试,熟悉主流测试工具,软件工程
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试
+ios开发,软件测试
+java,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+java,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试
+软件测试
+软件测试,熟悉主流测试工具
+linux操作系统,unix操作系统,软件测试,熟悉主流测试工具
+软件测试,Bugzilla(一个开源的缺陷跟踪系统),C语言
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+软件测试
+软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),熟悉一种脚本语言
+软件测试,C语言
+软件测试,熟悉主流测试工具
+java,C#,Swift语言,ios开发,Android开发,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,C语言,ruby
+office,C语言
+ios开发,Android开发,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+Html,COM编程,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,office,C语言,嵌入式操作系统
+软件测试,熟悉主流测试工具
+mysql数据库,linux操作系统,unix操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),Quality Center,辅助测试(使用sql语句或者简单的命令查询日志等),C语言
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,Db2数据库,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,中间件
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言,C++语言
+windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+.net,mysql数据库,SQL Server数据库,软件测试,Jira(项目与事务跟踪工具),软件项目管理
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+java,COM编程,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),Jira(项目与事务跟踪工具)
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,C语言
+java,C#,.net,PL/SQL,面向对象分析,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,熟悉一种脚本语言,C语言
+Oracle数据库,软件测试,C语言
+自动化测试(使用自动化测试软件、框架等)
+软件测试,Mantis(一个缺陷跟踪系统)
+软件测试,C语言
+JavaEE架构,PL/SQL,软件测试
+java,JavaEE架构,websphere服务器,windows操作系统,Oracle数据库,linux操作系统,unix操作系统,svn,Db2数据库,软件测试,Shell语言,Loadrunner(一个测试软件的工具),熟悉主流测试工具,Quality Center,软件文档写作,C语
+软件测试,软件项目管理
+软件测试,熟悉主流测试工具,软件工程,软件项目管理
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,Quality Center,软件文档写作,C语言
+java,linux操作系统,ios开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,Lua
+java,C#,linux操作系统,软件测试,C语言
+java,XML技术,软件测试,Shell语言,Loadrunner(一个测试软件的工具),熟悉主流测试工具,数据结构,C++语言
+SQL Server数据库,vss,软件测试
+软件测试
+COM编程,windows操作系统,linux操作系统,Android开发,软件测试,C语言
+软件测试,数据结构,计算机网络
+java,php,ios开发,Instruments开发工具,软件测试,Mantis(一个缺陷跟踪系统),熟悉主流测试工具,C语言
+软件测试
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,postgresql
+java,php,python编程,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),ruby
+软件测试,熟悉主流测试工具,软件文档写作
+java,linux操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,css层叠样式表,Html,php,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,计算机网络
+软件测试
+JavaEE架构,windows操作系统,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+java,自动化测试(使用自动化测试软件、框架等),软件测试
+软件测试,熟悉主流测试工具
+软件测试,熟悉主流测试工具
+java,php,python编程,软件测试,Perl语言,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言,C++语言
+java,php,python编程,软件测试,Shell语言,Perl语言,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言,C++语言,ruby
+java,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具,Jbo
+Android开发,软件测试
+SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件测试,QTP(一种自动测试工具),软件工程,Quality Center,C语言
+COM编程,HTTP传输协议,ios开发,自动化测试(使用自动化测试软件、框架等),软件测试,Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+软件测试,熟悉主流测试工具,软件工程
+软件测试
+windows操作系统,linux操作系统,软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+java,C#,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,linux操作系统,软件测试
+.net,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+软件测试
+windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,熟悉主流测试工具
+软件测试,C语言
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+java,软件测试
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+linux操作系统,unix操作系统,软件测试
+软件测试,熟悉主流测试工具
+软件测试,软件项目管理
+Oracle数据库,linux操作系统,unix操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),Quality Center,辅助测试(使用sql语句或者简单的命令查询日志等),C语言
+SQL Server数据库,软件测试
+SQL Server数据库,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具)
+php,PHPUnit单元测试,linux操作系统,python编程,HTTP传输协议,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试
+软件测试
+php,javaScript,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,C语言,ruby
+软件测试,软件工程
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+java,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,电子商务
+软件测试,软件工程
+软件测试,熟悉主流测试工具,软件文档写作
+apache,Nginx,jetty服务器,Memcached,Nginx(一个HTTP和反向代理服务器),Redis数据库,linux操作系统,ios开发,MongoDB数据库,redis数据库,软件测试
+软件测试,熟悉主流测试工具
+linux操作系统,ios开发,Android开发,软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程,软件文档写作
+mysql数据库,ERP(企业资源计划),软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等)
+软件测试
+java,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,COM编程,linux操作系统,unix操作系统,HTTP传输协议,软件测试,C语言
+windows操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+UML建模语言,ERP(企业资源计划),Axure RP(快速原型设计工具)
+java,php,C#,.net,python编程,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉一种脚本语言,C语言,ruby
+Html,ios开发,Android开发,软件测试
+java,javaScript,mysql数据库,SQL Server数据库,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),软件项目管理,C语言
+C#,ios开发,软件测试,熟悉主流测试工具,软件工程,C语言
+css层叠样式表,Html,javaScript,软件测试
+系统设计,Oracle数据库,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言
+软件测试,Loadrunner(一个测试软件的工具),软件工程
+Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+Tomcat,websphere服务器,COM编程,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,熟悉主流测试工具
+软件测试
+java,.net,javaScript,linux操作系统,ios开发,Android开发,软件测试,Perl语言,JMeter(一个测试软件的工具),熟悉主流测试工具,C语言,ruby,Junit
+linux操作系统,软件测试
+java,C#,mysql数据库,Oracle数据库,linux操作系统,软件测试,软件文档写作,C语言
+linux操作系统,软件测试,网络安全技术
+软件测试,软件文档写作,C语言
+java,COM编程,HTTP传输协议,Android开发,软件工程
+软件测试,熟悉主流测试工具
+OOD面向对象设计,project,C语言,fix协议
+软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等)
+ios开发,Android开发,软件测试,Bugzilla(一个开源的缺陷跟踪系统)
+javaScript,python编程,svn,git,软件测试,Jira(项目与事务跟踪工具),hudson
+SQL Server数据库,ERP(企业资源计划)
+软件测试,QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,Quality Center,C语言
+软件测试
+软件测试,熟悉主流测试工具
+软件测试,软件文档写作
+SQL Server数据库,Oracle数据库,ETL(数据仓库技术)
+软件测试
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+windows操作系统,linux操作系统,软件测试
+windows操作系统,linux操作系统,软件测试
+python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),熟悉主流测试工具,Quality Center,C语言
+java,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,数据挖掘
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,Ibatis框架,css层叠样式表,Html,Tomcat,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,HTTP传输协议,网络通信,Android开发,软件测试,熟悉
+软件测试,office,数据挖掘
+软件测试,QTP(一种自动测试工具),熟悉主流测试工具
+Oracle数据库,软件测试,熟悉主流测试工具
+Android开发,软件测试,熟悉主流测试工具,office
+软件测试,Shell语言,网络安全技术
+Android开发,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+java,C#,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,C++语言,Lua
+java,C#,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,C++语言,Lua
+java,C#,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,C++语言,Lua
+java,C#,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,C++语言,Lua
+java,C#,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,C++语言,Lua
+java,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试
+java,php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),javaScript,windows操作系统,mysql数据库,linux操作系统,python编程,ios开发,Android开发,软件测试,Shell语言,JMeter(一个测试软件的工具),QTP(一种自动测试工具)
+java,php,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+.net,软件测试,熟悉主流测试工具,C语言,Microsoft Visual C++ 6.0
+java,linux操作系统,python编程,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Junit
+信息安全导论
+java,php,windows操作系统,mysql数据库,linux操作系统,python编程,Db2数据库,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉一种脚本语言,ruby
+软件测试
+java,windows操作系统,linux操作系统,软件测试,C语言
+Android开发,软件测试
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具)
+java,windows操作系统,linux操作系统,ios开发,面向对象分析,Android开发,软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,C语言
+软件测试
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+java,php,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+软件测试
+软件测试,熟悉主流测试工具,数据通信基础
+COM编程
+java,mysql数据库,linux操作系统,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉主流测试工具,熟悉一种脚本语言,数据分析,C语言,中间件,电子商务
+软件测试
+软件测试,熟悉主流测试工具
+java,JavaEE架构,javaScript,mysql数据库,linux操作系统,python编程,软件测试,熟悉主流测试工具
+软件测试,熟悉主流测试工具,软件工程,软件文档写作,C++语言
+软件测试,熟悉主流测试工具
+C#,软件测试,熟悉主流测试工具,C语言,关系型数据库
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+linux操作系统,面向对象分析,软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),软件项目管理,C语言,C++语言,Microsoft Visual C++ 6.0
+css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),web测试工具,熟悉主流测试工具
+Android开发,软件测试
+面向对象分析,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,C语言
+软件测试,软件工程
+jsp(java服务器页面),Html,php,XML技术,ERP(企业资源计划),Android开发,软件测试,cms(Content Management System内容管理系统(网页有关)),soap
+mysql数据库,SQL Server数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,Shell语言,Perl语言,单元测试工具,熟悉主流测试工具,熟悉一种脚本语言,C语言,C++语言,嵌入式操作系统
+软件测试
+ERP(企业资源计划),软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),软件工程,软件文档写作
+python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,cms(Content Management System内容管理系统(网页有关))
+软件测试,熟悉主流测试工具
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),Mantis(一个缺陷跟踪系统),Bugzilla(一个开源的缺陷跟踪系统),C语言,Junit
+软件测试
+JavaEE架构,C#,Android开发,软件测试,熟悉主流测试工具,C语言
+apache,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),Jira(项目与事务跟踪工具),熟悉主流测试工具,软件工程,Quality Center,C语言
+jsp(java服务器页面),css层叠样式表,Html,Tomcat,javaScript,mysql数据库,Oracle数据库,linux操作系统,svn,XML技术,Shell语言,软件测试,软件工程,office
+mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Quality Center,C语言,电子商务
+SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,Mantis(一个缺陷跟踪系统),Jira(项目与事务跟踪工具),熟悉主流测试工具
+C#,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言
+java,HTTP传输协议,jSon技术,软件测试,自动化测试(使用自动化测试软件、框架等),C语言,C++语言,Webservice
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),C语言,C++语言
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,Jira(项目与事务跟踪工具),Quality Center,C语言,电子商务
+java,php,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+JavaEE架构,javaScript,SQL Server数据库,Oracle数据库,python编程,软件测试,Shell语言,Perl语言,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,熟悉一种脚本语言,C语言,rub
+java,JavaEE架构,Jsf框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ORM对象关系映射,XHTML,linux操作系统,office,WebService,rest,Enterprise Service Bus,SOA,Unity,DOM
+系统分析,熟悉主流测试工具,项目实施
+软件测试,Loadrunner(一个测试软件的工具)
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,软件测试,软件项目管理,项目实施
+软件测试,熟悉主流测试工具,office
+软件测试,熟悉主流测试工具,office
+.net,面向对象分析,软件测试,软件工程
+SQL Server数据库,软件测试,熟悉主流测试工具,软件文档写作
+javaScript,python编程,ios开发,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,熟悉一种脚本语言,ruby
+apache,Tomcat,mysql数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),中间件
+QTP(一种自动测试工具),Quality Center,软件项目管理,C语言
+jsp(java服务器页面),php,C#,TCP/IP编程,python编程,软件测试,熟悉主流测试工具,C语言,C++语言
+软件测试,软件文档写作
+Html,php,javaScript,mysql数据库,软件测试,自动化测试(使用自动化测试软件、框架等),web测试工具,熟悉主流测试工具,分布式
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),熟悉主流测试工具
+JavaEE架构,linux操作系统,软件测试
+COM编程,软件测试,熟悉主流测试工具,软件工程
+java,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具)
+linux操作系统,python编程,ios开发,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),Junit
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件工程,信息安全导论
+软件工程
+软件测试
+软件测试,软件文档写作
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+HTTP传输协议,软件测试
+java,COM编程,mysql数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),熟悉一种脚本语言,C语言,C++语言
+java,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具
+java,软件测试,自动化测试(使用自动化测试软件、框架等),软件项目管理
+mysql数据库,软件测试,JMeter(一个测试软件的工具),软件文档写作
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+linux操作系统,网络通信
+C#,.net,linux操作系统,软件测试,C语言,C++语言
+软件测试
+java,linux操作系统,软件测试,Jira(项目与事务跟踪工具),SSH协议,计算机网络
+系统设计,Android开发,软件测试,熟悉主流测试工具
+linux操作系统,软件测试,B/S软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),熟
+java,php,C#,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,网络编程,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),Mantis(一个缺陷跟踪系
+java,mysql数据库,Oracle数据库,软件测试
+ios开发,软件测试
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,软件测试,熟悉主流测试工具,中间件
+.net,visualStudio,SQL Server数据库,Oracle数据库,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+ios开发,Android开发,软件测试
+Android开发,软件测试,Bugzilla(一个开源的缺陷跟踪系统),Quality Center,C语言
+软件测试
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),数据分析
+java,office,C语言,C++语言
+java,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,Junit
+软件测试
+软件测试
+java,ios开发,Android开发,软件测试,熟悉主流测试工具,数据结构,C语言,C++语言
+mysql数据库,SQL Server数据库,软件测试,软件工程,数据库系统原理,软件项目管理,C语言
+软件测试
+css层叠样式表,Html,C#,.net,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,ios开发,XML技术,OOD面向对象设计,Android开发,软件测试,自动化测试(使用自
+软件测试
+SQL Server数据库,软件测试,自动化测试(使用自动化测试软件、框架等),辅助测试(使用sql语句或者简单的命令查询日志等)
+软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+php,MFC,ios开发,C语言,嵌入式操作系统
+C#,windows操作系统,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Mantis(一个缺陷跟踪系统),熟悉主流测试工具,软件工程,C语言,C++语言
+软件测试
+软件测试
+软件测试
+java,C#,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),单元测试工具,JMeter(一个测试软件的工具),熟悉主流测试工具,C语言,C++语言,Junit
+软件测试
+ios开发,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),Quality Center,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,电子商务
+mysql数据库,SQL Server数据库,Oracle数据库,svn,软件测试,Quality Center,C语言
+css层叠样式表,Html,php,javaScript,mysql数据库,软件测试
+java,mysql数据库,SQL Server数据库,Oracle数据库,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工
+软件测试
+SQL Server数据库,软件测试,自动化测试(使用自动化测试软件、框架等),软件工程,电子商务
+软件测试
+Html,javaScript,HTTP传输协议,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,电子商务
+java,Hbase数据库,linux操作系统,软件测试,Shell语言,hadoop(分布式系统基础架构),C语言,分布式,HBase,Spark,zookeeper
+软件测试,熟悉主流测试工具
+photoshop,python编程,git,OOD面向对象设计,Shell语言,Perl语言,软件测试,Jira(项目与事务跟踪工具),软件工程,bash语言,C语言
+java,Hbase数据库,linux操作系统,软件测试,Shell语言,hadoop(分布式系统基础架构),C语言,分布式,HBase,Spark,zookeeper
+linux操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程,熟悉一种脚本语言
+java,css层叠样式表,Html,javaScript,linux操作系统,软件测试,Shell语言,C语言,C++语言
+windows操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件项目管理,office
+软件测试,office
+C#,python编程,git,OOD面向对象设计,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),bash语言,C语言,嵌入式操作系统
+TCP/IP编程,linux操作系统,unix操作系统,软件测试,软件文档写作
+java,JavaEE架构,jsp(java服务器页面),javaScript,SQL Server数据库,Oracle数据库,linux操作系统,Db2数据库,软件测试,熟悉主流测试工具,软件工程
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+软件测试,软件工程
+软件测试
+C#,SQL Server数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试
+软件测试,Loadrunner(一个测试软件的工具),Jira(项目与事务跟踪工具)
+SQL Server数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),软件项目管理
+COM编程,HTTP传输协议,软件测试,C语言,网络安全技术
+软件测试,软件文档写作
+软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+Html,linux操作系统,svn,git,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),Quality Center,软件项目管理,C语言,cms(Content Management S
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),软件项目管理,项目实施
+mysql数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,Quality Center,软件项目管理,项目实施,C语言
+软件测试,Mantis(一个缺陷跟踪系统),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,软件工程
+Oracle数据库,ios开发,Android开发,软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言
+软件测试
+MFC,串口编程,软件测试,C语言,C++语言,串口开发
+OOD面向对象设计,Adobe Illustrator(AI)
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),Bugzilla(一个开源的缺陷跟踪系统),熟悉一种脚本语言,ruby,visual ba
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+软件测试
+java,JavaEE架构,系统设计,软件测试,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),熟悉主流测试工具,软件工程,软件文档写作
+软件测试
+java,Html,DHTML,.net,javaScript,SQL Server数据库,Oracle数据库,ios开发,Android开发,软件测试,Jira(项目与事务跟踪工具),熟悉主流测试工具,C语言
+svn,git
+java,Html,javaScript,多线程,mysql数据库,NoSQL数据库,Socket编程,linux操作系统,unix操作系统,MongoDB数据库,bash语言,SSH协议
+ios开发,软件测试,软件工程
+ant(一种基于Java的build工具),C语言
+OOD面向对象设计
+java,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试
+java,windows操作系统,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,hadoop(分布式系统基础架构),C语言,C++语言
+ios开发,Android开发,软件测试
+自动化测试(使用自动化测试软件、框架等),软件测试
+java,软件测试
+软件测试,软件工程
+mysql数据库,TCP/IP编程,python编程,ios开发,Android开发,Shell语言,Perl语言,软件测试,熟悉一种脚本语言,C语言,C++语言
+linux操作系统,自动化测试(使用自动化测试软件、框架等),软件测试
+SQL Server数据库,软件测试
+软件测试,熟悉主流测试工具
+软件测试,C语言
+软件测试
+JavaEE架构,.net,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,熟悉主流测试工具
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件工程
+软件测试,熟悉主流测试工具
+ios开发,Android开发,软件测试
+windows操作系统,mysql数据库,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+linux操作系统,python编程,ios开发,软件测试,熟悉主流测试工具,ruby
+java,linux操作系统,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,计算机网络
+网络通信,软件测试
+网络通信,软件测试
+java,linux操作系统,python编程,UML建模语言,软件测试,自动化测试(使用自动化测试软件、框架等),C语言
+java,php,python编程,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,熟悉一种脚本语言,C++语言
+windows操作系统,ios开发,Android开发
+软件测试,电子商务
+Oracle数据库,Db2数据库,软件测试,软件工程
+svn,软件测试
+JavaEE架构,.net,windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,熟悉主流测试工具
+linux操作系统,软件测试,软件文档写作,嵌入式操作系统
+java,php,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具)
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+ios开发,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具
+SQL Server数据库,Oracle数据库,软件测试,熟悉主流测试工具,软件工程,软件文档写作
+java,php,COM编程,python编程,HTTP传输协议,ios开发,Android开发,软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+Android开发,软件测试,熟悉主流测试工具,人机交互技术
+Android开发,自动化测试(使用自动化测试软件、框架等),软件测试
+linux操作系统,软件测试
+软件测试
+java,windows操作系统,软件测试,office,C语言
+软件测试,熟悉主流测试工具
+软件测试,office
+linux操作系统,软件测试,Bugzilla(一个开源的缺陷跟踪系统)
+windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,软件测试,Shell语言,熟悉主流测试工具
+linux操作系统,软件测试
+java,Tomcat,photoshop,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Socket编程,linux操作系统,python编程,HTTP传输协议,软件测试,Shell语言,JMeter(一个测试软件的工具),groovy
+linux操作系统,unix操作系统,软件测试,熟悉主流测试工具,C语言
+java,linux操作系统,软件测试,熟悉主流测试工具
+Oracle数据库,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+java,windows操作系统,Oracle数据库,linux操作系统,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,C语言,C++语言
+COM编程,软件测试,office,C语言
+软件测试,Bugzilla(一个开源的缺陷跟踪系统),网络安全技术
+windows操作系统,linux操作系统,软件测试,熟悉主流测试工具
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+软件测试,JMeter(一个测试软件的工具)
+java,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,熟悉一种脚本语言,fix协议
+软件测试,软件文档写作,C语言
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Mantis(一个缺陷跟踪系统),Quality Center,C语言
+windows操作系统,Oracle数据库,linux操作系统,软件测试,熟悉主流测试工具,软件工程
+软件测试
+软件测试,熟悉主流测试工具
+java,软件测试,熟悉主流测试工具
+软件测试,游戏设计
+人机交互技术
+软件测试
+javaScript,mysql数据库,Oracle数据库,python编程,软件测试,Shell语言,软件工程,ruby,visual basic script
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+css层叠样式表,Html,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,熟悉一种脚本语言
+软件测试
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,Junit
+Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Quality Center,C语言
+软件测试
+SQL Server数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),C语言,中间件,嵌入式操作系统
+java,C#,软件测试,C语言,C++语言
+软件测试,熟悉主流测试工具
+windows操作系统,mysql数据库,Oracle数据库,unix操作系统,软件测试
+ERP(企业资源计划),软件测试,软件文档写作,项目实施
+软件测试
+java,php,.net,软件测试,Shell语言,Perl语言,熟悉主流测试工具,熟悉一种脚本语言,ruby
+COM编程,ios开发,Android开发,软件测试
+java,Oracle数据库,linux操作系统,svn,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Quality Center,Maven(一个项目管理工具),C语言,hudson
+C#,SQL Server数据库,Oracle数据库,ERP(企业资源计划),软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+ios开发,Android开发,软件测试
+SQL Server数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Quality Center,office,C语言
+java,javaScript,TCP/IP编程,linux操作系统,python编程,HTTP传输协议,软件测试,Shell语言,Perl语言,JMeter(一个测试软件的工具),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),熟悉主流测试工具,C语言,ruby,visu
+面向对象分析,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+linux操作系统,unix操作系统,软件测试,Shell语言,熟悉一种脚本语言
+软件测试
+.net,windows操作系统,SQL Server数据库,OOD面向对象设计,ERP(企业资源计划)
+面向对象分析,软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,C语言
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+软件测试
+QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Maven(一个项目管理工具)
+软件测试
+软件测试,熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,软件项目管理,C语言
+Html,C#,.net,javaScript,SQL Server数据库,UML建模语言,vss,XML技术,面向对象分析,软件测试,软件工程,C语言,电子商务
+office,计算机网络
+C#,.net,COM编程,HTTP传输协议,软件工程,C语言
+软件测试
+软件测试
+COM编程,HTTP传输协议,svn,软件测试,office
+java,C#,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),熟悉主流测试工具,软件文档写作,project,C
+java,Html,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+软件测试
+java,php,ios开发,Instruments开发工具,软件测试,Mantis(一个缺陷跟踪系统),熟悉主流测试工具,C语言
+css层叠样式表,Html,apache,Tomcat,javaScript,mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),数据分析
+软件测试
+ant(一种基于Java的build工具),ios开发,OOD面向对象设计,软件测试,Quality Center,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,Quality Center,软件文档写作,C语言
+C#,.net,visualStudio,软件测试,熟悉主流测试工具,软件文档写作,C语言
+ERP(企业资源计划),软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件项目管理
+windows操作系统,TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言
+软件测试
+软件测试,QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,office,postgresql
+windows操作系统,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+css层叠样式表,Html,javaScript,软件测试,web测试工具,熟悉主流测试工具
+软件测试
+软件测试
+ERP(企业资源计划),软件测试
+软件测试
+软件测试,C语言
+java,php,软件测试,C++语言
+windows操作系统,软件测试,office
+java,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测
+HTTP传输协议,ios开发,软件测试
+windows操作系统,软件测试,熟悉主流测试工具,软件文档写作
+css层叠样式表,Html,php,XHTML,javaScript,COM编程,mysql数据库,HTTP传输协议,软件测试,软件项目管理
+软件测试,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具)
+JavaEE架构,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件架构设计,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),CVS(一种自动测试工具),熟悉主流测
+软件测试
+windows操作系统,Android开发,软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具
+软件测试
+多线程,windows操作系统,windows编程,串口编程,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),Mantis(一个缺陷跟踪系统),Bugzilla(一个开源的缺陷跟踪系统),熟悉主
+linux操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+linux操作系统,软件测试,office,qxdm高通无线协议分析软
+Android开发,软件测试,熟悉主流测试工具,软件文档写作
+java,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),C++语言
+jQuery框架,css层叠样式表,Html,TFS(一个分布式文件系统),.net,javaScript,SQL Server数据库,软件测试,熟悉主流测试工具,DOM,电子商务
+photoshop,mysql数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,HTTP传输协议,网络通信,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工
+软件测试,熟悉一种脚本语言
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工
+软件测试
+ERP(企业资源计划),软件测试,Quality Center,office,C语言
+软件测试,office
+软件测试,软件文档写作
+java,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言
+windows操作系统,mysql数据库,linux操作系统,软件测试,QTP(一种自动测试工具),软件工程,电子商务
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,数据分析
+java,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+ios开发,Android开发,软件测试
+JavaEE架构,系统设计,软件测试,熟悉主流测试工具
+Oracle数据库,软件测试,QTP(一种自动测试工具),软件工程,电子商务
+photoshop,软件测试,嵌入式操作系统
+windows操作系统,Oracle数据库,linux操作系统,软件测试,QTP(一种自动测试工具),软件工程,电子商务
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,SQL Server数据库,linux操作系统,MongoDB数据库,Vmware,Keyboard Video Mouse
+php,软件测试
+windows操作系统,软件测试,软件工程
+java,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,C++语言
+linux操作系统,python编程,软件测试,Shell语言,bash语言
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+C++语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+自动化测试(使用自动化测试软件、框架等)
+软件测试
+java,Socket编程,linux操作系统,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),C语言
+软件测试,自动化测试(使用自动化测试软件、框架等)
+自动化测试(使用自动化测试软件、框架等),软件测试,Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),熟悉主流测试工具
+软件测试
+java,php,linux操作系统,python编程,软件测试,B/S软件测试,Perl语言,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,C语言,C++语言
+linux操作系统,软件测试,B/S软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),熟
+java,C#,mysql数据库,Oracle数据库,Db2数据库,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C语言
+java,mysql数据库,Oracle数据库,Socket编程,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),C语言,Webservice
+软件测试
+php,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),C语言,电子商务
+Oracle数据库,linux操作系统,软件测试,软件工程
+Oracle数据库,linux操作系统,软件测试,软件工程
+Oracle数据库,linux操作系统,软件测试,软件工程
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,linux操作系统,软件测试,Jira(项目与事务跟踪工具),SSH协议,计算机网络
+java,css层叠样式表,Html,php,javaScript,linux操作系统,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),SSH协议,计算机网络
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,javaScript,软件测试,Jira(项目与事务跟踪工具),电子商务
+linux操作系统,软件测试,熟悉主流测试工具
+windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,熟悉主流测试工具,熟悉一种脚本语言
+C#,SQL Server数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,熟悉主流测试工具,软件工程,软件项目管理,Junit
+软件测试
+软件测试,熟悉主流测试工具
+软件测试,熟悉主流测试工具,软件工程,软件项目管理
+java,mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,ERP(企业资源计划),软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,项目实施
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C语言
+软件测试
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试
+软件测试,熟悉主流测试工具
+Oracle数据库,linux操作系统,软件测试
+软件测试,C语言
+COM编程,linux操作系统,GDI+图形编程,软件测试,C语言
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言
+C#,.net,SQL Server数据库,软件测试,C语言
+java,.net,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+mysql数据库,软件测试,熟悉主流测试工具,软件工程
+软件测试,自动化测试(使用自动化测试软件、框架等)
+java,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言,r
+Oracle数据库,linux操作系统,软件测试,软件工程
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,MongoDB数据库,软件测试,熟悉主流测试工具
+ios开发,Android开发,软件测试,熟悉主流测试工具
+mysql数据库,Oracle数据库,ios开发,Android开发,软件测试,熟悉主流测试工具
+java,mysql数据库,Oracle数据库,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),Junit
+mysql数据库,Oracle数据库,软件测试
+软件测试
+C#,.net,SQL Server数据库,软件测试,C语言
+java,.net,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,C#,SQL Server数据库,Oracle数据库,svn,vss,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Quality Center,office,C语言
+PL/SQL,linux操作系统,软件测试
+软件测试
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+java,php,linux操作系统,python编程,软件测试,ruby
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件文档写作
+软件测试
+java,mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,熟悉主流测试工具
+Oracle数据库,Android开发,软件测试
+java,mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Webservice,Junit
+windows操作系统,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具
+软件测试,熟悉主流测试工具,软件项目管理
+软件测试,熟悉一种脚本语言
+Html,mysql数据库,Oracle数据库,linux操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,office
+软件测试,熟悉一种脚本语言
+windows操作系统,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+java,C#,Socket编程,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,C语言
+软件测试,熟悉主流测试工具
+ios开发,Android开发,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Junit
+Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),Junit
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Junit
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言
+linux操作系统,软件测试,office,C语言
+软件测试
+apache,Tomcat,软件测试
+linux操作系统,ios开发,Android开发,软件测试
+熟悉一种脚本语言
+软件测试,QTP(一种自动测试工具),熟悉主流测试工具,软件文档写作
+java,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,多线程,TCP/IP编程,HTTP传输协议,XML技术,Android SDK,UDP协议,Android开发,TCP/UDP
+css层叠样式表,Html,javaScript,Objective-c语言,XCode开发工具,ios开发,iOS SDK,面向对象分析,数据结构,C语言,C++语言
+软件测试,软件工程
+软件测试,软件文档写作
+linux操作系统,软件测试,Shell语言,熟悉主流测试工具
+windows操作系统,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程
+软件测试,熟悉一种脚本语言
+COM编程,windows操作系统,SQL Server数据库,linux操作系统,HTTP传输协议,软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等)
+mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,python编程,Db2数据库,软件测试,Shell语言,Perl语言,软件工程,软件项目管理,计算机网络
+TCP/IP编程,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),C语言
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),软件工程,软件项目管理
+TCP/IP编程,linux操作系统,软件测试,软件工程,软件项目管理
+TCP/IP编程,linux操作系统,软件测试,软件工程,软件项目管理
+软件测试,熟悉主流测试工具,软件工程,软件项目管理,Vmware,路由协议
+linux操作系统,unix操作系统,svn,git,软件测试,熟悉主流测试工具,C语言,C++语言
+软件测试
+软件测试,熟悉主流测试工具,Quality Center,C语言
+php,python编程,软件测试,Perl语言,软件工程,熟悉一种脚本语言,bash语言
+TCP/IP编程,软件测试,C语言,信息安全导论
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件文档写作
+SQL Server数据库,Oracle数据库,软件测试
+linux操作系统,python编程,ios开发,Android开发,软件测试,Shell语言,熟悉主流测试工具
+ios开发,Android开发,软件测试,软件工程
+linux操作系统,ios开发,Android开发,软件测试,软件工程
+java,mysql数据库,Oracle数据库,软件测试,熟悉主流测试工具,软件工程,软件项目管理,软件文档写作
+java,php,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+java,php,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+java,php,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+java,php,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+java,php,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+java,php,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+java,C#,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),Quality Center,C语言,C++语言
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,熟悉主流测试工具
+windows操作系统,SQL Server数据库,linux操作系统,面向对象分析,ERP(企业资源计划),软件测试,熟悉主流测试工具,软件工程,数据库系统原理
+windows操作系统,linux操作系统,软件测试,熟悉主流测试工具,软件项目管理
+windows操作系统,linux操作系统,软件测试,熟悉主流测试工具,软件项目管理
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),C语言
+系统设计,mysql数据库,Oracle数据库,Db2数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),软件工程
+软件测试,自动化测试(使用自动化测试软件、框架等),软件工程
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+java,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+java,linux操作系统,软件测试
+java,linux操作系统,软件测试
+ios开发,软件测试,网络安全技术,信息安全导论
+mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言
+系统设计,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,JMeter(一个测试软件的工具),软件文档写作
+软件测试
+软件测试
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,MongoDB数据库,软件测试,熟悉主流测试工具,中间件
+java,软件测试,自动化测试(使用自动化测试软件、框架等),软件项目管理,C语言
+css层叠样式表,Html,php,XML技术,软件测试,软件项目管理
+java,Html,Tomcat,weblogic服务器,websphere服务器,C#,javaScript,系统分析,mysql数据库,Oracle数据库,linux操作系统,ios开发,面向对象分析,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(
+python编程,Perl语言,软件测试,C语言,C++语言
+软件测试
+java,weblogic服务器,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,C语言,C++语言,中间件
+java,linux操作系统,unix操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,C++语言
+Html,php,javaScript,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具
+windows操作系统,Android开发,软件测试
+java,weblogic服务器,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,C语言,C++语言,中间件
+windows操作系统,Android开发,软件测试,软件工程,数据分析,软件项目管理
+软件测试,QTP(一种自动测试工具),熟悉主流测试工具,软件文档写作
+ios开发,软件测试,熟悉主流测试工具
+java,linux操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+java,linux操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+linux操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具,软件工程,熟悉一种脚本语言
+软件测试
+软件测试
+C#,python编程,软件测试,Perl语言,软件项目管理,软件文档写作,C语言,C++语言
+软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试
+软件测试
+ios开发,Android开发,软件测试,软件文档写作
+软件测试,软件文档写作
+软件测试,C语言
+linux操作系统,HTTP传输协议
+C#,windows操作系统,mysql数据库,linux操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,C语言,C++语言
+java,C#,windows操作系统,mysql数据库,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具,C语言,C++语言
+C#,python编程,软件测试,Shell语言,Jira(项目与事务跟踪工具),熟悉一种脚本语言,C语言,C++语言
+linux操作系统,软件测试,Shell语言
+.net,软件测试,web测试工具,熟悉主流测试工具
+系统设计,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,C语言
+java,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,软件测试,C语言
+mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+.net,软件测试,熟悉主流测试工具,C语言,Microsoft Visual C++ 6.0
+java,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具)
+ios开发,Android开发,软件测试,office
+ios开发,Android开发,软件测试,office
+java,系统分析,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程,软件项目管理,C语言,C++语言
+java,系统分析,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程,软件项目管理,C语言,C++语言
+Android开发,软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等)
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+java,php,C#,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,面向对象分析,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉主流测试工具,C语言
+Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试
+mysql数据库,linux操作系统,软件测试,Shell语言
+ios开发,Android开发,软件测试,软件工程
+java,php,PHPUnit单元测试,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,Junit
+COM编程,软件测试,熟悉主流测试工具,Adobe Illustrator(AI),office
+windows操作系统,mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),C语言
+java,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,软件项目管理
+人机交互技术
+软件测试,熟悉主流测试工具,软件工程
+C语言
+COM编程
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+linux操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件文档写作
+javaScript,GUI编程,python编程,XML技术,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),软件工程
+软件测试,软件工程,数据结构,计算机网络
+软件测试,熟悉主流测试工具,C语言
+java,软件测试,熟悉主流测试工具,软件工程,C语言,C++语言
+软件测试,软件工程
+自动化测试(使用自动化测试软件、框架等),软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,数据分析
+COM编程,软件测试,熟悉主流测试工具
+COM编程,软件测试,熟悉主流测试工具
+COM编程,软件测试,熟悉主流测试工具
+软件测试
+COM编程,软件测试,熟悉主流测试工具
+COM编程,软件测试,熟悉主流测试工具
+软件测试
+Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试,office
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),软件工程
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+python编程,git,ios开发,Android开发,软件测试,熟悉一种脚本语言
+软件测试
+git,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+svn,软件测试,QTP(一种自动测试工具),软件工程
+ios开发,Android开发,软件测试
+ios开发,Android开发,软件测试
+ios开发,Android开发,软件测试
+软件测试
+java,C#,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,HTTP传输协议,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,C语言
+python编程,svn,软件测试,自动化测试(使用自动化测试软件、框架等),CVS(一种自动测试工具),熟悉主流测试工具,Quality Center,熟悉一种脚本语言,C语言
+php,mysql数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,ruby
+软件测试
+软件测试
+软件测试
+软件测试
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+python编程,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件文档写作,电子商务
+linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+mysql数据库,Oracle数据库,PL/SQL,软件测试,自动化测试(使用自动化测试软件、框架等),Mantis(一个缺陷跟踪系统),Quality Center,C语言
+C#,软件测试,C语言,C++语言
+COM编程,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+C#,软件测试,熟悉主流测试工具,软件项目管理,C语言,C++语言
+软件测试,熟悉主流测试工具
+软件测试,熟悉主流测试工具
+java,javaScript,linux操作系统,unix操作系统,python编程,HTTP传输协议,Objective-c语言,git,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言,数据分析,C语言,ruby,Restful
+软件测试
+Android开发
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,C语言,C++语言
+photoshop,usb编程,面向对象分析,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,C++语言
+linux操作系统,usb编程,面向对象分析,软件测试,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+分布式,嵌入式操作系统
+linux操作系统,软件测试,熟悉主流测试工具,office,C语言,C++语言,VxWorks,嵌入式操作系统,汇编语言
+软件测试,软件文档写作
+java,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C++语言
+java,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C++语言
+ios开发,Android开发,软件测试,软件文档写作
+linux操作系统,软件测试,QTP(一种自动测试工具),熟悉主流测试工具
+ios开发,Android开发,软件测试
+COM编程
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试
+java,mysql数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,B/S软件测试,Loadrunner(一个测试软件的工具)
+ios开发,Android开发,软件测试
+windows操作系统,软件测试
+windows操作系统,软件测试
+软件测试,计算机网络
+linux操作系统,软件测试
+ios开发,Android开发,软件测试,软件项目管理,C语言
+Android开发,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具
+Android开发,软件测试
+java,SQL Server数据库,Oracle数据库,软件测试,熟悉主流测试工具,软件工程,软件文档写作
+Android开发,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具
+Android开发,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+java,mysql数据库,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具,Junit
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具
+ERP(企业资源计划)
+ERP(企业资源计划),软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统)
+ERP(企业资源计划),软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),Quality Center,项目实施,C语言
+软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等)
+Html,系统设计,windows操作系统,mysql数据库,linux操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试
+ios开发,Android开发,软件测试
+ios开发,Android开发,软件测试
+apache,Nginx,Tomcat,weblogic服务器,websphere服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,软件测试,熟悉主流测试工具,C语言,中间件
+apache,Nginx,Tomcat,weblogic服务器,websphere服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,软件测试,熟悉主流测试工具,C语言,中间件
+apache,Nginx,Tomcat,weblogic服务器,websphere服务器,Nginx(一个HTTP和反向代理服务器),mysql数据库,Oracle数据库,Redis数据库,linux操作系统,MongoDB数据库,redis数据库,软件测试,熟悉主流测试工具,C语言,中间件
+.net,系统分析,软件测试,熟悉主流测试工具,软件工程
+C语言,嵌入式操作系统
+java,python编程,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+软件测试
+java,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),C语言,电子商务
+软件测试
+javaScript,COM编程,python编程,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,visual basic script
+java,TCP/IP编程,OOD面向对象设计,office,C语言,C++语言
+mysql数据库,SQL Server数据库,软件测试,熟悉主流测试工具
+软件测试,熟悉一种脚本语言
+软件测试,游戏设计
+photoshop,linux操作系统,usb编程,软件测试,C语言
+java,rose(UML画图工具),C#,.net,软件测试,自动化测试(使用自动化测试软件、框架等),数据库系统原理,C语言,Powerdesigner
+COM编程,软件测试,熟悉主流测试工具,软件文档写作,C语言
+软件测试
+自动化测试(使用自动化测试软件、框架等),软件测试
+java,系统设计,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+COM编程,C语言
+java,php,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,系统设计,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+软件测试,熟悉主流测试工具
+unix操作系统,软件测试,Loadrunner(一个测试软件的工具),C++语言
+java,php,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,Loadrunner(一个测试软件的工具)
+ERP(企业资源计划),软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等)
+linux操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,ruby
+软件测试
+Android开发,软件测试,软件工程,C语言
+TFS(一个分布式文件系统),软件测试,熟悉主流测试工具
+java,Oracle数据库,软件测试
+COM编程,软件测试,C语言
+linux操作系统,ios开发,Android开发,软件测试
+JavaEE架构,mysql数据库,Oracle数据库,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),Junit
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试
+软件测试
+Oracle数据库,Db2数据库,软件测试,Loadrunner(一个测试软件的工具)
+COM编程,TCP/IP编程,SIP协议,软件测试,C语言,计算机网络
+软件测试,熟悉主流测试工具
+软件测试,熟悉主流测试工具,office
+java,JavaEE架构,.net,mysql数据库,Oracle数据库,Db2数据库,软件测试,QTP(一种自动测试工具),熟悉主流测试工具,软件工程,Quality Center,C语言,C++语言
+自动化测试(使用自动化测试软件、框架等),软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试
+TCP/IP编程,linux操作系统,unix操作系统,python编程,软件测试,熟悉一种脚本语言,ruby
+软件测试
+软件测试
+office
+office
+软件测试
+软件测试
+windows操作系统,linux操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,熟悉一种脚本语言
+svn,软件测试,熟悉主流测试工具
+软件工程,软件文档写作
+ERP(企业资源计划),软件测试
+软件测试,熟悉主流测试工具
+软件测试,数据分析
+软件测试
+css层叠样式表,Html,C#,.net,javaScript,SQL Server数据库,Oracle数据库,XML技术,软件测试,C语言
+mysql数据库,linux操作系统,软件测试,JMeter(一个测试软件的工具),Mantis(一个缺陷跟踪系统),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具
+java,jsp(java服务器页面),css层叠样式表,Html,php,XHTML,C#,.net,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,XML技术,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉
+java,JavaEE架构,php,mysql数据库,linux操作系统,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,软件项目管理,postgresql
+mysql数据库,Oracle数据库,Db2数据库,软件测试,项目实施
+php,linux操作系统,软件测试,软件项目管理
+java,C#,软件测试,熟悉主流测试工具,C语言
+java,C#,javaScript,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,电子商务
+java,mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),单元测试工具,熟悉主流测试工具,熟悉一种脚本语言,Junit
+java,Oracle数据库,linux操作系统,python编程,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等)
+mysql数据库,Oracle数据库,ios开发,Db2数据库,Android开发,软件测试
+java,软件测试,熟悉主流测试工具,软件工程,软件文档写作
+java,软件测试,熟悉主流测试工具,软件工程,软件文档写作
+apache,mysql数据库,linux操作系统,ios开发,Android开发,软件测试,熟悉主流测试工具
+软件测试
+apache,mysql数据库,linux操作系统,ios开发,Android开发,软件测试,熟悉主流测试工具
+linux操作系统,软件测试,路由协议
+linux操作系统,SIP协议,软件测试
+linux操作系统,软件测试,Shell语言,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等)
+java,C#,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,C语言
+windows操作系统,mysql数据库,linux操作系统,软件测试,辅助测试(使用sql语句或者简单的命令查询日志等)
+Android开发,软件测试
+ios开发,Android开发,软件测试,软件文档写作
+软件测试,熟悉主流测试工具
+软件测试
+java,jsp(java服务器页面),AJAX(异步的JavaScript与XML技术),javaScript,COM编程,SQL Server数据库,Oracle数据库,sybase数据库,软件测试,自动化测试(使用自动化测试软件、框架等),网络安全技术
+Photoshop,系统设计,mysql数据库,Bugzilla(一个开源的缺陷跟踪系统),office
+软件测试
+ERP(企业资源计划),软件测试
+XCode开发工具,ios开发,软件测试
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),搜索引擎算法,C语言
+java,php,javaScript,python编程,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,熟悉一种脚本语言,ruby
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具)
+ios开发,Android开发,软件测试,熟悉主流测试工具
+自动化测试(使用自动化测试软件、框架等),软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+软件测试,嵌入式操作系统
+MFC,linux操作系统,面向对象分析,软件测试,软件工程,C语言,C++语言,Microsoft Visual C++ 6.0
+软件测试
+软件测试,C语言,单片机原理与引用
+软件测试,嵌入式操作系统
+软件测试,熟悉主流测试工具
+Android SDK,Android开发,软件测试,QualityCenter,qxdm高通无线协议分析软,Logcat(Android中一个命令行工具)
+java,javaScript,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,C++语言,ruby
+软件测试,熟悉主流测试工具
+软件测试
+Android开发,软件测试,人机交互技术
+java,Tomcat,weblogic服务器,websphere服务器,软件测试,C语言,C++语言,计算机网络
+java,C#,windows操作系统,linux操作系统,unix操作系统,Objective-c语言,ios开发,Cocoa开发框架,ERP(企业资源计划),Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具
+linux操作系统,python编程,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,数据分析,C语言,C++语言
+软件测试,熟悉主流测试工具
+ant(一种基于Java的build工具),windows操作系统,unix操作系统,OOD面向对象设计,软件测试,C语言
+软件测试
+ERP(企业资源计划),自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Maven(一个项目管理工具)
+linux操作系统,软件测试,Shell语言,熟悉主流测试工具
+ERP(企业资源计划),自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Maven(一个项目管理工具),C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,熟悉一种脚本语言,电子商务
+java,jsp(java服务器页面),Html,mysql数据库,Oracle数据库,软件测试,熟悉主流测试工具,软件工程,C语言
+java,.net,软件测试,Loadrunner(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),软件项目管理,C语言
+linux操作系统,网络通信,软件架构设计,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,软件架构
+java,php,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),软件项目管理,C++语言,分布式
+mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),数据分析
+java,Oracle数据库,linux操作系统,Db2数据库,软件测试,软件工程
+Oracle数据库,linux操作系统,Db2数据库,软件测试,Shell语言,软件工程
+软件测试,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等)
+svn,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等)
+SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件工程
+Android开发,软件测试
+软件测试,熟悉主流测试工具,C语言
+Oracle数据库,ERP(企业资源计划),软件测试,熟悉主流测试工具
+Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+windows操作系统,Oracle数据库,linux操作系统,软件测试
+windows操作系统,ios开发,Android开发,软件测试,C语言,计算机网络
+java,php,mysql数据库,python编程,软件测试
+软件测试
+jQuery框架,css层叠样式表,Html,php,javaScript,mysql数据库,软件测试,自动化测试(使用自动化测试软件、框架等),数据库系统原理
+软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,自动化测试(使用自动化测试软件、框架等)
+MFC,串口编程,软件测试,C语言,C++语言,串口开发
+.net,COM编程,HTTP传输协议,软件测试,熟悉主流测试工具
+java,mysql数据库,TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉主流测试工具
+ios开发,Android开发,软件测试,熟悉主流测试工具,软件项目管理
+软件测试,电子商务
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,熟悉主流测试工具,Maven(一个项目管理工具),Junit
+python编程,ios开发,Android开发,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+系统设计,SQL Server数据库,OOD面向对象设计,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,熟悉一种脚本语言,C语言
+软件测试,熟悉主流测试工具,电子商务
+mysql数据库,linux操作系统,HTTP传输协议,ios开发,Android开发,软件测试
+mysql数据库,Oracle数据库,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+软件测试,office
+软件测试,自动化测试(使用自动化测试软件、框架等)
+.net,COM编程,HTTP传输协议,软件测试,熟悉主流测试工具
+TCP/IP编程,python编程,Perl语言,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,熟悉一种脚本语言
+软件测试
+软件测试
+linux操作系统,ios开发,Android开发,软件测试,Shell语言,熟悉主流测试工具,熟悉一种脚本语言,软件项目管理
+软件测试,熟悉主流测试工具,软件工程,C语言,C++语言,tornado,Microsoft Visual C++ 6.0
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具)
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+java,C#,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),C语言
+.net,COM编程,HTTP传输协议,软件测试,熟悉主流测试工具
+css层叠样式表,Html,apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,SQL Server数据库,linux操作系统,svn,MongoDB数据库,软件测试,熟悉主流测试工具,C语言
+软件测试
+mysql数据库,Oracle数据库,linux操作系统,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,office
+软件测试
+软件测试
+软件测试
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+多线程,windows操作系统,linux操作系统,软件测试,C语言,C++语言
+java,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+ios开发,Android开发,软件测试,熟悉主流测试工具,人机交互技术
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具)
+web2.0,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,计算机网络
+svn,软件项目管理,office
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+windows操作系统,TCP/IP编程,linux操作系统,UDP协议,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具,C语言
+java,weblogic服务器,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,C语言,C++语言,Jboss
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件项目管理,软件文档写作
+系统设计,mysql数据库,Oracle数据库,Db2数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+OOD面向对象设计,软件测试,Quality Center,C语言
+XCode开发工具,ios开发,软件测试
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试,QTP(一种自动测试工具),Quality Center,C语言
+git,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+git,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,软件工程,软件文档写作,网络安全技术
+软件测试
+Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+软件测试,C语言,C++语言
+ios开发,Android开发,软件测试
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+软件测试
+java,ORM对象关系映射,C#,OOD面向对象设计,软件测试,自动化测试(使用自动化测试软件、框架等),C语言,fix协议
+Android开发,软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),Quality Center,C语言
+linux操作系统,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,关系型数据库
+java,linux操作系统,自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具,关系型数据库
+css层叠样式表,Html,php,XHTML,javaScript,COM编程,python编程,XML技术,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,ruby,电子商务
+css层叠样式表,Html,php,XHTML,javaScript,COM编程,python编程,XML技术,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,ruby,电子商务
+java,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,C语言,C++语言
+软件测试,熟悉主流测试工具
+java,软件测试
+软件文档写作
+软件测试,熟悉主流测试工具
+Access数据库,office
+Access数据库,office
+软件测试,C语言
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+windows操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,C语言,计算机网络
+软件测试,熟悉主流测试工具,熟悉一种脚本语言
+软件测试
+java,php,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Junit
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+java,linux操作系统,svn,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具)
+ios开发,Android开发,软件测试
+Oracle数据库,Db2数据库,软件测试
+java,JavaEE架构,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+C#,python编程,软件测试,C语言,C++语言,ruby,嵌入式操作系统
+ORM对象关系映射,photoshop,windows操作系统,linux操作系统,OOD面向对象设计
+java,jQuery框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,linux操作系统,XML技术,软件测试,Shell语言,自动化测试(使用自动化测试软件、
+java,jQuery框架,jsp(java服务器页面),css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),eclipse,javaScript,mysql数据库,Oracle数据库,linux操作系统,XML技术,软件测试,Shell语言,自动化测试(使用自动化测试软件、
+软件测试
+软件测试
+COM编程,软件测试,软件工程,数据结构,软件文档写作,算法设计与技术
+软件测试,熟悉主流测试工具,软件工程,软件项目管理,office
+软件测试
+Android开发,软件测试
+软件测试,软件工程
+linux操作系统,软件测试
+ERP(企业资源计划),软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等)
+Oracle数据库,Db2数据库,软件测试,Loadrunner(一个测试软件的工具)
+java,SQL Server数据库,Oracle数据库,软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,office
+软件测试
+java,php,mysql数据库,linux操作系统,python编程,Db2数据库,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言,ruby
+java,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+软件测试,软件项目管理
+java,php,Shell语言,自动化测试(使用自动化测试软件、框架等)
+软件测试,熟悉主流测试工具
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),熟悉主流测试工具
+java,php,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+svn,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,Quality Center,C语言
+ERP(企业资源计划),自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Maven(一个项目管理工具)
+java,C#,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),C语言,C++语言
+java,JavaEE架构,Tomcat,Oracle数据库,PL/SQL,linux操作系统,软件测试,Shell语言,中间件
+css层叠样式表,Html,javaScript,windows操作系统,linux操作系统,软件测试,熟悉主流测试工具
+java,JavaEE架构,Tomcat,Oracle数据库,PL/SQL,linux操作系统,软件测试,Shell语言,中间件
+TCP/IP编程,linux操作系统,软件测试
+软件测试,软件工程,数据分析
+PL/SQL,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,单片机原理与引用
+java,C#,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),Quality Center,软件文档写作,C语言,C++语言
+.net,软件测试
+linux操作系统,python编程,ios开发,Android开发,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,ruby
+windows操作系统,Android开发,软件测试
+windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等)
+mysql数据库,python编程,Android开发,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,数据结构,C语言,C++语言,visual basic script,Microsoft Visual C++ 6.0
+mysql数据库,python编程,Android开发,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,数据结构,C语言,C++语言,visual basic script,Microsoft Visual C++ 6.0
+ant(一种基于Java的build工具),windows操作系统,Oracle数据库,linux操作系统,git,OOD面向对象设计,Shell语言,Perl语言,CVS(一种自动测试工具),Maven(一个项目管理工具),Adobe Illustrator(AI),C语言,Recovery Manager,Junit,h
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+GUI编程,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,熟悉主流测试工具,Webservice,hudson
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),C语言,电子商务
+Android开发,软件测试,Bugzilla(一个开源的缺陷跟踪系统),Quality Center,C语言
+weblogic服务器,Oracle数据库,TCP/IP编程,HTTP传输协议,软件测试,C语言,Webservice,Java Message Service
+软件测试,项目实施
+软件工程,软件项目管理
+软件测试
+java,TCP/IP编程,linux操作系统,python编程,软件测试,熟悉主流测试工具,C语言,C++语言
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+linux操作系统,软件测试,C语言,电子商务
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+COM编程,软件测试,熟悉主流测试工具
+软件测试
+java,weblogic服务器,websphere服务器,Oracle数据库,linux操作系统,unix操作系统,svn,vss,Db2数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具,Qualit
+java,weblogic服务器,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+java,C#,COM编程,windows操作系统,linux操作系统,HTTP传输协议,ios开发,Android开发,软件测试,软件工程,软件文档写作,office,C语言,C++语言
+windows操作系统,linux操作系统,软件测试,C语言
+java,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,Db2数据库,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,数据库系统原理,ruby
+java,php,AJAX(异步的JavaScript与XML技术),javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试
+软件测试,C语言
+软件测试,项目实施
+软件测试
+ios开发,软件测试,C语言
+mysql数据库,svn,软件测试,软件工程,Axure RP(快速原型设计工具)
+ios开发,C语言
+软件测试
+java,SQL Server数据库,linux操作系统,python编程,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等)
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,COM编程,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,HTTP传输协议,软件测试,熟悉主流测试工具,软件工程,辅助测试(使用sql语句或者简单的命令查询日志等),C语言,C++语言
+java,软件测试,熟悉主流测试工具,软件工程
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Maven(一个项目管理工具)
+ios开发,Android开发,软件测试
+JavaEE架构,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测
+java,javaScript,linux操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,数据结构
+Oracle数据库,软件测试,熟悉主流测试工具,数据分析
+COM编程,XML技术,软件测试,Lua
+软件测试,office
+mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,ios开发,iOS SDK,Android开发,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,bash语言,C语言
+java,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,Perl语言,软件测试,C语言,C++语言
+java,软件测试
+java,python编程,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言,ruby
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,ERP(企业资源计划),软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,项目实施
+软件测试,熟悉主流测试工具,软件文档写作
+windows操作系统,SQL Server数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言,C++语言,Microsoft Visual C++ 6.0
+windows操作系统,linux操作系统,ios开发,Android开发,软件测试,熟悉主流测试工具
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等)
+.net,ERP(企业资源计划),软件测试,熟悉主流测试工具
+java,weblogic服务器,Oracle数据库,软件测试,C语言
+java,JavaEE架构,Struts框架,Spring框架,myBatis框架,Extjs框架,MyBatis框架,javaScript,COM编程,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,Shell语言,自动化测试(使用自
+软件测试,游戏设计
+软件测试,软件文档写作,office
+软件测试
+java,JavaEE架构,.net,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),
+java,css层叠样式表,Html,php,javaScript,mysql数据库,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C语言
+Android开发,自动化测试(使用自动化测试软件、框架等)
+软件测试
+linux操作系统,软件测试
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,数据库系统原理,电子商务
+TCP/IP编程,SIP协议,软件测试,计算机网络
+mysql数据库,python编程,Android开发,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,数据结构,C语言,C++语言,visual basic script,Microsoft Visual C++ 6.0
+自动化测试(使用自动化测试软件、框架等),软件测试,熟悉主流测试工具
+软件测试
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C语言,电子商务
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,C语言,电子商务
+java,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工
+软件测试,熟悉主流测试工具
+软件测试
+软件测试
+软件测试
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,搜索引擎算法,C语言
+php,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,SQL Server数据库,Oracle数据库,Redis数据库,linux操作系统,unix操作系统,redis数据库,cache技术,软件测试,自动化测试(使用自动化测试软件、框架等),JMete
+java,ORM对象关系映射,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,hado
+软件测试
+软件测试
+java,软件测试,自动化测试(使用自动化测试软件、框架等),电子商务
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+windows操作系统,linux操作系统,软件架构设计,软件测试,软件架构
+软件测试,熟悉主流测试工具
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+java,windows操作系统,Oracle数据库,linux操作系统,unix操作系统,软件测试
+mysql数据库,SQL Server数据库,vss,软件测试,Quality Center,C语言
+软件测试,熟悉主流测试工具,软件工程,软件文档写作
+Android开发,软件测试,软件工程
+软件测试
+SQL Server数据库,Oracle数据库,OOD面向对象设计,软件测试,JMeter(一个测试软件的工具),Jira(项目与事务跟踪工具),熟悉主流测试工具,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Mantis(一个缺陷跟踪系统),熟悉主流测试工具
+java,.net,软件测试,熟悉主流测试工具
+java,linux操作系统,软件测试,熟悉主流测试工具,网络安全技术
+软件测试,软件文档写作
+软件测试,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+软件测试
+php,系统设计,python编程,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言,C语言,C++语言
+C#,SQL Server数据库,Oracle数据库,面向对象分析,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,软件文档写作,C语言
+ORM对象关系映射,C#,多线程,系统设计,windows操作系统,TCP/IP编程,串口编程,软件测试,C语言,串口开发
+linux操作系统,ios开发,面向对象分析,Android开发,软件测试,熟悉主流测试工具,软件工程
+串口编程,软件测试,C语言,串口开发,单片机原理与引用,嵌入式操作系统,汇编语言
+软件测试,office
+软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Quality Center,软件项目管理,C语言
+Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),Oracle数据库,linux操作系统,软件测试,熟悉主流测试工具,Linux Virtual Server,Jboss
+JavaEE架构,eclipse,linux操作系统,unix操作系统,软件测试,Shell语言
+java,windows操作系统,mysql数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具
+.net,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Perl语言,软件工程,bash语言,C语言,Open Database Connectivity,Java Data Base Connectivity,Sybase IQ,GreenPlum
+软件测试
+mysql数据库,软件测试,熟悉主流测试工具
+软件测试,office
+vi
+svn,软件测试,自动化测试(使用自动化测试软件、框架等),CVS(一种自动测试工具),Mantis(一个缺陷跟踪系统),Jira(项目与事务跟踪工具),熟悉主流测试工具,Quality Center,辅助测试(使用sql语句或者简单的
+windows操作系统,SQL Server数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,计算机网络
+JavaEE架构,linux操作系统,unix操作系统,软件架构设计,软件测试,熟悉一种脚本语言,软件架构,C语言
+java,C#,软件测试,Loadrunner(一个测试软件的工具),Jira(项目与事务跟踪工具),熟悉主流测试工具,Quality Center,软件文档写作,C语言,C++语言
+java,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,C语言,C++语言
+SQL Server数据库,软件测试,Loadrunner(一个测试软件的工具)
+软件测试,熟悉主流测试工具
+C#,.net,C语言
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等)
+linux操作系统,软件测试,Shell语言,C语言
+TCP/IP编程,软件测试
+Microsoft Office Visio,TCP/IP编程,网络通信,软件测试,office,网络安全技术
+java,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),软件工程
+ios开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+windows操作系统,linux操作系统,软件测试,软件工程,软件项目管理
+软件测试,软件项目管理,软件文档写作
+ios开发,软件测试,软件项目管理,软件文档写作
+软件测试,office
+mysql数据库,python编程,MongoDB数据库,软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,php,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,Quality Center,软件项目管理,QualityCenter,C语言,Junit
+软件测试,office
+软件测试,office
+软件测试
+软件测试
+ios开发,Android开发,软件测试
+java,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等)
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),linux操作系统,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉主流测试工具
+软件测试,软件工程,电子商务
+ios开发,Android开发,软件测试,软件工程
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,软件文档写作
+css层叠样式表,Html,javaScript,软件测试,熟悉主流测试工具
+SQL Server数据库,软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉一种脚本语言
+软件测试,自动化测试(使用自动化测试软件、框架等)
+java,php,mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,php,mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,HTTP传输协议,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+C语言
+软件测试
+软件测试,熟悉主流测试工具,数据通信基础
+windows操作系统,linux操作系统,ios开发,软件测试,C语言
+java,jQuery框架,css层叠样式表,Html,C#,javaScript,ios开发,Android开发,软件测试,C语言
+css层叠样式表,Html,apache,C#,javaScript,visualStudio,XML技术,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具,软件工程,C语言,XSLT,DOM
+java,mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),熟
+java,python编程,软件测试,Perl语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,ruby,Junit
+weblogic服务器,unix操作系统,Shell语言,C语言,Vmware
+java,mysql数据库,SQL Server数据库,Oracle数据库,python编程,sybase数据库,软件测试,Shell语言,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),熟悉主流测试工具,Quality Center,C语言
+weblogic服务器,ant(一种基于Java的build工具),linux操作系统,python编程,Shell语言,Perl语言,Maven(一个项目管理工具),C语言
+软件测试,office
+windows操作系统,unix操作系统,软件测试
+Db2数据库,软件测试,软件工程
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),Bugzilla(一个开源的缺陷跟踪系统),Quality Center,C语言
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+软件测试,QTP(一种自动测试工具)
+软件测试,软件工程,C语言,C++语言
+mysql数据库,Oracle数据库,linux操作系统,unix操作系统,ios开发,Android开发,软件测试,熟悉主流测试工具
+java,mysql数据库,Oracle数据库,软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,数据结构,QualityCenter,C语言
+java,php,mysql数据库,python编程,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+自动化测试(使用自动化测试软件、框架等),软件测试,Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,Quality Center,C语言
+软件测试,熟悉主流测试工具
+java,python编程,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+java,css层叠样式表,php,AJAX(异步的JavaScript与XML技术),javaScript,linux操作系统,python编程,HTTP传输协议,svn,vss,面向对象分析,软件测试,Shell语言,Perl语言,Loadrunner(一个测试软件的工具),QTP(一种自动测试工
+软件测试,软件工程,office
+OOD面向对象设计,project,C语言,fix协议
+mysql数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件文档写作
+java,.net,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件项目管理,管理信息系统
+svn,软件测试,软件工程
+Oracle数据库,Db2数据库,软件测试
+Oracle数据库,Db2数据库,软件测试
+软件测试
+Android开发
+java,C#,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Jira(项目与事务跟踪工具),熟悉主流测试工具,软件文档写作,project,C
+mysql数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具
+mysql数据库,Oracle数据库,linux操作系统,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试
+ERP(企业资源计划),软件测试,熟悉主流测试工具,C语言
+Android开发,软件测试
+java,自动化测试(使用自动化测试软件、框架等),软件测试
+软件测试
+java,SQL Server数据库,Oracle数据库,Db2数据库,自动化测试(使用自动化测试软件、框架等),软件测试
+Android开发,软件测试,熟悉主流测试工具,嵌入式操作系统
+java,css层叠样式表,Html,php,apache,javaScript,mysql数据库,Oracle数据库,linux操作系统,软件测试,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试
+java,C#,SQL Server数据库,Oracle数据库,软件测试,熟悉主流测试工具,C语言,C++语言
+TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉主流测试工具,嵌入式操作系统,数据通信基础
+ios开发,Android开发,软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等)
+linux操作系统,软件测试
+软件测试,office
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件文档写作
+java,C#,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言,C++语言
+软件测试
+java,C#,linux操作系统,软件测试,C语言
+css层叠样式表,Html,C#,javaScript,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,C语言
+软件测试,Loadrunner(一个测试软件的工具)
+软件测试
+软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+java,mysql数据库,Redis数据库,redis数据库,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,软件工程,hadoop(分布式系统基础架构),C++语言
+软件测试,软件工程
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件项目管理
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件文档写作
+java,软件测试
+Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),关系型数据库
+软件测试,熟悉一种脚本语言
+SQL Server数据库,Oracle数据库,Db2数据库,软件测试,ETL(数据仓库技术)
+windows操作系统,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具
+java,软件测试
+JavaEE架构,Tomcat,weblogic服务器,SQL Server数据库,Oracle数据库,软件测试,熟悉主流测试工具,C语言,中间件
+mysql数据库,SQL Server数据库,Oracle数据库,软件测试
+Android开发,软件项目管理,项目实施
+软件测试,软件工程
+java,Html,.net,软件测试
+.net,软件测试,熟悉主流测试工具,软件工程
+软件测试
+软件测试,软件工程
+软件测试
+ios开发,Android开发,软件测试
+软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),软件工程,Quality Center,软件文档写作,C语言
+mysql数据库,python编程,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,熟悉一种脚本语言,ruby
+软件测试,美术基础
+linux操作系统,python编程,Shell语言,Perl语言,自动化测试(使用自动化测试软件、框架等),C语言,C++语言
+linux操作系统,python编程,Shell语言,Perl语言,C语言,C++语言
+软件测试,软件工程,软件文档写作
+windows操作系统,linux操作系统,HTTP传输协议,软件测试,Loadrunner(一个测试软件的工具),C语言,C++语言,防火墙技术,嵌入式操作系统
+软件测试
+ios开发,OOD面向对象设计
+java,XML技术,OOD面向对象设计,C语言,C++语言
+photoshop,ant(一种基于Java的build工具),OOD面向对象设计,project
+ORM对象关系映射,photoshop,ant(一种基于Java的build工具),.net,OOD面向对象设计
+mysql数据库,linux操作系统,MongoDB数据库,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),熟悉主流测试工具,软件文档写作
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),电子商务
+软件测试,自动化测试(使用自动化测试软件、框架等),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),软件文档写作,C语言
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),电子商务
+mysql数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等)
+网络通信,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具)
+系统设计,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,项目实施
+软件测试,熟悉主流测试工具,软件工程,软件文档写作,C++语言
+Access数据库,office
+Access数据库,office
+Oracle数据库,软件测试,熟悉主流测试工具,软件工程
+软件测试,熟悉主流测试工具
+windows操作系统,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),软件工程,软件项目管理
+javaScript,windows操作系统,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言
+linux操作系统,python编程,RTP传输协议,SIP协议,软件测试,Shell语言,熟悉主流测试工具,C语言
+windows操作系统,软件测试,自动化测试(使用自动化测试软件、框架等)
+java,php,软件测试,自动化测试(使用自动化测试软件、框架等),电子商务
+软件测试
+自动化测试(使用自动化测试软件、框架等),软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具)
+软件测试,Loadrunner(一个测试软件的工具)
+软件测试
+.net,软件测试,Mantis(一个缺陷跟踪系统),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具)
+软件测试,自动化测试(使用自动化测试软件、框架等)
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试
+java,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+系统设计,面向对象分析,C++语言,OpenCV
+Android开发,软件测试,熟悉主流测试工具,软件文档写作
+软件测试
+SQL Server数据库,Oracle数据库,linux操作系统,软件测试
+ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,项目实施
+java,mysql数据库,Oracle数据库,软件测试,JMeter(一个测试软件的工具),熟悉主流测试工具,熟悉一种脚本语言,C++语言
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+visualStudio,svn,自动化测试(使用自动化测试软件、框架等),软件测试,C语言,C++语言,Vmware
+java,软件测试,熟悉主流测试工具,C语言,ruby,Microsoft Visual C++ 6.0
+java,软件测试,熟悉主流测试工具,软件工程,软件文档写作
+.net,COM编程,Access数据库,软件测试,熟悉一种脚本语言,Adobe Illustrator(AI),office,C语言,嵌入式操作系统
+ORM对象关系映射,photoshop,C#,COM编程,SQL Server数据库,Oracle数据库,python编程,Access数据库,Prototype,Adobe Illustrator(AI),office,C语言,C++语言,vi
+java,Android开发,软件测试,Quality Center,C语言
+COM编程,mysql数据库,SQL Server数据库,Oracle数据库,软件测试,熟悉主流测试工具,软件工程
+Tomcat,Oracle数据库,linux操作系统,软件测试,QTP(一种自动测试工具),Quality Center,C语言
+java,windows操作系统,SQL Server数据库,linux操作系统,软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等)
+软件测试,熟悉主流测试工具
+COM编程,软件测试,熟悉主流测试工具,C语言,C++语言
+熟悉一种脚本语言,网络安全技术
+JavaEE架构,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+软件测试,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,Quality Center,C语言,C++语言,Matlab
+软件测试,熟悉主流测试工具
+软件测试
+软件测试,软件工程
+软件测试
+COM编程
+ios开发,Android开发,软件测试
+软件测试
+COM编程,Oracle数据库,linux操作系统,软件测试,软件工程
+java,php,linux操作系统,ios开发,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试
+windows操作系统,SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+SQL Server数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具,C语言,信息安全导论
+svn,vss,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),Jira(项目与事务跟踪工具),熟悉主流测试工具,软
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,嵌入式操作系统
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉主流测试工具,软件工程,嵌入式操作系统
+java,ORM对象关系映射,.net,Oracle数据库,ios开发,OOD面向对象设计,project,C语言
+java,php,javaScript,linux操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),熟悉主流测试工具,软件工程,Quality Center,熟悉一种脚本语言,C语言,Junit
+Html,Oracle数据库,TCP/IP编程,linux操作系统,HTTP传输协议,Db2数据库,软件测试,hadoop(分布式系统基础架构)
+javaScript,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),QTP(一种自动测试工具),Bugzilla(一个开源的缺陷跟踪系统),熟悉
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,软件工程
+ios开发,软件测试
+ios开发,Android开发,软件测试
+项目实施,CloudStack,Vmware,Citrix,Keyboard Video Mouse
+C#,软件测试,熟悉主流测试工具,软件工程,软件文档写作,C语言
+mysql数据库,软件测试,Jira(项目与事务跟踪工具),Quality Center,C语言
+windows操作系统,SQL Server数据库,svn,软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+mysql数据库,Oracle数据库,软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),Jira(项目与事务跟踪工具),Quality Center,C语言
+软件测试,Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),office
+软件测试
+java,Html,php,apache,Tomcat,weblogic服务器,mysql数据库,Oracle数据库,linux操作系统,python编程,ios开发,Android开发,软件测试,Shell语言,Perl语言,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工
+java,JavaEE架构,多线程,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,HTTP传输协议,软件测试,Shell语言,JMeter(一个测试软件的工具),熟悉一种脚本语言,中间件
+软件测试,熟悉主流测试工具
+SQL Server数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工具),软件文档写作,QualityCenter
+mysql数据库,Oracle数据库,linux操作系统,软件测试
+TCP/IP编程,软件测试,熟悉一种脚本语言,网络安全技术,数据通信基础
+软件测试
+TCP/IP编程,自动化测试(使用自动化测试软件、框架等),数据通信基础
+软件测试,计算机网络
+SQL Server数据库,Oracle数据库,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),熟悉主流测试工具,软件工程,Quality Center,软件项目管理,C语言
+软件测试
+.net,windows操作系统,SQL Server数据库,自动化测试(使用自动化测试软件、框架等),软件测试
+SQL Server数据库,软件测试,QTP(一种自动测试工具),Quality Center,C语言
+java,软件测试
+java,javaScript,系统设计,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,软件测试,自动化测试(使用自动化测试软件、框架等),Loadrunner(一个测试软件的工具),QTP(一种自动测试工
+java,Oracle数据库,linux操作系统,Db2数据库,软件测试,软件工程
+软件测试,软件文档写作
+Oracle数据库,linux操作系统,Db2数据库,软件测试,Shell语言,软件工程
+java,Oracle数据库,linux操作系统,Db2数据库,软件测试,软件工程
+python编程,ERP(企业资源计划),软件测试,Shell语言,Perl语言,Loadrunner(一个测试软件的工具),Jira(项目与事务跟踪工具),Quality Center,熟悉一种脚本语言,C语言,ruby,电子商务
+java,php,linux操作系统,python编程,软件测试,C语言,ruby
+软件测试,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,office
+GUI编程,windows操作系统,软件测试,熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等)
+java,Tomcat,weblogic服务器,websphere服务器,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,软件测试,熟悉主流测试工具,软件工程,软件文档写作,C语言,中间件,Jboss
+软件测试,Quality Center,C语言
+软件测试
+Android开发,软件测试
+软件测试
+软件测试,熟悉主流测试工具,软件工程,信息安全导论
+软件测试,自动化测试(使用自动化测试软件、框架等)
+TCP/IP编程,linux操作系统,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,熟悉一种脚本语言,计算机网络,网络安全技术,数据通信基础
+软件测试,自动化测试(使用自动化测试软件、框架等)
+python编程,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+windows操作系统,linux操作系统,ios开发,Android开发,软件测试,自动化测试(使用自动化测试软件、框架等),辅助测试(使用sql语句或者简单的命令查询日志等),C语言,人机交互技术,计算机网络
+php,TCP/IP编程,linux操作系统,网络编程,python编程,HTTP传输协议,软件测试,Shell语言,自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具
+linux操作系统,Android开发,自动化测试(使用自动化测试软件、框架等),软件测试
+软件测试
+ios开发,Android开发,软件测试,Mantis(一个缺陷跟踪系统),Jira(项目与事务跟踪工具),Unity
+软件测试,office,电子商务
+ERP(企业资源计划),软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+软件测试,自动化测试(使用自动化测试软件、框架等)
+软件测试,熟悉主流测试工具
+ERP(企业资源计划),自动化测试(使用自动化测试软件、框架等),熟悉主流测试工具,Maven(一个项目管理工具)
+windows操作系统,linux操作系统,软件测试,JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+软件测试,软件工程
+自动化测试(使用自动化测试软件、框架等),软件测试
+软件测试,office,C语言
+软件测试,熟悉主流测试工具
+javaScript,ios开发,Android开发,软件测试

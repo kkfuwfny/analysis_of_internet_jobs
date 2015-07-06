@@ -1,0 +1,142 @@
+数据分析,Vmware,Keyboard Video Mouse,信息安全导论
+信息安全导论
+信息安全导论
+软件测试,熟悉主流测试工具,辅助测试(使用sql语句或者简单的命令查询日志等),熟悉一种脚本语言
+.net,软件测试,网络安全技术
+php,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,linux操作系统,python编程,Shell语言,ruby,计算机网络,网络安全技术,信息安全导论
+photoshop,linux操作系统,unix操作系统,搜索引擎算法,网络安全技术,信息安全导论
+软件项目管理,office
+php,Nginx,Nginx(一个HTTP和反向代理服务器),.net,mysql数据库,linux操作系统,unix操作系统,软件测试,网络安全技术,信息安全导论
+软件测试,软件项目管理,信息安全导论
+linux操作系统
+apache,Tomcat,Memcached,windows操作系统,mysql数据库,linux操作系统,Shell语言,软件文档写作,Keepalived,Linux Virtual Server,网络安全技术
+java,Android开发,C语言,C++语言,汇编语言
+linux操作系统,ios开发,软件工程,C语言,C++语言,网络安全技术
+C#,.net,SQL Server数据库,Oracle数据库,C语言,C++语言
+photoshop,windows操作系统,TCP/IP编程,linux操作系统,软件测试,数据结构,C语言,算法设计与技术,网络安全技术
+软件项目管理
+信息安全导论
+photoshop,linux操作系统,搜索引擎算法,信息安全导论
+java,php,photoshop,.net,windows操作系统,linux操作系统,unix操作系统,软件测试,软件工程,软件项目管理,项目实施,C语言,网络安全技术,信息安全导论
+windows操作系统,linux操作系统,unix操作系统,软件测试,C语言,网络安全技术,信息安全导论
+photoshop,COM编程,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,软件测试,网络安全技术,信息安全导论
+windows操作系统,linux操作系统,unix操作系统,软件测试,防火墙技术,网络安全技术,信息安全导论
+java,linux操作系统,Android开发,C语言,C++语言,IDA
+信息安全导论
+信息安全导论
+java,jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),.net,javaScript,python编程,Shell语言,信息安全导论
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,unix操作系统,Db2数据库,软件测试,计算机网络,网络安全技术,信息安全导论
+java,php,python编程,Shell语言,Perl语言,软件测试,软件项目管理,网络安全技术,信息安全导论
+软件工程,信息安全导论
+软件工程
+网络安全技术
+项目实施,信息安全导论
+信息安全导论
+TCP/IP编程,网络安全技术
+java,linux操作系统,网络通信,Android开发,C语言,C++语言,信息安全导论
+photoshop,网络安全技术,信息安全导论
+windows操作系统,TCP/IP编程,linux操作系统,网络安全技术
+photoshop,COM编程,TCP/IP编程,数据分析,软件项目管理,C语言,网络安全技术,信息安全导论
+photoshop,TCP/IP编程,网络安全技术
+COM编程,信息安全导论
+网络安全技术,信息安全导论
+apache,Nginx,Tomcat,Nginx(一个HTTP和反向代理服务器),photoshop,mysql数据库,Oracle数据库,信息安全导论
+软件文档写作,项目实施,网络安全技术,信息安全导论
+信息安全导论
+windows操作系统,软件测试,ITIL,网络安全技术,信息安全导论
+JavaEE架构,windows操作系统,Oracle数据库,linux操作系统,软件测试,熟悉主流测试工具,软件文档写作,网络安全技术,信息安全导论
+photoshop,TCP/IP编程,数据分析,软件项目管理,C语言,网络安全技术,信息安全导论
+windows操作系统,linux操作系统,unix操作系统,软件测试,软件项目管理
+信息安全导论
+软件测试,熟悉主流测试工具,熟悉一种脚本语言,网络安全技术,信息安全导论
+php,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,unix操作系统,python编程,Db2数据库,软件测试,Shell语言,Perl语言,熟悉主流测试工具,熟悉一种脚本语言,网络安全技术,信息安全导论
+网络安全技术
+java,python编程,C语言,网络安全技术,信息安全导论
+java,php,photoshop,C#,.net,面向对象分析,熟悉主流测试工具,C语言,C++语言
+php,apache,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,Ubuntu操作系统,CentOS操作系统,Red Hat操作系统,Shell语言,Perl语言,熟悉一种脚本语言,数据分析,Vmware,vi,网络安全技术
+linux操作系统,unix操作系统,python编程,软件测试,Shell语言,C语言,C++语言,信息安全导论
+linux操作系统,python编程,软件测试,Shell语言,C语言,C++语言,信息安全导论
+ORM对象关系映射,photoshop,C#,.net,COM编程,HTTP传输协议,OOD面向对象设计,C语言,WebService,soap,信息安全导论
+软件测试,熟悉一种脚本语言
+信息安全导论
+网络安全技术,信息安全导论
+C语言,网络安全技术
+软件项目管理,信息安全导论
+photoshop,COM编程,windows操作系统,linux操作系统,python编程,软件测试,Shell语言,熟悉一种脚本语言,项目实施,C语言,中间件,网络安全技术,信息安全导论
+java,TCP/IP编程,linux操作系统,python编程,软件测试,Shell语言,Perl语言,C语言,C++语言,ITSM,ITIL,计算机网络,网络安全技术,信息安全导论
+数据分析
+css层叠样式表,Html,apache,javaScript,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,HTTP传输协议,XML技术,cache技术,软件测试,Shell语言
+php,javaScript,windows操作系统,linux操作系统,python编程,软件测试,Shell语言,Perl语言,熟悉主流测试工具,熟悉一种脚本语言,网络安全技术,信息安全导论
+软件测试,熟悉主流测试工具,软件项目管理
+网络安全技术
+windows操作系统,TCP/IP编程,linux操作系统,Red Hat操作系统,python编程,软件测试,Shell语言,Perl语言,C语言,信息安全导论
+数据分析
+java,Spring框架,JAVA主流框架,apache,photoshop,.net,windows操作系统,mysql数据库,linux操作系统,unix操作系统,软件测试,熟悉主流测试工具,中间件,网络安全技术,信息安全导论
+php,windows操作系统,linux操作系统,python编程,Shell语言,Perl语言,C语言,C++语言,网络安全技术
+photoshop,windows操作系统,linux操作系统,ITIL,网络安全技术,信息安全导论
+photoshop,TCP/IP编程,数据分析,软件项目管理,C语言,网络安全技术,信息安全导论
+office
+java,php,C#,javaScript,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,Perl语言,C语言,C++语言
+windows操作系统,OOD面向对象设计,project,C语言
+apache,Tomcat,photoshop,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试,Shell语言,Jboss,网络安全技术,信息安全导论
+信息安全导论
+TCP/IP编程,软件测试,软件项目管理
+TCP/IP编程,网络安全技术,信息安全导论
+svn,office,信息安全导论
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,网络安全技术,信息安全导论
+软件项目管理,项目实施,计算机网络,网络安全技术,信息安全导论
+php,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,Perl语言,软件测试,Lua,网络安全技术
+信息安全导论
+GUI编程,TCP/IP编程,linux操作系统,C语言,信息安全导论
+TCP/IP编程,HTTP传输协议,软件测试,C语言,网络安全技术
+软件文档写作,C语言,C++语言,Matlab
+计算机网络,网络安全技术
+软件项目管理,信息安全导论
+软件项目管理,信息安全导论
+windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,软件测试,网络安全技术,信息安全导论
+网络安全技术
+php,windows操作系统,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,C语言,C++语言,网络安全技术,信息安全导论
+信息安全导论
+信息安全导论
+软件测试,软件项目管理,项目实施,信息安全导论
+TCP/IP编程,网络安全技术
+windows操作系统,linux操作系统,unix操作系统,Shell语言,软件测试,信息安全导论
+photoshop,TCP/IP编程,C语言,网络安全技术,信息安全导论
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,spring mvc框架,Tomcat,eclipse,mysql数据库,SQL Server数据库,Oracle数据库,面向对象分析,数据库系统原理,C语言,Jboss,Microsoft Visual C++ 6.0
+TCP/IP编程,linux操作系统,软件测试,项目实施,网络安全技术
+熟悉一种脚本语言,网络安全技术
+java,Android开发,软件项目管理,C语言,信息安全导论,汇编语言
+Objective-c语言,ios开发,软件项目管理,C语言,信息安全导论,汇编语言
+python编程,C语言,C++语言,信息安全导论
+windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,linux操作系统,python编程,软件测试,postgresql
+photoshop,linux操作系统,网络安全技术,信息安全导论
+java,C#,MFC,C语言,C++语言,信息安全导论
+windows操作系统,SQL Server数据库,Oracle数据库,linux操作系统,unix操作系统,Db2数据库,sybase数据库,C语言,网络安全技术
+信息安全导论
+网络安全技术,信息安全导论
+linux操作系统,网络安全技术
+linux操作系统,Qt,软件测试
+photoshop,windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,软件测试,计算机网络,网络安全技术,信息安全导论
+网络安全技术,信息安全导论
+COM编程,windows操作系统,SQL Server数据库,Vmware,Citrix,计算机网络
+TCP/IP编程,计算机网络,网络安全技术,信息安全导论
+php,photoshop,windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,python编程,软件测试,Shell语言,Perl语言,信息安全导论
+TCP/IP编程,项目实施,C语言,路由协议,网络安全技术
+photoshop,windows操作系统,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,unix操作系统,HTTP传输协议,软件测试,网络安全技术,信息安全导论
+photoshop,TCP/IP编程,HTTP传输协议,软件项目管理,网络安全技术,信息安全导论
+软件测试,网络安全技术,信息安全导论
+windows操作系统,linux操作系统,网络安全技术,信息安全导论
+photoshop,TCP/IP编程,网络通信,软件测试,中间件,路由协议,信息安全导论
+网络通信,信息安全导论
+Oracle数据库,linux操作系统,Vmware,信息安全导论
+Oracle数据库,linux操作系统,软件项目管理,Vmware,信息安全导论
+windows操作系统,linux操作系统,unix操作系统,软件测试,信息安全导论
+软件测试,信息安全导论
+IDA,OllyDBG
+photoshop,TCP/IP编程,linux操作系统,软件测试,数据结构,C语言,算法设计与技术,网络安全技术
+TCP/IP编程,软件测试,信息安全导论
+windows操作系统,mysql数据库,Oracle数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试,路由协议,信息安全导论
+软件项目管理,信息安全导论
+windows操作系统,linux操作系统,CentOS操作系统,python编程,软件测试,Perl语言,熟悉一种脚本语言,C语言,C++语言,路由协议,IDA,计算机网络
+java,php,photoshop,javaScript,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,python编程,Shell语言,Perl语言,C语言,C++语言,关系型数据库,网络安全技术,信息安全导论
+TCP/IP编程,熟悉主流测试工具,C语言,网络安全技术,信息安全导论

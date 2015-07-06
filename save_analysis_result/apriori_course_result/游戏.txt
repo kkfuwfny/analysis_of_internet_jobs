@@ -1,0 +1,946 @@
+photoshop,Dreamweaver
+C#,GUI编程,Socket编程,网络编程,OpenGl图形编程,ios开发,Android开发,C语言,C++语言,Unity
+office
+Microsoft Office Visio,C#,熟悉一种脚本语言,美术基础,office,C语言
+系统设计,美术基础
+java,jsp(java服务器页面),css层叠样式表,Html,javaScript,mysql数据库,美术基础
+php,memcache,javaScript,mysql数据库,Redis数据库,TCP/IP编程,Socket编程,linux操作系统,python编程,MongoDB数据库,redis数据库,cache技术,Shell语言,C语言,C++语言,关系型数据库
+美术基础
+.net,COM编程,美工基础,3D Studio Max(三维动画渲染和制作软件)
+mysql数据库,面向对象分析,数据库系统原理
+java,JavaEE架构,mysql数据库
+photoshop,Microsoft Office Visio,美术基础,office
+windows操作系统,ios开发,Android开发,美术基础
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+ios开发,Android开发,美术基础,3D Studio Max(三维动画渲染和制作软件),Unity
+美术基础,Autodesk Maya(三维动画软件)
+visualStudio,多线程,mysql数据库,TCP/IP编程,linux操作系统,UML建模语言,HTTP传输协议,ios开发,Android开发,C语言,C++语言
+美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件),Unity
+数据结构,office,游戏设计
+软件项目管理
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+ios开发,Android开发,软件测试
+数据分析
+office
+美术基础,office
+office,游戏设计
+java,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,linux操作系统
+Photoshop,COM编程,ios开发,Flash,Adobe Illustrator(AI),美工基础,美术基础
+美术基础
+数据分析
+javaScript,mysql数据库,Redis数据库,linux操作系统,git,redis数据库
+Android开发
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),ant(一种基于Java的build工具),javaScript,ios开发,Android开发,cocos2d
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术
+COM编程,Android开发,数据分析
+COM编程,Android开发,数据分析
+软件测试,office,Matlab
+C#,C语言,Unity
+java,python编程,C++语言
+office
+java,Objective-c语言,面向对象分析,C语言,C++语言,cocos2d-x,cocos2d
+Photoshop,COM编程,HTTP传输协议,Flash,Adobe Illustrator(AI),美工基础,美术基础
+Photoshop,美工基础,美术基础
+系统设计,软件项目管理,美术基础,游戏设计
+php,mysql数据库,SQL Server数据库,Oracle数据库,Socket编程,linux操作系统,python编程,面向对象分析,C语言,C++语言
+美术基础
+美工基础,美术基础
+数据分析
+photoshop,Adobe Illustrator(AI),美术基础
+Photoshop,Dreamweaver,Flash,Adobe Illustrator(AI),美工基础,美术基础
+Photoshop,美工基础,美术基础
+photoshop,面向对象分析,C++语言,计算机图形学
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+系统设计,美术基础,office
+数据分析
+office
+软件测试,数据结构,计算机网络
+mysql数据库,数据分析
+美术基础
+MFC,TCP/IP编程,面向对象分析,C语言,C++语言
+MFC,TCP/IP编程,面向对象分析,C语言,C++语言
+ios开发,C语言,C++语言,Lua,cocos2d-x,cocos2d
+java,多线程,系统设计,面向对象分析
+美工基础,美术基础,人机交互技术
+美工基础,美术基础
+美术基础,Unity
+数据分析,office
+javaScript,TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,MongoDB数据库,UDP协议,网络通信,C语言,C++语言
+美术基础,动画设计
+Flash,美术基础
+Photoshop,美术基础,C语言
+Photoshop,Flash,美术基础,3D Studio Max(三维动画渲染和制作软件)
+office
+Photoshop,Microsoft Office Visio,Flash,美术基础,office
+C#,C语言,Unity
+cocos2d,Unity
+ios开发,数据结构,C++语言,Lua,cocos2d-x,cocos2d
+多线程,STL库,软件测试,数据结构,C语言,C++语言,Lua,Standard Template Library
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础,Unity
+photoshop,Microsoft Office Visio,系统设计,软件文档写作,美术基础,office
+美术基础
+美术基础
+Photoshop,美术基础,C语言,3D Studio Max(三维动画渲染和制作软件)
+photoshop
+数据分析
+软件项目管理,美术基础,Unity
+COM编程,系统设计,软件文档写作,美术基础
+数据分析,C语言
+C++语言,Lua,Unity
+Photoshop,美工基础,美术基础,人机交互技术
+C语言
+软件测试
+Photoshop,Flash,Adobe Illustrator(AI),美术基础
+美术基础
+数据分析,office
+office
+C#,ios开发,Android开发,Adobe Illustrator(AI),C语言,C++语言
+.net,MFC,多线程,STL库,DirectX图形编程,OpenGl图形编程,C语言,C++语言,Standard Template Library
+美术基础
+COM编程,美工基础,美术基础,Autodesk Maya(三维动画软件),Unity
+软件测试,熟悉主流测试工具
+Microsoft Office Visio,office
+photoshop,Flash,美术基础
+photoshop,TCP/IP编程,Socket编程,HTTP传输协议,面向对象分析,网络通信,Android开发,Flash
+Photoshop,美工基础,美术基础
+Photoshop,Dreamweaver,Flash,美术基础,动画设计
+Photoshop,美工基础,美术基础
+Photoshop,Flash,C语言,3D Studio Max(三维动画渲染和制作软件)
+数据结构,C语言,C++语言
+数据分析
+java,Socket编程,网络编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,Android开发,C语言,C++语言
+Photoshop,Flash,美术基础
+jQuery框架,css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,ios开发,XML技术,Android开发,C语言,cocos2d
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+java,php,多线程,mysql数据库,Socket编程,linux操作系统,python编程,熟悉一种脚本语言,数据结构,C语言,C++语言
+系统设计,美术基础
+Android开发,软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+系统设计,TCP/IP编程,linux操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言,软件项目管理,C语言,ITIL
+php,apache,Nginx,Memcached,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,Redis数据库,linux操作系统,python编程,redis数据库,Shell语言,Perl语言,熟悉一种脚本语言,ruby,Linux Virtual Ser
+TCP/IP编程,Socket编程,OpenGl图形编程,HTTP传输协议,ios开发,网络通信,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+java,mysql数据库,javaSe
+java,mysql数据库,javaSe
+photoshop,COM编程,Flash,美术基础,C语言
+ios开发,Android开发,美术基础
+美术基础
+java,jsp(java服务器页面),servlet,Tomcat,mysql数据库,Redis数据库,linux操作系统,XML技术,面向对象分析,redis数据库,Lua
+ios开发,Android SDK,Android开发,熟悉主流测试工具,C语言,C++语言,Lua,cocos2d-x,cocos2d
+jQuery框架,css层叠样式表,Html,javaScript,ios开发,Android开发,C语言
+Android开发,软件测试
+mysql数据库,Hbase数据库,MongoDB数据库,hadoop(分布式系统基础架构),数据分析,HBase
+软件测试,熟悉主流测试工具
+软件项目管理
+美术基础,C语言
+ios开发,Android开发,数据分析,软件文档写作,office
+C#,ios开发,Android开发,数据结构,C语言,C++语言,计算机网络,计算机图形学
+TCP/IP编程
+Photoshop,Flash,Adobe Illustrator(AI),美术基础,人机交互技术
+Photoshop,COM编程,美术基础
+photoshop,COM编程
+C语言,Unity
+C#,C语言,C++语言,Lua
+office
+office
+Photoshop,photoshop,Flash,美术基础
+多线程,TCP/IP编程,Socket编程,网络编程,网络通信,C语言,C++语言,Lua
+Socket编程,jSon技术,面向对象分析,Flash
+C语言
+php,mysql数据库,NoSQL数据库,数据库系统原理
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+COM编程,美工基础,3D Studio Max(三维动画渲染和制作软件)
+ios开发,Android开发,C语言
+数据分析
+美术基础
+linux操作系统,网络通信
+css层叠样式表,Html,Photoshop,Flash,Adobe Illustrator(AI),office
+office
+系统设计,软件文档写作,美术基础
+C语言,C++语言,Lua,cocos2d-x,cocos2d
+jQuery框架,css层叠样式表,Html,php,AJAX(异步的JavaScript与XML技术),XHTML,Smarty(一个模板引擎),javaScript,mysql数据库,XML技术,jSon技术,面向对象分析
+java,cocos2d
+数据分析,数据挖掘
+面向对象分析,软件测试,数据结构,Adobe Illustrator(AI),美工基础,C语言,C++语言,cocos2d-x,cocos2d
+java,Tomcat,eclipse,多线程,TCP/IP编程,Socket编程,网络编程,netty框架,mina框架,Netty
+mysql数据库,TCP/IP编程,linux操作系统,软件测试,Shell语言,熟悉一种脚本语言,C++语言,gdb,GDB
+美术基础,3D Studio Max(三维动画渲染和制作软件)
+linux操作系统,python编程,网络通信,Shell语言,C++语言
+Photoshop,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,美工基础,美术基础
+Photoshop,美工基础,美术基础
+Quality Center,美术基础,C语言
+Photoshop,Microsoft Office Visio,office
+数据分析
+Photoshop,美工基础,美术基础
+Html,javaScript,ios开发,ActionScript
+多线程,windows操作系统,mysql数据库,TCP/IP编程,Socket编程,并发控制,数据结构,C语言,C++语言,关系型数据库
+GUI编程,美术基础,游戏设计
+windows操作系统,Objective-c语言,ios开发,软件架构设计,软件工程,软件架构,C语言,C++语言,cocos2d-x,cocos2d,Unity
+软件测试
+Photoshop,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+美术基础,Autodesk Maya(三维动画软件),Unity
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+软件项目管理
+Html,photoshop,COM编程,HTTP传输协议,美工基础,美术基础
+美术基础
+jQuery框架,Extjs框架,css层叠样式表,Html,javaScript,Unity
+美工基础,美术基础,人机交互技术
+ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+Photoshop,美工基础,美术基础
+数据分析,软件项目管理,游戏设计
+ORM对象关系映射,COM编程,EOS嵌入式开发,OOD面向对象设计,C语言,Storm,Unity
+C#,javaScript,Redis数据库,TCP/IP编程,Socket编程,面向对象分析,redis数据库,数据结构,C语言,C++语言,Lua,Unity
+C语言
+Photoshop,Dreamweaver,Flash,Adobe Illustrator(AI),美术基础,动画设计
+office,游戏设计
+数据分析,软件文档写作,office
+visualStudio,XCode开发工具,ios开发,熟悉一种脚本语言,美术基础,C语言,C++语言,Lua,cocos2d-x,cocos2d
+java,sqlite数据库,Android SDK,网络通信,Android开发
+美术基础,游戏设计
+Microsoft Office Visio,Adobe Illustrator(AI),美术基础,office,Unity
+美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,Adobe Illustrator(AI),Axure RP(快速原型设计工具)
+面向对象分析,C++语言
+photoshop,Flash,美工基础,Adobe Illustrator(AI),美术基础,人机交互技术
+java,Android开发,cocos2d-x,cocos2d,游戏设计
+C语言
+Microsoft Office Visio,office,游戏设计
+美术基础,C语言
+数据分析,数据挖掘
+COM编程
+Unity
+美工基础,美术基础
+COM编程,美术基础
+java,Android开发,cocos2d-x,cocos2d,游戏设计
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+java,Android开发,C语言,C++语言
+mysql数据库,TCP/IP编程,python编程,ios开发,Android开发,Shell语言,Perl语言,软件测试,熟悉一种脚本语言,C语言,C++语言
+美术基础
+C#,GUI编程,ios开发,面向对象分析,Android开发,数据结构,C语言,Unity
+数据分析
+jQuery框架,php,apache,Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,NoSQL数据库,Redis数据库,linux操作系统,unix操作系统,redis数据库,软件测试,C语言,Microsoft Visual C++ 6.0
+ios开发,Android开发,C语言,C++语言,Lua,cocos2d-x,cocos2d
+Html,多线程,TCP/IP编程,网络编程,C++语言,Lua
+memcache,多线程,Redis数据库,linux操作系统,python编程,git,redis数据库,cache技术,网络通信,软件测试,Shell语言,数据库系统原理,C++语言
+面向对象分析,Flash
+java,Html,javaScript,ios开发
+photoshop,office,mindmanager
+office
+COM编程,软件测试,office,C语言
+Photoshop,美工基础,Adobe Illustrator(AI),美术基础
+ios开发,cocos2d-x,cocos2d
+office
+Microsoft Office Visio,office
+数据分析
+Photoshop,CorelDRAW平面设计软件,Adobe Illustrator(AI),美工基础,美术基础,CorelDRAW
+php,linux操作系统,网络编程,sqlite数据库,Android开发,软件测试
+Photoshop,Microsoft Office Visio,系统分析,office,游戏设计
+数据分析,office,数据挖掘
+Photoshop,Microsoft Office Visio,office
+TCP/IP编程,HTTP传输协议,网络通信,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d
+Redis数据库,redis数据库,C语言,C++语言,Lua
+数据分析
+java,Tomcat,eclipse,多线程,TCP/IP编程,Socket编程,linux操作系统,网络编程,netty框架,mina框架,美术基础,Netty
+美术基础
+数据分析
+数据分析,office
+美术基础
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),XHTML,javaScript,jSon技术
+Photoshop,Adobe Illustrator(AI),美术基础
+面向对象分析,软件工程
+php,C#,javaScript,python编程,ios开发,Android开发,C语言,C++语言,Lua
+软件测试
+SEO(搜索引擎优化),SEO数据挖掘及分析
+mysql数据库,TCP/IP编程,linux操作系统,unix操作系统,软件测试
+软件测试,游戏设计
+Microsoft Office Visio,COM编程,美术基础,office
+COM编程
+COM编程,美工基础
+多线程,Socket编程,Objective-c语言,ios开发,Android开发,美术基础,C语言,C++语言,cocos2d-x,cocos2d
+美术基础
+数据分析
+数据分析
+美工基础,美术基础
+熟悉一种脚本语言,C语言,Lua
+C#,OpenGl图形编程,ios开发,面向对象分析,网络通信,Android开发,数据结构,软件项目管理,C语言,C++语言,Autodesk Maya(三维动画软件),Unity
+系统设计,mysql数据库,linux操作系统,C++语言,Lua
+ios开发,Android开发,熟悉一种脚本语言,美术基础,C++语言,Lua,cocos2d-x,cocos2d
+ios开发,Android开发,熟悉一种脚本语言,美术基础,C++语言,Lua,cocos2d-x,cocos2d
+Socket编程,网络编程,HTTP传输协议,ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+COM编程,美术基础
+COM编程
+office
+GUI编程,Socket编程,HTTP传输协议,svn,Android开发,数据结构,算法设计与技术
+photoshop,COM编程,Flash
+COM编程
+软件测试
+C#,OpenGl图形编程,C语言,Unity
+Unity
+Photoshop,Adobe Illustrator(AI),美术基础
+php,TCP/IP编程,python编程,熟悉一种脚本语言,C语言,C++语言,django框架,Lua
+java,Android开发,数据结构,C语言,C++语言
+美术基础
+ios开发,Android开发,美术基础,游戏设计
+Microsoft Office Visio,C#,熟悉一种脚本语言,美术基础,office,C语言
+Photoshop,Adobe Illustrator(AI)
+COM编程,Android开发,数据分析
+ant(一种基于Java的build工具),ios开发,OOD面向对象设计,软件测试,Quality Center,C语言
+java,C#,系统设计,Socket编程,面向对象分析,美术基础,C语言,Unity
+jQuery框架,css层叠样式表,Html,javaScript,ios开发,Android开发,C语言
+软件测试
+Nginx,Nginx(一个HTTP和反向代理服务器),mysql数据库,Redis数据库,linux操作系统,redis数据库,Shell语言,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua,Linux Virtual Server
+mysql数据库,Socket编程,linux操作系统,STL库,面向对象分析,数据结构,Standard Template Library
+visualStudio,XCode开发工具,C语言,C++语言,cocos2d-x,cocos2d
+photoshop,美术基础,Unity
+计算机网络
+office
+数据分析
+3D Studio Max(三维动画渲染和制作软件),Unity
+C#,javaScript,熟悉一种脚本语言,美术基础,C语言,C++语言,Unity
+java,eclipse,visualStudio,XCode开发工具,ios开发,Android开发,C语言,C++语言
+Photoshop,Dreamweaver,COM编程,Adobe Illustrator(AI),美术基础
+软件测试
+photoshop,office
+Photoshop,Flash,美术基础,Unity
+软件测试
+css层叠样式表,Html,php,javaScript,ios开发,Android开发,DOM
+C语言
+Photoshop,Microsoft Office Visio,office
+photoshop,软件工程,Flash,Adobe Illustrator(AI),美术基础
+Photoshop,Microsoft Office Visio,office
+Photoshop,Microsoft Office Visio,系统设计,美术基础,office
+Photoshop,Flash,美工基础,动画设计
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript,XML技术
+Socket编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,Android开发,C语言,C++语言,Lua,cocos2d-x,cocos2d
+美术基础
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+Photoshop,GUI编程,ios开发,Android开发,软件测试,Adobe Illustrator(AI),美工基础,美术基础
+Photoshop,Microsoft Office Visio,GUI编程,ios开发,Android开发,软件测试,Axure RP(快速原型设计工具),人机交互技术
+java,ios开发,Android开发,C语言,Lua,Unity
+java,ios开发,Android开发,C语言,Lua,Unity
+软件项目管理
+系统设计
+office
+美术基础
+数据分析,美术基础
+Html,photoshop,Flash
+GUI编程,网络编程,Objective-c语言,XCode开发工具,ios开发,XML技术,jSon技术,Interface Builder开发工具,数据结构,C语言,C++语言
+系统设计
+Photoshop,Dreamweaver,Flash,美术基础,3D Studio Max(三维动画渲染和制作软件)
+C#,C语言,Unity
+系统设计,软件项目管理,游戏设计
+系统设计,美术基础,office,C语言,C++语言,Lua
+Android开发,C语言,C++语言,cocos2d-x,cocos2d
+photoshop,COM编程,linux操作系统,python编程,数据结构,C语言,C++语言,Lua
+Photoshop,ios开发,Flash,美术基础
+Socket编程,Objective-c语言,ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d,游戏设计
+Html,Photoshop,CorelDRAW平面设计软件,美术基础,Adobe InDesign,CorelDRAW
+MFC,C语言,C++语言,Microsoft Visual C++ 6.0
+数据分析,office
+Socket编程,Adobe Illustrator(AI),美工基础,Unity
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,SQL Server数据库,linux操作系统,网络安全技术
+Photoshop,Flash,cocos2d-x,cocos2d
+mysql数据库,TCP/IP编程,linux操作系统,unix操作系统,网络编程,软件测试,数据结构,C语言,C++语言
+Tomcat,windows操作系统,mysql数据库,Oracle数据库,linux操作系统,软件测试
+美工基础,美术基础
+软件测试
+数据分析
+3D Studio Max(三维动画渲染和制作软件),动画设计
+美术基础
+数据结构,office
+Socket编程,网络编程,HTTP传输协议,ios开发,Android开发,美术基础,cocos2d,Unity
+C语言
+数据分析,office
+数据分析,office
+软件文档写作,Adobe Illustrator(AI),美术基础,office
+软件文档写作,Adobe Illustrator(AI),美术基础,office
+photoshop,C语言,Autodesk Maya(三维动画软件)
+photoshop,C语言,Autodesk Maya(三维动画软件)
+游戏设计
+软件工程,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d
+面向对象分析,数据结构,Unity
+C#,面向对象分析,C语言,Lua,Unity
+office
+软件测试,office
+java,JavaEE架构,Struts框架,Hibernate框架,Spring框架,javaScript,系统设计,mysql数据库,面向对象分析,软件项目管理
+C#,.net,Socket编程,面向对象分析,C语言
+美工基础,美术基础,C语言
+数据分析
+美术基础,游戏设计
+JavaEE架构,php,photoshop,mysql数据库
+游戏设计
+linux操作系统,软件测试,office,C语言
+软件测试
+游戏设计
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+css层叠样式表,Html,php,javaScript,mysql数据库,Redis数据库,redis数据库
+XCode开发工具,ios开发,Android开发,软件项目管理,C++语言,cocos2d-x,cocos2d
+office
+ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+数据分析
+系统设计,ios开发,Android开发,软件测试,cocos2d-x,cocos2d
+apache,Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,TCP/IP编程,linux操作系统,CentOS操作系统,软件测试,Shell语言,熟悉一种脚本语言,信息安全导论
+java,Hibernate框架,Ibatis框架,Tomcat,多线程,mysql数据库,Socket编程,linux操作系统,Flash
+Html,COM编程,HTTP传输协议
+java,COM编程,HTTP传输协议,Flash,游戏设计
+多线程,mysql数据库,SQL Server数据库,Oracle数据库,TCP/IP编程,Socket编程,linux操作系统,python编程,面向对象分析,UDP协议,网络通信,Perl语言,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua
+mysql数据库,TCP/IP编程,Socket编程,linux操作系统,面向对象分析,C++语言
+ios开发,Android开发
+美术基础
+COM编程,HTTP传输协议,美术基础,office
+java,Hibernate框架,Ibatis框架,Tomcat,多线程,COM编程,mysql数据库,Socket编程,linux操作系统,HTTP传输协议,Flash
+Flash,美术基础,C语言
+GUI编程,美工基础
+java,JavaEE架构,多线程,网络通信,关系型数据库,Java Message Service
+多线程,TCP/IP编程,C语言,C++语言,Lua,cocos2d-x,cocos2d
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+数据分析
+Photoshop,Flash,美工基础,美术基础
+C#,ios开发,Android开发,软件测试,C语言,C++语言,cocos2d-x,cocos2d,Unity
+javaScript,mysql数据库,TCP/IP编程,Socket编程,ios开发,分布式
+Objective-c语言,ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d,Unity
+软件测试
+系统设计,数据分析
+Android开发,数据分析
+Android开发,数据分析
+软件测试
+Html,Photoshop,Dreamweaver,office,Axure RP(快速原型设计工具)
+C#,面向对象分析,C语言,C++语言
+Photoshop,Flash,Adobe Illustrator(AI),美术基础
+系统设计
+Photoshop,美工基础,美术基础
+系统设计,美术基础,office
+美术基础,office
+美工基础,美术基础
+Photoshop,Flash,美术基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Adobe Illustrator(AI),美术基础
+windows操作系统,Android开发,软件测试
+Photoshop,COM编程,Flash,美工基础,Adobe Illustrator(AI),人机交互技术,Unity
+mysql数据库,熟悉一种脚本语言,C语言
+软件测试,数据分析
+数据分析
+ios开发,Android开发,软件测试,软件文档写作
+美术基础,游戏设计
+软件测试,数据分析
+软件测试,软件文档写作
+数据分析,office
+Photoshop,Flash,C语言
+系统设计,软件项目管理,项目实施
+软件测试,C语言
+多线程,网络编程,ios开发,Android开发,C语言,Lua,cocos2d
+Nginx,Nginx(一个HTTP和反向代理服务器),windows操作系统,mysql数据库,Redis数据库,Socket编程,linux操作系统,python编程,HTTP传输协议,git,面向对象分析,redis数据库,数据结构,bash语言,django框架,tornado,VIM,emacs
+美术基础
+java,javaScript,COM编程,美术基础,C语言,C++语言,ActionScript,cocos2d,Unity
+Memcached,C#,COM编程,mysql数据库,Redis数据库,TCP/IP编程,HTTP传输协议,redis数据库,cache技术,美术基础,C语言,C++语言
+软件项目管理
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,project,C语言
+Photoshop,office,C语言
+Photoshop,COM编程,HTTP传输协议,美术基础,Autodesk Maya(三维动画软件)
+Photoshop,COM编程,HTTP传输协议,美术基础,Autodesk Maya(三维动画软件)
+Photoshop,COM编程,HTTP传输协议,美术基础,Autodesk Maya(三维动画软件)
+Photoshop,COM编程,HTTP传输协议,美术基础,Autodesk Maya(三维动画软件)
+photoshop,COM编程,HTTP传输协议,美术基础,Autodesk Maya(三维动画软件)
+OpenGl图形编程,Unity,计算机图形学
+photoshop,Flash,美工基础,美术基础
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,软件测试,C语言
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,OOD面向对象设计,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+ant(一种基于Java的build工具),C#,javaScript,COM编程,HTTP传输协议,OOD面向对象设计,面向对象分析,软件工程,Adobe Illustrator(AI),美术基础,project,C语言,C++语言,Lua,Unity
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,project,C语言
+ant(一种基于Java的build工具),Microsoft Office Visio,COM编程,HTTP传输协议,OOD面向对象设计,office,project,C语言
+ant(一种基于Java的build工具),Microsoft Office Visio,COM编程,HTTP传输协议,OOD面向对象设计,Prototype,美术基础,office,project,C语言
+ant(一种基于Java的build工具),COM编程,HTTP传输协议,OOD面向对象设计,project,C语言,fix协议
+ios开发,Android开发,软件测试,office
+ios开发,Android开发,软件测试,office
+多线程,Socket编程,OpenGl图形编程,C语言,C++语言,cocos2d-x,cocos2d
+Html,javaScript,面向对象分析,数据结构,cocos2d
+Flash,美术基础,3D Studio Max(三维动画渲染和制作软件),Unity
+美术基础
+多线程,Socket编程,网络编程,Objective-c语言,ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+java,Socket编程,网络编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,ios开发,网络通信,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+office
+java,servlet,Tomcat,eclipse,COM编程,mysql数据库,linux操作系统,python编程,HTTP传输协议,XML技术,jSon技术,面向对象分析,数据结构
+java,javaScript,网络编程,python编程,C语言,C++语言,Unity,计算机图形学
+java,javaScript,网络编程,python编程,C语言,C++语言,Unity,计算机图形学
+photoshop,Microsoft Office Visio,COM编程,ios开发,Android开发,美工基础,Adobe Illustrator(AI),office,游戏设计
+ant(一种基于Java的build工具),windows操作系统,linux操作系统,STL库,DirectX图形编程,OpenGl图形编程,面向对象分析,Android开发,bash语言,C语言,C++语言,cocos2d-x,cocos2d,Standard Template Library
+OpenGl图形编程,面向对象分析,C语言,C++语言,计算机图形学
+COM编程,Adobe Illustrator(AI),美术基础
+数据结构,Flash
+Photoshop,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+Photoshop,Flash,美工基础,美术基础
+COM编程,软件测试,熟悉主流测试工具,Adobe Illustrator(AI),office
+多线程,COM编程,mysql数据库,Socket编程,linux操作系统,面向对象分析,Adobe Illustrator(AI),C语言,C++语言
+COM编程,数据分析,Adobe Illustrator(AI),office
+Photoshop,美术基础,Autodesk Maya(三维动画软件)
+Photoshop,Flash,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件)
+TCP/IP编程,Socket编程,HTTP传输协议,ios开发,XML技术,面向对象分析,Android开发,数据结构,美术基础,C++语言,cocos2d-x,cocos2d,算法设计与技术
+美术基础,Autodesk Maya(三维动画软件)
+java,OpenGl图形编程,Android开发,C语言,C++语言,Unity
+系统设计,mysql数据库,TCP/IP编程,linux操作系统,网络编程,UDP协议,TCP/UDP,软件测试,软件工程,数据结构,C语言,C++语言,分布式,Unity,网络安全技术
+美工基础,Unity
+Photoshop,美工基础,美术基础,Autodesk Maya(三维动画软件)
+photoshop,COM编程
+美术基础
+Photoshop,美术基础,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+Photoshop,美术基础,Autodesk Maya(三维动画软件)
+软件测试
+数据分析
+软件测试
+Photoshop,Adobe Illustrator(AI),美工基础,美术基础
+数据分析
+美术基础
+ORM对象关系映射,C#,GUI编程,面向对象分析,C语言,Unity
+java,C#,Objective-c语言,ios开发,Android开发,数据结构,C语言,C++语言,cocos2d-x,cocos2d
+java,Spring框架,Nginx,Nginx(一个HTTP和反向代理服务器),多线程,mysql数据库,TCP/IP编程,linux操作系统,HTTP传输协议,mina框架,数据结构,C语言,C++语言,Java Data Base Connectivity
+软件测试,office
+美术基础,office
+软件项目管理,美术基础
+美术基础,Unity
+软件测试,自动化测试(使用自动化测试软件、框架等),软件工程
+美术基础,office
+eclipse,ios开发,Android开发,Unity
+C#,系统设计,Socket编程,美术基础,C语言,C++语言,Unity
+Photoshop,.net,COM编程,ios开发,Flash,Adobe Illustrator(AI),美工基础,美术基础
+系统设计
+.net,COM编程,ios开发,美术基础
+XCode开发工具,美术基础,C语言,C++语言,cocos2d-x,cocos2d
+Flash,美术基础
+Photoshop,Flash,美术基础
+Flash,美术基础
+软件项目管理,美术基础,游戏设计
+java,eclipse,面向对象分析,Android SDK,Android开发,cocos2d-x,cocos2d
+php,系统分析,mysql数据库,Oracle数据库
+java,ios开发,Android开发,C++语言,cocos2d-x,cocos2d
+美术基础,Unity
+数据分析,软件项目管理
+软件测试
+TCP/IP编程,linux操作系统,网络编程,HTTP传输协议,软件测试,自动化测试(使用自动化测试软件、框架等)
+数据分析
+windows操作系统,TCP/IP编程,linux操作系统,unix操作系统,python编程,Shell语言,Perl语言,熟悉一种脚本语言
+美术基础,C语言,游戏设计
+Photoshop,CorelDRAW平面设计软件,Flash,Adobe Illustrator(AI),美术基础,CorelDRAW
+office
+美术基础,office,Axure RP(快速原型设计工具)
+C#,javaScript,C语言,Unity
+photoshop,CorelDRAW平面设计软件,美工基础,Adobe Illustrator(AI),美术基础,CorelDRAW
+数据分析
+office
+ios开发,office
+java,Android开发,C语言,C++语言
+数据分析,office
+Socket编程,Objective-c语言,ios开发,面向对象分析,数据结构,C语言,C++语言,cocos2d-x,cocos2d
+ios开发,面向对象分析,软件工程,数据结构,C++语言
+美工基础,美术基础
+美术基础
+Photoshop,Dreamweaver,COM编程,Flash,Adobe Illustrator(AI),美工基础,美术基础
+COM编程
+数据分析,office
+数据分析
+COM编程,软件项目管理,电子商务
+COM编程
+java,COM编程,Objective-c语言,ios开发,Android开发,数据结构,C语言,C++语言,Lua,cocos2d-x,cocos2d
+COM编程,Flash
+office
+C#,ios开发,Android开发,美术基础,C语言,C++语言,Unity
+Photoshop,Flash,美术基础,3D Studio Max(三维动画渲染和制作软件),Unity
+软件测试,熟悉一种脚本语言
+Microsoft Office Visio,系统设计,数据结构,office
+Photoshop,美工基础,美术基础
+office,C语言,Matlab
+linux操作系统,unix操作系统,STL库,面向对象分析,数据结构,C语言,C++语言,Standard Template Library
+多线程,TCP/IP编程,网络编程,OpenGl图形编程,HTTP传输协议,Objective-c语言,XCode开发工具,ios开发,UDP协议,TCP/UDP,美术基础,C语言
+软件测试,游戏设计
+photoshop,美工基础,美术基础
+数据分析,数据结构,office
+Photoshop,Adobe Illustrator(AI),美工基础,美术基础
+css层叠样式表,Html,php,XHTML,javaScript,XML技术,数据结构,C语言
+office
+Photoshop,美术基础
+C#,javaScript,系统设计,Android开发,软件项目管理,美术基础,C语言,Autodesk Maya(三维动画软件),Unity
+photoshop,Adobe Illustrator(AI),美术基础
+软件测试,熟悉主流测试工具,office
+美术基础,office
+office
+office
+office
+office
+office
+数据分析
+游戏设计
+Flash
+美术基础
+Photoshop,美术基础,Autodesk Maya(三维动画软件)
+COM编程,ios开发,数据分析,C语言
+photoshop,COM编程,ios开发,面向对象分析,软件测试,数据结构,美工基础,C语言,C++语言,cocos2d-x,cocos2d,Unity
+COM编程,ios开发,Android开发,美术基础,C语言
+美术基础
+数据分析,office
+多线程,Socket编程,HTTP传输协议,XML技术,jSon技术,Android开发,cocos2d,Unity
+java,数据结构
+C#,多线程,软件测试,数据结构,C语言,C++语言
+C#,GUI编程,面向对象分析,Android开发,数据结构,C语言,Unity
+Photoshop,Flash,Adobe Illustrator(AI),人机交互技术,Unity
+Photoshop,Flash,Adobe Illustrator(AI),人机交互技术,Unity
+mysql数据库,网络安全技术
+C#,.net,Socket编程,DirectX图形编程,OpenGl图形编程,面向对象分析,Android开发,美术基础,C语言,关系型数据库,Unity
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础,人机交互技术
+XCode开发工具,ios开发,软件测试
+软件测试
+office,游戏设计
+Photoshop,Flash,美术基础,Autodesk Maya(三维动画软件),cocos2d,Unity
+photoshop,Flash,美工基础,美术基础,人机交互技术
+java,css层叠样式表,Html,javaScript,Objective-c语言,ios开发,Android开发,C语言,Unity
+Microsoft Office Visio,系统设计,美术基础,office,游戏设计
+jQuery框架,css层叠样式表,Nginx,AJAX(异步的JavaScript与XML技术),Nginx(一个HTTP和反向代理服务器),javaScript,mysql数据库,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,分布式,django框架,postgresql
+windows操作系统,SQL Server数据库,TCP/IP编程,软件测试
+MFC,windows操作系统,STL库,C语言,C++语言,Standard Template Library
+mysql数据库,SQL Server数据库,STL库,python编程,熟悉一种脚本语言,C语言,C++语言,ruby,Lua,Standard Template Library
+面向对象分析,软件测试,数据结构,C++语言
+Photoshop,Flash,美工基础,Adobe Illustrator(AI),3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,Adobe Illustrator(AI),3D Studio Max(三维动画渲染和制作软件)
+photoshop
+photoshop
+java,mysql数据库,TCP/IP编程,Socket编程,netty框架,mina框架,Netty
+eclipse,面向对象分析
+软件测试
+photoshop,Flash,美工基础,美术基础,cocos2d
+photoshop,美术基础,cocos2d
+ios开发,面向对象分析,Android开发,熟悉一种脚本语言,Lua,cocos2d-x,cocos2d
+数据分析
+Android开发,数据结构,C语言,C++语言,cocos2d-x,cocos2d
+java,Spring框架,Redis数据库,MongoDB数据库,redis数据库,软件测试,netty框架,Netty
+.net,COM编程,Flash,美工基础,美术基础
+OpenGl图形编程,面向对象分析,C++语言
+数据结构,office
+Photoshop,COM编程,美术基础
+C#,多线程,数据结构,美术基础,C语言,C++语言,游戏设计
+Photoshop,美术基础,Unity
+C#,软件文档写作,美术基础,C语言,C++语言,Unity
+eclipse,linux操作系统,C语言,C++语言
+windows操作系统,mysql数据库,TCP/IP编程,STL库,网络通信,C语言,C++语言,关系型数据库,Standard Template Library
+STL库,DirectX图形编程,OpenGl图形编程,ios开发,面向对象分析,Android开发,数据结构,美术基础,C++语言,cocos2d-x,cocos2d,Standard Template Library
+软件测试
+软件测试
+ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+软件测试
+Photoshop,Dreamweaver,Flash,Adobe Illustrator(AI),美术基础
+数据分析,office,数据挖掘
+photoshop
+数据结构,Adobe Illustrator(AI),office
+数据分析
+css层叠样式表,Html,javaScript,ios开发,Android开发,cocos2d
+Photoshop,美术基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,photoshop,ios开发,Android开发,软件测试,Adobe Illustrator(AI),美术基础
+java,TCP/IP编程,Socket编程,HTTP传输协议,XML技术,Android开发,数据结构
+数据分析
+软件测试
+软件测试
+软件测试
+软件测试
+软件测试
+java,C#,javaScript,系统设计,windows操作系统,ios开发,Android开发,C语言,C++语言,Unity
+windows操作系统,mysql数据库,linux操作系统,软件测试,C语言
+数据分析
+美术基础,office
+游戏设计
+系统设计,软件测试,美术基础
+美术基础
+Android开发,软件项目管理
+Android开发,数据分析
+系统设计,面向对象分析
+MFC,系统设计,windows操作系统,Socket编程,GDI+图形编程,C语言,C++语言,Microsoft Visual C++ 6.0
+COM编程,HTTP传输协议,office
+美术基础,C语言,C++语言
+windows操作系统,TCP/IP编程,linux操作系统,软件测试,Shell语言,故障定位工具,熟悉一种脚本语言,Vmware,信息安全导论
+php,多线程,系统设计,mysql数据库,TCP/IP编程,Socket编程,网络编程,C语言,C++语言,Restful
+Photoshop,photoshop,美工基础,美术基础
+Photoshop,COM编程,美工基础,美术基础,C语言,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,COM编程,美工基础,美术基础,C语言,3D Studio Max(三维动画渲染和制作软件),Unity
+Objective-c语言,ios开发,面向对象分析,Android开发,C语言,cocos2d
+系统设计,游戏设计
+photoshop,office
+软件测试,熟悉主流测试工具,软件工程,软件项目管理,office
+Microsoft Office Visio,美术基础,office
+数据结构,Lua
+COM编程,HTTP传输协议,C语言
+数据分析
+美工基础,3D Studio Max(三维动画渲染和制作软件)
+photoshop,Adobe Illustrator(AI),美术基础
+COM编程,数据分析
+数据分析
+Photoshop,Flash,美工基础,美术基础
+ios开发,C语言,C++语言,Lua,游戏设计
+ios开发,C语言,C++语言,Lua,游戏设计
+Flash
+C语言,C++语言
+Html,多线程,系统分析,TCP/IP编程,linux操作系统,网络编程,美术基础,C++语言,Lua
+Objective-c语言,ios开发,Android开发,熟悉主流测试工具,C语言,C++语言,cocos2d-x,cocos2d,算法设计与技术
+java,HTTP传输协议
+css层叠样式表,Html,AJAX(异步的JavaScript与XML技术),javaScript
+Photoshop,美术基础
+photoshop,COM编程,Adobe Illustrator(AI),美术基础
+美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+java,Android开发
+熟悉一种脚本语言,C语言,C++语言,Lua
+系统设计,美术基础
+美术基础
+美术基础,游戏设计
+SEO(搜索引擎优化),搜索引擎算法,SEO数据挖掘及分析
+Android开发,数据分析
+美工基础,美术基础
+java,C++语言,cocos2d-x,cocos2d
+java,javaScript,COM编程,美术基础,C语言,C++语言,ActionScript,cocos2d,Unity
+美工基础,美术基础,C语言
+photoshop,美术基础,office,游戏设计
+photoshop,系统设计
+软件测试
+软件文档写作,office,游戏设计
+COM编程,数据分析
+java,javaScript,COM编程,美术基础,C语言,C++语言,ActionScript,cocos2d,Unity
+java,多线程,系统设计,mysql数据库,Oracle数据库,Redis数据库,Socket编程,linux操作系统,网络编程,MongoDB数据库,redis数据库,C语言,网络安全技术
+软件测试
+windows操作系统,linux操作系统,python编程,ios开发,软件测试,bash语言
+美术基础
+系统设计,数据分析,美术基础
+COM编程,美术基础
+java,php,mysql数据库,linux操作系统,C语言,C++语言
+数据分析
+java,Hibernate框架,Spring框架,系统设计,TCP/IP编程,Socket编程,网络编程,面向对象分析,mina框架,数据分析,数据结构
+COM编程,XML技术,软件测试,Lua
+Photoshop,美术基础,游戏设计
+Photoshop
+软件测试
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,游戏设计
+photoshop,Microsoft Office Visio,美工基础,office
+Photoshop,photoshop,ios开发,Android开发,Flash,美工基础,美术基础
+Photoshop,美术基础,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+软件测试,游戏设计
+软件测试,软件文档写作,office
+java,memcache,eclipse,mysql数据库,NoSQL数据库,Redis数据库,svn,MongoDB数据库,redis数据库,cache技术,netty框架,mina框架,Maven(一个项目管理工具),关系型数据库,Netty,SSH协议
+美术基础
+软件测试
+数据分析
+系统设计,数据结构,office
+美术基础,office,Axure RP(快速原型设计工具)
+php,mysql数据库,linux操作系统,python编程,C语言,C++语言
+Photoshop,系统设计,office
+ios开发,C语言,C++语言,Lua,cocos2d-x,cocos2d,游戏设计
+美术基础,Unity,计算机图形学
+系统设计,软件文档写作,美工基础
+软件测试,熟悉主流测试工具
+软件测试
+软件测试
+.net,COM编程,office
+java,mysql数据库,linux操作系统,C语言,C++语言,Microsoft Visual C++ 6.0
+美术基础
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+COM编程,3D Studio Max(三维动画渲染和制作软件),Unity
+Photoshop,Flash,Adobe Illustrator(AI),美术基础
+python编程,熟悉一种脚本语言,Adobe Illustrator(AI),Lua
+DirectX图形编程,C语言,C++语言,Lua
+美术基础,游戏设计
+美术基础
+数据分析,office
+多线程,linux操作系统,网络编程,Shell语言,数据结构,C语言,C++语言,算法设计与技术
+Photoshop,Flash
+ios开发
+COM编程,ios开发
+TCP/IP编程,Socket编程,linux操作系统,面向对象分析,软件测试,软件工程,数据结构,C语言,C++语言
+美工基础
+ORM对象关系映射
+美术基础,游戏设计
+美术基础
+Html,COM编程,HTTP传输协议
+Flash,动画设计
+Flash,动画设计
+java,Html,python编程,Objective-c语言,Flash,C语言,C++语言,cocos2d
+java,Html,python编程,Objective-c语言,Flash,C语言,C++语言,cocos2d
+Photoshop,美术基础
+C#,visualStudio,C语言,Unity
+Photoshop,Adobe Illustrator(AI),美工基础,美术基础
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+软件测试,office
+OpenGl图形编程,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d
+OpenGl图形编程,ios开发,C++语言,cocos2d-x,cocos2d
+Photoshop,office,游戏设计
+java,XML技术,Android SDK,Android开发,软件测试,计算机图形学
+Flash
+C#,javaScript,面向对象分析,Android开发,数据结构,C语言,Unity
+COM编程,Android开发,软件项目管理,美术基础
+java,Android开发
+数据分析,Flash
+软件测试,自动化测试(使用自动化测试软件、框架等)
+美术基础
+COM编程,Socket编程,DirectX图形编程,C语言,C++语言,Lua,Microsoft Visual C++ 6.0
+系统设计,office
+NoSQL数据库,TCP/IP编程,网络编程,熟悉一种脚本语言,C++语言,cocos2d-x,cocos2d,Unity
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+美术基础
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+数据分析,office,数据挖掘
+美术基础
+美术基础
+美术基础
+美术基础
+美术基础
+美术基础
+美术基础
+美术基础
+美术基础
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,3D Studio Max(三维动画渲染和制作软件)
+数据分析,office
+美术基础
+java,C#,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua,cocos2d-x,cocos2d,Unity
+java,C#,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua,cocos2d-x,cocos2d,Unity
+photoshop,Microsoft Office Visio,ios开发,Android开发,美工基础,office,游戏设计
+java,C#,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,面向对象分析,Android开发,数据结构,C语言,C++语言,Lua,cocos2d-x,cocos2d,Unity
+java,C#,TCP/IP编程,Socket编程,HTTP传输协议,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,数据结构,C语言,C++语言,Lua,cocos2d-x,cocos2d,Unity
+photoshop,Microsoft Office Visio,ios开发,Android开发,美工基础,office,游戏设计
+office
+Microsoft Office Visio,美术基础,office
+美术基础
+软件测试,office
+软件测试,office
+多线程,TCP/IP编程,Socket编程,DirectX图形编程,网络通信,软件工程,数据结构,Adobe Illustrator(AI),分布式,游戏设计
+COM编程
+软件测试,office,Matlab
+系统设计
+美术基础
+系统设计
+美术基础,游戏设计
+美术基础,office
+多线程,TCP/IP编程,Socket编程,DirectX图形编程,网络通信,软件工程,数据结构,Adobe Illustrator(AI),分布式,游戏设计
+软件测试,熟悉一种脚本语言,C语言,C++语言,Lua
+Photoshop,Flash,Adobe Illustrator(AI),美术基础
+软件测试,office,Matlab
+Photoshop,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,Flash,美工基础,美术基础,游戏设计
+美术基础
+美术基础,游戏设计
+Photoshop,Flash,Adobe Illustrator(AI),美术基础
+Photoshop,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件)
+多线程,TCP/IP编程,Socket编程,DirectX图形编程,网络通信,软件工程,数据结构,Adobe Illustrator(AI),分布式,游戏设计
+Photoshop,Flash,美工基础,美术基础
+美术基础,office
+软件测试,office,Matlab
+系统设计
+C语言
+COM编程
+java,COM编程,ios开发,Android开发,C语言,C++语言,cocos2d-x,cocos2d
+COM编程
+COM编程
+Photoshop,COM编程,Adobe Illustrator(AI),美术基础
+Microsoft Office Visio,COM编程,office
+ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+COM编程,数据分析,office,数据挖掘
+ios开发,Android开发,软件工程,C语言,C++语言,cocos2d
+软件项目管理,电子商务
+C#,OpenGl图形编程,ios开发,面向对象分析,网络通信,Android开发,数据结构,软件项目管理,C语言,C++语言,Autodesk Maya(三维动画软件),Unity
+Photoshop,COM编程,美工基础,美术基础
+系统设计,office
+Microsoft Office Visio,数据分析,美工基础
+php,apache,mysql数据库,Redis数据库,面向对象分析,redis数据库,关系型数据库
+office
+office
+软件测试,office
+Photoshop,Android开发,Adobe Illustrator(AI),美术基础
+Photoshop,美工基础,美术基础
+软件测试
+java,C#,数据结构,C语言,C++语言,Lua
+C#,C语言,Unity
+ios开发,Android开发
+office
+数据分析
+office
+软件测试
+ios开发,Android开发,美术基础
+ORM对象关系映射,photoshop,ios开发,Android开发,C语言,Unity
+photoshop,project,C语言,rest
+软件测试,office
+javaScript,mysql数据库,NoSQL数据库,Redis数据库,TCP/IP编程,linux操作系统,HTTP传输协议,git,redis数据库,UDP协议
+php,apache,Tomcat,mysql数据库,linux操作系统,python编程,Shell语言
+数据分析
+office
+java,C#,面向对象分析,Android开发,C语言,C++语言,cocos2d-x,cocos2d,Unity
+Photoshop,Flash,美工基础,美术基础
+C#,DirectX图形编程,C语言
+C#,DirectX图形编程,C语言
+C#,DirectX图形编程,C语言
+Photoshop,Flash,美工基础,美术基础,C语言,Autodesk Maya(三维动画软件)
+美术基础
+Microsoft Office Visio,Adobe Illustrator(AI),美术基础,office,游戏设计
+linux操作系统,C语言,C++语言,游戏设计
+Flash,美术基础,C语言,Microsoft Visual C++ 6.0
+java,ios开发,Android开发,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d,算法设计与技术
+软件测试,美术基础
+数据分析
+java,Spring框架,Memcached,Redis数据库,TCP/IP编程,linux操作系统,网络编程,redis数据库,mina框架
+美工基础,游戏设计
+软件文档写作
+软件项目管理,C++语言,cocos2d-x,cocos2d
+javaScript,Socket编程,WebSocket协议,HTTP传输协议,ios开发,面向对象分析,Android开发,熟悉一种脚本语言,C语言,C++语言,Lua,cocos2d-x,cocos2d
+数据分析,软件项目管理,数据挖掘
+Microsoft Office Visio,美术基础,office
+office
+Flash
+美术基础,C语言
+office
+Photoshop,美术基础,游戏设计
+COM编程,mysql数据库,TCP/IP编程,linux操作系统,MongoDB数据库,UDP协议,网络通信,熟悉一种脚本语言,C++语言
+jQuery框架,css层叠样式表,Html,php,C#,.net,javaScript,mysql数据库,SQL Server数据库,linux操作系统,C语言,C++语言
+软件测试,自动化测试(使用自动化测试软件、框架等),JMeter(一个测试软件的工具),QTP(一种自动测试工具),熟悉主流测试工具
+数据分析,office
+软件测试,Loadrunner(一个测试软件的工具),熟悉主流测试工具
+photoshop,C语言,C++语言,3D Studio Max(三维动画渲染和制作软件)
+photoshop,Adobe Illustrator(AI),美术基础
+C语言
+COM编程,软件测试,熟悉主流测试工具,C语言,C++语言
+photoshop,Adobe Illustrator(AI),美术基础
+css层叠样式表,Html,web2.0,javaScript,ios开发,XML技术,jSon技术,Android开发,DOM
+软件测试,熟悉主流测试工具
+Photoshop,ios开发,Flash,美术基础,动画设计,游戏设计
+windows操作系统,Socket编程,STL库,C语言,C++语言,Standard Template Library,Microsoft Visual C++ 6.0
+系统设计,软件测试,软件项目管理,美术基础
+美术基础,Unity
+C#,GUI编程,数据结构,C语言,Unity
+MFC,多线程,windows操作系统,SQL Server数据库,TCP/IP编程,Socket编程,linux操作系统,STL库,python编程,面向对象分析,软件测试,熟悉一种脚本语言,C语言,C++语言,Lua,Standard Template Library,Unity,Microsoft Visual C++ 6.0
+Photoshop,COM编程,软件项目管理,Flash,美工基础,美术基础,3D Studio Max(三维动画渲染和制作软件)
+Photoshop,COM编程,Flash,3D Studio Max(三维动画渲染和制作软件),Autodesk Maya(三维动画软件)
+COM编程,Android开发,数据分析
+COM编程,Android开发,数据分析
+COM编程,Android开发
+Android开发,软件项目管理
+数据分析
+美术基础,C语言
+Android开发,美术基础,C语言,C++语言,cocos2d-x,cocos2d
+美术基础,游戏设计
+Photoshop,Flash,美术基础
+美工基础,美术基础
+美术基础,游戏设计
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+Android开发,Lua,cocos2d-x,cocos2d
+Android开发,C++语言,cocos2d-x,cocos2d
+Photoshop,Flash,美术基础,游戏设计
+美术基础,游戏设计
+软件项目管理
+Photoshop,Flash,Adobe Illustrator(AI),美术基础,人机交互技术
+java,jQuery框架,JavaEE架构,Hibernate框架,Spring框架,spring mvc框架,ORM对象关系映射,多线程,系统设计,系统分析,mysql数据库,linux操作系统,MongoDB数据库,hadoop(分布式系统基础架构),C语言,Storm,Microsoft Visual C++
+美术基础
+美术基础
+数据分析
+美术基础
+Socket编程,ios开发,C语言,C++语言,cocos2d-x,cocos2d
+Photoshop,photoshop,Adobe Illustrator(AI),美工基础,美术基础
+美术基础,cocos2d,Unity
+美术基础
+Photoshop,Flash,Adobe Illustrator(AI),美工基础,美术基础
+美术基础,cocos2d
+软件测试,office,C语言
+美术基础

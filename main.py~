@@ -1,0 +1,42 @@
+#from spider import jobSpider
+import spider
+from bloomFilter import bloomfilter
+import random
+import time
+if __name__ == '__main__':
+    bFilter = bloomfilter.BloomFilter()
+    url = 'http://search.51job.com/jobsearch/search_result.php?fromJs=1&funtype=0100%2C2500%2C2811%2C2600%2C2700&industrytype=01%2C40%2C32%2C38&keywordtype=2&lang=c&stype=2&postchannel=0000&fromType=1'
+    url1 = 'http://search.51job.com/list/000000%252C00,000000,0100%252C2500%252C2811%252C2600%252C2700,01%252C40%252C32%252C38,9,99,%2B,2,11.html?lang=c&amp;stype=2&amp;postchannel=0000&amp;workyear=99&amp;cotype=99&amp;degreefrom=99&amp;jobterm=01&amp;companysize=99&amp;lonlat=0%2C0&amp;radius=-1&amp;ord_field=0&amp;list_type=0&amp;confirmdate=9&amp;fromType=14" class="orange1" onclick="zzSearch.jumpPage( this.href );return false;" style="border:0px; width:auto;margin-left:5px;'
+    url2 = 'http://search.51job.com/list/000000%252C00,000000,0100%252C2500%252C2811%252C2600%252C2700,01%252C40%252C32%252C38,9,99,%2B,2,11.html?lang=c&amp;stype=2&amp;postchannel=0000&amp;workyear=99&amp;cotype=99&amp;degreefrom=99&amp;jobterm=01&amp;companysize=99&amp;lonlat=0%2C0&amp;radius=-1&amp;ord_field=0&amp;list_type=0&amp;confirmdate=9&amp;fromType=14" class="orange1" onclick="zzSearch.jumpPage( this.href );return false;" style="border:0px; width:auto;margin-left:5px;'
+    jSpider = spider.jobSpider(url2)
+    jobhref = 0
+       
+    countJob = 1   #count the number of job
+    countPage = 1 #get the page that you want
+    #get the url page until not timeout
+    while jobhref == 0:
+        jobhref = jSpider.get_first_jobhref(countPage)
+    #print jobhref
+    while jobhref is not None:
+        for href in jobhref:
+            print "href =" ,href
+            jSpider.get_jobs(href)
+            #judge whether the job has saved
+            hstr = jSpider.get_jobstr()
+            #print "h =",h
+            if bFilter.exists(hstr) == False:
+                jSpider.save_data()
+                print "countJob = ",countJob
+                print "countPage = ",countPage
+
+                countJob += 1
+                bFilter.mark_value(hstr)
+            else:
+                print "countJob = ",countJob
+                print "countPage = ",countPage
+                print "the job has exists"
+            time.sleep(random.randint(3,10))
+        jobhref = 0
+        while jobhref == 0:
+            countPage += 1
+            jobhref = jSpider.get_next_jobhref(countPage)

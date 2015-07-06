@@ -1,0 +1,178 @@
+数据分析,office
+python编程,数据分析,数据挖掘
+java,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,数据结构,C语言,数据挖掘,Mahout
+Oracle数据库,PL/SQL,数据分析,数据挖掘
+数据分析,数据挖掘,SPSS Clementine,SAS EM
+C语言,数据挖掘
+数据分析,数据挖掘
+数据分析,office,SAS EM
+COM编程,数据分析,office,项目实施,Microsoft SQL Server Integration Services
+数据分析,office
+数据分析,数据挖掘
+java,linux操作系统,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,C语言,C++语言,分布式,数据挖掘
+java,linux操作系统,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,C语言,C++语言,分布式,数据挖掘
+python编程,Shell语言,熟悉一种脚本语言,数据分析,数据挖掘,机器学习,电子商务
+数据分析,office
+数据分析,office,电子商务
+COM编程,数据分析,office,项目实施,Microsoft SQL Server Integration Services
+mysql数据库,数据分析
+数据分析,数据挖掘
+数据分析,数据挖掘,电子商务
+数据分析,数据挖掘,电子商务
+数据分析,office
+ETL(数据仓库技术),软件项目管理,Informatica
+java,jsp(java服务器页面),PL/SQL,unix操作系统,Shell语言
+SEO(搜索引擎优化),搜索引擎算法,SEO数据挖掘及分析
+软件测试,数据分析,office
+数据分析,office
+mysql数据库,Hbase数据库,MongoDB数据库,hadoop(分布式系统基础架构),数据分析,HBase
+mysql数据库,Oracle数据库,hadoop(分布式系统基础架构),数据分析,数据挖掘,Spark
+软件测试,数据分析,office
+Access数据库,数据分析,office,数据挖掘
+mysql数据库,数据分析,软件项目管理,office,数据挖掘,电子商务
+数据分析,数据挖掘
+Oracle数据库,python编程,数据分析,office
+数据分析,office
+java,mysql数据库,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,数据挖掘,Matlab,算法设计与技术
+office,电子商务
+COM编程,数据分析,office,项目实施,Microsoft SQL Server Integration Services
+C语言
+mysql数据库,数据分析,office
+数据分析,office,C语言,数据挖掘
+mysql数据库,linux操作系统,python编程,git,hadoop(分布式系统基础架构),数据分析,Spark
+java,mysql数据库,linux操作系统,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),数据分析,office,分布式
+java,mysql数据库,PL/SQL,python编程,hadoop(分布式系统基础架构),数据分析,分布式,数据挖掘,Matlab,Hive
+数据分析,office,数据挖掘
+数据分析
+数据分析,office,数据挖掘,Matlab
+Oracle数据库,linux操作系统,unix操作系统,Db2数据库,软件测试,Perl语言,数据分析,数据挖掘,Teradata数据仓库
+数据分析,数据挖掘,机器学习
+数据分析,软件项目管理,office,数据挖掘
+人机交互技术
+Access数据库,数据分析,office,电子商务
+数据分析,数据挖掘
+Dreamweaver,mysql数据库,Oracle数据库,软件工程,hadoop(分布式系统基础架构),数据分析,office,Mahout,Hive,电子商务
+COM编程,数据分析,office,项目实施,Microsoft SQL Server Integration Services
+数据分析,数据挖掘
+数据分析,office
+数据分析,office,数据挖掘,Hive
+数据分析
+数据分析
+photoshop,数据分析
+java,ORM对象关系映射,mysql数据库,Oracle数据库,python编程,Shell语言,Perl语言,hadoop(分布式系统基础架构),数据分析,C语言,C++语言,分布式,数据挖掘,Spark,Storm
+SQL Server数据库,数据分析,office
+数据分析,数据挖掘,管理信息系统
+数据分析
+数据分析,office,C语言,Matlab
+Oracle数据库,数据分析,office
+数据分析,数据挖掘
+python编程,熟悉一种脚本语言,数据分析,ruby
+Access数据库,数据分析,office,电子商务
+数据分析,数据挖掘
+java,php,mysql数据库,NoSQL数据库,Hbase数据库,Redis数据库,linux操作系统,unix操作系统,python编程,MongoDB数据库,redis数据库,Shell语言,Perl语言,hadoop(分布式系统基础架构),C语言,C++语言,Online Analytical Processing,
+数据分析,office
+数据分析,数据挖掘
+Oracle数据库,数据分析,C语言,数据挖掘
+数据分析,office,电子商务
+数据分析,office,数据挖掘,电子商务
+java,python编程,Shell语言,熟悉一种脚本语言,hadoop(分布式系统基础架构),数据分析,数据挖掘,机器学习,信息检索
+数据分析,office,C语言
+php,python编程,Shell语言,数据分析,数据挖掘
+java,Oracle数据库,数据分析,数据挖掘
+数据分析,office,Matlab,Hive
+数据分析
+mysql数据库,Oracle数据库,数据分析
+数据分析
+数据分析,office,电子商务
+python编程,Shell语言,熟悉一种脚本语言,数据分析,数据挖掘,机器学习,电子商务
+数据分析
+Oracle数据库,数据分析
+数据分析,office,电子商务
+数据分析,数据挖掘
+数据分析,Online Analytical Processing,数据挖掘
+数据分析,数据挖掘
+HTTP传输协议,数据分析,Adobe Illustrator(AI)
+嵌入式操作系统
+数据分析,office,数据挖掘
+数据分析
+数据分析,数据挖掘
+.net,SQL Server数据库,数据分析,电子商务
+数据分析,office
+数据分析,ETL(数据仓库技术),数据挖掘,电子商务
+数据分析,ETL(数据仓库技术),数据挖掘,电子商务
+数据分析,ETL(数据仓库技术),数据挖掘,电子商务
+数据分析,office
+数据分析,office
+数据分析,office
+php,Redis数据库,linux操作系统,python编程,MongoDB数据库,redis数据库,熟悉一种脚本语言,hadoop(分布式系统基础架构),mapreduce(一种编程模型),数据分析,数据结构,bash语言,分布式,数据挖掘,机器学习
+数据分析,C语言,C++语言,数据挖掘,机器学习
+数据分析
+数据分析,office,数据挖掘
+数据分析,office
+数据分析,office,Axure RP(快速原型设计工具)
+python编程,MongoDB数据库,数据分析,数据挖掘,机器学习
+数据分析,数据挖掘
+数据分析,软件项目管理
+数据分析,office
+office,数据挖掘
+office,电子商务
+boost库,数据分析,数据挖掘
+java,ORM对象关系映射,NoSQL数据库,hadoop(分布式系统基础架构),数据分析,项目实施,Spark,Storm
+数据分析,office
+python编程,数据分析
+数据分析,office
+COM编程,数据分析,office,项目实施,Microsoft SQL Server Integration Services
+java,Spring框架,myBatis框架,MyBatis框架,mysql数据库,NoSQL数据库,数据分析,Spark,SOA
+COM编程,数据分析,office,项目实施,Microsoft SQL Server Integration Services
+SQL Server数据库,office
+java,JavaEE架构,Hbase数据库,python编程,hadoop(分布式系统基础架构),HBase,Hive,SSH协议
+数据分析
+数据分析,office,数据挖掘
+人机交互技术
+java,linux操作系统,数据分析,数据结构,Adobe Illustrator(AI),搜索引擎算法,数据挖掘,机器学习
+java,hadoop(分布式系统基础架构),office,数据挖掘,Hive
+java,ORM对象关系映射,C#,NoSQL数据库,hadoop(分布式系统基础架构),数据分析,C语言,C++语言,分布式,数据挖掘,机器学习,Spark,Storm
+mysql数据库,SQL Server数据库,数据分析,office,项目实施,数据挖掘
+Oracle数据库,Db2数据库,ETL(数据仓库技术),Cognos,Datastage
+数据分析,office
+数据分析,数据挖掘,Matlab
+java,ORM对象关系映射,C#,NoSQL数据库,hadoop(分布式系统基础架构),数据分析,C语言,C++语言,分布式,数据挖掘,机器学习,Spark,Storm
+数据分析,office
+数据分析
+数据分析,office,数据挖掘
+数据分析,office,数据挖掘
+hadoop(分布式系统基础架构),数据分析,数据挖掘,Hive
+数据分析
+hadoop(分布式系统基础架构),数据分析,数据挖掘,机器学习
+数据分析,office,分布式,数据挖掘,Matlab
+SQL Server数据库,数据库系统原理,数据分析,数据挖掘
+Microsoft Office Visio,Oracle数据库,Db2数据库,office,项目实施,数据挖掘
+office,project
+mysql数据库,SQL Server数据库,Oracle数据库,数据分析,ETL(数据仓库技术),Online Analytical Processing,Cognos
+数据分析,office,数据挖掘
+office
+数据分析,office,数据挖掘
+数据分析,office
+java,python编程,hadoop(分布式系统基础架构),C++语言,机器学习,Matlab,Hive,Spark,算法设计与技术
+java,python编程,hadoop(分布式系统基础架构),数据分析,C++语言,数据挖掘,机器学习,Matlab,Hive,Spark,算法设计与技术
+Microsoft Office Visio,数据分析,软件项目管理,office,Axure RP(快速原型设计工具)
+数据分析,office
+数据分析,office,C语言,数据挖掘
+java,C#,数据结构,C语言,C++语言,数据挖掘,机器学习,关系型数据库
+python编程,数据分析,office
+数据分析
+软件项目管理,项目实施,mindmanager
+数据分析
+数据分析,软件项目管理,数据挖掘
+数据分析
+数据分析,Arcgis,ArcGIS
+系统设计,数据分析,项目实施
+SQL Server数据库,OOD面向对象设计,Access数据库,office,project,C语言
+数据分析,office
+mysql数据库,SQL Server数据库,数据分析,office,postgresql
+数据挖掘,算法设计与技术
+数据分析,office
+数据分析,office
+数据分析,office,数据挖掘
+css层叠样式表,Html,javaScript,SQL Server数据库,HTTP传输协议,数据结构,C语言,算法设计与技术
+数据挖掘,Mahout
