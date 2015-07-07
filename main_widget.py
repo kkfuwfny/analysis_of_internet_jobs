@@ -242,6 +242,11 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         self.popWorkplace = [] #保存岗位地点的热度列表
         self.analysis_type = '' #分析数据的类别 
         self.job_type = ''#要分析的工作类别 
+        
+        ### 
+        self.associate_analysis_support = 0.05  #关联分析的支持度
+        self.associate_analysis_confidence = 0.005  #关联分析的置信度
+
         #self.admin_login
 	self.model = QtGui.QStandardItemModel()	
         QtGui.QMainWindow.__init__(self, parent)
@@ -258,6 +263,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 	self.mouse_press = False
 	self.setWindowFlags(Qt.FramelessWindowHint | Qt.Widget) #设置窗口类型  无边框
         self.isFirstStartThread = True 
+        #self.btn_modify_support_and_confidence.setEnabled(False)
 
 	#这个部分是线程池
 	self.processorThread=ProcessorThread(200,3)  #可以同时200个任务。有3个线程组成的线程池
@@ -382,12 +388,12 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 
         # 5
         # 这个部分是初始化下拉框cmbx_support 和 cmbx_confidence 的选项 
-        supp_and_conf_list = [u'0.',u'1']
+        supp_and_conf_list = [u'0.']
         
         for sc in supp_and_conf_list:
             self.cmbx_support.addItem(sc)
             self.cmbx_confidence.addItem(sc)
-
+        
 ################################stackedWidgetPage1 函数区域  111111111111111111111111111111111111111111111111111111111111
     #def comboBoxValueChanged(self):
     def comboBoxValueChanged_job_details(self):
@@ -517,6 +523,9 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 
     #这个函数包含你太多的分析，可能会有点混乱
     def comboBoxValueChanged_job_type(self):
+        #不可点击修改支持度和置信度的按钮
+
+        #self.btn_modify_support_and_confidence.setEnabled(False)
         analysisType = self.cmbx_analysis_type.currentIndex()
         jobType = self.cmbx_job_type_in_analysis.currentIndex()
         comText_analysisType = self.cmbx_analysis_type.itemText(analysisType)
@@ -557,6 +566,9 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
                     self.pop_workplace(fileName)            
 
             if cmp(comText_analysisType,'课程关联分析') == 0:
+
+                #让修改支持度和置信度的确定按钮可以使用
+                #self.btn_modify_support_and_confidence.setEnabled(True)
                 if cmp(comText_jobType,'.Net') != 0 and cmp(comText_jobType,'Node.js') != 0:
                     fileName = "./save_analysis_result/apriori_course_result/" + comText_jobType + ".txt"
                     self.apriori_course(fileName)            
@@ -574,6 +586,8 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 
     ######        
     def comboBoxValueChanged_analysis_type(self):
+        #不可点击修改支持度和置信度的按钮
+        #self.btn_modify_support_and_confidence.setEnabled(False)
         #if self.cmbx_analysis_type.currentIndex() != 0 and self.cmbx_job_type_in_analysis.currentIndex() != 0: #如果没有岗位选择类别或者没有变化时
         analysisType = self.cmbx_analysis_type.currentIndex()
         jobType = self.cmbx_job_type_in_analysis.currentIndex()
@@ -610,6 +624,9 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
                     self.pop_workplace(fileName)            
 
             if cmp(comText_analysisType,'课程关联分析') == 0:
+                #让修改支持度和置信度的确定按钮可以使用
+                #self.btn_modify_support_and_confidence.setEnabled(True)
+
                 if cmp(comText_jobType,'.Net') != 0 and cmp(comText_jobType,'Node.js') != 0:
                     fileName = "./save_analysis_result/apriori_course_result/" + comText_jobType + ".txt"
                     self.apriori_course(fileName)            
@@ -712,7 +729,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         self.model.clear()
         self.tbl_anaysis_result.clearSpans()
         self.apriori_result = ''
-        self.apriori_result , position_count = apr.apriori_course(filename)
+        self.apriori_result , position_count = apr.apriori_course(filename ,self.associate_analysis_support ,self.associate_analysis_confidence)
         #for ar in self.apriori_result:
         #    for a in ar:
         #        print 'a =',a,
@@ -1103,6 +1120,32 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
             else:
                 pass
                 #event.ignore()
+                
+
+    #修改关联分析的支持度和置信度
+    @QtCore.pyqtSignature("")
+    def on_btn_modify_support_and_confidence_clicked(self):
+        supp = self.ledit_support.text()
+        conf = self.ledit_confidence.text()
+        supp = unicode(supp)
+        conf = unicode(conf)
+        supp = u'0.' + supp
+        conf = u'0.' + conf
+        try:
+            supp = float(supp)
+            conf = float(conf)
+            print type(conf)
+            print 'supp =',supp
+            print 'conf =',conf
+            self.associate_analysis_support = supp
+            self.associate_analysis_confidence = conf
+            reply = QtGui.QMessageBox.question(self, 'Message',
+                u"修改成功", QtGui.QMessageBox.Yes)
+        except ValueError:
+            print 'error '
+            reply = QtGui.QMessageBox.question(self, 'Message',
+                u"请检查你的输入,有非数字字符", QtGui.QMessageBox.Yes)
+
     #开始爬取数据按钮事件 start_crawler_job_button 
     @QtCore.pyqtSignature("")
     def on_start_crawler_job_button_clicked(self):
