@@ -19,17 +19,17 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>-20</x>
-     <y>10</y>
+     <x>0</x>
+     <y>30</y>
      <width>911</width>
-     <height>601</height>
+     <height>571</height>
     </rect>
    </property>
    <property name="autoFillBackground">
     <bool>false</bool>
    </property>
    <property name="currentIndex">
-    <number>1</number>
+    <number>2</number>
    </property>
    <widget class="QWidget" name="stackedWidgetPage1">
     <widget class="QComboBox" name="cmbx_job_type">
@@ -91,9 +91,9 @@
      </property>
      <property name="geometry">
       <rect>
-       <x>10</x>
+       <x>0</x>
        <y>50</y>
-       <width>871</width>
+       <width>881</width>
        <height>521</height>
       </rect>
      </property>
@@ -117,6 +117,14 @@
       <enum>Qt::ToolButtonIconOnly</enum>
      </property>
     </widget>
+    <zorder>cmbx_job_type</zorder>
+    <zorder>ledit_search</zorder>
+    <zorder>cmbx_search_item_widget1</zorder>
+    <zorder>label_job_type_num</zorder>
+    <zorder>ledit_position_count_widget1</zorder>
+    <zorder>tbl_job_details</zorder>
+    <zorder>tool_btn_search</zorder>
+    <zorder>label_connect_network</zorder>
    </widget>
    <widget class="QWidget" name="stackedWidgetPage2">
     <widget class="QComboBox" name="cmbx_analysis_type">
@@ -132,9 +140,9 @@
     <widget class="QTableView" name="tbl_anaysis_result">
      <property name="geometry">
       <rect>
-       <x>10</x>
+       <x>0</x>
        <y>50</y>
-       <width>621</width>
+       <width>631</width>
        <height>521</height>
       </rect>
      </property>
@@ -407,9 +415,9 @@
      <property name="geometry">
       <rect>
        <x>10</x>
-       <y>70</y>
+       <y>60</y>
        <width>761</width>
-       <height>481</height>
+       <height>491</height>
       </rect>
      </property>
     </widget>

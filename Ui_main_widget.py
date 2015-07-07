@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file '/home/lvchuan/python/main_widget.ui'
 #
-# Created: Tue Jul  7 09:56:10 2015
+# Created: Tue Jul  7 10:12:13 2015
 #      by: PyQt4 UI code generator 4.11.2
 #
 # WARNING! All changes made in this file will be lost!
@@ -29,7 +29,7 @@ class Ui_Form(object):
         Form.resize(1019, 600)
         self.stackedWidget = QtGui.QStackedWidget(Form)
         self.stackedWidget.setEnabled(True)
-        self.stackedWidget.setGeometry(QtCore.QRect(-20, 10, 911, 601))
+        self.stackedWidget.setGeometry(QtCore.QRect(0, 30, 911, 571))
         self.stackedWidget.setAutoFillBackground(False)
         self.stackedWidget.setObjectName(_fromUtf8("stackedWidget"))
         self.stackedWidgetPage1 = QtGui.QWidget()
@@ -51,7 +51,7 @@ class Ui_Form(object):
         self.ledit_position_count_widget1.setObjectName(_fromUtf8("ledit_position_count_widget1"))
         self.tbl_job_details = QtGui.QTableView(self.stackedWidgetPage1)
         self.tbl_job_details.setEnabled(True)
-        self.tbl_job_details.setGeometry(QtCore.QRect(10, 50, 871, 521))
+        self.tbl_job_details.setGeometry(QtCore.QRect(0, 50, 881, 521))
         self.tbl_job_details.setEditTriggers(QtGui.QAbstractItemView.DoubleClicked)
         self.tbl_job_details.setObjectName(_fromUtf8("tbl_job_details"))
         self.tool_btn_search = QtGui.QToolButton(self.stackedWidgetPage1)
@@ -66,7 +66,7 @@ class Ui_Form(object):
         self.cmbx_analysis_type.setGeometry(QtCore.QRect(640, 10, 131, 27))
         self.cmbx_analysis_type.setObjectName(_fromUtf8("cmbx_analysis_type"))
         self.tbl_anaysis_result = QtGui.QTableView(self.stackedWidgetPage2)
-        self.tbl_anaysis_result.setGeometry(QtCore.QRect(10, 50, 621, 521))
+        self.tbl_anaysis_result.setGeometry(QtCore.QRect(0, 50, 631, 521))
         self.tbl_anaysis_result.setObjectName(_fromUtf8("tbl_anaysis_result"))
         self.ledit_the_former = QtGui.QLineEdit(self.stackedWidgetPage2)
         self.ledit_the_former.setGeometry(QtCore.QRect(730, 100, 161, 27))
@@ -140,7 +140,7 @@ class Ui_Form(object):
         self.start_crawler_job_button.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
         self.start_crawler_job_button.setObjectName(_fromUtf8("start_crawler_job_button"))
         self.listWidget = QtGui.QListWidget(self.stackedWidgetPage3)
-        self.listWidget.setGeometry(QtCore.QRect(10, 70, 761, 481))
+        self.listWidget.setGeometry(QtCore.QRect(10, 60, 761, 491))
         self.listWidget.setObjectName(_fromUtf8("listWidget"))
         self.stackedWidget.addWidget(self.stackedWidgetPage3)
         self.stackedWidgetPage4 = QtGui.QWidget()
@@ -189,7 +189,7 @@ class Ui_Form(object):
         self.label_connect_network.setObjectName(_fromUtf8("label_connect_network"))
 
         self.retranslateUi(Form)
-        self.stackedWidget.setCurrentIndex(1)
+        self.stackedWidget.setCurrentIndex(2)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
     def retranslateUi(self, Form):
