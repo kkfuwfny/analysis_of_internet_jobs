@@ -379,6 +379,15 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 	
 	self.connect(self.cmbx_job_type_in_analysis, QtCore.SIGNAL('currentIndexChanged(int)'), self.comboBoxValueChanged_job_type)
 
+
+        # 5
+        # 这个部分是初始化下拉框cmbx_support 和 cmbx_confidence 的选项 
+        supp_and_conf_list = [u'0.',u'1']
+        
+        for sc in supp_and_conf_list:
+            self.cmbx_support.addItem(sc)
+            self.cmbx_confidence.addItem(sc)
+
 ################################stackedWidgetPage1 函数区域  111111111111111111111111111111111111111111111111111111111111
     #def comboBoxValueChanged(self):
     def comboBoxValueChanged_job_details(self):
