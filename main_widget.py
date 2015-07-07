@@ -5,6 +5,7 @@ Module implementing main_widget.
 """
 #修改系统的默认编码,不然那个listWidget显示中文有问题
 import sys
+import xlwt  #写入excel表的模块包
 reload(sys)
 sys.setdefaultencoding('utf8')
 
@@ -593,11 +594,11 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         jobType = self.cmbx_job_type_in_analysis.currentIndex()
         comText_analysisType = self.cmbx_analysis_type.itemText(analysisType)
         comText_analysisType = unicode(comText_analysisType)
-        comText_analysisType = comText_analysisType.encode('utf-8')
+        #comText_analysisType = comText_analysisType.encode('utf-8')
 
         comText_jobType = self.cmbx_job_type_in_analysis.itemText(jobType)
         comText_jobType = unicode(comText_jobType)
-        comText_jobType = comText_jobType.encode('utf-8')
+        #comText_jobType = comText_jobType.encode('utf-8')
 
         if analysisType != 0 and jobType != 0:
             print comText_jobType
@@ -652,7 +653,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 	
         self.model.setHorizontalHeaderLabels([ u'地点',u'频率'])
         self.popWorkplace , position_count = apr.analysis_popular_workplace(filename)
-        print 'self.popWorkplace',self.popWorkplace
+        #print 'self.popWorkplace',self.popWorkplace
         count_analysis_count = 0
         for details in self.popWorkplace: 
             #if count_job_num == 1:
@@ -739,7 +740,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         count_analysis_count = 1  #不能删除，很关键，是插入第几行的
         self.model.setItem(0,0,QtGui.QStandardItem(unicode(self.associate_analysis_support)))
         self.model.setItem(0,1,QtGui.QStandardItem(unicode(self.associate_analysis_confidence)))
-        self.model.setItem(0,2,QtGui.QStandardItem(u'此次课程关联分析的置信度和支持度'))
+        self.model.setItem(0,2,QtGui.QStandardItem(u'此次课程关联分析的置信度和支持度的阈值'))
         for details in self.apriori_result: 
             #print 'countjN',count_analysis_count ,'details=',details
             #if count_job_num == 1:
@@ -863,8 +864,85 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 	self.stop_crawler_job_button.setStyleSheet("QToolButton{background:transparent}"
 		"QToolButton:hover{border-radius:5px;border:1px solid rgb(210, 225, 230)}")
 	
-
     
+    #导出热门课程到execl表中
+    def export_execl_pop_courese(self,fileName = ''): 
+        file_execl = xlwt.Workbook()
+        table = file_execl.add_sheet('sheet1',cell_overwrite_ok = True)
+        table.write(0,0,u'课程')
+        table.write(0,1,u'频率')
+        count_analysis_count = 1
+        for details in self.popCourse: 
+            column = 0
+            for det in details:
+                if column <= 0:
+                    det = unicode(det,'utf-8')
+                    table.write(count_analysis_count,column,det)
+                    column = column + 1
+                else:
+                    det = "%.4f" % det
+                    det = unicode(det)
+                    table.write(count_analysis_count,column,det)
+            count_analysis_count = count_analysis_count + 1
+        #保存文件
+        file_execl.save(fileName)
+        #file_execl.save('/home/lvchuan/python/IOS.xls')
+
+    #导出热门岗位地点到execl表中
+    def export_execl_pop_workplace(self,fileName = ''): 
+        file_execl = xlwt.Workbook()
+        table = file_execl.add_sheet('sheet1',cell_overwrite_ok = True)
+        table.write(0,0,u'岗位工作地点')
+        table.write(0,1,u'频率')
+        count_analysis_count = 1
+        for details in self.popWorkplace: 
+            column = 0
+            for det in details:
+                if column <= 0:
+                    #det = "%.4f" % det
+                    det = unicode(det,'utf-8')
+                    table.write(count_analysis_count,column,det)
+                    column = column + 1
+                else:
+                    det = "%.4f" % det
+                    det = unicode(det)
+                    table.write(count_analysis_count,column,det)
+            count_analysis_count = count_analysis_count + 1
+
+        #保存文件
+        file_execl.save(fileName)
+
+    #导入课程关联分析结果到execl中
+    def export_execl_apriori_course(self,fileName = ''):
+        file_execl = xlwt.Workbook()
+        table = file_execl.add_sheet('sheet1',cell_overwrite_ok = True)
+        table.write(0,0,u'支持度')
+        table.write(0,1,u'置信度')
+        table.write(0,2,u'具体内容 X-->Y ')
+        table.write(1,0,unicode(self.associate_analysis_support))
+        table.write(1,1,unicode(self.associate_analysis_confidence))
+        table.write(1,2,u'此次课程关联分析的置信度和支持度的阈值')
+        count_analysis_count = 2  #不能删除，很关键，是插入第几行的
+        for details in self.apriori_result: 
+            merge_x_y = ''
+            column = 0
+            for det in details:
+                if column <= 1:
+                    det = unicode(det)
+                    table.write(count_analysis_count,column,det)
+                    column = column + 1
+                elif column == 2:
+                    det = unicode(det,'utf-8')
+                    merge_x_y = merge_x_y + det + '-->'
+                    column = column + 1
+                else:
+                    det = unicode(det,'utf-8')
+                    det = merge_x_y + det 
+                    table.write(count_analysis_count,column-1,det)
+            count_analysis_count = count_analysis_count + 1
+
+        #保存文件
+        file_execl.save(fileName)
 
 
     #第一个页面搜索按钮的函数 btn_search 
@@ -873,7 +951,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         search_item_num = self.cmbx_search_item_widget1.currentIndex()
         search_item_contend = self.cmbx_search_item_widget1.itemText(search_item_num)
         search_item_contend = unicode(search_item_contend)
-        search_item_contend = search_item_contend.encode('utf-8')
+        #search_item_contend = search_item_contend.encode('utf-8')
         if search_item_num == 0:
             reply = QtGui.QMessageBox.question(self, 'Message',
                u"请选择搜索项", QtGui.QMessageBox.Yes,QtGui.QMessageBox.No)
@@ -926,7 +1004,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         jobType = self.cmbx_job_type_in_analysis.currentIndex()
         comText_analysisType = self.cmbx_analysis_type.itemText(analysisType)
         comText_analysisType = unicode(comText_analysisType)
-        comText_analysisType = comText_analysisType.encode('utf-8')
+        #comText_analysisType = comText_analysisType.encode('utf-8')
 
 
 	if cmp(comText_analysisType,'课程关联分析') != 0:
@@ -1148,6 +1226,59 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
             print 'error '
             reply = QtGui.QMessageBox.question(self, 'Message',
                 u"请检查你的输入,有非数字字符", QtGui.QMessageBox.Yes)
+
+    #导出数据到excel表中的按钮
+    @QtCore.pyqtSignature("")
+    def on_btn_export_excel_clicked(self):
+        analysisType = self.cmbx_analysis_type.currentIndex()
+        jobType = self.cmbx_job_type_in_analysis.currentIndex()
+        comText_analysisType = self.cmbx_analysis_type.itemText(analysisType)
+        comText_analysisType = unicode(comText_analysisType)
+        
+        comText_jobType = self.cmbx_job_type_in_analysis.itemText(jobType)
+        comText_jobType = unicode(comText_jobType)
+        comText_jobType = comText_jobType.encode('utf-8')
+
+        if analysisType != 0 and jobType != 0:
+            print comText_jobType
+            if cmp(comText_analysisType,'单门课程热度') == 0:
+                if cmp(comText_jobType,'.Net') != 0 and cmp(comText_jobType,'Node.js') != 0:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_' + comText_jobType + '.xls' ,'excel(.xls)')
+                    fileName = unicode(fileName)
+                    self.export_execl_pop_courese(fileName)
+                elif cmp(comText_jobType,'.Net') == 0:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_Net.xls','excel(.xls)')
+                    self.export_execl_pop_courese(fileName)
+                else:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_NodeJs.xls','excel(.xls)')
+                    self.export_execl_pop_courese(fileName)
+                
+            if cmp(comText_analysisType,'岗位地点热度') == 0:
+                if cmp(comText_jobType,'.Net') != 0 and cmp(comText_jobType,'Node.js') != 0:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_' + comText_jobType + '.xls' ,'excel(.xls)')
+                    self.export_execl_pop_workplace(fileName)
+                elif cmp(comText_jobType,'.Net') == 0:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_Net.xls','excel(.xls)')
+                    self.export_execl_pop_workplace(fileName)
+                else:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_NodeJs.xls','excel(.xls)')
+                    self.export_execl_pop_workplace(fileName)
+
+            if cmp(comText_analysisType,'课程关联分析') == 0:
+                if cmp(comText_jobType,'.Net') != 0 and cmp(comText_jobType,'Node.js') != 0:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_' + comText_jobType + '.xls' ,'excel(.xls)')
+                    self.export_execl_apriori_course(fileName)
+                elif cmp(comText_jobType,'.Net') == 0:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_Net.xls','excel(.xls)')
+                    self.export_execl_apriori_course(fileName)
+                else:
+                    fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel',comText_analysisType + '_NodeJs.xls','excel(.xls)')
+                    self.export_execl_apriori_course(fileName)
+
+        else:
+            reply = QtGui.QMessageBox.question(self, 'Message',
+                u"还没有分析结果,请先分析", QtGui.QMessageBox.Yes)
+            
 
     #开始爬取数据按钮事件 start_crawler_job_button 
     @QtCore.pyqtSignature("")
