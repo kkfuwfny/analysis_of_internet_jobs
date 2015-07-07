@@ -736,7 +736,10 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         #    print '' 
         #print 'print Done.'
         self.model.setHorizontalHeaderLabels([u'支持度', u'置信度',u'具体内容 X-->Y '])
-        count_analysis_count = 0  #不能删除，很关键，是插入第几列的
+        count_analysis_count = 1  #不能删除，很关键，是插入第几行的
+        self.model.setItem(0,0,QtGui.QStandardItem(unicode(self.associate_analysis_support)))
+        self.model.setItem(0,1,QtGui.QStandardItem(unicode(self.associate_analysis_confidence)))
+        self.model.setItem(0,2,QtGui.QStandardItem(u'此次课程关联分析的置信度和支持度'))
         for details in self.apriori_result: 
             #print 'countjN',count_analysis_count ,'details=',details
             #if count_job_num == 1:
@@ -1140,7 +1143,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
             self.associate_analysis_support = supp
             self.associate_analysis_confidence = conf
             reply = QtGui.QMessageBox.question(self, 'Message',
-                u"修改成功", QtGui.QMessageBox.Yes)
+                u"修改成功，请重新查询", QtGui.QMessageBox.Yes)
         except ValueError:
             print 'error '
             reply = QtGui.QMessageBox.question(self, 'Message',
