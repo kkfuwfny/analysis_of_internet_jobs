@@ -19,8 +19,8 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>-10</x>
-     <y>30</y>
+     <x>-20</x>
+     <y>10</y>
      <width>911</width>
      <height>601</height>
     </rect>
@@ -29,7 +29,7 @@
     <bool>false</bool>
    </property>
    <property name="currentIndex">
-    <number>0</number>
+    <number>1</number>
    </property>
    <widget class="QWidget" name="stackedWidgetPage1">
     <widget class="QComboBox" name="cmbx_job_type">
@@ -153,7 +153,7 @@
      <property name="geometry">
       <rect>
        <x>750</x>
-       <y>390</y>
+       <y>310</y>
        <width>111</width>
        <height>27</height>
       </rect>
@@ -166,7 +166,7 @@
      <property name="geometry">
       <rect>
        <x>730</x>
-       <y>180</y>
+       <y>150</y>
        <width>161</width>
        <height>27</height>
       </rect>
@@ -189,7 +189,7 @@
      <property name="geometry">
       <rect>
        <x>650</x>
-       <y>180</y>
+       <y>150</y>
        <width>71</width>
        <height>31</height>
       </rect>
@@ -258,7 +258,7 @@
      <property name="geometry">
       <rect>
        <x>650</x>
-       <y>340</y>
+       <y>260</y>
        <width>71</width>
        <height>31</height>
       </rect>
@@ -271,7 +271,7 @@
      <property name="geometry">
       <rect>
        <x>730</x>
-       <y>340</y>
+       <y>260</y>
        <width>161</width>
        <height>27</height>
       </rect>
@@ -281,13 +281,92 @@
      <property name="geometry">
       <rect>
        <x>750</x>
-       <y>250</y>
+       <y>200</y>
        <width>111</width>
        <height>27</height>
       </rect>
      </property>
      <property name="text">
       <string>搜    索</string>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="cmbx_support">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>380</y>
+       <width>81</width>
+       <height>27</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_support">
+     <property name="geometry">
+      <rect>
+       <x>650</x>
+       <y>380</y>
+       <width>66</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>支持度</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_confidence">
+     <property name="geometry">
+      <rect>
+       <x>650</x>
+       <y>430</y>
+       <width>66</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>置信度</string>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="cmbx_confidence">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>430</y>
+       <width>81</width>
+       <height>27</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="ledit_support">
+     <property name="geometry">
+      <rect>
+       <x>790</x>
+       <y>380</y>
+       <width>111</width>
+       <height>27</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="ledit_confidence">
+     <property name="geometry">
+      <rect>
+       <x>790</x>
+       <y>430</y>
+       <width>111</width>
+       <height>27</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_modify_support_and_confidence">
+     <property name="geometry">
+      <rect>
+       <x>750</x>
+       <y>480</y>
+       <width>111</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>搜索课程/地点</string>
      </property>
     </widget>
    </widget>
