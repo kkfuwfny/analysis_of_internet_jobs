@@ -243,7 +243,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         self.popWorkplace = [] #保存岗位地点的热度列表
         self.analysis_type = '' #分析数据的类别 
         self.job_type = ''#要分析的工作类别 
-        
+        self.job_details = []  #保存岗位详细的列表
         ### 
         self.associate_analysis_support = 0.05  #关联分析的支持度
         self.associate_analysis_confidence = 0.005  #关联分析的置信度
@@ -430,7 +430,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         self.model.clear()
         self.tbl_job_details.clearSpans()
 
-	job_details = db.query_job_details()
+	self.job_details = db.query_job_details()
 	#self.model.setHorizontalHeaderLabels(['company', 'position','release_date', 'education', 'workplace','salary', 'years_of_work', 'the_num_of_recuritment', 'description','url'])
 	self.model.setHorizontalHeaderLabels([u'公司', u'岗位',u'发布日期', u'教育背景', u'工作地点',u'薪水', u'工作年限要求', u'需签约年限', u'岗位需求和要求',u'岗位URL'])
 	#for i in range(20):
@@ -438,7 +438,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 	#    self.model.setItem(i,0,testData)
 	#self.tbl_job_details.setModel(self.model)
         count_job_num = 0
-	for details in job_details:
+	for details in self.job_details:
             #if count_job_num == 10:
             #    break
             column = 0
@@ -464,11 +464,11 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         self.model.clear()
 	self.tbl_job_details.clearSpans()
 
-        job_details = db.query_job_details_by_position(query_job_type)
+        self.job_details = db.query_job_details_by_position(query_job_type)
 	#self.model = QtGui.QStandardItemModel()	
 	self.model.setHorizontalHeaderLabels([u'公司', u'岗位',u'发布日期', u'教育背景', u'工作地点',u'薪水', u'工作年限要求', u'需签约年限', u'岗位需求和要求',u'岗位URL'])
         count_job_num = 0
-	for details in job_details:
+	for details in self.job_details:
             #if count_job_num == 10:
             #    break
             column = 0
@@ -490,11 +490,11 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         self.ledit_position_count_widget1.setText('')	
 
         if cmp(search_item_contend,'公司名称') == 0:
-            job_details = db.query_job_details_by_company(condition)
+            self.job_details = db.query_job_details_by_company(condition)
         elif cmp(search_item_contend,'岗位名称') == 0:
-            job_details = db.query_job_details_by_position(condition)
+            self.job_details = db.query_job_details_by_position(condition)
         else:
-            job_details = db.query_job_details_by_workplace(condition)
+            self.job_details = db.query_job_details_by_workplace(condition)
 
 
         self.model.clear()
@@ -502,7 +502,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
 	#self.model = QtGui.QStandardItemModel()	
 	self.model.setHorizontalHeaderLabels([u'公司', u'岗位',u'发布日期', u'教育背景', u'工作地点',u'薪水', u'工作年限要求', u'需签约年限', u'岗位需求和要求',u'岗位URL'])
         count_job_num = 0
-	for details in job_details:
+	for details in self.job_details:
             #if count_job_num == 10:
             #    break
             column = 0
@@ -872,6 +872,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         table.write(0,0,u'课程')
         table.write(0,1,u'频率')
         count_analysis_count = 1
+        #print 'tbl_analysis_count = ',self.tbl_anaysis_result.columnCount()
         for details in self.popCourse: 
             column = 0
             for det in details:
@@ -1072,7 +1073,7 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
         #if cmp(apriori_y,'') != 0:
         #    print 'test'
 
-        #从 强项 x 的搜索结果中再搜索后项 y
+        #从 前项 x 的搜索结果中再搜索后项 y
         self.tbl_anaysis_result.clearSpans()
         self.model.clear()
 	self.model.setHorizontalHeaderLabels([u'支持度', u'置信度',u'具体内容 X-->Y '])
@@ -1227,7 +1228,45 @@ class Pyqtdemo(QtGui.QWidget, Ui_Form):
             reply = QtGui.QMessageBox.question(self, 'Message',
                 u"请检查你的输入,有非数字字符", QtGui.QMessageBox.Yes)
 
-    #导出数据到excel表中的按钮
+
+    #导出岗位详情数据到excel表中的按钮
+    @QtCore.pyqtSignature("")
+    def on_btn_export_excel_job_details_clicked(self):
+         
+        jobType = self.cmbx_job_type.currentIndex()
+        comText_jobType = self.cmbx_job_type_in_analysis.itemText(jobType)
+        comText_jobType = unicode(comText_jobType)
+        
+        fileName = QtGui.QFileDialog.getSaveFileName(self,'Export Excel', u'岗位详情' + '_' + comText_jobType + '.xls' ,'excel(.xls)')
+        file_execl = xlwt.Workbook()
+        table = file_execl.add_sheet('sheet1',cell_overwrite_ok = True)
+        table.write(0,0,u'公司')
+        table.write(0,1,u'岗位')
+        table.write(0,2,u'发布日期')
+        table.write(0,3,u'教育背景')
+        table.write(0,4,u'工作地点')
+        table.write(0,5,u'薪水')
+        table.write(0,6,u'工作年限要求')
+        table.write(0,7,u'需签约年限')
+        table.write(0,8,u'岗位需求和要求')
+        table.write(0,9,u'岗位URL')
+	#self.model.setHorizontalHeaderLabels([u'公司', u'岗位',u'发布日期', u'教育背景', u'工作地点',u'薪水', u'工作年限要求', u'需签约年限', u'岗位需求和要求',u'岗位URL'])
+        count_job_num = 1
+	for details in self.job_details:
+            #if count_job_num == 10:
+            #    break
+            column = 0
+            for det in details:
+                if cmp(det.encode('utf-8'),'') == 0 and column == 0:  #cmp(str(type(det)),"<type 'datetime.date'>") == 0:
+                    break
+                else:
+                    table.write(count_job_num,column,det)
+                    column = column + 1
+            count_job_num = count_job_num + 1
+        
+        file_execl.save(fileName)
+
+    #导出分析结果数据到excel表中的按钮
     @QtCore.pyqtSignature("")
     def on_btn_export_excel_clicked(self):
         analysisType = self.cmbx_analysis_type.currentIndex()
