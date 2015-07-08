@@ -225,7 +225,9 @@ class apriori():
         return pop_course,self.position_count
 
     #课程关联分析 
-    def apriori_course(self,fileName = ''):
+    def apriori_course(self,fileName = '',support = 0.05, confidence = 0.005):
+	my_support = support
+	my_confidence = confidence
         self.position_count = 0 # 先清零，把上次的分析的统计数量去除掉
         #dataSet = self.LoadData('./tx.txt') 
         #dataSet = self.loadDataSet()  #内置的数据，用来做测试而已
@@ -237,7 +239,7 @@ class apriori():
         L1,supportData = self.scanD(dataSetFrozenset,singleData , 0)   #supportData 是每一项出现的频率
         #startTime = time.clock()
         
-	freqSet,supportData2 = self.apriori(dataSet,0.05)  
+	freqSet,supportData2 = self.apriori(dataSet,my_support)  
 
         ###############################################
         '''
@@ -255,7 +257,7 @@ class apriori():
         #    print 'l[0]=',l[0],':',l[1]
         '''
         #print 'startTime =',startTime
-        rules = self.generateRules(freqSet,supportData2,0.005)
+        rules = self.generateRules(freqSet,supportData2,my_confidence)
         #s_data = saveAprioriResultToDataBaseThreadPool.save_apriori_result_to_database(self.count_apriori_coure,60)
         return self.apriori_course_result_list ,self.position_count
 

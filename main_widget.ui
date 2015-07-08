@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1019</width>
+    <width>1014</width>
     <height>600</height>
    </rect>
   </property>
@@ -29,7 +29,7 @@
     <bool>false</bool>
    </property>
    <property name="currentIndex">
-    <number>2</number>
+    <number>0</number>
    </property>
    <widget class="QWidget" name="stackedWidgetPage1">
     <widget class="QComboBox" name="cmbx_job_type">
@@ -93,7 +93,7 @@
       <rect>
        <x>0</x>
        <y>50</y>
-       <width>881</width>
+       <width>821</width>
        <height>521</height>
       </rect>
      </property>
@@ -117,14 +117,22 @@
       <enum>Qt::ToolButtonIconOnly</enum>
      </property>
     </widget>
-    <zorder>cmbx_job_type</zorder>
-    <zorder>ledit_search</zorder>
-    <zorder>cmbx_search_item_widget1</zorder>
-    <zorder>label_job_type_num</zorder>
-    <zorder>ledit_position_count_widget1</zorder>
-    <zorder>tbl_job_details</zorder>
-    <zorder>tool_btn_search</zorder>
-    <zorder>label_connect_network</zorder>
+    <widget class="QPushButton" name="btn_export_excel_job_details">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="geometry">
+      <rect>
+       <x>830</x>
+       <y>90</y>
+       <width>81</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>导出execl</string>
+     </property>
+    </widget>
    </widget>
    <widget class="QWidget" name="stackedWidgetPage2">
     <widget class="QComboBox" name="cmbx_analysis_type">
@@ -365,6 +373,9 @@
      </property>
     </widget>
     <widget class="QPushButton" name="btn_modify_support_and_confidence">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
      <property name="geometry">
       <rect>
        <x>750</x>
@@ -374,7 +385,23 @@
       </rect>
      </property>
      <property name="text">
-      <string>搜索课程/地点</string>
+      <string>确定修改</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_export_excel">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="geometry">
+      <rect>
+       <x>640</x>
+       <y>496</y>
+       <width>81</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>导出execl</string>
      </property>
     </widget>
    </widget>

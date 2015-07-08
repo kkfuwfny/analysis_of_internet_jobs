@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file '/home/lvchuan/python/main_widget.ui'
 #
-# Created: Tue Jul  7 10:12:13 2015
+# Created: Wed Jul  8 13:44:28 2015
 #      by: PyQt4 UI code generator 4.11.2
 #
 # WARNING! All changes made in this file will be lost!
@@ -26,7 +26,7 @@ except AttributeError:
 class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName(_fromUtf8("Form"))
-        Form.resize(1019, 600)
+        Form.resize(1014, 600)
         self.stackedWidget = QtGui.QStackedWidget(Form)
         self.stackedWidget.setEnabled(True)
         self.stackedWidget.setGeometry(QtCore.QRect(0, 30, 911, 571))
@@ -51,7 +51,7 @@ class Ui_Form(object):
         self.ledit_position_count_widget1.setObjectName(_fromUtf8("ledit_position_count_widget1"))
         self.tbl_job_details = QtGui.QTableView(self.stackedWidgetPage1)
         self.tbl_job_details.setEnabled(True)
-        self.tbl_job_details.setGeometry(QtCore.QRect(0, 50, 881, 521))
+        self.tbl_job_details.setGeometry(QtCore.QRect(0, 50, 821, 521))
         self.tbl_job_details.setEditTriggers(QtGui.QAbstractItemView.DoubleClicked)
         self.tbl_job_details.setObjectName(_fromUtf8("tbl_job_details"))
         self.tool_btn_search = QtGui.QToolButton(self.stackedWidgetPage1)
@@ -59,6 +59,10 @@ class Ui_Form(object):
         self.tool_btn_search.setText(_fromUtf8(""))
         self.tool_btn_search.setToolButtonStyle(QtCore.Qt.ToolButtonIconOnly)
         self.tool_btn_search.setObjectName(_fromUtf8("tool_btn_search"))
+        self.btn_export_excel_job_details = QtGui.QPushButton(self.stackedWidgetPage1)
+        self.btn_export_excel_job_details.setEnabled(True)
+        self.btn_export_excel_job_details.setGeometry(QtCore.QRect(830, 90, 81, 31))
+        self.btn_export_excel_job_details.setObjectName(_fromUtf8("btn_export_excel_job_details"))
         self.stackedWidget.addWidget(self.stackedWidgetPage1)
         self.stackedWidgetPage2 = QtGui.QWidget()
         self.stackedWidgetPage2.setObjectName(_fromUtf8("stackedWidgetPage2"))
@@ -126,8 +130,13 @@ class Ui_Form(object):
         self.ledit_confidence.setGeometry(QtCore.QRect(790, 430, 111, 27))
         self.ledit_confidence.setObjectName(_fromUtf8("ledit_confidence"))
         self.btn_modify_support_and_confidence = QtGui.QPushButton(self.stackedWidgetPage2)
+        self.btn_modify_support_and_confidence.setEnabled(True)
         self.btn_modify_support_and_confidence.setGeometry(QtCore.QRect(750, 480, 111, 27))
         self.btn_modify_support_and_confidence.setObjectName(_fromUtf8("btn_modify_support_and_confidence"))
+        self.btn_export_excel = QtGui.QPushButton(self.stackedWidgetPage2)
+        self.btn_export_excel.setEnabled(True)
+        self.btn_export_excel.setGeometry(QtCore.QRect(640, 496, 81, 31))
+        self.btn_export_excel.setObjectName(_fromUtf8("btn_export_excel"))
         self.stackedWidget.addWidget(self.stackedWidgetPage2)
         self.stackedWidgetPage3 = QtGui.QWidget()
         self.stackedWidgetPage3.setObjectName(_fromUtf8("stackedWidgetPage3"))
@@ -189,12 +198,13 @@ class Ui_Form(object):
         self.label_connect_network.setObjectName(_fromUtf8("label_connect_network"))
 
         self.retranslateUi(Form)
-        self.stackedWidget.setCurrentIndex(2)
+        self.stackedWidget.setCurrentIndex(0)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
     def retranslateUi(self, Form):
         Form.setWindowTitle(_translate("Form", "Form", None))
         self.label_job_type_num.setText(_translate("Form", "岗位数量：", None))
+        self.btn_export_excel_job_details.setText(_translate("Form", "导出execl", None))
         self.btn_the_course_or_workplace_search_widget2.setText(_translate("Form", "搜索课程/地点", None))
         self.lbl_search_former.setText(_translate("Form", "搜索前项", None))
         self.lbl_search_latter.setText(_translate("Form", "搜索后项", None))
@@ -204,7 +214,8 @@ class Ui_Form(object):
         self.btn_the_course_search_widget2.setText(_translate("Form", "搜    索", None))
         self.label_support.setText(_translate("Form", "支持度", None))
         self.label_confidence.setText(_translate("Form", "置信度", None))
-        self.btn_modify_support_and_confidence.setText(_translate("Form", "搜索课程/地点", None))
+        self.btn_modify_support_and_confidence.setText(_translate("Form", "确定修改", None))
+        self.btn_export_excel.setText(_translate("Form", "导出execl", None))
         self.stop_crawler_job_button.setText(_translate("Form", "停止爬取", None))
         self.start_crawler_job_button.setText(_translate("Form", "开始爬数据", None))
         self.textBrowser.setHtml(_translate("Form", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
